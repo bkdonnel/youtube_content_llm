@@ -1,0 +1,32 @@
+# Environment variables
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+response.json
+test_output/
+*.m4a
+*.mp3
+*.webm
+
+# Temporary files
+temp/
+downloads/

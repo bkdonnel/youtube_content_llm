@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Production Tutorial Search</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header>
+            <h1><i class="fas fa-music"></i> Music Production Tutorial Search</h1>
+            <p>Search across hours of music production tutorials from top creators</p>
+        </header>
+
+        <!-- Main Content -->
+        <div class="main-content">
+            <!-- Chat Interface -->
+            <div class="chat-section">
+                <div id="chat-messages" class="chat-messages"></div>
+
+                <div class="chat-input-container">
+                    <input
+                        type="text"
+                        id="chat-input"
+                        placeholder="Ask about mixing, mastering, sound design, plugins..."
+                        autocomplete="off"
+                    >
+                    <button id="send-button" class="send-button">
+                        <i class="fas fa-paper-plane"></i>
+                    </button>
+                </div>
+
+                <!-- Example Queries -->
+                <div class="example-queries">
+                    <p>Try asking:</p>
+                    <button class="example-query">How to sidechain compress in FL Studio?</button>
+                    <button class="example-query">What are the best mixing techniques?</button>
+                    <button class="example-query">How to create a fat bass sound?</button>
+                </div>
+            </div>
+
+            <!-- Sources Sidebar -->
+            <div class="sources-section">
+                <h2><i class="fas fa-video"></i> Sources</h2>
+                <div id="sources-list" class="sources-list">
+                    <p class="empty-state">Ask a question to see relevant video segments</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Status Bar -->
+        <div class="status-bar">
+            <div id="status-indicator" class="status-indicator">
+                <i class="fas fa-circle"></i>
+                <span id="status-text">Checking connection...</span>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/js/chat.js"></script>
+</body>
+</html>

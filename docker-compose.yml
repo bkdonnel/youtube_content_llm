@@ -1,0 +1,74 @@
+version: '3.8'
+
+services:
+  # Test service - Download single Zen World video
+  test:
+    build: .
+    command: python test_zen_world.py
+    env_file:
+      - .env
+    volumes:
+      - ./music_tutorials:/app/music_tutorials
+      - ./database:/app/database
+    profiles:
+      - test
+
+  # Automated pipeline - Runs continuously checking for new videos
+  pipeline:
+    build: .
+    command: python automated_pipeline.py
+    env_file:
+      - .env
+    volumes:
+      - ./music_tutorials:/app/music_tutorials
+      - ./database:/app/database
+    restart: unless-stopped
+    profiles:
+      - pipeline
+
+  # Manual download - Download from all creators once
+  download:
+    build: .
+    command: python youtube_transcript_downloader.py
+    env_file:
+      - .env
+    volumes:
+      - ./music_tutorials:/app/music_tutorials
+    profiles:
+      - download
+
+  # FastAPI server - Search interface
+  api:
+    build: .
+    command: python main.py
+    env_file:
+      - .env
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./music_tutorials:/app/music_tutorials
+    restart: unless-stopped
+    profiles:
+      - api
+
+  # Full stack - Run both pipeline and API together
+  fullstack:
+    build: .
+    command: python automated_pipeline.py
+    env_file:
+      - .env
+    volumes:
+      - ./music_tutorials:/app/music_tutorials
+      - ./database:/app/database
+    restart: unless-stopped
+
+  fullstack-api:
+    build: .
+    command: python main.py
+    env_file:
+      - .env
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./music_tutorials:/app/music_tutorials
+    restart: unless-stopped

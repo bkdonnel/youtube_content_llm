@@ -1,0 +1,645 @@
+Video: Complete Guide To Master Serum 2 - EP2: Multisample and Sampler (Full Breakdown)
+URL: https://www.youtube.com/watch?v=Jgg-dOhBLqk
+Duration: 31.5 minutes
+================================================================================
+
+[00:00] Yo what's up ninjas and welcome to the complete guide to Master Serum Dos.
+
+[00:04] Okay now in the first episode we went over the wavetable oscillators there's a couple of things
+
+[00:08] we missed that I do want to touch on real quick. The first one being that if you ever have a
+
+[00:13] wavetable that let's for example this default shapes where you want it to smoothly transfer
+
+[00:18] between the flavors the sounds that you are provided so that you can add movement or do
+
+[00:23] some funky stuff you can always right click on the wavetable position knob and create smooth
+
+[00:27] interpolation this will make it so that let's say we play a saw
+
+[00:36] we can smoothly crossfade between all of them the other thing we forgot to mention here is
+
+[00:41] in the pitch oscillator if you've ever wanted to know how it feels like to do euro synths
+
+[00:47] right the fancy stuff the guys that are obsessed with plugging holes not in the way that most of
+
+[00:51] us do but you know they like plugging holes in their own way then you can do something they do
+
+[00:56] which is when they have an oscillator they don't have a pitch track they have to connect the hole
+
+[01:00] to get the pitch track for us we can do this which allows us to just play this oscillator at any key
+
+[01:07] and it won't change in pitch the reason you might want to do something like this is just because
+
+[01:11] you're looking at this more as from a sound design perspective of creating drones of creating cool
+
+[01:16] things for example one thing these guys do that sometimes feels a little hard with these synths
+
+[01:20] that we have here like like serum 2 is they'll do these crazy drone like sounds but many people
+
+[01:25] don't realize that you can play a lot of these wave tables at very low volumes
+
+[01:32] look at that and you can hear the movement
+
+[01:37] very low low low low frequency where we can hear the movement the in between
+
+[01:42] of the sound and sometimes we can get really cool
+
+[01:49] so that's some unison look at that like if i was doing sound the same for jurassic park
+
+[01:57] i would probably go somewhere down here find the right wave table
+
+[02:05] maybe a little okay so that's why we might want to do something like that
+
+[02:10] not to say that you can't just do it here
+
+[02:17] right but this is how i would create those atmospheres
+
+[02:23] like this let's say for some reason you know like but with that being said let's get into
+
+[02:27] the good stuff the new stuff the multi-sample and the sample section of serum 2 which is
+
+[02:32] going to allow you to play samples let's say you buy a sample pack like one of mine's let's say
+
+[02:37] and there's a nice synth shot in there you're like i like this i want to use it but i want to
+
+[02:42] process it with serum that this is for you to access these new features you just click on the
+
+[02:48] wave table and then you get the sub menu where you can dive into these guys so we'll start with
+
+[02:53] the multi-sample now multi-sample is super clutch i've been using it to create these
+
+[03:00] instruments for you guys in some of the preset packs if you haven't noticed but now i can go
+
+[03:04] to my analog synths i can record multiple hits of a sound i created on them at c3 at a low octave
+
+[03:12] at a mid octave at a high so that way as you play it for instance here i have this one called avicii
+
+[03:17] lives you can see that if i play a low key i'm playing more down here and if i go to the middle
+
+[03:23] this is moving up here now if i click here you're going to see the sample it's a blob but as i move
+
+[03:29] you can see that the sample changes so a multi-sample instrument is going to allow us to
+
+[03:34] play or pretty much create something that is made up of multiple samples and from there we need to
+
+[03:41] program a text file which is known as a dot sfc in order to let serum to know what notes pertain
+
+[03:51] to what sample okay so for example i just did this goddamn preset for minimal night street which was
+
+[03:58] a pain in the butt right so for this i had to sample a hammond b3 just like the original song
+
+[04:14] and from there i created a multi-sample of different hits here okay so again i had to do
+
+[04:19] that with a sfc file now the way that this works i'm going to bring up my folder real quick you can
+
+[04:27] hear multi-sample patches essentially here i have all of the recordings that i've had for my synths
+
+[04:33] so for instance for the moga or the ob6 wiggle wiggle bass i recorded at b0 b1 b2 b3 c0 c1 c2 c3
+
+[04:41] usually going from like c to e to g you know you decide how you want it you could go from c1 to c2
+
+[04:47] to c3 or you can get very specific but from there you need create you need to create this file this
+
+[04:54] called visual studio code you can use this in order like for instance here i created this guy
+
+[04:59] you can use this to tell it program it so that serum will see it so for example here i have this
+
+[05:09] dot sfc file which is pretty much is going to give you this here now i use chat gpt to help me do this
+
+[05:15] thank god for chat there's also automators out there that people have created for you to do this
+
+[05:19] if you ever choose to do it for me as a sound designer that's providing sounds for some of the
+
+[05:24] top producers out there and and when i say that i mean you of course is um it's allowing me it's
+
+[05:30] giving me the ability to use my analog synths which i only use for sample creation and for jamming out
+
+[05:35] in a fun different way than using software but now i can create sounds on them grab the
+
+[05:40] characteristics of the synths and again as you saw boom and and provide sounds for them to create
+
+[05:47] stuff like this so now serum is going to provide you with a factory you know collection of sounds
+
+[06:00] they've created so the bass pick palm now serum cares more than i do because as you can see
+
+[06:07] there's multiple rows here so what that means is that these this sfc file is velocity sensitive
+
+[06:15] so what velocity is how hard a notice hit if you have a midi keyboard you know like like for instance
+
+[06:20] i'm rocking this one here if i play soft it sounds like that but if i play hard you know it sounds
+
+[06:27] like that you can you can feel it you know the intensity increases so they recorded some dude
+
+[06:32] with probably long hair on a guitar playing really softly like so now that they told chat or they
+
+[06:41] programmed it into the sfc file saying okay this is the soft hit
+
+[06:45] and then they also program and record it again multiple different takes at different intensities
+
+[06:52] and you get a multi-sample instrument that sounds like this
+
+[07:01] it sounds very lively okay so in the factory you're going to be able to find all kinds you have
+
+[07:05] the choir so if you're making techno
+
+[07:14] right like you can create a nice lead out of this with put effects on it super nicely
+
+[07:19] uh there's drums here like the 909 where each key
+
+[07:28] will play like each drum again the serum 2 went from being a synth to a super synth in a sense
+
+[07:33] and a super sampler um this is all cool stuff i don't know if i would use it but you have access
+
+[07:38] to it and it's good to know just in case you know you ever like just want to be you know cheap
+
+[07:42] instead of eating cup of noodles you know you don't buy that sample pack and and then just use
+
+[07:47] this so that way you know you don't you have money to go to starbucks or something get yourself a
+
+[07:52] nice little nice little chicken popper you know those thing go bop all right some settings to
+
+[07:57] to understand obviously we have our pitch which is going to work very similar to the wavetable
+
+[08:02] oscillators but now we have here this little envelope that we can come in and we can override
+
+[08:08] the envelope that the original creator of this multi-sample instrument um input it so
+
+[08:15] with an sfc file you can also tell it how you want each of these samples to play in terms of envelopes
+
+[08:21] so with this you can override it
+
+[08:28] to have it play the way you want coming out of this
+
+[08:35] okay and this is useful because if i have another sound
+
+[08:39] like a saw but i want the saw not to be like punchy
+
+[08:45] you know let's say i want this to just be punching and the saw comes in
+
+[08:51] then i can do it this way okay we'll talk about what all of this is by the way in the envelope
+
+[08:57] section but for now just know you can do this usually i won't override it though unless it's
+
+[09:02] needed for sound the same purposes okay from there we have our velocity tracking here so this is the
+
+[09:18] this velocity track the sensitivity of the velocity
+
+[09:27] key thing to note with velocity too is a lot of the times it will control
+
+[09:31] the volume so notice if i hit very soft
+
+[09:37] now the volume goes down from here we have the rand
+
+[09:42] and it's just the starting point of this do you want to randomize it
+
+[09:49] you know is it always going to start at the beginning
+
+[09:54] here i'm playing this but you can see that it's not starting as fast but here we let it be
+
+[10:02] from there we have timbre which is gonna change the order that the notes are played
+
+[10:09] so for example right now let's say i'm playing at c3
+
+[10:13] while i'm playing i'm using the top notes the right notes that steve dudo programmed
+
+[10:19] in that sfc file but if i use timbre and i go higher up you can see i start to use these lower
+
+[10:29] samples to get a brighter response but at the same time this sounds a little bit you know unnatural
+
+[10:38] right so the way you use this is again you can definitely brighten the sample because
+
+[10:44] what this is doing is it's grabbing the slow ones the low samples and speeding them up
+
+[10:49] and usually when you speed up really low pitch samples which increases the way they sound the
+
+[10:56] frequency they tend to sound a lot more unnatural just keep that in mind because
+
+[11:02] one of the strengths of multi-sample is that you don't have to sound unnatural
+
+[11:06] because you're recording the samples at different octave ranges yeah from there
+
+[11:12] we also have a unison for this which is going to stack these sounds so usually i'll use this
+
+[11:17] to make a guitar sound like it has a chorus for example sound like nirvana but the other
+
+[11:23] key thing here is like if i hit this you're going to see that i can also play with the width
+
+[11:27] you the ramp face the range like before we can stack like before we can change the way it works
+
+[11:37] like before we can have the warp change here so if we add a filter we can have some of these sounds
+
+[12:05] so
+
+[12:06] the sample will only use one so usually i'm using a sample if i want to sample or grab a sample and
+
+[12:13] play it through serum so for example another thing that i like to do for these i'll do the
+
+[12:18] more old school route for instance i'm working on minimal nights volume 3 at the moment for you guys
+
+[12:22] so i've been creating stabs with these guys mainly this guy here the ob6
+
+[12:29] okay the thing is i only have one sample right so the problem with samples like this
+
+[12:34] compared to the multi-sample is that it's only one so if i play really high
+
+[12:39] sounds weird
+
+[12:46] and you can see that the sample plays a lot quicker versus lower plays a lot slower
+
+[12:52] so as you do this it sounds like a playstation startup man what the hell
+
+[12:57] hire me sony there are a few more settings with the sample that we can use and there's a
+
+[13:02] couple more ways to mangle the sound okay so the first thing we have here is a start
+
+[13:07] so we can choose where we start the sample at sometimes this is useful because the beginning
+
+[13:13] part right doesn't sound as good or smooth as these parts okay the next thing is we have the
+
+[13:21] so if i'm not looping the sample
+
+[13:27] low here we have the loop modes all right so one shot mode just play it boom done
+
+[13:35] and we have the forward loop where we can set a loop now here
+
+[13:42] sounds really cool play the sound and it reaches and it just keeps looping forward
+
+[13:47] also have a reverse loop and then just reverses and just keep reversing
+
+[13:52] i also have it going forward and reverse and this side this blue circle
+
+[14:01] do a lot of cool stuff with that look at that
+
+[14:08] then we have the tailed this one's interesting because it reaches the end
+
+[14:11] and then it reverses and just stays at the end and then it's gonna go back
+
+[14:17] and forward and then it's just gonna slowly get quiet over time
+
+[14:23] there it goes there it goes below that we have stuff that will affect the loop
+
+[14:30] okay so for instance we have relative loop so if i choose to go with a forward reverse loop
+
+[14:35] relative loop it's going to make it so that the loop moves with the start point
+
+[14:41] from there we have the link loop length
+
+[14:45] so for this i'm going to right click and i'm going to show marker animation so as i move this
+
+[14:55] see that the loop stays the same okay if i have that off
+
+[14:59] leave
+
+[15:09] you can see i can automate that move it and stays the same then we have exit loop on release play
+
+[15:14] something let's have release boom let go it's going to continue down this journey one more time
+
+[15:21] boom we're in there let go of the note and it gets out of the loop and they become useful because
+
+[15:30] for instance the relative loop and the link loop length if i'm ever modulating this guy here
+
+[15:40] stays the same versus if i have this off look at that that's weird okay so here we go
+
+[15:50] stays the same from there i can also right click here and i can snap to zero snap to beat snap to
+
+[15:56] loop this is all going to have to deal with as i'm moving this guy snaps boom to the beat
+
+[16:03] snaps to zero i think i have to have a loop for this one
+
+[16:11] just right click on the sample and normalize it so if the sample isn't at max amplitude you
+
+[16:16] increase the volume of the sample until the peaks hit the top reverse the audio sample
+
+[16:25] okay trim it for instance if i do this i'm going to trim
+
+[16:29] bam get out of here then we have slicing auto and manual so now if i play a key
+
+[16:37] each key it's going to pertain to a section of the sample so here i'm playing let's say c1
+
+[16:46] starting here let's get rid of this
+
+[16:53] similar to ableton's lamp or slice mode i can also set manual control on the slices
+
+[17:03] make some of the shots be longer i can input new ones by holding option and clicking
+
+[17:09] for instance here i want to get rid of some option click option click so that way i have bigger gaps
+
+[17:14] then we have some options here play slice to end if i play a slice right we've hit it and instead
+
+[17:21] of it ending it's going to continue towards the end of the sample set the root note so for instance
+
+[17:26] we can have it be higher up sometimes when we slice stuff up you know like c0 to c2 is usually
+
+[17:33] the range for many of them but here we can change that so that when we play c3 we play here c sharp
+
+[17:41] instead of having it be starting at c1 c2 you can also right click and send to the selected clip
+
+[17:48] which will put it here in one of these clips similar to ableton when you have something
+
+[17:53] get sliced or put it into a sampler it's going to play the loop its entirety
+
+[18:02] send to selected clip boom
+
+[18:11] boom if i remember we can activate play single slice
+
+[18:14] and you can like play it during pitch but now how do you switch between the different slices
+
+[18:22] well just gotta move this guy have this set like in a macro which will tell it to move
+
+[18:31] we can go oscillator a and we can modulate slice play mode or the single slice set that range i'm
+
+[18:38] i know we're hitting it but it's just one of the features that this thing has
+
+[18:51] now we click on the scan scan is the rate at which the sample is played so usually
+
+[18:57] like we've talked about before frequency is dependent on the the speed of a sample
+
+[19:02] so we can increase the speed and we can decrease it
+
+[19:09] if we go below zero we reverse it we can also right click and reverse it so that way
+
+[19:16] it's almost the inverse now
+
+[19:21] it's like someone's moving vinyl lock scan rate to tempo if the tempo is increased
+
+[19:34] so will the sample be the scan this is off and i do it again
+
+[19:39] it doesn't do that so you can lock it to the tempo if needed now we have sample like to bpm which
+
+[19:44] pretty much select the length of the sample based on the bpm so now we have a bar one half one fourth
+
+[19:58] demonic
+
+[20:00] Now, in sample mode we are going to have some differences when it comes to the unison mode.
+
+[20:04] For example, here I can add unison, stack the sound, but if I click this here, you're
+
+[20:13] going to see that I can alter the starting point of each, instead of having them all
+
+[20:19] start together, they can each start at different positions of the sample, each of the voices
+
+[20:25] as I detune.
+
+[20:27] Okay, so that's going to be unique to just the sample, instead of like the multi-sample
+
+[20:33] doesn't let you do that.
+
+[20:34] We can stack, we're going to have, again, the different modes we discussed already.
+
+[20:38] We're going to have the span, where in the sample are we starting, so you're localizing
+
+[20:45] a center point on the sample for the phase, for the timing of where everything starts.
+
+[20:50] We're using a combination with this ahead.
+
+[20:55] One key thing to note here is also with the forward reverse loop, if we ever wanted to
+
+[20:59] do this, you can hear how this is kind of a little too sudden, so now I can use this
+
+[21:07] here to apply a crossfade, to just make it sound a lot smoother.
+
+[21:16] Before, in here there's this...
+
+[21:26] Now, smoother.
+
+[21:28] It's good for that.
+
+[21:32] It gets into the loop and you can't even tell, which is super cool for that.
+
+[21:44] Right click, normalize this one, make it a little louder.
+
+[21:50] Keep in mind, you can also use some of the warps, like the filter and distortion on this,
+
+[21:54] but as you distort it, you're not going to see what's happening to the waveform, and
+
+[21:59] then we'll discuss these bottom ones once we get to them in a future episode.
+
+[22:03] All right, cool, so we've gone over most of the stuff with the sample and the multi-sample,
+
+[22:06] so now let's make some sounds with them.
+
+[22:09] So, one of the things I sometimes like to do for these packs is combine organic sounds
+
+[22:13] with inorganic sounds.
+
+[22:14] For example, I'm going to go with a multi-sample and create a bass by using the tone of a real
+
+[22:20] bass guitar.
+
+[22:22] Now the reason that I might choose to do this, let's say I like the tone of this here, but
+
+[22:29] it doesn't have enough low end, and I don't want to play here, right, it sounds too deep.
+
+[22:39] All right, so what I'm going to do is I'm going to go to C3 and turn on my keyboard,
+
+[22:43] I'll lower it on the octave to where I like the tone.
+
+[22:50] Okay, from there I'm going to use oscillator B, and I'm going to use one of the basic shapes,
+
+[22:56] either a sine or triangle, lower the octave, minus three, to beef it up, and use as a bass
+
+[23:13] for a house track.
+
+[23:14] Okay, so this is one way of using a combination of the wavetable with the multi-sample.
+
+[23:19] Obviously with multi-sample you can just use any of these as you please, for example, we
+
+[23:23] can have the piano, say I'm playing chords, maybe play with this if we need to, but it
+
+[23:31] doesn't seem like we need to, detune, get the piano sounding western now.
+
+[23:41] The way we play it though is very important, the velocity track.
+
+[23:52] Trying to see if I can change the starting point.
+
+[24:01] Okay, it doesn't seem like it, so we're going to use a wavetable, go digital probably over
+
+[24:07] the analog ones for now, and this is something that will add some nice...
+
+[24:26] I'm going to add some reverb from Ableton, I'm not cheating there, it's needed.
+
+[24:40] So here I can have the grand piano, the baby grand, and a wavetable playing together, let's
+
+[24:47] find a better one.
+
+[24:54] Okay, I can also use the filters now, remove some of those, have this sound be more up
+
+[25:00] top.
+
+[25:08] Okay, I'm going to use this quick little hack in Ableton to create expressive chords just
+
+[25:14] to play some really dope chords.
+
+[25:24] Let's also add some low pass here too.
+
+[25:32] There's more in the back.
+
+[25:41] Those are a little too fancy for me, 7.
+
+[25:46] There we go.
+
+[25:52] So now, we combine the piano with a nice saw.
+
+[25:57] Alright, we use these here.
+
+[25:59] Let's see if we can tune into the piano.
+
+[26:13] One unison, see how that sounds.
+
+[26:19] It sounds great.
+
+[26:21] Alright, we have a bit of reverb and delay, but it sounds really good.
+
+[26:28] Another great sound I think are the marimbas, a lot of people in reggaeton use that, the
+
+[26:33] mallets, those are really cool.
+
+[26:35] We can try this.
+
+[26:39] I'm going to put this at 15, a little bit unison.
+
+[26:44] Let's randomize a bit.
+
+[26:53] Okay, now we can add what I like is the FM ones.
+
+[26:57] Back in the day we would make these botanical sounds.
+
+[27:01] Add a bit of wavetable, a little of this.
+
+[27:08] And now, again, we use the shit out of this filter, don't we?
+
+[27:13] High pass.
+
+[27:14] I wonder if one of these will help.
+
+[27:21] Nope.
+
+[27:23] Going to add that little flavor.
+
+[27:38] The marimbas are nice, I wouldn't really do a lot with them, but let's say that you wanted
+
+[27:41] to keep things organic, and you don't want to spend $200 on UV stuff and go grab another
+
+[27:47] sound, like maybe a piano layer with the marimba.
+
+[27:50] Lord have mercy.
+
+[28:02] So usually when I'm layering sounds, you know, I'm trying to fill in something that might
+
+[28:06] be missing from the other one, which, honestly, a marimba doesn't really need anything.
+
+[28:12] But if I wanted more high frequencies on it, and I still want to play it at that range,
+
+[28:16] I could either one, you know, increase the voicing, right, or I could have another sound
+
+[28:21] that can provide the high frequencies like here.
+
+[28:27] Now here, just to get creative, in fact, maybe I'll go, okay, I'm going to go sample instead
+
+[28:34] so I can loop the piano and get like a really nice reverse.
+
+[28:39] So I'm going to go piano.
+
+[28:41] By the way, this is just thinking on the spot.
+
+[28:43] When you know your tools and you get comfortable, and you know everything you can do, right,
+
+[28:47] it helps to kind of be able to do that.
+
+[28:49] You go like, I want to do something like this.
+
+[28:50] Now you can do it.
+
+[28:51] You don't have to figure it out.
+
+[28:52] Then you can stay in flow, move fast.
+
+[28:55] So I'm going to do this.
+
+[28:58] Unison, I think it sounds delicious.
+
+[29:01] It needs to be louder.
+
+[29:06] And lower now.
+
+[29:12] Now this can be here.
+
+[29:18] Let's put some delay.
+
+[29:21] Ableton won that serum.
+
+[29:30] And now let's add a unison stack sound with a seventh in there for fun.
+
+[29:36] I don't know if it's going to sound good, but you won't know unless you try.
+
+[29:41] Okay, mono the crap out of it here.
+
+[29:44] My word, my word, my word.
+
+[29:48] I'm going to use the filter now to remove this.
+
+[29:53] Now we have this.
+
+[30:05] Okay, that's fucking sexy.
+
+[30:07] Let's increase the start here.
+
+[30:09] So it starts at different spots.
+
+[30:12] This is how Steve intended it.
+
+[30:22] So they're all starting at a different position.
+
+[30:24] Now we get a little bit more beauty there.
+
+[30:28] Okay, cool.
+
+[30:29] All right, guys.
+
+[30:30] So someone knocked on my door, which means I got to go eat.
+
+[30:32] So sadly, our time has come to an end.
+
+[30:35] So by now, you should know how to use the wavetable oscillator.
+
+[30:40] Sample in the multi-sample.
+
+[30:42] As you saw, we can create very beautiful sounds with just that stuff alone.
+
+[30:45] I did cheat a little bit and use the Ableton reverb and delay.
+
+[30:49] But, you know, what life's worth living without reverb and delay.
+
+[30:53] Make sounds with just those elements you have there.
+
+[30:55] If you want, you can follow the sounds I'm making,
+
+[30:58] and hopefully that will lead you down your own path of discovery.
+
+[31:01] Follow along if you want on the sound design session.
+
+[31:03] Make it your own.
+
+[31:04] You know, maybe you hear something else.
+
+[31:05] Maybe you think, oh, the piano idea was cool, but fucking string.
+
+[31:09] Or maybe the vocal one would have been sicker, right?
+
+[31:12] So try out stuff.
+
+[31:13] Play with the tools.
+
+[31:14] That's how you're going to cement your knowledge.
+
+[31:15] And I'll catch you guys tomorrow again for another Complete Guide to Master Serum.
+
+[31:19] This has been episode two.
+
+[31:21] If you guys want to support the channel, you can head over to evilsounds.com.
+
+[31:23] You can find all my sound design work.
+
+[31:25] You guys take care, and you guys have a great rest of your day.
+

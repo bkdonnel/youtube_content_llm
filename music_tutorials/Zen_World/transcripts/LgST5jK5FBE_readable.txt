@@ -1,0 +1,1021 @@
+Video: Complete Guide To Master Serum 2 – EP6:  LFO Movement Tricks For Better Sound Design
+URL: https://www.youtube.com/watch?v=LgST5jK5FBE
+Duration: 31.9 minutes
+================================================================================
+
+[00:00] Beep, beep.
+
+[00:01] When Serum 1 first came out, one of the biggest reasons why I got down on my
+
+[00:05] knees and, you know, I bend the knee, as they say, and gave it the ring and made it
+
+[00:08] my main synth of choice, my main boo, was because of its LFO section.
+
+[00:13] At the time when it came out, I had never seen such a freeing LFO where I could just
+
+[00:17] draw shapes and make knobs move in ways that I never thought was imaginable.
+
+[00:22] And, you know, I feel this is one of the reasons why when you ask drum and bass
+
+[00:26] and dubstep producers, anything with, like, complex sound is saying,
+
+[00:29] what's the favorite synth of choice?
+
+[00:31] Many of them will say Serum because it
+
+[00:33] allows you to do stuff that no other synth could do.
+
+[00:36] Now, of course, we've had synths that have
+
+[00:38] tried to mimic it and been inspired by it, like it's Bastard, it's like Vital and all
+
+[00:42] that, but to this day, it's one of the things that makes Serum 2
+
+[00:46] probably one of the best synths out there for creating very complex sounds.
+
+[00:49] And today you're going to learn it.
+
+[00:52] All right.
+
+[00:52] So the LFO section in Serum 2, there's going to be a lot of LFOs.
+
+[00:56] And as you start using them all up, let's say you make a sound where you're using
+
+[00:59] all six, it starts to give you even more and more.
+
+[01:01] So you could possibly say it's an unlimited amount of LFOs in this.
+
+[01:04] Now, LFO, for those of you guys that want
+
+[01:06] to impress your friends, stands for low frequency oscillators.
+
+[01:09] I guess at the back in the day, you know, as you guys know,
+
+[01:12] analog synths were created by using electricity.
+
+[01:16] You know, they would use electricity to make sounds.
+
+[01:18] And I guess you had these low frequency
+
+[01:19] oscillators below 30 Hertz that they were like,
+
+[01:22] we don't know what to do with it.
+
+[01:24] So I guess someone had the idea of possibly saying we could move knobs with it.
+
+[01:28] We could move knobs with it.
+
+[01:29] And the LFO was born.
+
+[01:30] So we can drag and drop the LFO to the level of this saw sound here.
+
+[01:34] Let's add a bit of unison in Serum 2, man.
+
+[01:36] And we can hear it work.
+
+[01:44] To create this nice flutter beating sound.
+
+[01:47] Now, with every LFO, you're going to have the rate, which is the speed of the LFO.
+
+[02:01] Right, super nice.
+
+[02:02] We already sound pro as heck, right?
+
+[02:04] So, you know, with most LFOs, you're going to have them synced up to the BPM
+
+[02:08] of whatever you're doing and then you're going to have your rate of 116, 1 8th
+
+[02:12] and so forth to the right here.
+
+[02:13] You can also use your trip or dot in order to activate the hippie modes or the
+
+[02:18] the weird modes, which are the modes I rarely use, to be fair.
+
+[02:21] Like, you know, you have a 1 8th dotted, which can work for certain songs.
+
+[02:26] Like if you guys watch Demon Slayer,
+
+[02:28] that movie, you know, on Netflix that got big, the main sound golden.
+
+[02:30] If you wanted to make something like it or the or the rhythm of it,
+
+[02:33] you would have to go into, I believe it's a triplet style.
+
+[02:40] Of foray, because I think one of the sounds
+
+[02:41] that was in that soundtrack, because I remade it, don't ask why.
+
+[02:44] I had to do that in order to get it.
+
+[02:46] So there are usages for it.
+
+[02:47] However, the more popular way is just going to be like so.
+
+[02:50] From there, we can also switch the LFO
+
+[02:52] into Hertz mode, which again, we talked about where low frequency
+
+[02:55] oscillators, what they are, right?
+
+[02:56] You can see 0.3 Hertz.
+
+[02:59] So this is how fast it's moving based on Hertz.
+
+[03:04] And as you notice, as I go from the left to the right,
+
+[03:08] you know, you don't hear no big jumps.
+
+[03:12] Right. And that's what this is useful for.
+
+[03:16] But whenever I want to modulate something
+
+[03:18] that's not synced to the BPM or I want to create some randomness or I want to create
+
+[03:22] a pitch drift effect, this is what I would use in order to achieve
+
+[03:26] that, to add movement to a sound that's not predictable.
+
+[03:28] OK, from there.
+
+[03:31] And Serum LFO is pretty easy to use.
+
+[03:33] We have the mode we're in.
+
+[03:35] We're going to have here this submenu,
+
+[03:36] which we can go into where we have basic rhythmic sidechain, random curve,
+
+[03:40] random flat, and the basics is where you're going to find the standard LFOs
+
+[03:44] you would see in most synths, saw down curved,
+
+[03:48] which we want to saw down.
+
+[03:50] We're going to have flat, which resets that, saw down,
+
+[03:55] saw up.
+
+[03:58] A sine,
+
+[04:01] which is like almost like a wiggle square
+
+[04:04] to create like these
+
+[04:07] pulsing type of sounds.
+
+[04:11] And in a triangle,
+
+[04:13] which is very smooth, one of my favorites.
+
+[04:14] And then from there we go into this
+
+[04:16] rhythmic section where you're going to have more complex
+
+[04:22] LFOs that are user generated.
+
+[04:23] So what that means is these are made by you, by someone.
+
+[04:27] Some people sell presets for these.
+
+[04:28] So if you ever wanted to do a little side hustle, you could sell LFO presets.
+
+[04:32] And then from there we have sidechain as well, which these sidechain shapes,
+
+[04:37] which I think are going to come from the LFO tool.
+
+[04:40] All right. From there to the right,
+
+[04:42] we also have the way that the LFO is going to move.
+
+[04:45] It's going to forward.
+
+[04:46] We'll start from here, move there, come back.
+
+[04:49] We have reverse.
+
+[04:50] It starts from the end.
+
+[04:51] So if I put this on a level
+
+[04:54] and then we have ping pong where it goes to the end and then the reverse is back.
+
+[04:59] To the right of that, we can control the grid size of this.
+
+[05:02] You can go really high, really precise.
+
+[05:04] And you have your X and Y axis controls here.
+
+[05:07] The reason this is very important was because let's say you're creating
+
+[05:10] something and you want to, let's say, make your own.
+
+[05:12] But you want to make this saw have a certain beat or sync up to something.
+
+[05:16] Then we can use these because by holding option click,
+
+[05:19] we can have the dots attached to the grid.
+
+[05:22] And I want to create a web here down the middle.
+
+[05:24] If I don't have that grid,
+
+[05:25] I'm going to increase the grid size going across.
+
+[05:28] And now I can do that. Boom.
+
+[05:30] And then I can lower this down by option.
+
+[05:32] I'm clicking right now.
+
+[05:34] You can see I can also control the slopes like so.
+
+[05:37] Now, if we hear this.
+
+[05:43] OK, let's switch it to forward.
+
+[05:51] We're going to have the LFO modes here
+
+[05:52] for this particular style of LFO, or I believe they might say the same,
+
+[05:57] but free makes it so that this is free flowing.
+
+[06:00] And so if I play and I play again, you can see it's continuing the journey
+
+[06:04] and it's going to keep moving.
+
+[06:05] If I retrig it, you're always starting from the beginning.
+
+[06:09] Now, one thing to note in free,
+
+[06:10] which I really love with the Serum LFO is that right now you can see
+
+[06:13] in the whole section here it's turned on.
+
+[06:15] So this is synced to the to the to the host right now to your BPM.
+
+[06:19] But what you're going to find here,
+
+[06:20] which is super cool, is that if I play, let's say something here,
+
+[06:23] this is still going to stay synced to whatever we have going on here to this rate.
+
+[06:26] But now we're going to be able to add the movement.
+
+[06:33] We have retrig, which we talked about.
+
+[06:36] We'll always make it start from the beginning no matter what.
+
+[06:38] And then we have envelope mode,
+
+[06:40] which is going to make this play once and it's not going to repeat.
+
+[06:46] And then it's going to stay wherever that last
+
+[06:51] dot is.
+
+[06:54] Like so. Now, the cool thing about this is you can also make it loop.
+
+[06:58] And in this scenario, there is a bit of a good strategy to use here.
+
+[07:01] For example, I could have this go here and I could right click and then I have all
+
+[07:05] these settings here, which we're going to talk about in a sec.
+
+[07:07] But I can set loopback point here.
+
+[07:09] So this makes it so that we do everything
+
+[07:11] and then we just keep looping in this little circle.
+
+[07:16] The reason this is useful is you might have a track where, you know,
+
+[07:18] you play on the one and you want it to do bam, bam, bam, bam, bam, bam, bam, bam, bam.
+
+[07:24] Now, if I start every note at a different time.
+
+[07:33] Eventually they'll sync up, but you can see.
+
+[07:41] Here I have four notes I'm playing and it sounds like an arp.
+
+[07:44] An arp. It's just that every voice has its LFO and they're all starting at the
+
+[07:48] beginning because we have mono set up, but if you wanted them all to sync up.
+
+[07:55] Then we would activate the mono.
+
+[07:57] To the right of that, we're going to have these settings here,
+
+[07:59] rise, delay, smooth and the phase. I would rise.
+
+[08:03] We're going to have the LFO start at whatever value you set here.
+
+[08:05] So if I put it down, you're not going to hear it.
+
+[08:08] But if I put it here, you're going to hear it there.
+
+[08:11] But what it's going to do is the shape, the modulation it's going to be doing,
+
+[08:14] it's going to be slowly applied based on the speed you set here.
+
+[08:18] So this becomes useful for when you have a sound where you want to play a chord
+
+[08:21] and then you want it to wiggle at the.
+
+[08:22] For example, I'm going to set it to four bars.
+
+[08:28] You can hear how it's slowly coming in to the full modulation, right?
+
+[08:33] It's giving us a full flutter there.
+
+[08:34] The delay delays it fully, so it doesn't even start
+
+[08:39] until
+
+[08:41] the time you've set has passed.
+
+[08:43] From there, we have probably one of my
+
+[08:45] favorite things that is new in the Serum LFO, which is going to be the smooth.
+
+[08:49] This is going to smoothen out the
+
+[08:53] the modulation, making it not sound as I guess you could say,
+
+[08:57] if you have a very jagged one, a very transidy one, it would round it out more,
+
+[09:02] making it sound a little bit more flowy, more smooth, as the name says.
+
+[09:05] For example, if I go here and I use like a crazy like this, I can.
+
+[09:13] Smoothen it out.
+
+[09:17] And you can also see what it does.
+
+[09:20] One way I like to use this mode is by going here to random or random flat.
+
+[09:24] I'll activate that and then I'll smooth it out to make somewhat of a wub
+
+[09:27] depending on whatever this decides to generate for me.
+
+[09:30] And then from there, I'll do this.
+
+[09:31] And now I have this great waveform for a wub that I wouldn't have thought of.
+
+[09:36] It makes my life a little easy.
+
+[09:37] You can see that I have that.
+
+[09:42] We can also use the random flat, which is
+
+[09:44] which square gives us a random squared off.
+
+[09:48] I like using this one with the grid size, of course, because then from there we can
+
+[09:52] create stuff that sounds like it's in beat if we ever decide to put in a kick.
+
+[09:56] Let's go one more time.
+
+[10:04] From there, we have the phase,
+
+[10:05] which decides where we start out at the LFO section.
+
+[10:08] OK, and then from there, we're going to have these little settings here
+
+[10:11] that you can see the coordinate point dot system is the one we've been using.
+
+[10:15] Just doing that, depending on the grid size,
+
+[10:17] these next ones are going to apply it based on the grid size you have set.
+
+[10:21] So they're going to be determined by that and how long they're going to be.
+
+[10:24] Here we have a flat.
+
+[10:25] We have a slope up.
+
+[10:27] If we wanted to add that, notice how it locks into the bottom
+
+[10:30] part there and it stays within each little box.
+
+[10:33] So if I increase this like so,
+
+[10:35] you're going to see that now we're going to have more of.
+
+[10:36] So from there, we also have a slant, a slant down.
+
+[10:41] OK, and then from here, we can click here to open this up more.
+
+[10:45] I'm pretty sure you can probably make it bigger or not.
+
+[10:47] And now you're going to be able to get very precise with what you do.
+
+[10:50] Or in case you ever wanted to see LFOs up close.
+
+[10:53] Well, now you can tell people that you have seen LFOs up close.
+
+[10:56] We have a lot of new LFO modes, by the way.
+
+[10:58] Back then we we didn't have access to these four here.
+
+[11:01] All right. So the next thing we have is path.
+
+[11:03] I rarely use this one, but pretty much the the theory here would be to create a path.
+
+[11:10] Again, we're still going to be controlling the the knob,
+
+[11:13] but we're using a different system for it where we can draw nice shapes.
+
+[11:15] If you choose to.
+
+[11:17] I'm not sure we can draw a heart, but let's say I do something like this.
+
+[11:20] All right. Let's say there.
+
+[11:22] Now I have an X and Y axis, so that's going to control again how we're going
+
+[11:26] to change knobs across the X or Y axis, depending on where we're at.
+
+[11:28] So I might want let's say let's get creative with this.
+
+[11:31] We're going to pick another another wave table here.
+
+[11:35] Let's pick a monster.
+
+[11:36] Our X is going to control the wave table.
+
+[11:38] Let's add an alternate warp here, a band minus plus to give it that.
+
+[11:42] And our Y is going to alter that.
+
+[11:44] And let's go slow.
+
+[11:49] Let's add another dot.
+
+[11:55] OK, and I'm pretty sure they're going to have some shapes
+
+[11:59] and someone took time to make that a nice little flower.
+
+[12:02] I don't know if there's a serum.
+
+[12:07] I guess that's fine.
+
+[12:08] I don't have that much time, though, I'm trying to make some bomb sounds, right?
+
+[12:11] But whoever made these cool, man.
+
+[12:14] Another way we can use this is also to create what I would call
+
+[12:17] the sounds that sound like they're revolving around your head.
+
+[12:19] X controls the level.
+
+[12:20] Y will control the pan.
+
+[12:26] So it looks like, yeah, we have access to these where we can close the circles,
+
+[12:30] I believe, but then we have one that just leaves them open.
+
+[12:33] So that's going to be the system.
+
+[12:35] If you right click as well,
+
+[12:36] you can modulate any of the coordinate points, which is something I didn't specify.
+
+[12:39] You can do this in all the modes,
+
+[12:41] by the way, except the last three that we're going to go over.
+
+[12:44] For instance, I can modulate this with
+
+[12:47] LFO 2.
+
+[12:49] And one usage for this for me personally is just to create randomization.
+
+[12:53] So it doesn't always sound the same.
+
+[12:55] And also when I make presets, sometimes I want to wow my users.
+
+[12:58] Right.
+
+[12:59] So I'll do like modulations and they're going to be like, how the heck did he do that?
+
+[13:03] So in a sense, it also adds the wow-ness factor.
+
+[13:05] Like if you ever are in a session with a big producer that invited you to make
+
+[13:09] music and you want to blow his mind in a good way, you know, not in that way.
+
+[13:14] We know that goes happens a lot.
+
+[13:15] You know, how did some people get to the top?
+
+[13:18] Anyways,
+
+[13:19] you could do some, you know, you can do some of those parlor tricks there and have fun.
+
+[13:25] Maybe draw their name.
+
+[13:26] And next thing you know, they offer you a release on their label,
+
+[13:29] the Chaos Rossler and a sample and hold.
+
+[13:32] So the Chaos Lawrence and Rossler.
+
+[13:34] I'll be honest with you guys, I don't know what they do,
+
+[13:37] but they're going to use the same system as the past X, Y.
+
+[13:40] It's going to be crazy hectic.
+
+[13:42] It's going to be based on the rate as well.
+
+[13:44] We can slow it down.
+
+[13:45] The way that I've used it, however, is to create pads that sound again,
+
+[13:49] I guess the word would be binaural pads that sound like crazy movement
+
+[13:54] that isn't predictable, that sounds different than using traditional LFOs.
+
+[13:59] So, for example, let's grab a nice, a nice little wave here like this.
+
+[14:06] And let's route this X to the level.
+
+[14:09] We're not going to go all the way down.
+
+[14:10] Alt shift click.
+
+[14:11] We're going to make it bipolar, call the therapist.
+
+[14:14] Then the Y here acts as well.
+
+[14:16] Now let's play this.
+
+[14:19] And
+
+[14:21] let's go a little more crazier, pull it up more.
+
+[14:25] And also that Y here and let's go faster,
+
+[14:28] actually, Hertz mode.
+
+[14:33] I mean, that's just crazy.
+
+[14:36] It's like.
+
+[14:38] It just randomly goes in a fast.
+
+[14:42] You create these very cool sounds that are very, I guess,
+
+[14:47] dreamcore, I guess is the word I'm trying to use.
+
+[14:49] I really don't know my genres, but I got to catch up.
+
+[14:52] 
+
+[14:54] almost granular like as well.
+
+[14:56] Then, you know, try it out.
+
+[14:58] X.
+
+[15:01] You know, let's add our envelopes.
+
+[15:10] From there again, the chaos, Lawrence and roster,
+
+[15:13] I'm going to assume they're going to move differently.
+
+[15:15] Looks like the roster moves in a circle here.
+
+[15:17] So it's going to let the aliens know that they can land or something.
+
+[15:20] But let's find another really nice
+
+[15:23] or nice, I don't know, wave table there.
+
+[15:25] Let's let's let's let's keep it like, you know, proper here, fam.
+
+[15:29] And I make sounds that sound to, you know, you know what I'm trying to say.
+
+[15:34] If you want to give Noisia a run for their money,
+
+[15:39] it's like, God damn, how'd you make that sound?
+
+[15:41] And now, you know, and then, you know, maybe we'll wrap more stuff in here.
+
+[15:45] Let's see how it works.
+
+[15:46] X on this.
+
+[15:54] I mean, that's nasty, man.
+
+[15:56] But again, if I was making drum and bass, I'd be like, you know,
+
+[16:00] it's just like I found the sound of the youth.
+
+[16:02] All right. Below that, we have the sample and hold,
+
+[16:04] which is going to be more of a generative style of LFO that gives you squared off
+
+[16:09] squared off modulation, similar to where if we were to go on normal and do this
+
+[16:13] old shift or I don't even know what I'm doing there.
+
+[16:16] Go dot shift boom, boom, boom, boom, boom, boom.
+
+[16:19] Now, these types of modulations are going to sound kind of a bit sample and holdish.
+
+[16:23] I guess that's what I'm trying to say, where it sounds like this.
+
+[16:28] But not as nice, like more like
+
+[16:34] noise.
+
+[16:40] Slow it down a bit.
+
+[16:46] OK, but now you have a generative one that gives you random and I'm going to show
+
+[16:50] you guys something clutch here that can create generative sounds here.
+
+[16:54] So but the way I'm going to do it,
+
+[16:55] I'm going to grab a spectral LFO, I'm going to route it there to the wavetable.
+
+[17:01] And it's going to create this.
+
+[17:03] I believe we can zoom in and out as well with these.
+
+[17:10] But now if we use the smooth, we can smooth it out and now we have more of these curves.
+
+[17:17] Now we can generate essentially a lot of growls
+
+[17:21] with these crazy shapes.
+
+[17:26] You know, let's add a distortion here, actually, and you'll see what I mean.
+
+[17:29] This is going to get crazy real fast, fam.
+
+[17:40] Again, you can lock BPM,
+
+[17:42] lock this, so if you ever find something cool.
+
+[17:48] Add another one, like bend minus warp or something there.
+
+[17:54] Let's see.
+
+[17:56] That's two, let's stack so we cover more range.
+
+[18:04] And
+
+[18:05] also add another one generative, of course, a bar and smoothing it out.
+
+[18:14] Let's get rid of this.
+
+[18:19] There and let's do the anima thing.
+
+[18:24] Round it out.
+
+[18:29] And then from there, I just want to make sure we hit everything.
+
+[18:31] But I think we have that is the LFO section.
+
+[18:35] Now, like I said, the more LFOs you use, let's say I decide to be fancy here.
+
+[18:39] Boom, just hit everything.
+
+[18:40] You know what I mean?
+
+[18:42] I don't know.
+
+[18:43] Then as I boom, I get more LFOs here.
+
+[18:46] Look, look at that, man.
+
+[18:47] I don't know if we get more than that.
+
+[18:48] Let's just keep sending it to stuff, see what happens right now.
+
+[18:52] Now, I think we get a max of 10, as you can see there.
+
+[18:55] So with that being said,
+
+[18:57] it's time to make some sounds.
+
+[19:01] The first sound we can make is a very nice
+
+[19:03] deadmau5 based sound because, you know, everyone thinks LFOs, they think of deadmau5.
+
+[19:07] We're going to use a low pass filter, MGLO 2 with a saw.
+
+[19:12] This filter is or this sound is the one million dollar sound, I would say,
+
+[19:16] because it definitely made deadmau5 very rich.
+
+[19:18] Now, of course, I'm not taking away from his musical
+
+[19:20] composition side because the man made amazing music.
+
+[19:23] And, you know,
+
+[19:25] if we put this here, one eight,
+
+[19:28] let's set our BPM to one twenty eight.
+
+[19:38] Put some reverb.
+
+[19:42] OK, now I'm going to use this chord feature inside of Ableton and I'm going
+
+[19:47] to use the scale feature to do a minor chord.
+
+[20:15] My thought process is we have these sounds that are staple, right?
+
+[20:18] These are iconic sounds that when you use them, people like it because it's familiar
+
+[20:21] and they're proven to work sounds, which means that they've been used to make amazing music.
+
+[20:25] The problem with those sounds is as a sound designer, I can't keep selling, right?
+
+[20:29] I can't keep creating those sounds and supplying them.
+
+[20:31] So how do I reinvent the wheel?
+
+[20:33] A lot of the times I reinvent by just using the same sound, but just layering on top of
+
+[20:37] it.
+
+[20:37] For example, let's use a wavetable here, just to give you a simple example.
+
+[20:43] And we're going to use the prime.
+
+[20:44] I don't know how it sounds, but we're going to respect this sound.
+
+[20:47] And this is going to be a wide layer that's going to sit on top of it, maybe one octave
+
+[20:51] up, lower the volume.
+
+[20:54] And let's play that, and now we get that nice layer.
+
+[21:06] And maybe the octave is going to switch, be generative.
+
+[21:10] Let's use the sample and hold.
+
+[21:12] This is, by the way, a new concept here.
+
+[21:13] I don't know if it's going to work, but it's just something I was like, you know, I'm here
+
+[21:15] with you guys and we're chilling, we're vibing, making dope sounds, so it might work.
+
+[21:21] Let's make it a little louder.
+
+[21:42] We can use something else, like a scale.
+
+[21:48] Right, we can route it to its own filter as well.
+
+[21:51] Filter 2 now, and we can have it do, with an LFO, just keep coming up like this.
+
+[22:13] Let's go monster.
+
+[22:16] Let's give it other chords.
+
+[22:21] I want to create a wub that's going to do, sound a little more better than what we did
+
+[22:26] with the envelopes, so we're going to be able to actually shape it differently.
+
+[22:36] Let's slow it down a bit.
+
+[22:40] And now we can square it off.
+
+[22:45] We can add an LFO, which is going to move it up and down, maybe like, go.
+
+[22:49] And we're going to activate envelope to make it just, again, repeat once and that's it.
+
+[22:55] A little too high up, we can move it down.
+
+[23:00] Let's lower this down.
+
+[23:04] Let's add maybe two voices of unison.
+
+[23:08] There we go, we're going to use a filter, let's also distort it here.
+
+[23:13] With, let's try a sine shaper.
+
+[23:17] And now on the LFO here, I'm going to overcomplicate this.
+
+[23:21] I'm going to do a cool pattern for it.
+
+[23:25] I'll click boom there like this, but let's modify this to be maybe different.
+
+[23:41] Now let's give this filter at the end.
+
+[23:44] We can go click here, make it go to filter 2.
+
+[23:48] That way filter 2 goes to the main and then let's apply filter 2.
+
+[23:52] One of these crazy filters that we love.
+
+[23:58] There we go, let's add a sub now to support the sound.
+
+[24:04] Direct out on it or main is fine.
+
+[24:06] We don't want it routing to a filter.
+
+[24:09] If you want this to follow the sound,
+
+[24:13] then you can create this here to the level so it follows.
+
+[24:18] And then as well here to this guy so that there's change of volume.
+
+[24:28] From there we can also use the noise and do it to the noise there.
+
+[24:32] Let's use the geyser to add a bit of a crunch to the sound.
+
+[24:37] Go into color, geyser.
+
+[24:40] Let's widen it.
+
+[24:43] That's sick, isn't it?
+
+[24:46] Noise.
+
+[24:48] Now let's see if we can find something a little cooler.
+
+[24:52] Maybe like the ring monster or the formants are cool, I know that.
+
+[24:56] Let's try a band reject.
+
+[25:00] Switch to LFO.
+
+[25:04] Slower down the level of the geyser.
+
+[25:06] In tech house we get that sound.
+
+[25:09] So we can do that one very easily right now.
+
+[25:11] Go into the filter, we're going to use an LFO.
+
+[25:15] Just play one note.
+
+[25:17] We're going to hurt.
+
+[25:20] Now let me show you guys here with envelopes you can modulate anything.
+
+[25:23] So one popular thing to modulate would probably be.
+
+[25:28] This rate to have it go from up to down.
+
+[25:30] So I can drag it here, we're going to the max amp.
+
+[25:33] And we're going to lower down the envelope sustain.
+
+[25:38] We can still hear it because it's being routed to both.
+
+[25:42] So let's do this.
+
+[25:50] Now we can play chords.
+
+[25:59] Let's do something that they would do in melodic techno.
+
+[26:02] Use the sound here, maybe put it at 1% or 2%.
+
+[26:06] And let's just have it go.
+
+[26:09] Like so.
+
+[26:11] Another cool thing to do with LFOs is apply a bit of a pitch strip.
+
+[26:15] So the way I'll do that is grab the LFO, put it on the fine here.
+
+[26:18] And then I'll add this nice little envelope change.
+
+[26:21] 
+
+[26:21] 
+
+[26:23] We're going to free it.
+
+[26:24] And we're going to lower down the amount and the speed a bit.
+
+[26:40] Let's add another saw.
+
+[26:42] Detune them slightly and do the same exact thing.
+
+[26:49] So let's grab a multi-sample.
+
+[26:51] And now we can create gated sounds a lot easier.
+
+[26:54] So we can grab a choir sound like an ah.
+
+[26:56] Both.
+
+[26:59] And we can add it here.
+
+[27:01] The level.
+
+[27:03] I'm going to apply a bit of a sustain release.
+
+[27:09] I'm going to shift, hold and do some nice sounds here.
+
+[27:23] Mono it.
+
+[27:29] Saw.
+
+[27:33] We're going to use a filter.
+
+[27:35] I'm going to add a high resonance.
+
+[27:36] And when I play this I want the filter to move to the right.
+
+[27:39] So we're going to move it like so.
+
+[27:44] But I also want it to gate a bit.
+
+[27:46] So I'm going to create more of a micro modulation with the LFO 2.
+
+[27:50] And we're going to do it like this.
+
+[27:57] And now we create that.
+
+[28:07] We can also create that while hitting here and going into a sample.
+
+[28:10] So I'm going to hold and just generating random every 8.
+
+[28:26] You can also switch this to a band pass.
+
+[28:31] Now let's fine tune this guy, pull it back.
+
+[28:34] The blue modulation amount.
+
+[28:41] Some noise.
+
+[28:46] Now we can add unison.
+
+[29:04] You can make something like that where it's slowly coming in.
+
+[29:07] Then we're going to do this.
+
+[29:09] Now we can use this as an envelope here instead of an LFO.
+
+[29:22] Apply release so the LFO continues giving us that nice...
+
+[29:29] Let me show you guys a cool trick here with our envelope.
+
+[29:31] If we lower down the...
+
+[29:35] Just go straight down and increase the sustain.
+
+[29:40] On this guy, put it on here.
+
+[29:42] But let's put this down to where we want to go.
+
+[29:46] Or up to where we want to go.
+
+[29:47] And pull it down to where it's zero.
+
+[29:52] Here.
+
+[29:54] Let's apply a lot of release.
+
+[29:58] Now we're going to hear that sound.
+
+[30:04] Here.
+
+[30:28] We need to get some of these voices to pan left and right.
+
+[30:32] Let's use the chaos now.
+
+[30:35] The pan there.
+
+[30:53] I wonder if I play multiple notes what happens.
+
+[30:56] I'm going to increase the polyphony.
+
+[31:13] I really like that.
+
+[31:14] That is one of the coolest effects I've heard.
+
+[31:20] So that concludes the section for LFOs.
+
+[31:23] And as you guys saw, we can do a lot of really good, crazy stuff with LFOs.
+
+[31:26] But the most important thing to think about LFOs is constant movement.
+
+[31:31] The difference between envelopes and LFOs is that
+
+[31:32] 
+
+[31:32] Envelopes and LFOs is going to come down to the fact that LFOs can loop.
+
+[31:35] As long as you're holding down a note.
+
+[31:36] And they will continue to do what they're doing if there's any form of release on the sound.
+
+[31:41] But as you saw, it makes it easier to make more interesting wabs.
+
+[31:44] You can do crazy things with it.
+
+[31:46] So definitely try it out guys.
+
+[31:48] And with that being said, I'll catch you guys next time for another video.
+
+[31:50] You guys have a great rest of your day and I hope you're enjoying this series.
+

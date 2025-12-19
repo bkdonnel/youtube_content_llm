@@ -1,0 +1,783 @@
+Video: Complete Guide To Master Serum 2 – EP3: Granular & Spectral Synthesis Explained
+URL: https://www.youtube.com/watch?v=Z55OQxV6zfA
+Duration: 28.0 minutes
+================================================================================
+
+[00:00] Yo what's up ninjas, my name is Sam World and welcome to the Complete Guide to Master
+
+[00:04] Serum 2.
+
+[00:05] In today's episode we're hitting the granular and spectral section of Serum 2 which are
+
+[00:10] going to be the most CPU intensive sections of Serum 2 and it's going to be the section
+
+[00:15] which you can say you can break new sonic boundaries, create atmospheres, create glitch
+
+[00:20] like effects, create cool tech house effects, dubstep wubs, you name it.
+
+[00:24] It's all going to be done here.
+
+[00:25] So let's get into it guys.
+
+[00:27] So the granular section, I have a vocal already inputted because I think with a vocal that
+
+[00:31] is saying multiple things, it's the best way to teach granular because then you start to
+
+[00:36] understand how it works and how you can use it.
+
+[00:38] So right now I have this vocal sample which I have, you know I'm going to play right now
+
+[00:43] and this is going to play from left to right.
+
+[00:44] Take your medicine honey and put your house in order.
+
+[00:48] I said take your medicine honey and put your house in order.
+
+[00:51] And you can see how each green bar is moving as I go from the left to the right.
+
+[00:55] Now with granular what you're doing is you're splitting up any sound source into grains
+
+[01:00] and each grain is going to last a certain length and with this length here you're going
+
+[01:04] to control how many, how long that grain is and also how many right because if you have
+
+[01:09] a short length you're going to have a lot of grains.
+
+[01:11] If you have like a two second length and you have four seconds of a sample you're going
+
+[01:14] to have only two grains because each grain lasts two seconds or divided by two right.
+
+[01:19] So with the length we can control the length of each grain.
+
+[01:22] And watch if I put this down you're going to see the green, now there's more.
+
+[01:26] At higher lengths, here we only have one.
+
+[01:29] Take your medicine honey and put your house in order.
+
+[01:31] I said take your.
+
+[01:32] So we're using it as a sampler right like a sample just playing from left to right.
+
+[01:38] However what starts to change is once we start to move this density, this density decides
+
+[01:42] how many grains we're playing at the same time.
+
+[01:45] So right now we only have one which is why it sounds normal.
+
+[01:48] Now what happens if I put 20.
+
+[01:50] Take your medicine honey and put your house in order.
+
+[01:54] I said take your.
+
+[01:55] So it gets louder right because they're all starting at the same time, they're all playing
+
+[01:59] at the same pitch, nothing's really happening so now we have 20 grains playing at the same
+
+[02:03] time.
+
+[02:05] However what if I start to randomize the length of each grain and randomize the pitch of each
+
+[02:14] grain.
+
+[02:14] We'll do it by one semitone here.
+
+[02:16] Take your medicine honey and put your house in order.
+
+[02:20] I said take your medicine honey.
+
+[02:22] You can hear how now we're starting to get this change of like almost like a chorus effect.
+
+[02:27] But what if I randomize the pan, the left and right of each grain.
+
+[02:32] Take your medicine.
+
+[02:34] Take your medicine honey and put your house in order.
+
+[02:37] I said take your medicine honey and put your house in order.
+
+[02:42] Now what if I randomize the starting point, the scan and the starting point here.
+
+[02:48] Take your medicine honey.
+
+[02:49] I'm going to go crazy as you can hear it and let's lower the grain size a bit so you can
+
+[02:53] hear what's going on.
+
+[02:54] Take your medicine honey and put your house in order.
+
+[03:04] It's jumping all over the place right.
+
+[03:06] Certain grains are playing at the end, certain grains are playing at the beginning, certain
+
+[03:10] ones are following the marker right.
+
+[03:12] And that's what granular does.
+
+[03:14] It modulates the timing of the sample of when we're playing and it does that by chopping
+
+[03:19] it into grains and with those grains we can modulate when each one starts, where, if it's
+
+[03:24] pan left or right.
+
+[03:25] We can randomize that.
+
+[03:26] We can randomize the volume of each one.
+
+[03:28] We can randomize the pitch of each one.
+
+[03:30] We can randomize the direction of each one.
+
+[03:32] Is it going straight?
+
+[03:33] Is it reversing?
+
+[03:35] Okay.
+
+[03:35] And we can automate the offset on each one as well.
+
+[03:37] So that way, if it once intended to start a certain spot, it will offset a little bit
+
+[03:41] each time differently.
+
+[03:42] All right.
+
+[03:43] Now we have this.
+
+[03:43] Let's say I play really high up.
+
+[03:46] I'm going to randomize this pan and now we get the glitch effect we were talking about.
+
+[03:51] Now I'm going to reverse this forward and back.
+
+[03:55] I'm going to increase, decrease the length.
+
+[03:59] I'm going to have more.
+
+[04:00] The density's up.
+
+[04:01] So now we have more grains.
+
+[04:07] Okay.
+
+[04:09] Now when we have grains, they're going to be essentially cross fading between each other.
+
+[04:14] So now we click this blue here.
+
+[04:15] This is where you can control how it does it.
+
+[04:17] Okay.
+
+[04:18] So the amount is how much of whatever shape we add, which is like a volume.
+
+[04:23] Think of it like this is going to alter the volume.
+
+[04:26] It's going to affect.
+
+[04:27] So if I do this, this is giving us more of a slow increase of the volume than a decrease
+
+[04:32] of the grain.
+
+[04:33] So if I increase the length, I'm going to lower a lot of this stuff down, play lower.
+
+[04:39] You can see that when I play something, it slowly comes in and put your house in order.
+
+[04:45] I said, take your medicine, honey, and put you lower the length a bit more, put the grain
+
+[04:50] at around.
+
+[04:53] All right.
+
+[04:53] So right now we only have one green plane, so you're hearing the change between each
+
+[04:57] grain.
+
+[04:57] Remember the grains are created by the granular splitting each section up into a little pocket.
+
+[05:03] And as we go between each pocket, this is going to switch and this is going to decide
+
+[05:09] how we blend.
+
+[05:10] So we're going to have multiple different ones.
+
+[05:12] We can see it to the left.
+
+[05:14] So it's more of a, or more of a reverse.
+
+[05:18] We can also randomize each value here with this randomize over this.
+
+[05:24] Now we have this.
+
+[05:29] Let's decrease the scan rate a bit.
+
+[05:31] Now if I put a lead, let's put it at a seventh, I'm going to add reverb and delay.
+
+[05:44] You can see how this helps create something that sounds different that you don't really
+
+[05:50] hear too often.
+
+[05:54] Okay.
+
+[05:54] Now we switch it.
+
+[06:04] Then we have the sync, turkey, decrease the length, and this is what makes it so special.
+
+[06:25] So go through them all.
+
+[06:30] We're going to go here.
+
+[06:36] As granular, you have to hear it in order to understand what you can do with it.
+
+[06:43] Right?
+
+[06:43] This sounds crazy.
+
+[06:44] Like if someone asks me to remake this sound, just using a synth, it would be really hard
+
+[06:51] to do it.
+
+[06:54] Here, I'm still holding down these chords I'm playing.
+
+[06:56] Okay.
+
+[06:57] Let's increase the density a bit more.
+
+[06:59] Decrease the length.
+
+[07:00] See how that sounds.
+
+[07:04] Okay.
+
+[07:05] Let's switch the sound source to something that's a little more like a loop.
+
+[07:10] Let's try a non-tonal loop, like a percussion loop and see what happens with that.
+
+[07:16] I'm going to randomize the time and the offset.
+
+[07:21] Now we get this.
+
+[07:24] I'll play really low.
+
+[07:29] I'm going to randomize the pitch.
+
+[07:36] And you can see how you got some going reverse, some going like crazy, right?
+
+[07:43] It's going forward, some playing at a higher pitch, some at a lower.
+
+[07:50] The other thing too, okay, is we can unison each grain and this is what makes it so CPU
+
+[07:56] intensive because the moment I increase this, each grain is getting detuned.
+
+[08:02] So now look at my CPU.
+
+[08:05] So now another thing is when I detune, I have settings with the detunement.
+
+[08:10] I have a blend, which is similar to the blend that we had with the wavetable.
+
+[08:22] We're going to have the detunement here.
+
+[08:26] We have a stack.
+
+[08:33] If I go back to sample, this is what we started with.
+
+[08:39] We detuned and now we go granular again.
+
+[08:46] So we get, all right, so we have the start point.
+
+[08:49] So we can again, randomize the starting point of the grains for each unison that we created.
+
+[08:54] We can also span, which is the starting point again, like essentially override the original
+
+[09:01] starting point, the range of the detunement and the width.
+
+[09:06] Mono it, increase it.
+
+[09:07] And then we have the spawn pattern, which is going to control when each one starts.
+
+[09:11] So they can all start together with even the timing of each grain.
+
+[09:14] Let's say we have six spread out evenly with exponential.
+
+[09:18] It slowly increases every single time one spawns.
+
+[09:20] So for instance, one spawns in a second, the next one is going to spawn in two and
+
+[09:23] then in four and then in eight, and then we can randomly spawn.
+
+[09:28] Have I right click clear on the image.
+
+[09:31] I can select show XY controller, which if I move this, you're going to see this little
+
+[09:35] dot here.
+
+[09:36] So now this dot, you can set it to control the position.
+
+[09:42] But now if you right click again, you can now have the Y axis control something.
+
+[09:48] So for example, I can have it control the volume, the warp, the grain length.
+
+[09:52] So if I go up and down, I can show the length left to right control the position.
+
+[09:57] So for instance, let's say I get a chord loop real quick.
+
+[10:02] So like this, if I go up and show the length.
+
+[10:12] And by right clicking, I can also modulate Y with something.
+
+[10:16] Like for instance, I can add it to a macro, control it.
+
+[10:26] Density again is going to control this guy here.
+
+[10:34] Let's get rid of the length one.
+
+[10:48] I'm slowing down the scan rate.
+
+[10:53] So now if I move this.
+
+[11:05] Let's randomize the pan.
+
+[11:18] Unison.
+
+[11:21] That's the tune last.
+
+[11:41] We can BPM sync a lot of this stuff.
+
+[11:43] So that way we can just create grains based on the time signature.
+
+[11:46] So every one fourth, there's a grain, which puts it in a, let's see, let's remove this.
+
+[11:52] Yeah, yeah, we got it.
+
+[11:55] But a lead, I'm going to grab the loop here.
+
+[11:57] I'm going to do this and I'm going to try and see if I can trim it.
+
+[12:01] So now we have this trim.
+
+[12:05] Boom.
+
+[12:06] So now I have this little reverb portion of the piano.
+
+[12:09] I can right click and normalize it.
+
+[12:15] Now we have this.
+
+[12:19] So we can sync each one on fourth density.
+
+[12:33] Playing lower.
+
+[12:40] A little off, but that's fine.
+
+[12:46] Dot it.
+
+[12:48] Put the dotted there.
+
+[12:53] Let's make the density lower.
+
+[13:00] I want it to more stutter.
+
+[13:01] So I'm a lower this length.
+
+[13:06] Now I can crossfade between like the sampler here.
+
+[13:14] We have this beautiful sound.
+
+[13:21] Okay.
+
+[13:22] So now wintering the spectral section, right?
+
+[13:27] We're going from time, which green was all about the time.
+
+[13:29] As you saw, we were able to manipulate time in a way where it created very interesting stuff.
+
+[13:33] Now it's spectral.
+
+[13:36] We're manipulating the frequency itself, not the shape of a wave because the wave table
+
+[13:41] has to deal with changing the shape of the saw, right?
+
+[13:44] We can use the warps like a band plus and all that good stuff to shape the sound differently,
+
+[13:50] which and then results in the sound sounding different with spectral.
+
+[13:53] We're using samples.
+
+[13:54] Then we are manipulating the harmonics, the frequencies of it.
+
+[13:57] Whenever I say harmonics, partial, all that means is when I have a sine wave here,
+
+[14:03] I'm playing the first partial that of the note that I'm on because each note like a B,
+
+[14:09] a one, a zero, depending on the octave is going to be related to a certain frequency.
+
+[14:13] So that note, the first mountain you see will be what we call the fundamental.
+
+[14:17] So with the sign, we only have one partial fundamental.
+
+[14:20] From there, we get the overtones, which usually you'll see with a triangle.
+
+[14:24] You'll start to see them.
+
+[14:25] So we go basic shapes, put a triangle.
+
+[14:28] All these new additions here is what we would call partials as well.
+
+[14:33] Okay, so then we're going to have harmonic partials,
+
+[14:35] which are going to be multiples of this guy here.
+
+[14:38] So they're going to be harmonically related.
+
+[14:40] They're going to be multiplied by two, three, four.
+
+[14:43] What spectral synthesis is doing, it's messing with the harmonics of the sound,
+
+[14:49] the frequency of a sound.
+
+[14:50] Okay, so here I have this basic deep stab.
+
+[14:54] First off, start of the sample, end of the sample.
+
+[14:58] I can zoom in, right?
+
+[15:00] The more green it is, the more frequency,
+
+[15:03] harmonic content there is at that specific frequency.
+
+[15:06] From the bottom, we go low frequencies to the top, it's high.
+
+[15:10] To the right here, I can use this to almost like a filter to cut out certain parts.
+
+[15:19] Why is this useful?
+
+[15:19] Well, let's say I have this sound and I want to, let's say,
+
+[15:23] have a stable tone on the sign or that bottom one,
+
+[15:26] then I can use a sign, which is just that one fundamental.
+
+[15:33] Okay, so that's one use for that.
+
+[15:36] I can also, let's say I have a web sound or something,
+
+[15:40] and I want to like add like an interesting texture to it.
+
+[15:43] Well, I can play it by holding A, do the web.
+
+[15:49] Now I can grab that here, bring it here, bring it back in here.
+
+[15:52] Now I have it here.
+
+[15:56] So now this becomes the interesting texture.
+
+[16:01] Now I can grab maybe just the top part, detune it a bit.
+
+[16:11] You know, assuming that's the same thing, I'm just going to do this.
+
+[16:16] Okay, we have that.
+
+[16:17] I'm going to bring that in.
+
+[16:22] So that's what this would be for.
+
+[16:24] But now the other thing, let's say I have a dubstep growl like this, right?
+
+[16:29] A lot of opportunities present themselves now, okay?
+
+[16:33] For example, I can loop like before.
+
+[16:37] We're not really going to dive into this because we already know what it does.
+
+[16:39] It's going to be very similar to the sampler and simpler.
+
+[16:41] But the new thing we get is this cut, this filter where we can alter
+
+[16:49] the frequencies, the harmonics of the sound,
+
+[16:53] and move to create these nasty-ass fucking things.
+
+[16:59] So now I'm going to normalize.
+
+[17:13] So I can alter the harmonic range here.
+
+[17:15] And there's going to be some presets that you can use.
+
+[17:18] As you can see, my remap's here too.
+
+[17:23] You can alter that.
+
+[17:24] And there's also the presets that we can use here.
+
+[17:31] You can also click here and put a wavetable, which you're going to see,
+
+[17:36] which is very interesting.
+
+[17:37] I don't know how I would use that, but
+
+[17:40] just found out what you guys.
+
+[17:43] Now at the bottom here in the warp, we are going to have new features.
+
+[17:47] We're going to have a spectral section now.
+
+[17:49] And all this is going to do is it's a way it's going to mess with the harmonics,
+
+[17:52] the frequencies of this guy up here.
+
+[17:55] So I'm going to switch to a more basic sound.
+
+[17:59] Here's going to smear the harmonics or the transients of a sound.
+
+[18:02] So if you have a drum or something, and it's going to make it sound a little bit more blurry.
+
+[18:10] And then we have spread plus or minus,
+
+[18:13] which is going to spread the harmonics across the frequency spectrum.
+
+[18:19] So, you know, sound design for video games, movies,
+
+[18:23] maybe if you wanted to create a very gnarly uplifter.
+
+[18:29] The next one is harmonics, adding more harmonics to what we already have.
+
+[18:39] You can also add sub harmonics.
+
+[18:44] She's going to add harmonics below the ones you have.
+
+[18:47] So think of it as almost like a sub oscillator.
+
+[18:48] You're going to be beefing up the sound more.
+
+[18:54] Next one we have is a gate.
+
+[18:55] So it's going to act like a gate, but on the frequency itself.
+
+[18:58] So certain frequencies are going to be louder than others when you have a sound,
+
+[19:01] right, depending on how the sound sounds.
+
+[19:03] So with the gate, as we go from the bottom up,
+
+[19:05] you're getting out the quieter ones and leaving only the loud ones.
+
+[19:11] In this instance would be the bass, because it's a bass sound.
+
+[19:17] Robotize is going to add robotic qualities to the sound,
+
+[19:19] usually through pitch correction or modulation.
+
+[19:26] Shift is just going to change the frequency content of the sound.
+
+[19:29] So it sounds like a shift.
+
+[19:35] Mirror is going to start to mirror the frequency spectrum.
+
+[19:39] We're just adding too many harmonics that we already have, just inverting.
+
+[19:42] Peak follow will adjust the frequencies based on the peak amplitude of the signal.
+
+[19:47] So you can see that we remove some of the high end out of there.
+
+[19:51] And when we go down, remove some of it, almost like a filter.
+
+[19:55] Peak octave 12 or minus 12 will change the peak frequency up or down an octave.
+
+[19:59] So...
+
+[20:00] So 12 is 12.
+
+[20:03] Minus 12.
+
+[20:07] Good for tear out dubstep.
+
+[20:13] Peak harmonics minus 12 and 12 just shifts the harmonic content up or down an octave.
+
+[20:22] As you can see all of them being shifted up.
+
+[20:24] Minus 12.
+
+[20:27] So if I play down one octave right now you can hear and put this up but that's all that's
+
+[20:34] doing so it's doing it to the harmonics which spectral has to deal with again the harmonics
+
+[20:38] of the sound so we're just manipulating the frequency.
+
+[20:44] Harm sweep kind of like a filter sweep except with the harmonics.
+
+[20:50] Shepherd's gonna create a shepherd's tone which is just an illusion like the sound is
+
+[20:53] going to keep going up and up and up so as we go from left to right it's going to keep
+
+[20:59] going up.
+
+[21:04] Shepherd W is a variation of that sounds like we have a lot more like of a detuned shepherd's
+
+[21:12] tone with it.
+
+[21:12] By the way these are not even in the manual which is making it a little hard to explain
+
+[21:16] for you guys so I'm trying my best with it.
+
+[21:18] The comb filter is going to add a comb filter to the harmonics of the sound.
+
+[21:23] Similar to like a comb filter you're going to find in Serum 2 which is usually going
+
+[21:27] to be a filter we hatch a lot of peaks and valleys which creates phase alterations to
+
+[21:31] the sound and also changes the tonality of it usually making it sound a lot more interesting
+
+[21:35] in exchange for fatness and in exchange for forward presence of a pitch blend which to
+
+[21:41] be fair I don't know what it's doing.
+
+[21:47] Pitch shift.
+
+[21:59] Pitch shift shifts the pitch up or down all the harmonics just get moved up and down.
+
+[22:07] Phase switch alters the phase of the harmonics sometimes leading to phase cancellation or
+
+[22:10] phase enhancement.
+
+[22:12] Switch the sound.
+
+[22:17] We have a formant which is applying a formant like quality to the harmonic sound which usually
+
+[22:22] formants are going to look like this.
+
+[22:24] Very extreme filters to kind of produce a vocal quality like an A and an OY to the sound.
+
+[22:35] Then we have mask which you're going to need something in Sound Source B or C to use.
+
+[22:39] The idea of it is that you're going to mask some of the signal to allow this one to pop
+
+[22:44] out more.
+
+[22:45] So right now if I mask this sound you can see that it sounds like it's getting spectrally
+
+[22:50] ducked based on whatever sound we put here so if I put this there.
+
+[22:56] Let's pick another one.
+
+[23:02] Then we have a vocoder effect.
+
+[23:15] Still don't have a use for that.
+
+[23:20] So let's do a little quick sound design sesh with the new stuff we did already with the
+
+[23:24] granular like a couple of cool little sounds how we would incorporate stuff.
+
+[23:27] But for now let's see what we can do here.
+
+[23:32] So let's start off with the spectral since we already made a lot of sounds with the granular.
+
+[23:36] I'm going to use a stab.
+
+[23:38] I'm going to let's say go with maybe the spectral one of these guys and use what its strengths
+
+[23:44] are.
+
+[23:44] I really liked how some of these sounded like the subharmonic so add some subharmonic content.
+
+[23:59] Now I'm going to put an oscillator like a Reese we're going to use a filter low pass
+
+[24:06] filter eventually we'll access the filter section next time.
+
+[24:10] But for now we just have to use these here.
+
+[24:14] Let's fine tune here.
+
+[24:18] I'm going to use the warp like that.
+
+[24:24] See if we can use another spectral effect.
+
+[24:27] Let's try the spread.
+
+[24:32] Let's use a filter now to cut out some of the lows.
+
+[24:36] Now you do it like this.
+
+[24:39] So now we have this really haunting effect.
+
+[24:44] Let's see if I can normalize it.
+
+[24:45] Right click normalize.
+
+[24:48] Just to the left here real quick.
+
+[24:53] I'm going to lower the volume down of the sauce like that.
+
+[25:00] It's pretty sick.
+
+[25:08] There we go.
+
+[25:09] Some unison.
+
+[25:11] We have here the unison effects for it similar to all the others.
+
+[25:14] Let's see if we can stack by three.
+
+[25:35] Anything interesting here?
+
+[25:40] Let's use the noise section now to create a nice texture to the sides.
+
+[25:46] Maybe something that's more like a kick.
+
+[25:51] Looping that low pitch.
+
+[26:02] That's kind of scary isn't it?
+
+[26:11] Switch the samples.
+
+[26:13] Anything else comes in?
+
+[26:18] That's cool.
+
+[26:21] Two.
+
+[26:23] Seven.
+
+[26:30] Now we can EQ the highs out a bit to keep it here.
+
+[26:35] Alright.
+
+[26:36] Let's get that 3D effect on the sound by respecting the space and widening this.
+
+[26:50] Trying to see if there's anything else.
+
+[26:52] Maybe lower the scan rate to play it very low.
+
+[27:09] There we go.
+
+[27:17] Cool.
+
+[27:19] And there you go.
+
+[27:21] That's even crazier isn't it?
+
+[27:26] So cool.
+
+[27:27] Let's initialize the sound.
+
+[27:28] So we need something somatic.
+
+[27:29] Anyways guys I'm in a hurry today because my wife knocked on the door like ten minutes ago.
+
+[27:33] So that means I have to get going.
+
+[27:34] But hopefully this video helps you guys out.
+
+[27:36] Towards the end of the video we're going to do sound design sessions and we're going to target more of the spectral.
+
+[27:40] Serum 2 is not letting me import stuff as I usually would.
+
+[27:43] Because usually what I'll do is make a sound and then import it and use spectral to give it that interesting flavor as you guys saw.
+
+[27:48] But with that being said I'll catch you guys next time for another video.
+
+[27:50] Hopefully you guys are having fun learning Serum 2 with me.
+
+[27:53] And again if you guys want to support the channel you can head over to evilsounds.com where you can find all of my sound design work.
+
+[27:58] You guys take care and you guys have a great rest of your day.
+
