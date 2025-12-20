@@ -30,8 +30,8 @@ MILVUS_URI = os.getenv("MILVUS_URI")
 MILVUS_TOKEN = os.getenv("MILVUS_TOKEN")
 COLLECTION_NAME = "music_production_tutorials"
 
-# Initialize OpenAI
-openai.api_key = OPENAI_API_KEY
+# Initialize OpenAI client
+openai_client = openai.OpenAI(api_key=OPENAI_API_KEY)
 
 # Global state
 _milvus_client: Optional[MilvusClient] = None
@@ -103,11 +103,11 @@ def create_milvus_collection(client: MilvusClient, collection_name: str) -> None
 async def generate_embedding(text: str) -> List[float]:
     """Generate embedding using OpenAI API."""
     try:
-        response = await openai.Embedding.acreate(
+        response = openai_client.embeddings.create(
             model="text-embedding-3-large",
             input=text
         )
-        return response['data'][0]['embedding']
+        return response.data[0].embedding
     except Exception as e:
         print(f"Error generating embedding: {e}")
         raise HTTPException(
@@ -124,19 +124,12 @@ async def search_similar_segments(
     channel_name: Optional[str] = None
 ) -> List[SearchResult]:
     """Search Milvus for similar documents."""
-    search_params = {
-        "metric_type": "COSINE",
-        "params": {"nprobe": 10}
-    }
-
     filter_expr = f'channel_name == "{channel_name}"' if channel_name else None
 
     try:
         results = client.search(
             collection_name=collection_name,
             data=[embedding],
-            anns_field="embedding",
-            search_params=search_params,
             limit=limit,
             filter=filter_expr,
             output_fields=["text", "channel_name", "metadata"]
@@ -199,7 +192,7 @@ Context:
         # Add current message
         messages.append({"role": "user", "content": user_message})
 
-        response = await openai.ChatCompletion.acreate(
+        response = openai_client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=messages,
             max_tokens=500,
@@ -252,7 +245,7 @@ async def insert_document(
     data = [{
         "id": text_hash,
         "text": text,
-        "embedding": embedding,
+        "vector": embedding,
         "channel_name": channel_name,
         "metadata": metadata_str
     }]
