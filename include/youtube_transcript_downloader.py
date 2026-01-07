@@ -7,6 +7,8 @@ Downloads videos from specified music production creators and generates transcri
 import os
 import json
 import subprocess
+import base64
+import tempfile
 from pathlib import Path
 from datetime import datetime
 from typing import Dict, List, Optional
@@ -238,6 +240,25 @@ def download_video_audio(video_url: str, creator_dir: Path) -> Optional[Download
         'writethumbnail': True,
     }
 
+    # Handle YouTube cookies for authentication
+    cookies_file = None
+    youtube_cookies_b64 = os.getenv("YOUTUBE_COOKIES_B64")
+
+    if youtube_cookies_b64:
+        try:
+            # Decode base64 cookies and write to temporary file
+            cookies_content = base64.b64decode(youtube_cookies_b64).decode('utf-8')
+
+            # Create temporary file for cookies
+            fd, cookies_file = tempfile.mkstemp(suffix='.txt', prefix='yt_cookies_')
+            with os.fdopen(fd, 'w') as f:
+                f.write(cookies_content)
+
+            ydl_opts['cookiefile'] = cookies_file
+            print(f"  Using YouTube cookies for authentication")
+        except Exception as e:
+            print(f"  Warning: Could not load YouTube cookies: {e}")
+
     try:
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             info = ydl.extract_info(video_url, download=True)
@@ -269,6 +290,13 @@ def download_video_audio(video_url: str, creator_dir: Path) -> Optional[Download
     except Exception as e:
         print(f"  Error downloading video: {e}")
         return None
+    finally:
+        # Clean up cookies file
+        if cookies_file and os.path.exists(cookies_file):
+            try:
+                os.remove(cookies_file)
+            except:
+                pass
 
 
 # Transcription utilities
