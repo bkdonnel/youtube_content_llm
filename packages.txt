@@ -1,0 +1,6 @@
+# System packages required by the project
+# These will be installed via apt-get in the Docker container
+ffmpeg
+build-essential
+g++
+gcc

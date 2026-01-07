@@ -1,0 +1,67 @@
+# Astronomer Ignore File
+# Files and directories to exclude from deployment
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Documentation
+*.md
+docs/
+
+# Data directories (don't upload to Astronomer)
+music_tutorials/
+database/
+test_output/
+
+# Environment files (use Astronomer UI for secrets)
+.env
+
+# Docker files (Astronomer handles this)
+docker-compose.yml
+
+# Test files
+test_*.py
+*_test.py
+
+# Static/templates (only needed for API, not Airflow)
+static/
+templates/
+streamlit_app.py
+
+# Legacy scripts
+scripts/
+
+# Notebooks
+*.ipynb
+
+# Root-level Python modules (now in include/)
+/youtube_transcript_downloader.py
+/add_transcripts_to_rag.py
+/video_tracker.py
+/notifications.py
+/automated_pipeline.py
+/main.py
