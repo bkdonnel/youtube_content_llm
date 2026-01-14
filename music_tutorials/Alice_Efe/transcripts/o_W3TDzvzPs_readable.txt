@@ -1,0 +1,383 @@
+Video: How to really make Deep House like a Pro
+URL: https://www.youtube.com/watch?v=o_W3TDzvzPs
+Duration: 21.1 minutes
+================================================================================
+
+[00:00] Deep house is one of those genres that you appreciate as you grow older,
+
+[00:04] so today we are going to make a deep house like Pyrrhos, like this.
+
+[00:31] When it comes to deep house, there are many ways to do it, and to be honest,
+
+[00:34] I like each one of them, but today I want to do the cream and butter version deep house,
+
+[00:39] like we will have a vocal, we will track around it, and play for the vibes.
+
+[00:44] When I start, I always start with at least a chord progression type of thing,
+
+[00:48] but starting with the kick and bass progression really helps a lot, so we will start like that.
+
+[00:53] For the kick, I like smooth kicks, I have a whole pack about it, but pick something like this.
+
+[01:00] It is a mid-long kick, and we are gonna actually brighten up slightly,
+
+[01:04] right? Depending on the bass actually, you can shorten it a bit more, but we will see about that.
+
+[01:09] And for the deep house, I really like this like kick-thumb type of groove. The way I like to do
+
+[01:14] it, just take your kick sample, shorten it out, keep it short, and then just use an EQ to take
+
+[01:20] like this mid-low part of the sound, so that you have this like warm sound, but still transient
+
+[01:26] enough, so that it can pop in the mix. The placement doesn't matter, I prefer to put them
+
+[01:31] on the off-beat, like this. You can build any pattern you like. For the bass, I like this kind
+
+[01:39] of perfect fifth layered bass sounds a lot in deep house. I think it gives a whole ton of a vibe.
+
+[01:46] We are in the D sharp minor, so let's start with eight bass, but that means there's just eight
+
+[01:52] basses in a bar. It's not a rolling bass, so it will give more like a smoother feeling.
+
+[01:58] So we have this now. So it is kind of a big sound, but let me explain a bit more.
+
+[02:05] So the sound wise, if I turn these two off, we will just have ours up. This gives this up, so this
+
+[02:11] is the reason that the sound will be relatively stable, but that harmonic feel on the sound comes
+
+[02:17] from these two. If I solo this one, this is like one octave up, and this is in the same octave.
+
+[02:26] So what happens is, we are using sync to get those upper harmonics, the power harmonics of the sound,
+
+[02:32] like here. Let me just solo these two, so you can actually hear the effect of only one note sound.
+
+[02:41] Right? And here around, and then we do the same thing over here. Let me turn this off, so you can
+
+[02:47] hear this. This is much higher, and this gives that this signature deep house bass sound. Listen to
+
+[02:54] this now. If we go to effects, we have a distortion, chorus, combo, hyperdynamic. This is coming from
+
+[03:04] my silk preset pack. There is really, really, really nice deep house basses there. And another
+
+[03:09] important thing is that we have the soft envelope on cutoff. And also the volume envelope has this
+
+[03:15] slight decay. So we have this really strong sound, right? This is the core of the sound. We have of
+
+[03:23] course on unison on top layers to open up the sound on the sides. But sound is a bit stereo too.
+
+[03:29] And then from there we want to open up space for the kick. So I'm using DAC for it. You can use any
+
+[03:34] sidechain tool that you like. Now the main reason I'm using Saturn here is not really that much of
+
+[03:41] distortion, but pushing those upper harmonics up. You see this is pulled up around 4 dB. So these
+
+[03:46] like mid highs. Right? This really pushes that feel. And we are on the linear phase to keep the
+
+[03:55] And finally you could even more boosting. This is a signature deep house bass. This is like
+
+[04:02] everywhere. And I love this sound for it. Now I like to layer this with another higher
+
+[04:11] bass layer. The way I like to use that oftentimes in deep house is actually start with the simple
+
+[04:16] bass layer and then an additional high layer with the verses and choruses to add a bit dimension to
+
+[04:22] the bass itself. The way we are going to do it actually taking exactly the same sound but
+
+[04:26] removing this sub and put this one octave above. So we have now this. Right?
+
+[04:35] And together this turn into this.
+
+[04:38] And then you always control how much you will add that upper layer with just mixing.
+
+[04:49] It can become a bit too much when the bass is alone. But when the layers comes in,
+
+[04:54] the percussions, the kicks, or the snares, the vocals, you will hear how much difference this
+
+[04:59] can make. Now when it comes to bass, what I like to do, I need kind of a bass progression to kind
+
+[05:04] of at least inspire me or something. If you feel like you're gonna try this, please consider like
+
+[05:09] and subscribe so I can show you more of these. Let's start with the classic 6-4-0. Meaning that
+
+[05:14] if we take a look at our root key, D sharp. Six means that six, not a bow. Like one, two, three,
+
+[05:20] four, five, six. And then you go to fourth. And then you go back to the root. This will create
+
+[05:23] this kind of decreasing tension, relaxing feeling. It's a very deep house thing. Right? Now we have
+
+[05:28] this. With the kick. That immediate burst of deep house feeling. Now when I make this type of tracks,
+
+[05:47] the tracks has to evolve around the vocals. Hence I like to bring the vocals as early as possible.
+
+[05:54] You can either use the samples from Splice, your vocalist friends, AI, whatever you like.
+
+[05:59] In this case, I want Splice hunting and found this.
+
+[06:14] That's it. And I think for a deep house track, you oftentimes don't even need more than this.
+
+[06:20] Because you want repetition and you want hookiness. And this is very hooky vocal. Maybe on the breakdown
+
+[06:25] you can use some ad-libs. But for me, for this type of tracks, this is really good. The only
+
+[06:31] thing that I don't like, and this is a very common producer pitfall, is like producers will put
+
+[06:39] like this. For me, it is so obvious. Like the vocal is actually recorded as it is. But I think
+
+[06:46] the beat should come after the first bar like this. Do you hear it? It is so obvious. At least for me.
+
+[06:55] So when you are picking vocals, like try to really listen where the beat should sink into the vocal.
+
+[07:01] Like when you do this, you are elevating that. I cannot stress this enough. Like when I say this,
+
+[07:08] really try to really pay attention. You're a composer and your job is to elevate the elements
+
+[07:14] that you are using. Especially the main elements. In this type of tracks, the vocals. I know a lot of
+
+[07:19] producers think that they are producers. They have to find the best leads or sounds. No. As a producer,
+
+[07:25] your job is, when you have the vocals like this, is to elevate the main theme as much as possible.
+
+[07:31] Right? And for me, this. That down in it, drown in it. It is the thing. It is the hook. So how
+
+[07:39] we can elevate? Of course, just move that. And this immediately gives me an idea. Because now
+
+[07:43] I'm thinking, oh wait, this could be an extremely good intro. Why? Because let's move this a bit more
+
+[07:49] here now. And then I can bring immediately, forget that kick, bring that bass in. So like this.
+
+[07:59] Oh my god, immediately, right? Now, when you have ideas like this, and hopefully you will have it,
+
+[08:04] when you find the right things and you get into the right flow, it will click like this.
+
+[08:08] You will like, oh that or this and that. And arrangement resolves itself. That gives me
+
+[08:13] immediately, I want to build that intro now. Because now I can make a really catchy intro to
+
+[08:17] grab attention of my listeners. Now I have the things that I need to have. What I need though,
+
+[08:23] create the ambience to give that deep house, that deep ethereal ambience for the listeners. But the
+
+[08:30] first thing I think is, of course, the pads. Let's bring those pads. Let's create pads. I really feel
+
+[08:35] like organic sounds, like guitars, or guitar-like sounds, or like organ-like sounds. Like the sounds
+
+[08:41] that you would hear it in organic music, really adds a depth and layer for this genre. So this
+
+[08:46] preset that I found, again coming from Silk Preset Pack. I cannot stress enough, this is one of the
+
+[08:50] best packs you can find for mediuc house and deep house. The idea is like simple, finding this kind
+
+[08:55] of organic sound. This was by the way another spectral, but I was just scrolling through,
+
+[09:00] just find more guitar-like sounds. So we have this. This is just only thing that I changed
+
+[09:04] in this patch. So we are holding that guitar sound,
+
+[09:16] and adding bunch of effects, to create this really deep, haunting ambience. And a bit EQ,
+
+[09:23] cut that super lows out. So it's more like even drone, and then sidechain the kick, slightly.
+
+[09:32] Gorgeous, really gorgeous. Now, what it hits me, is like, oh my god, my vocal is dry. I want this
+
+[09:37] big deep house vocals on top. Before I do that, I'm gonna make one more pad, because I know when
+
+[09:42] the vocals comes in, it will take too much space. Creating this simple elegant sounds under it,
+
+[09:46] it's harder when you have big vocals. So let's get another string-like pad here. And remember,
+
+[09:51] I'm just playing one single note, and it is the root key, D sharp. We can also sometimes play the
+
+[09:56] fifth, third. But now, I think to make the focus on the vocals, this is more than enough. And we
+
+[10:01] have this sound now. Again, of course, you know it coming from Silk. This is more like a,
+
+[10:07] more airy, more like stringy, maybe the vocally, so together they are like this.
+
+[10:15] Right? And this in turns into this.
+
+[10:23] Is it enough? No, because we need to work on our vocal now. The deep house vocal standard is this
+
+[10:28] airy, beautiful, what is the right word for this? Like a majestic, right? Majestic is the right word.
+
+[10:33] So how do we do this? We have a single vocal, we don't have any extra take, so we need to create
+
+[10:37] everything from single vocals. You can use AI, I have videos about that. But I'm gonna do it the
+
+[10:41] old school way now. I'm gonna start with the timeless. I know it's very like a big and interfering
+
+[10:50] a bit with the main vocal. To decrease that, we are ducking a little bit. This is the timeless own
+
+[10:54] feature. Otherwise, we have to put a sidechain compression on top of itself, so that it ducks
+
+[10:58] the effect when the vocal comes in. And then we can have a huge reverb. I'm using a vintage reverb.
+
+[11:06] I like the way you're going down.
+
+[11:09] This classic long tail reverb right on top of the vocal. Now we have these really
+
+[11:14] airy vocals here. And I want to dump a little bit here.
+
+[11:20] The support is, we are gonna actually duplicate the same vocals. But we are going to use chorus
+
+[11:26] as introducing that slight pitch shift and pushing the sound to the side, so that there is a depth
+
+[11:31] and full listeners. There are more than one vocals, but simply the same vocals. We are using
+
+[11:36] chorus D. I like this one because I think this works really well on vocals and 100% with. Now
+
+[11:42] we have this. Vocal really pushed to the sides. And now when it comes to the effects, it really
+
+[11:50] depends on what you want. You can really use it as dry as well, because we blend them.
+
+[11:54] I like the way you're going down.
+
+[12:00] With that.
+
+[12:06] It's really good, isn't it? That's the reason I really like that specific plugin from R3. It just
+
+[12:11] works amazing, depending on your feel, depending on how it sounds in your track. You can add even
+
+[12:17] those sides a bit of reverb. The main thing I like to do oftentimes, intro is a bit of overdrive.
+
+[12:25] So glue those two vocals into each other.
+
+[12:33] This is something that we are going to show later. And let's see how it sounds,
+
+[12:37] right? Again, don't use too much effects if it doesn't need it. Let's listen.
+
+[12:41] I like the way you're going down.
+
+[12:50] Now our work with the vocal doesn't end here. So I'm immediately feeling like I don't like this
+
+[12:55] part coming again. I want to hold that down in it, around in it, that part longer. So we're
+
+[13:00] part.
+
+[13:08] Right.
+
+[13:10] Hold that going going here.
+
+[13:22] Right, there you go. The track build. This one, I mean, this type of tracks really builds
+
+[13:26] themselves and there's really kind of joy to make them. But I'm feeling like now, when the second
+
+[13:31] part comes in here. Here's the part that we start to build a bit with maybe percussions, like making
+
+[13:37] that change. You can put simple hats here. Again, eight hats. We don't need to rush anything like
+
+[13:46] this. Shaper box adds this dirt on it. Without it. With. A bit EQ. And finally duck.
+
+[13:58] Really slightly to making a bit more on beat, off beat feeling a bit more obvious. Slightly
+
+[14:02] ducking here, right? I want kind of this like organic percussion style sound on top of this
+
+[14:07] too. So in title of rip sound. So we have this.
+
+[14:13] I want to clip a bit slightly. Remove that love and mud.
+
+[14:20] And do the same thing over here. Adding a bit noise on top. So it sounds more organic. Distorted.
+
+[14:30] Clip one more time.
+
+[14:34] And regain. Now we have this.
+
+[14:45] And then I actually like to build a verse. We can just duplicate what we have like this, right?
+
+[14:54] And remove these vocals. I think we can layer the hats a bit more.
+
+[15:00] Like a 16 type of hats on top. But just following that kind of sound. Rather than just straight 16.
+
+[15:10] But it adds to the groove.
+
+[15:19] And we make ad-libs from the vocals. Like take those vocals, copy them here.
+
+[15:28] Right? And then because the vocals are so strong, we want to like get this,
+
+[15:34] build this verse, get into the vocal and then get into the maybe arpeggio or something like that.
+
+[15:39] So what you can do, duplicate this one, put in the vocals and then duplicate one more and
+
+[15:43] build and delete. So we are kind of ABing stuff around. That means that now we have here.
+
+[15:58] Remember that when we do have those switch or turnaround points, be kind of like,
+
+[16:03] I like to remove the kick set this in some parts. It may be double kick over here.
+
+[16:09] Right? And high passing the low end in parts. So that turnaround
+
+[16:18] gets a bit stronger. Also you would like to support them with the transition effects. Like
+
+[16:22] here, I'm already feeling like at the entry here, we can probably put some like a white noise,
+
+[16:27] reverse cymbal. So things like this, right here when the vocal comes in,
+
+[16:30] reverse cymbal coming from my FX pack and then like a downshift there.
+
+[16:36] So it is more like emphasized.
+
+[16:41] Right? And kind of a build up here with the reverse. Again, everything coming from my FX pack.
+
+[16:54] To be honest, this downlift is maybe too much, but it's also a bit genre thing. It is used widely.
+
+[16:59] The final touch is actually now building kind of the secondary hook. Secondary hook in deep houses
+
+[17:05] oftentimes something almost as strong as vocals, but that will carry the track. Especially if you
+
+[17:10] go for like pop stylish arrangement. So you have this AB sections where the hook changes or they
+
+[17:17] are like two separate hooks that can actually keep people listening. The reason for this that
+
+[17:21] in pop music, you really want to keep people engaged all the time. In electronic dance music,
+
+[17:25] we have more relaxed arrangement. And deep house, especially if you go for this vocal direction,
+
+[17:30] I feel like it really enjoys that pop-ish arrangement style. If you want to keep people
+
+[17:34] a bit more engaged. So for me, you can use anything, but I like synthesizers. I'm a sound
+
+[17:39] designer. So my idea over here is, what if we go for like a chords. I enjoy also this kind of happy
+
+[17:44] chords. What you do now is actually take that chord progression that we have, right? And go for
+
+[17:51] this dotted progression. Like here what we are doing basically, we are using same progression,
+
+[17:55] but adding the second note. Here the fifth, fifth, fifth. And at the end of the turnaround,
+
+[18:00] just introduce something else to add a bit drama. So how does this sound? This sounds like this.
+
+[18:13] Right? It's like a very deep house. Like this is something you would hear a lot. For the sound wise,
+
+[18:18] I'm just leaving a couple of different presets. You can either go for this kind of more
+
+[18:23] fuller sound. Let me show the other one first as well. This type of more
+
+[18:26] gentle sounds as well. This will work too. Let me play it for you.
+
+[18:36] Right? But for this one, I'm a more bigger sound girl. So I like a bit bigger sounds.
+
+[18:41] Main idea is this. Right? It's kind of like a super sobby, short pluck sound on top of
+
+[18:53] high plucky sound. And one ambient style sound.
+
+[19:02] So together they create this kind of really cool,
+
+[19:06] full sound. And we have duck on it to sidechain the kick. And a big vintage reverb.
+
+[19:15] Creating this washed out. Because we had this vocal with the big wash out,
+
+[19:18] and we giving up the same vibe here too.
+
+[19:23] And this really switch up the vibes a lot. If you especially support this was kind of build up.
+
+[19:38] Kind of really natural builds up into the sound. As usual, this is available on my
+
+[19:43] Patreon. If you want to go deeper and really study everything, feel free to go check out there.
+
+[19:47] Unfortunately, we removed the supply sound. Because I don't have rights to distribute that.
+
+[19:51] But the rest will be there. If you have supplies,
+
+[19:53] you can download the same vocal and just put it there. And you will have it. Okay?
+
+[21:00] Now we learned that you can take a look at here. This is also cool.
+

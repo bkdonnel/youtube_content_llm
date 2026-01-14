@@ -238,6 +238,19 @@ def download_video_audio(video_url: str, creator_dir: Path) -> Optional[Download
         'quiet': False,
         'writeinfojson': True,
         'writethumbnail': True,
+        # Add browser-like behavior to avoid bot detection
+        'user_agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'extractor_args': {
+            'youtube': {
+                'player_client': ['ios', 'web'],
+                'player_skip': ['webpage'],
+            }
+        },
+        # Add sleep intervals to avoid rate limiting
+        'sleep_interval': 1,
+        'max_sleep_interval': 3,
+        # Retry on errors
+        'retries': 3,
     }
 
     # Handle YouTube cookies for authentication

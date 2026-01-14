@@ -119,7 +119,14 @@ class ChatApp {
     addMessage(type, content) {
         const messageDiv = document.createElement('div');
         messageDiv.className = `message ${type}`;
-        messageDiv.textContent = content;
+
+        // Render markdown for assistant messages, plain text for others
+        if (type === 'assistant' && typeof marked !== 'undefined') {
+            messageDiv.innerHTML = marked.parse(content);
+        } else {
+            messageDiv.textContent = content;
+        }
+
         this.chatMessages.appendChild(messageDiv);
         this.chatMessages.scrollTop = this.chatMessages.scrollHeight;
     }

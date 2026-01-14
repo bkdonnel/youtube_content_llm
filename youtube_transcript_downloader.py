@@ -30,6 +30,10 @@ CREATORS = {
     "Zen World": {
         "url": "https://www.youtube.com/@ZenWorld",
         "description": "Tutorials on arrangement, sound design, tech house and techno"
+    },
+    "Alice Efe": {
+        "url": "https://www.youtube.com/@Alice-Efe",
+        "description": "Music production tutorials"
     }
 }
 

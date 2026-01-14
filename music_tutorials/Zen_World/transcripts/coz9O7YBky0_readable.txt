@@ -1,0 +1,851 @@
+Video: Complete Guide To Master Serum 2 EP11 - Create Your Own Wavetables
+URL: https://www.youtube.com/watch?v=coz9O7YBky0
+Duration: 34.5 minutes
+================================================================================
+
+[00:00] Beep, beep. Yo, what's up, ninjas?
+
+[00:02] Welcome to the Complete Guide to Master Serum.
+
+[00:04] Today, we are going into a section which it's above my pay grade,
+
+[00:07] but I feel like I can explain it in a way where it will make sense to most of you.
+
+[00:11] And from there, if you want to become experts at it,
+
+[00:14] then make a plug in by that point, because to become an expert
+
+[00:16] at the wavetable editor, you got to know how to input formulas and math.
+
+[00:20] And I only got to calculus.
+
+[00:21] And after that, I said sayonara.
+
+[00:23] The way to access the wavetable editor, guys, is going to be pretty simple.
+
+[00:28] We've already seen the pencil.
+
+[00:30] OK, so I'm going to put this down here.
+
+[00:32] So we're going to access it by going to the saw top right.
+
+[00:35] Boom. That little pencil button.
+
+[00:38] Now, the purpose of the wavetable editor is to create your own wavetables,
+
+[00:40] which we already know is the color of your sound.
+
+[00:43] And from there, we can also create custom morphs, custom tables
+
+[00:47] with multiple sub tables, which are going to be here.
+
+[00:50] Number four, five, six, seven, eight, all the way to up to nine
+
+[00:53] for this whole wavetable in order to morph between them.
+
+[00:57] Or to provide yourself or your users, in essence, a certain color palette
+
+[01:02] like you can call this like the sky palette, right?
+
+[01:05] Light blue, blue and purple and orange and yellow.
+
+[01:08] And then that's the palette. That's the wavetable.
+
+[01:10] OK, so we can do that with that.
+
+[01:12] Now, with the sine wave, which we've talked about as a purest waveform,
+
+[01:14] if I were to play a note, let's say here like the A at a very low octave
+
+[01:19] where it's bass, you can see that I'm hitting fifty four point nine hertz.
+
+[01:23] Now, the thing at the very top of Serum 2 that you can notice here,
+
+[01:25] all these bins are going to be related to the harmonics,
+
+[01:29] the frequency of the sound at the very beginning.
+
+[01:30] We have been one, which is my fundamental, which is just going to be that.
+
+[01:34] Now, every note is going to be associated with a certain frequency.
+
+[01:37] And if you see there's these little gray outlines here,
+
+[01:39] these gray islands are just going to signify the A at different octaves.
+
+[01:43] So pretty much here we're a one.
+
+[01:45] This is going to be the A2.
+
+[01:46] We can highlight here and you're going to see A2 from here.
+
+[01:49] You're going to highlight this A3.
+
+[01:51] OK, there we go.
+
+[01:52] Then we're going to have a four and then we're going to have a five
+
+[01:57] and then we're going to have a six and then, you know,
+
+[02:01] we have a nice little organ sound.
+
+[02:02] That's how this top part pertains.
+
+[02:04] Now, everything in between that, you can kind of think a bit about it
+
+[02:07] like a piano keyboard is the notes in between the harmonics in between
+
+[02:10] the semitones in between and between the tone.
+
+[02:13] So what this is all going to be about is creating wavetables, right?
+
+[02:18] In theory, if you create something like this that comes from the top down,
+
+[02:22] like this, you should be able to create like a saw type of sound.
+
+[02:26] It sounds like a saw, like a foot, but you should be able to create a saw.
+
+[02:31] If I right click, I believe here I can generate a saw, as you're going to see.
+
+[02:35] And there it is.
+
+[02:36] Now, at the bottom of that is going to be the relationship
+
+[02:39] on phase for each harmonic that you have.
+
+[02:42] OK, and this is where you're going to control it.
+
+[02:46] OK, I can also choose to generate a saw here.
+
+[02:48] And you can see that. OK, cool.
+
+[02:51] We have a saw and it's just randomized,
+
+[02:54] which will give us different results, randomized.
+
+[02:56] Boom. We can also randomize the top.
+
+[02:58] We can randomize the bottom.
+
+[03:00] So you can see there. Boom.
+
+[03:03] So this is cool for generating really cool tones.
+
+[03:07] You can see this one here.
+
+[03:10] Kind of normalizing itself.
+
+[03:12] You're going to be able to randomize or create a saw or a clear
+
+[03:16] the band, so pretty much a low like you can remove all the high harmonics clear.
+
+[03:22] So it's like a high. Right.
+
+[03:24] And then if I have all the low ones, let's say, and I just want to make it less
+
+[03:28] subby, if I'm playing low.
+
+[03:33] So so we have those there.
+
+[03:35] Let's knit again, go back to our trusty sign.
+
+[03:38] So from there, progressive fade.
+
+[03:41] So if I have something, I believe as the name entails, right,
+
+[03:43] we're going to progressively fade, which I hope my barber does when he cuts my hair.
+
+[03:48] You know, I want to see it progressively fade.
+
+[03:51] You know, I don't want to see a sudden fade. Right.
+
+[03:53] But if we do progressive fade, it's just boom.
+
+[03:56] We can shift it up an octave.
+
+[04:00] We can shift it down an octave.
+
+[04:05] OK.
+
+[04:09] Can always go back to the trusty saw if you find you make a poopoo
+
+[04:13] type of wave tables, and then we can repeat the bin group.
+
+[04:18] So pretty much from from from
+
+[04:21] at the very bottom, we have these sections draw even harmonics only.
+
+[04:24] So as I'm drawing, let's say here,
+
+[04:27] I'm only going to draw the even ones, which are going to be
+
+[04:33] something tasty.
+
+[04:35] OK, and we can draw odd harmonics as well, which is going to be more of a square
+
+[04:38] type of sound.
+
+[04:41] So let's say go down like this.
+
+[04:45] It's more of a square, almost like a guy making a synth
+
+[04:48] and you want to provide very strong harmonics.
+
+[04:51] We can right click and scale frequency values by bin index,
+
+[04:54] which I prefer, to be fair, because it doesn't make it look so tiny.
+
+[04:59] So I'm going to turn that on one more time.
+
+[05:02] Boom. Now I can see a lot better.
+
+[05:05] Like there is a ceiling to it at the very top.
+
+[05:08] A hundred. Boom.
+
+[05:11] If we do random boom.
+
+[05:17] OK, I have that scale frequency on.
+
+[05:19] So that helps a lot in making this stuff.
+
+[05:21] When we randomize, you make a lot of these
+
+[05:24] very like buzzy like sounds, which sound very electric.
+
+[05:28] Can also work for dubstep, I would say, because, for example, here,
+
+[05:31] if I can randomize this one as well and I go from this to this,
+
+[05:35] I can create a morph by going now into processes and morph
+
+[05:41] and then do a crossfade between these two here.
+
+[05:53] Now, the way I use the top in the most for my sound design work,
+
+[05:56] I'll click here and usually I'm using it to make organ based sounds.
+
+[06:03] You know, maybe I'll like have something like this where I want.
+
+[06:09] You know, a little bit of these middle, which are not related to the fundamental,
+
+[06:15] but provide more body to the sound.
+
+[06:20] From there, at the bottom, we can also draw in our wave tables.
+
+[06:23] For example, here we're going to have our brush settings and here
+
+[06:25] we're going to have our wave table.
+
+[06:27] OK, so we can have a sign, for example.
+
+[06:29] So each note here can turn into a sign like so, you know, it's almost like there.
+
+[06:34] I wouldn't like this guy being my barber, just saying, OK,
+
+[06:37] we're going to have this little ramp up.
+
+[06:41] I notice as I do it, it's all going to pertain
+
+[06:43] and be focused on these little grids that which we can control here by moving down.
+
+[06:48] So that way I can have this and it's literally just drawing it.
+
+[06:53] Or I can select the grid of one to one, which is just going to input the shape.
+
+[06:58] One to one like this, boom, made us all like that easy.
+
+[07:03] OK, then I can start to use the other ones at the bottom,
+
+[07:06] which will work on what you have.
+
+[07:09] And essentially make the shape less stiff.
+
+[07:15] Or give it a certain.
+
+[07:17] Move and we can also nudge and we can add the noise.
+
+[07:21] So if you're making tear out dubstep,
+
+[07:24] this is what you would probably want to be using.
+
+[07:27] Which creates the buzzy sound.
+
+[07:29] OK, so now as you're creating your wave table,
+
+[07:32] your sub tables here, as we were talking about that in the beginning,
+
+[07:36] right, they don't have to do this by.
+
+[07:42] Default, right, you can have a select color palette,
+
+[07:45] but the goal, if you're making a way to that, you want to, let's say, make a path.
+
+[07:52] Then definitely you want some smoothness to it.
+
+[07:54] So that's where the right side is going to come into play,
+
+[07:59] because this is where you're going to apply the morph
+
+[08:01] once you've created all your sub tables.
+
+[08:04] And this is where you're going to process either single sub tables.
+
+[08:08] For instance, we have a normalized, which is going to make it so that
+
+[08:10] you make the amplitude of that wave at least hit the ceiling.
+
+[08:14] So whichever comes first, that will hit the ceiling
+
+[08:17] and then it will stop to increase the volume.
+
+[08:20] From there, you can remove the DC offset,
+
+[08:22] which usually occurs with heavy distortion.
+
+[08:25] We can flip the polarity.
+
+[08:29] In vertical or horizontal, we can shift the horizontal zero crossing
+
+[08:33] so we can make it essentially smoother as it transitions from this side
+
+[08:36] to that side, we can knit it,
+
+[08:40] which is what I was looking for last time.
+
+[08:42] We can fade in the edges, boom, slight.
+
+[08:47] And let's see here.
+
+[08:48] X-fade edges similar to the one, just a different option.
+
+[08:52] We can filter it.
+
+[08:53] So it's almost like a low pass filter.
+
+[08:55] A lot of times you can get the filter on the whole thing,
+
+[08:57] which almost makes it like a low pass filter.
+
+[09:01] We can sample Redux grid size to the grid size.
+
+[09:04] So, for instance, if I go 20 like that crazy and then we sample Redux,
+
+[09:08] we can essentially square it, make it sound like almost like it's
+
+[09:12] getting lower in quality or crunching it a lot.
+
+[09:15] And then we can send to the noise oscillator,
+
+[09:17] which I didn't know you could do that. And it's here.
+
+[09:25] So we can key track that as well by I believe
+
+[09:30] there is somewhere to key track boom.
+
+[09:34] But again, like I said, with a lot of sounds that you can hear
+
+[09:38] that sound cool, they're usually playing at a very low octave.
+
+[09:42] So that's where we hear that at the serial pitch.
+
+[09:44] But if we go high enough, we'll eventually start to hear
+
+[09:54] the sound itself.
+
+[09:55] The next one is going to be for all the sub tables that you have.
+
+[09:59] So, for instance, the first one is normalize each gain separately,
+
+[10:02] which premature we did with single each one.
+
+[10:05] So I'm just going to look at each one and normalize.
+
+[10:07] What that means is the at least one of these has to hit the edge
+
+[10:12] and then that's normalization.
+
+[10:13] You just kind of put it at max amplitude.
+
+[10:15] And if something touches the tip, it stops growing.
+
+[10:19] I was going to make a joke, but you get it stops.
+
+[10:22] It doesn't keep going.
+
+[10:22] So if I do each, each one's going to do it individually, reach the tip.
+
+[10:27] So it reaches it here.
+
+[10:28] It reaches the top here.
+
+[10:30] Again, it can also hit the bottom first here, right here.
+
+[10:35] We can undo that by, I believe, just hitting the undo here.
+
+[10:40] Boom. OK, blah, blah, blah, blah, blah.
+
+[10:42] And then the bottom one is between all of them.
+
+[10:46] So whichever hits first, even if some of them don't reach their max amplitude.
+
+[10:51] Again, it's going to be based on all of them as a whole and then all.
+
+[10:57] So, again, these are going to affect most of them.
+
+[11:00] This is where I have to go into the manual to give you guys some definitions.
+
+[11:07] This is above my pay grade.
+
+[11:10] Not to say I don't use this stuff when I'm making wave tables,
+
+[11:12] but it's more of an experimental thing of like, what does this do?
+
+[11:16] Ah, that sounded cool.
+
+[11:17] Not to play around with the rest.
+
+[11:18] What I'm going to do is I'm going to go into spectral
+
+[11:21] and I'm going to copy some of these waveforms like this one.
+
+[11:23] I'm going to go to oscillator B.
+
+[11:26] OK, so I have one.
+
+[11:28] So I'm going to paste the one I just copied here.
+
+[11:31] I'm going to go back, select another wave table from from here.
+
+[11:36] See, let's go just here to a monster one like here.
+
+[11:41] Boom. So we have these three right now, three sub tables.
+
+[11:45] We can first off filter them all
+
+[11:48] to make them more subby.
+
+[11:54] Can remove the fundamental, which becomes very useful
+
+[11:56] for when you're making bass lines, you remove that first note,
+
+[12:00] which if you're playing low enough will usually be the bass,
+
+[12:03] the sub part of the bass.
+
+[12:04] So if you're layering multiple bass tones together, you can use that
+
+[12:08] so that you don't have a low end that's fluctuating in volume, beating,
+
+[12:12] 
+
+[12:13] So that's where that becomes useful.
+
+[12:17] From there, below that, we have remove low spectra grid size.
+
+[12:20] From what I read in the manual, it's going to pertain, as you saw here,
+
+[12:23] remove all of this.
+
+[12:25] OK, we'll go back
+
+[12:28] from there, the other one, remove low faces,
+
+[12:30] which is only the bottom one, as you saw here.
+
+[12:33] OK, so again, that bottom one controls the phases
+
+[12:36] as we were talking about the phase, the position of each.
+
+[12:39] You know, harmonic that we're adding.
+
+[12:43] OK, below that, we can sample redux
+
+[12:46] all of them, so we create that crunch effect on them all.
+
+[12:51] OK, as we keep going down, we can resize tables to half the number.
+
+[12:55] So one more time, as you can see, we multiplied it to two.
+
+[12:59] Instead of one up, I think we have an undo
+
+[13:04] one more time, we have we have three, so we're going to boom
+
+[13:08] half each one and create.
+
+[13:10] Three new wave tables.
+
+[13:13] And if I want to go through.
+
+[13:19] Super cool, you make the most out of each one.
+
+[13:21] I read and do that one more time.
+
+[13:23] We keep going.
+
+[13:25] We can also resize half,
+
+[13:27] so it's going to make it to one or two, as you can see.
+
+[13:30] And we hear this one, we end.
+
+[13:33] So it's cool because it's like experimental in nature
+
+[13:36] and allows you to create more from what you have, which I think is pretty cool.
+
+[13:40] From there, we can create a PWM pulse with modulation out of the one
+
+[13:43] we've selected.
+
+[13:44] So what that is, usually it's going to be
+
+[13:47] the shift of the middle
+
+[13:49] to the left, which sounds super cool.
+
+[13:52] It's more fratty movement, and you also have the PWM,
+
+[13:54] which we talked about in one of the earlier episodes, similar to it.
+
+[14:01] In order to add more movement to a sound, sounds very futuristic.
+
+[14:06] OK, here we have set spectra, this frame to all.
+
+[14:11] So, boom, you can see that the top part there.
+
+[14:16] Boom is changing to this.
+
+[14:18] So we're turning like that frequency to all of them,
+
+[14:22] but the phase below stays the same.
+
+[14:29] We can set the phases, this frame to all,
+
+[14:32] and we can do the other oscillators as well.
+
+[14:34] We can subtract spectra from the other oscillators,
+
+[14:36] so that's going to pertain to the other one.
+
+[14:38] So pretty cool.
+
+[14:39] From there, we can blur.
+
+[14:46] From there, at the bottom, we have the morph section,
+
+[14:49] which is the more important section I would feel.
+
+[14:52] If you must know anything, it would definitely be that section
+
+[14:54] because this section is what's going to allow you to morph these three
+
+[14:57] to create a full out wave table with 256, essentially, images to it.
+
+[15:03] So if I morph a crossfade, you can see now I'm at 256, which is the max.
+
+[15:10] And we've created a wave table, a wob style of table, right?
+
+[15:15] Very easily.
+
+[15:16] If I undo that now, right, I remove that whole
+
+[15:21] morph and I'm stuck with the tone palette.
+
+[15:23] I think about it like this.
+
+[15:24] I can go through all the colors now.
+
+[15:26] I have a couple of ways to morph spectral and crossfade.
+
+[15:29] So now I can use spectral.
+
+[15:35] Guys, you can see there and then we have zero fun face.
+
+[15:41] So the fundamental, the phase of the fundamental is set to zero
+
+[15:45] and then we can also zero all the phases.
+
+[15:48] I'm going back here.
+
+[15:49] So all the faces boom.
+
+[15:51] As you can see here, we lose all of these that we've added before,
+
+[15:55] which creates like a thinner sound.
+
+[15:58] So personally, me, spectral.
+
+[15:59] The first one is zero fun phase.
+
+[16:00] It's the best one and the crossfade.
+
+[16:04] With that in mind, let's make some wave tables.
+
+[16:08] And as we make them, I'll explain the rest of the stuff that pertains to them.
+
+[16:13] So I'm going to remove all the wave tables by clicking here.
+
+[16:19] Clicking there, OK, I am going to put a sign,
+
+[16:23] which I believe if we go to a certain section, we can input down here
+
+[16:28] a formula where we can just get the sign and then we have all these.
+
+[16:32] And this is the part where I'm talking about.
+
+[16:33] Like you can get into the math stuff.
+
+[16:36] Like, for instance, here, there's one called Michelangelo waves.
+
+[16:38] Like, what is that, bro?
+
+[16:40] I mean, if someone understands all that, that's great.
+
+[16:45] I don't understand.
+
+[16:47] I recognize the term.
+
+[16:48] I just don't know how it all makes sense together, but it's there.
+
+[16:51] The Fibonacci.
+
+[16:58] Yeah, just math, math, math, bro.
+
+[17:00] So you can definitely do that.
+
+[17:01] However, for me, for us mere mortals,
+
+[17:04] I'm going to go and just generate a nice little saw for me.
+
+[17:08] Then I'm going to click all and I'm going to remove everything except that one there.
+
+[17:12] I believe I should be able to do that.
+
+[17:14] Remove all except selected single removal somewhere here.
+
+[17:18] Maybe I can right click on it.
+
+[17:24] Move all but selected.
+
+[17:26] Oh, there we go. Remove.
+
+[17:30] All except selected.
+
+[17:32] So here you're going to be able to remove and you have various different ways to do it.
+
+[17:35] You can select multiple and remove.
+
+[17:37] You can remove everything from beginning to the selected,
+
+[17:41] from the selected to the end and vice versa.
+
+[17:44] And then we can also reduce the way from there.
+
+[17:47] So from here, we start with a sign.
+
+[17:50] Let's see what we can make.
+
+[17:52] So I'm just going to start putting stuff in.
+
+[17:57] I'm going to set us frequency by index,
+
+[18:00] so it's a lot easier for me to make something that doesn't sound too fucked up.
+
+[18:05] Just trying to get a certain tone.
+
+[18:08] I think it sounds pretty cool.
+
+[18:13] I want more low end. There we go.
+
+[18:16] We can add some more phase change here.
+
+[18:21] When I click, let's see if we can boom.
+
+[18:41] OK, we'll make another one.
+
+[18:44] Maybe this one gets fuzzier.
+
+[18:51] Just to draw it in.
+
+[19:05] Sure.
+
+[19:07] Let's make it a little square.
+
+[19:20] It's a hell of a morph.
+
+[19:32] Trying to shape it better.
+
+[19:44] Just undo those.
+
+[19:46] It's this one.
+
+[19:53] A little bit of the fuzziness.
+
+[20:01] I'm gonna set this like a wave there we go let's try applying like a flange see what
+
+[20:22] we can move but now go we can I forgot to mention this last time but we can grab wavetables
+
+[20:31] and turn them to full shapes there you go maybe we go the other one add a sub because
+
+[20:50] we are missing it
+
+[20:55] add some good old OTT that's the cheat code to life
+
+[21:24] let's see if we can make this more interesting
+
+[21:39] we got that cool sound if I wanted to add more mid-lows I could there's a bit lacking
+
+[22:00] here so I can either choose to put in another sine there we go that's bringing us to life
+
+[22:07] now we're in a different ballgame now we're with the pros we're fucking with the pros
+
+[22:14] as they say why don't we try adding a convolution reverb and let's remove this we're gonna use
+
+[22:23] the low split high so that way I can target more of the highs with that cab again one
+
+[22:32] more time just to give it a tone on top I already committed to this so I'm gonna choose
+
+[22:48] to go forward with creativity I find if you like your ideas to do that go for it there's
+
+[22:53] no right or wrong let's make one more for this one I want to teach some other stuff
+
+[23:17] on wavetables because right now the way we have wavetables it's fun but there's a funner
+
+[23:23] way of doing it where it's not so complicated so for example to have a sine I'm gonna FM or PD
+
+[23:29] phase distort from B so I'll create the standard that tone I can also back in the day hopefully
+
+[23:38] we can still do it I can go to the menu and I can resample which it looks like render oscillator
+
+[23:45] warp a or resample oscillator a right so I can render the warp so we're gonna resample to a so
+
+[23:55] now that shape that we had there is here right so boom so I can copy that since we have an oscillator
+
+[24:04] see I'm gonna use see us the one where I'm gonna drop all the tones I'm gonna create I'm gonna
+
+[24:09] paste that there boom so now let's see what else can we do to this guy maybe we can go further so
+
+[24:18] now I'm gonna do the same resample to oscillator a warp to there so now we have the sound you heard
+
+[24:27] so now again I'm gonna copy it's no faster way of doing this would be dope too by the way paste
+
+[24:33] that there's now we have something smooth cool we have that sound now let's try undoing that
+
+[24:38] because I don't like where it went but I'm still gonna follow it because again with creativity you
+
+[24:42] can't overthink again I don't know what I'm gonna get out of this but my goal is to create something
+
+[24:47] cool smooth creating wavetables is an art in its own as you can see so now the bend is in the
+
+[24:56] wavetable right so then if I wanted to copy that copy it somewhere interesting see boom
+
+[25:09] last
+
+[25:19] okay it decided to ruin I think I fucked up but it's okay we can follow that maybe it's a gift
+
+[25:25] from God or the universe so I'm gonna go here I like the idea of this one or there we go that
+
+[25:33] one boom we're gonna copy that go to see make a new one bam bam paste boom make a new ones make
+
+[25:40] a new one here for this one let's see we're gonna do let's do an ephemera of PD again with another
+
+[25:47] with a sign keep it simple sample to a boom and then we're gonna copy that C will paste
+
+[26:03] and there we have four okay so now I can remove these for three tones I've decided on let's play
+
+[26:16] let's just make this one a little bit more like so and now what I want to do is I'm gonna either
+
+[26:28] one grab all of them and either do my processing with it so let's fade the edges in from there
+
+[26:36] again you can use any of these I'm gonna choose to I mean I should be happy with that maybe these
+
+[26:43] guys here are set so that it transitions smoother so let's see I mean yeah they sound very similar
+
+[26:51] now let's undo that though because I'm not a fan of that sound we could try the this one I mean I
+
+[27:00] like the these guys I don't like these so I could just have that be dope but nope how about we make
+
+[27:08] six out of the ones we have there we go okay still not happy with that so we're just gonna
+
+[27:18] morph crossfade so that's cool so now it's like we're going from this very bassy strong harmonic
+
+[27:32] sound to that and we find the pocket right so that first wave table I would say could use a
+
+[27:47] bit of filtering so I'm gonna actually gonna single and filter it a bit fade edges filter
+
+[27:54] and also the middle one we're gonna do that as well now let's use some alts here and make
+
+[28:24] there we go I want to go slower got a good tone let's see if some distortion will help
+
+[28:37] add maybe some more but I want to be careful because if I add too much distortion it becomes
+
+[28:43] more of those buzzy ones that we were I need something it's gonna give us life but not too
+
+[29:13] but I'm gonna go matrix bipolar
+
+[29:31] once and get something cool
+
+[29:52] I really don't know what I want here
+
+[30:00] I'm thinking because I'm already at a point with the sound where it's cool
+
+[30:05] but it's missing that wow factor
+
+[30:13] definitely need a sub maybe we need more dynamic movement better maybe we go
+
+[30:28] flange comb could possibly work there we go it's a little funky I always like
+
+[30:51] these type of sounds I don't know why lower the resonance we got distortion we
+
+[31:02] need more low end less yeah and we're gonna OTT it I always like looking at my
+
+[31:13] fan put some more voices
+
+[31:31] I have femming because I feel like I want more upper harmonics on it so
+
+[31:34] I'm gonna do it try doing it might be too much movement but I need mids bro I
+
+[31:55] need more highs that's what it's saying man it's gonna be one of those sounds
+
+[32:05] that yeah just kind of like just went too crazy with it but it's all good
+
+[32:10] we're gonna finish it I'm gonna add some mid-lows maybe we try some form of
+
+[32:18] movement here remove this add some reverb put some makeup on this I'm gonna
+
+[32:36] add a saw usually that works
+
+[32:52] PDA
+
+[32:59] that's a lot better
+
+[33:05] up up move that that's the thing man
+
+[33:17] more OTTs maybe distort more here
+
+[33:26] let's move this guy slight
+
+[33:32] some echo might be dope
+
+[33:37] nevermind nevermind
+
+[33:38] trying out different stuff or restart the sound if i don't like where i'm headed with
+
+[33:42] it
+
+[33:50] mechanical
+
+[34:05] alright guys i hope you guys have been enjoying the complete guide to master
+
+[34:08] serum next video i believe we're going to be finishing up serum 2
+
+[34:12] from a standpoint of view of mastering maybe the wavetable editor not so much
+
+[34:16] but like i said before wavetable editor it's a whole lot in its own
+
+[34:19] something definitely to get into if it intrigues you i i say go for it
+
+[34:23] but with that being said i'll catch you guys next time for another video you
+
+[34:25] guys take care and much love
+

@@ -1,0 +1,465 @@
+Video: Complete Guide to Master Serum 2: The FM Warp Everyone Misses
+URL: https://www.youtube.com/watch?v=q1F82VUo4GY
+Duration: 26.4 minutes
+================================================================================
+
+[00:00] Hey, what's up ninjas? Hopefully you guys are having a good holiday season
+
+[00:04] It's currently no chabuena or as I say Mexican Christmas Day because tomorrow for a lot of us
+
+[00:09] It's national hangover day
+
+[00:11] But hopefully you guys are spending it with your family and hopefully you guys are gonna be having a kick-ass time now today
+
+[00:17] We're gonna be getting into serum twos
+
+[00:20] FM section which you're gonna access
+
+[00:22] By clicking the warp and going below distortion where you're gonna find a lot of modulations
+
+[00:28] Like FM which stands for frequency modulation PD, which is the old serum FM known as phase distortion AM
+
+[00:35] Which is amplitude modulation
+
+[00:37] Amplitude just meaning the volume of the sound and then ring modulation are M. So we're gonna be able to route
+
+[00:44] multiple different modulation sources
+
+[00:47] Usually in this scenario, it's gonna be either the oscillator BC the filter outputs sub oscillator and even the noise
+
+[00:53] Okay FM frequency modulation as the name entails. We're modulating the frequency of this oscillator
+
+[00:59] However, it's gonna be done in a way where if you can hear a sound source
+
+[01:05] Like this this sign is moving at a really fast rate
+
+[01:08] So it wouldn't really modulate like we did with the LFO unless we're playing it at a very high rate
+
+[01:13] Or it wouldn't modulate like an envelope. It's gonna modulate so fast that it's gonna produce harmonics like distortion
+
+[01:19] But in its own way, it's gonna add new stuff. So already know the sine wave
+
+[01:24] It's just that little mountain
+
+[01:27] that
+
+[01:28] You know, it's pure innocence and with FM
+
+[01:31] We're gonna add multiple overtones and the way we add them is gonna be dependent on how we program by default
+
+[01:37] We have a through zero activated down here
+
+[01:40] the best way to kind of think of true zero is that the FM will most likely always stay in pitch unless it's being
+
+[01:46] Used at very high values the other thing and I'm gonna quote the serum manual for this causes carrier oscillator
+
+[01:52] Which is this one the one producing the sound to continue to oscillate correctly
+
+[01:55] Even when its frequency is modulated into negative values by the modulator oscillator
+
+[02:00] Okay, the way I like to think about it true. So just really is gonna be the cleaner one
+
+[02:04] It's also gonna be the one that relatively stays more in key and according to serum
+
+[02:08] It's useful for lush metallic or bell like tones to apply the FM
+
+[02:12] We're gonna have oscillator B
+
+[02:13] And keeping to notice the level needs to be down so that we can treat this more as a modulation source rather than a sound
+
+[02:19] However, you can also have it up if you feel it adds to the sound or it's a thing that you might want
+
+[02:24] But from here, I'm gonna have both of these set to an octave of zero to sir
+
+[02:29] Okay, and I'm gonna increase this
+
+[02:33] And as I increase it I want you to take note of the extra harmonics the overtones we're adding besides that fundamental
+
+[02:45] Now
+
+[02:46] Keeping with a fem is that oscillator be right the one that is modulating it
+
+[02:51] It's pitch is very it's gonna affect the way that sounds very dramatically
+
+[02:55] So for example right now, we're gonna have a one-to-one ratio a ratio where they're equal, right?
+
+[03:00] So we're producing more of the same frequency range
+
+[03:05] Okay
+
+[03:05] As this one however the higher this octave goes which would increase the FM ratio
+
+[03:10] That just means again instead of 101 now, this one's up above so it would be one or two
+
+[03:19] Harmonics harmonics that sound even higher right and this is how I like to tweet a femme if you want a bit of theory
+
+[03:24] The higher this one goes up the more it's gonna introduce a higher tone. However, let's say that you're using that first one for a baby
+
+[03:34] Yes, it's good to note here you can see that this
+
+[03:42] And the two and even the one where it's equal are a lot
+
+[03:49] Since we're doing FM now serums allowing us to change the way the pitch reacts for our oscillator
+
+[03:55] so the way we can change it is by right-clicking and
+
+[03:59] Going into mode and now we have three different modes
+
+[04:02] Harmonics ratio is what most FM synthesizers that we know of out there use first thing
+
+[04:08] I want to do is I want to go source and pick the oscillator that's gonna be producing the sound
+
+[04:13] So in this scenario, it's gonna be oscillator a what this is gonna do is if I move this
+
+[04:22] This oscillator is gonna follow it
+
+[04:26] For example here if I'm playing a C and I put the ratio of two I'm gonna have this guy be an octave above
+
+[04:35] If I put it at three
+
+[04:37] We're now in the fifth put it at four
+
+[04:41] And now two octaves five
+
+[04:44] We're on that third, which is the e6 you already know
+
+[04:49] Get that g7
+
+[04:52] Now we're at an a-sharp now all of this only starts to matter when I'm using a fam
+
+[05:08] Okay
+
+[05:10] And one thing to note to us using an envelope on the FM is very common in FM synthesis
+
+[05:15] Sometimes you want that tone, but you don't want it forever
+
+[05:18] So this is when you use an envelope to apply it to the beginning of a sound or throughout the song
+
+[05:23] But it starts to decrease the more the sound plays
+
+[05:35] Like here it's going from an F to an E
+
+[05:41] Assemble one get put to the F sharp
+
+[05:43] When I'm playing the F key
+
+[05:44] This is frequency modulation
+
+[05:46] Even though it doesn't sound like it and I can prove it to you because if we lower the pitch of this guy down to
+
+[05:51] Really low where it turns into a low oscillator like these guys over here. You're gonna hear
+
+[06:15] And it creates static tones
+
+[06:21] Again those are key things to put into mind
+
+[06:23] We're gonna be making some sounds at the end of this video as always to put this knowledge to use because with a fam
+
+[06:27] Right knowing what sounds we can make with it does help a bit and knowing what we can do with it and when to use
+
+[06:32] It up below that we're gonna have through zero to exponential. Okay, so
+
+[06:38] Exponential linear right all that's gonna do is it's gonna change the way the FM is applied
+
+[06:43] So here I have this graph of an exponential
+
+[06:46] Which we would call can also call the compound interest
+
+[06:49] So if you ever into finance or like investing you'll hear people compounding interest is the way to get rich and all this stuff
+
+[06:55] Yeah, so it's because it's gonna like as you can see it starts off similar to a linear
+
+[06:59] But then it starts to go faster and faster the more to the right we go and eventually it just blows up
+
+[07:04] This leads to the FM as you move it sounding a lot more drastic
+
+[07:08] Versus a linear one is gonna be as you can see just constantly going at its pace or exponent
+
+[07:21] Linear
+
+[07:30] I want to quote something with the serum to manual which explains a couple of things which I don't know from what I hear
+
+[07:36] It doesn't feel too true. But again, it could be issues. Maybe I'm just not doing it, right?
+
+[07:41] Linear is often described as smooth clean and more musical
+
+[07:45] Compared to other femme types such as exponential this makes it great for bell like tones pads and other complex but stable timbres
+
+[07:55] And this is what I mean like I'll do linear and move around
+
+[08:01] But it feels like it goes out of key in fact the one that doesn't is the true zero
+
+[08:09] I
+
+[08:10] Find true sir is the one that keeps its its key a lot better. For example, the one that is linear or exponential
+
+[08:20] It's the kind you'll find like on a Jupiter 6 or Jupiter 8 sin
+
+[08:25] Like if you use the Arturia stuff, there's this cross mod one that you can use
+
+[08:32] And
+
+[08:33] This sounds exactly like it the next warp we have is gonna be the PD which stands for face
+
+[08:39] Distortion, so you're pretty much gonna be altering the face
+
+[08:44] Of the sound
+
+[08:46] with another
+
+[08:49] Oscillator, so for instance here this to this to me. It sounds very similar to FM
+
+[09:02] And
+
+[09:03] Similar to FM
+
+[09:19] The pitch and the ratios matter
+
+[09:22] This is a traditional sermon FM and the way I like to see it
+
+[09:25] Remember if you like the sounds most people were making with sermon when they did FM on there
+
+[09:30] Then usually you want to go with the PD the face
+
+[09:32] distortion over the
+
+[09:34] Traditional FM you're gonna be able to route the seed the noise the sub the filter outputs and its own self now
+
+[09:40] Which back then you couldn't do and I've never heard with that it
+
+[09:44] So I'm gonna assume this is a feedback
+
+[09:49] Because in some FM sounds to create the iconic sauce sound like the lately bass
+
+[09:54] It would have to feed back into itself in order to produce something that sounded almost like a saw and
+
+[10:01] This sounds exactly like it
+
+[10:08] Now to the bottom of that we have amplitude
+
+[10:11] Modulation similar to FM except the amplitude the volume is modulated this guy here now
+
+[10:16] I can show you that it's actual volume automation because if I again lower this one all the way down
+
+[10:22] Gonna see that it's the volume starts to
+
+[10:44] Next thing we have is ring modulation
+
+[10:52] You
+
+[10:55] Now the best way to think about ring modulation, it's gonna be the multiplication of both of these guys
+
+[11:01] So again, we're dealing here with like the pitch now with RM. Usually the way I like to think about it is at low values
+
+[11:08] It provides
+
+[11:09] movement to a sound
+
+[11:13] But at high volumes the problem that starts to occurs as you multiply so you start to create
+
+[11:17] Instability in the sound making it sound more atonal making it good for
+
+[11:23] Sound the same of drums sound the same for techno sound the same of metallic objects instead of it
+
+[11:29] Sounding harmonically rich like the face distortion with RM. You're creating more of a hollow sound
+
+[11:34] You're creating more of a metallic sound and unstable sound. So when I say unstable just
+
+[11:40] See it like this, right? I have two sauce here. They're stable. They're playing the same note
+
+[11:45] But the moment that I get one out of key
+
+[11:54] I
+
+[11:54] Starts to sound very unstable now, let's bring another one into the equation
+
+[12:02] You know, it's not gonna be melodic we're not gonna go that sounds beautiful now we're gonna see that sounds fierce that sounds aggressive now
+
+[12:09] Serum twos manual doesn't really explain ring modulation
+
+[12:11] But I guess the best way to kind of see it is the ring modulation as we said, right? It's gonna distort
+
+[12:17] It's gonna ruin harmonic relationships making it sound atonal and it does that because what it's doing it's gonna be multiplying between these two, right?
+
+[12:24] We're gonna get the sum of both
+
+[12:25] Oscillators and the difference and then we produce new frequencies out of it, which are not going to be related harmonically
+
+[12:34] Those are gonna be our more advanced warp modulations that we have that I wanted to talk about later
+
+[12:39] Now the crazy thing about serum 2 is that it allows you to actually a femme
+
+[12:45] Sounds like for instance sampled bass sounds similar to Ableton Ableton also allows you to do that
+
+[12:50] For example, if I have a brass sound here
+
+[13:00] So the way that I use that in my sound design is sometimes I'll create
+
+[13:04] Sounds that are normal right like a guitar like a brass shot. I'm like use it as a brass shot
+
+[13:08] However, I always like to add mods for this stuff because as you can hear
+
+[13:17] You
+
+[13:17] Can create some really crazy sounds with a sample getting a femme from a saw like it's crazy to me like it's insane
+
+[13:28] And this is when you would use a sub I always get asked a lot by people I wouldn't use a sub in production stuff
+
+[13:33] So as a sound designer for me use a sub when you have a sound that you like the tone of but it's gonna be
+
+[13:39] Impossible to mix low and into it and even then let's say you were able
+
+[13:43] To mix low and into it by the usage of a high shelf boost or a bell EQ
+
+[13:48] There's always trade-offs when you're EQ in when you're boosting by huge amounts
+
+[13:53] You can cause your frequencies to last longer than it should which is what you will people will refer to as ringing frequencies, right?
+
+[14:00] You can cause phase shifts with like extreme EQ shifts
+
+[14:04] So a lot of the times you want to avoid that right and you avoid it by using a sine wave as your sub
+
+[14:10] So we're gonna do that here. We're gonna put it
+
+[14:13] Probably at the same sub range as this because if we look at the EQ
+
+[14:18] There is sub frequency there, but it's just not as good and it's also pulsating
+
+[14:22] It's constantly moving which means that if we want that effect that works
+
+[14:25] But if we want a constant low end to be felt in the car in the club, then we want to use a sine wave
+
+[14:30] That's gonna be playing
+
+[14:34] Now do I have to cut out the frequencies from this guy in order to do that?
+
+[14:38] No, because what tends to happen with phase cancellation, which is what most people want to deal with is it's relative to volume
+
+[14:46] So what that means is that if the subs in this sound aren't as loud as the sub I'm about to put
+
+[14:52] There's low risk and of cancelling out and also if cancellation does occur, right? They they cancel each other out
+
+[15:00] It's not gonna be like a complete serial cancellation it's gonna be a very minimal one because the sub isn't as loud
+
+[15:16] So now let's put some reverb
+
+[15:31] I'm on a legato portamento. I'm gonna have this increase
+
+[15:42] We're gonna add this crossfade
+
+[15:48] Set an LFO, let's just get fancy with it
+
+[15:50] The other one was fine, but we're gonna add a bit of an LFO moving at a slow rate
+
+[15:54] I really don't know what I want. And in that scenario if I don't know what I want, that's fine
+
+[15:57] I'm just gonna use the again the random curved here or the random flat and use the smooth feature
+
+[16:06] Dick okay the reaver by the way, it's a clutch in the sense that
+
+[16:11] You know, we put it because it makes anything sound good. So
+
+[16:16] Trolling these frequencies more since the sound moves around a lot
+
+[16:19] We do want the extreme compression right that the serum to man who states this is
+
+[16:23] So we're just gonna essentially change the tonality of everything by moving these guys up and down
+
+[16:41] Now as I create the sound I'm noticing there's a lack of mid-low
+
+[16:47] In order to access those mid-lows I might try to look for another wavetable that's gonna allow us to
+
+[16:53] Add them in like possibly a monster one. That's gonna be static with that
+
+[17:08] Now too much I guess we could say there's a lot too much overtones on it right too much high-end
+
+[17:14] So we're gonna use a low pass and we're also gonna use a high pass to move some of the low end from it
+
+[17:56] I'm trying to see if there's any way to make the sound more interesting
+
+[18:29] Let's
+
+[18:30] Add a filter now that's gonna provide that interestingness to it
+
+[18:34] You
+
+[18:45] Know what bees let's make a bass
+
+[18:48] So we can do the standard deep house bass as well with this and I'm going to show you guys some of the techniques here
+
+[18:54] That we can use for example
+
+[18:55] The FM can be modulated and a lot of FM since they do modulate it
+
+[18:59] So the way we would do that is route envelope 2 which is gonna be the more traditional route and then we're gonna have it
+
+[19:05] Just open up and then come back to a starting position to give us a nice punchy deep houses
+
+[19:24] This is PD itself
+
+[19:29] 
+
+[19:46] Random fairy trigger
+
+[19:59] You
+
+[20:00] I want to add like a slap delay to this very iconic of back in the day when we
+
+[20:07] had you know EDX and all that good stuff.
+
+[20:20] Another common technique is modulation of the pitches to add that pitch
+
+[20:25] envelope shift that we did even I forgot to lower down the level of the second
+
+[20:54] oscillator.
+
+[22:50] Let's add this nice click layer to it.
+
+[22:53] I'm looking for something that gives this more of a feel of like it's botanical
+
+[22:56] like it's a drum so we're going to go with that conga try that let's make it
+
+[23:06] wide okay now I am going to add OTT the moment you add OTT it might turn into a
+
+[23:22] lap house bass let's add some reverb to this that sounds nice reminds you of those botanical
+
+[23:37] sounds so now and again we're getting crazy here because we don't really have an end
+
+[23:42] goal what we're trying to create so that's why I'm like just going crazy which is again
+
+[23:46] if you want to make precise sounds always have a strategy when you're doing sound design
+
+[23:49] but here I'm just trying to show you guys all the little things I've learned over the
+
+[23:53] years from studying some of my favorite sound designers and some of my favorite packs like
+
+[23:57] Equinox sounds had this botanical pack that was really dope and I loved and they would
+
+[24:01] use a lot of combs to get the this sounding like this now I'm going to add this note
+
+[24:10] so that it's key tracked such a beautiful sound right and we have to control them in
+
+[24:37] and the reverb of course let's go with like a convolution which we talked about this is
+
+[24:42] a good example where I might want to use it because I want to make it feel botanical I'm
+
+[24:46] looking for something that I can't get with this so let's see let's try the weird one
+
+[25:09] let's say I want more high-frequency on this then I'll open up the filter or increase the
+
+[25:51] really nice sound so we made deep house bass we made a botanical pluck we made something like
+
+[25:56] that I don't know what you would use that for I would work more on the mixing of it of course
+
+[26:00] I would want it to sound a little bit more warmer and of course I would go back to my sound design
+
+[26:05] and I would figure out why it sounds cold hey guys so this is gonna be the complete guide to
+
+[26:09] master serum we went over some of the advanced modulations found in the warp section and now
+
+[26:13] you should be able to use them with confidence so experiment with them make sounds with them
+
+[26:17] to see what they can do and most important of all have fun you guys take care and you
+
+[26:21] guys have a great rest of your day
+

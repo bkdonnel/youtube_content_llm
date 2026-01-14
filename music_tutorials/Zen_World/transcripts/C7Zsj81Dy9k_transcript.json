@@ -1,0 +1,7984 @@
+{
+  "video_id": "C7Zsj81Dy9k",
+  "title": "The Minimal Sound That’s Running Beatport Right Now (Serum 2)",
+  "url": "https://www.youtube.com/watch?v=C7Zsj81Dy9k",
+  "duration": 551,
+  "upload_date": "20260102",
+  "transcript": {
+    "text": "New year, new sound. Maybe you get more emotion. I really don't know what they're putting the water in the UK, but I like what's coming out of there, man. But we still got to pay homage to the classics, right? Deep Dish, oh my God. I'll have analog since, and lately I've been putting them to use to create baselines like this one for you guys. With AI coming and with all the countless Serum 2 presets out there, I always ask myself, how can I provide something to you guys that's different, at least provides a different flavor? It's not that analog is better than digital. It's all about providing that option. FM style baselines are also coming in. So if you've been seeking a different style of bassline for your tech house or minimal house tracks, I got you. Here's one by Riordan that I really like. The key thing for me is, yes, we can sample a lot of these baselines because this genre is very sampled. But for me, it's like paying homage, right? You learn from the past that you don't peak in the past. You don't peak in high school. You use that to kind of move forward and innovate on what they've done. Learning the process of it allows me to provide different flavors that are similar to it, but can be a little bit more unique. Some people like Dior, but I like Prada. Let's get spicy with this one. This is one of the ones that sampled from some of the stuff over there to give you, again, access to a different tone. It's the same proven to work sound that Josh Baker uses, but now it has its own flavor. Because if people ask, yo man, it sounds kind of like Josh Baker, you go, yeah, you know, but I kind of reworked it a bit and made it my own, man. Now Minimal Nights Volume 3 is going to contain basslines, chords, stabs, leads, plucks, all in the style of the UK guys. Some genres also for the breaks, they have these kind of sounds. I really want one of you guys to use this sound, especially the Dusty Shop, it's a substance that makes you feel good. This part, one of my favorite sounds, with Serum 2 being out for a while, I really wanted to capture the granular sound of it, but in a cool way that can add to the song rather than just go, oh, cool, granular, and that's it. So this is a good example. For example, we're going to bring this mod up, which activates this. And I had to add this one. The good thing is there was a bunch of guys online debating about how that sound is made, which gave me the tools needed to recreate it. So that was fun. Very spacey sounds, very nasty basslines that are a little bit more defined, because in my mind, when I make these sounds, my hope is that you grab them and you infuse it with what you already do best. Maybe the sounds can work in a break, you can infuse it with your drop elements that you usually go for. At the end of the day, that's the beauty of music, is that you can mix and match different sounds, different genres to create new things that are still familiar, but fresh to your listeners. I like this one a lot. The Dean Brothers, man. I'm no hater, man. Goddamn, they're fucking good. You can't get me out of your mind. Oh, you got me going insane. A really nice acid bass sound. Now, Chris Duzzi has been on a little bit of a hiatus, but it's all good. I'm pretty sure he's making bangers. Oh, I love that cocaine knob. Now, this particular patch is inspired by the Roland style JB 1080 synths, where it's a combination of an organic sound with a spectral wavetable sound as a layer, which sounds like this. You can see what it adds. It adds a nice mystical flow to the sound, and that's the power of it. I wanted to remake this one because this track went viral on TikTok, which I believe is inspired by one of Donna Summer's tracks, which was produced by Giorgio Moroder, but it's a really cool sound with just a nice 80s flavor to it. The cool thing about presets, right, is if you use the sound, it's kind of like, OK, it sounds exactly like Jam Back. However, having the programming, what you can do is start to switch maybe some of the way to change the tone of the sound or use the sound as a starting point because presets while, yeah, you can use them as they are, a lot of the times the really good starting points that you can take further in order to create something that feels more yours. You guys already know this. Well, I made it using Serum 2 and now you guys can learn from it and see how I programmed it in order to get it to sound that way. I've been working on this pack for a while, guys, and it's finally done and you guys can check it out at EvilSounds.com It's going to be a total of 100 and Serum 2 presets all in the style of Chris Stussie, Josh Baker, Max Dean, Luke Dean, MK. It took a lot of inspiration from them to make sounds that I know will work for your music. Proven to work sounds from proven to work track. My goal is all about making music writing for you have less friction so that when you have the time to make music, you create a lot more bomb ideas because you have bomb sounds to get inspired. By the time you watch this video, it's already the new year. So I hope that you guys enjoyed it with loved ones. And I want to thank you guys for the support these past 10 years. So with that being said, use me, guys, use me in any way or form you want. See you guys for another one. Take care. And you guys have a great rest of your day.",
+    "language": "english",
+    "duration": 551.4500122070312,
+    "segments": [
+      {
+        "id": 0,
+        "avg_logprob": -0.3283548653125763,
+        "compression_ratio": 1.3397436141967773,
+        "end": 2.640000104904175,
+        "no_speech_prob": 0.016385450959205627,
+        "seek": 0,
+        "start": 0.0,
+        "temperature": 0.0,
+        "text": " New year, new sound.",
+        "tokens": [
+          50364,
+          1873,
+          1064,
+          11,
+          777,
+          1626,
+          13,
+          50996
+        ]
+      },
+      {
+        "id": 1,
+        "avg_logprob": -0.3283548653125763,
+        "compression_ratio": 1.3397436141967773,
+        "end": 13.619999885559082,
+        "no_speech_prob": 0.016385450959205627,
+        "seek": 0,
+        "start": 12.199999809265137,
+        "temperature": 0.0,
+        "text": " Maybe you get more emotion.",
+        "tokens": [
+          50996,
+          2704,
+          291,
+          483,
+          544,
+          8913,
+          13,
+          51306
+        ]
+      },
+      {
+        "id": 2,
+        "avg_logprob": -0.3283548653125763,
+        "compression_ratio": 1.3397436141967773,
+        "end": 22.440000534057617,
+        "no_speech_prob": 0.016385450959205627,
+        "seek": 0,
+        "start": 18.559999465942383,
+        "temperature": 0.0,
+        "text": " I really don't know what they're putting the water in the UK, but I like what's coming",
+        "tokens": [
+          51306,
+          286,
+          534,
+          500,
+          380,
+          458,
+          437,
+          436,
+          434,
+          3372,
+          264,
+          1281,
+          294,
+          264,
+          7051,
+          11,
+          457,
+          286,
+          411,
+          437,
+          311,
+          1348,
+          51484
+        ]
+      },
+      {
+        "id": 3,
+        "avg_logprob": -0.3283548653125763,
+        "compression_ratio": 1.3397436141967773,
+        "end": 23.18000030517578,
+        "no_speech_prob": 0.016385450959205627,
+        "seek": 0,
+        "start": 22.440000534057617,
+        "temperature": 0.0,
+        "text": " out of there, man.",
+        "tokens": [
+          51484,
+          484,
+          295,
+          456,
+          11,
+          587,
+          13,
+          51534
+        ]
+      },
+      {
+        "id": 4,
+        "avg_logprob": -0.3283548653125763,
+        "compression_ratio": 1.3397436141967773,
+        "end": 25.440000534057617,
+        "no_speech_prob": 0.016385450959205627,
+        "seek": 0,
+        "start": 23.18000030517578,
+        "temperature": 0.0,
+        "text": " But we still got to pay homage to the classics, right?",
+        "tokens": [
+          51534,
+          583,
+          321,
+          920,
+          658,
+          281,
+          1689,
+          44073,
+          281,
+          264,
+          36110,
+          11,
+          558,
+          30,
+          51812
+        ]
+      },
+      {
+        "id": 5,
+        "avg_logprob": -0.3522196114063263,
+        "compression_ratio": 1.5866141319274902,
+        "end": 31.200000762939453,
+        "no_speech_prob": 0.0019866202492266893,
+        "seek": 2544,
+        "start": 28.739999771118164,
+        "temperature": 0.0,
+        "text": " Deep Dish, oh my God.",
+        "tokens": [
+          50364,
+          14895,
+          413,
+          742,
+          11,
+          1954,
+          452,
+          1265,
+          13,
+          51006
+        ]
+      },
+      {
+        "id": 6,
+        "avg_logprob": -0.3522196114063263,
+        "compression_ratio": 1.5866141319274902,
+        "end": 42.34000015258789,
+        "no_speech_prob": 0.0019866202492266893,
+        "seek": 2544,
+        "start": 38.0,
+        "temperature": 0.0,
+        "text": " I'll have analog since, and lately I've been putting them to use to create baselines like",
+        "tokens": [
+          51006,
+          286,
+          603,
+          362,
+          16660,
+          1670,
+          11,
+          293,
+          12881,
+          286,
+          600,
+          668,
+          3372,
+          552,
+          281,
+          764,
+          281,
+          1884,
+          987,
+          9173,
+          411,
+          51206
+        ]
+      },
+      {
+        "id": 7,
+        "avg_logprob": -0.3522196114063263,
+        "compression_ratio": 1.5866141319274902,
+        "end": 43.41999816894531,
+        "no_speech_prob": 0.0019866202492266893,
+        "seek": 2544,
+        "start": 42.34000015258789,
+        "temperature": 0.0,
+        "text": " this one for you guys.",
+        "tokens": [
+          51206,
+          341,
+          472,
+          337,
+          291,
+          1074,
+          13,
+          51274
+        ]
+      },
+      {
+        "id": 8,
+        "avg_logprob": -0.3522196114063263,
+        "compression_ratio": 1.5866141319274902,
+        "end": 47.34000015258789,
+        "no_speech_prob": 0.0019866202492266893,
+        "seek": 2544,
+        "start": 43.540000915527344,
+        "temperature": 0.0,
+        "text": " With AI coming and with all the countless Serum 2 presets out there, I always ask myself,",
+        "tokens": [
+          51274,
+          2022,
+          7318,
+          1348,
+          293,
+          365,
+          439,
+          264,
+          19223,
+          4210,
+          449,
+          568,
+          41865,
+          484,
+          456,
+          11,
+          286,
+          1009,
+          1029,
+          2059,
+          11,
+          51458
+        ]
+      },
+      {
+        "id": 9,
+        "avg_logprob": -0.3522196114063263,
+        "compression_ratio": 1.5866141319274902,
+        "end": 50.939998626708984,
+        "no_speech_prob": 0.0019866202492266893,
+        "seek": 2544,
+        "start": 47.380001068115234,
+        "temperature": 0.0,
+        "text": " how can I provide something to you guys that's different, at least provides a different flavor?",
+        "tokens": [
+          51458,
+          577,
+          393,
+          286,
+          2893,
+          746,
+          281,
+          291,
+          1074,
+          300,
+          311,
+          819,
+          11,
+          412,
+          1935,
+          6417,
+          257,
+          819,
+          6813,
+          30,
+          51638
+        ]
+      },
+      {
+        "id": 10,
+        "avg_logprob": -0.3522196114063263,
+        "compression_ratio": 1.5866141319274902,
+        "end": 52.619998931884766,
+        "no_speech_prob": 0.0019866202492266893,
+        "seek": 2544,
+        "start": 51.02000045776367,
+        "temperature": 0.0,
+        "text": " It's not that analog is better than digital.",
+        "tokens": [
+          51638,
+          467,
+          311,
+          406,
+          300,
+          16660,
+          307,
+          1101,
+          813,
+          4562,
+          13,
+          51740
+        ]
+      },
+      {
+        "id": 11,
+        "avg_logprob": -0.3522196114063263,
+        "compression_ratio": 1.5866141319274902,
+        "end": 54.459999084472656,
+        "no_speech_prob": 0.0019866202492266893,
+        "seek": 2544,
+        "start": 52.779998779296875,
+        "temperature": 0.0,
+        "text": " It's all about providing that option.",
+        "tokens": [
+          51740,
+          467,
+          311,
+          439,
+          466,
+          6530,
+          300,
+          3614,
+          13,
+          51818
+        ]
+      },
+      {
+        "id": 12,
+        "avg_logprob": -0.4470290243625641,
+        "compression_ratio": 1.3617020845413208,
+        "end": 56.29999923706055,
+        "no_speech_prob": 0.00047278456622734666,
+        "seek": 5446,
+        "start": 54.459999084472656,
+        "temperature": 0.0,
+        "text": " FM style baselines are also coming in.",
+        "tokens": [
+          50370,
+          29614,
+          3758,
+          987,
+          9173,
+          366,
+          611,
+          1348,
+          294,
+          13,
+          50456
+        ]
+      },
+      {
+        "id": 13,
+        "avg_logprob": -0.4470290243625641,
+        "compression_ratio": 1.3617020845413208,
+        "end": 70.18000030517578,
+        "no_speech_prob": 0.00047278456622734666,
+        "seek": 5446,
+        "start": 66.69999694824219,
+        "temperature": 0.0,
+        "text": " So if you've been seeking a different style of bassline for your tech house or minimal",
+        "tokens": [
+          50456,
+          407,
+          498,
+          291,
+          600,
+          668,
+          11670,
+          257,
+          819,
+          3758,
+          295,
+          10136,
+          1889,
+          337,
+          428,
+          7553,
+          1782,
+          420,
+          13206,
+          51146
+        ]
+      },
+      {
+        "id": 14,
+        "avg_logprob": -0.4470290243625641,
+        "compression_ratio": 1.3617020845413208,
+        "end": 71.63999938964844,
+        "no_speech_prob": 0.00047278456622734666,
+        "seek": 5446,
+        "start": 70.18000030517578,
+        "temperature": 0.0,
+        "text": " house tracks, I got you.",
+        "tokens": [
+          51146,
+          1782,
+          10218,
+          11,
+          286,
+          658,
+          291,
+          13,
+          51232
+        ]
+      },
+      {
+        "id": 15,
+        "avg_logprob": -0.4470290243625641,
+        "compression_ratio": 1.3617020845413208,
+        "end": 76.22000122070312,
+        "no_speech_prob": 0.00047278456622734666,
+        "seek": 5446,
+        "start": 71.76000213623047,
+        "temperature": 0.0,
+        "text": " Here's one by Riordan that I really like.",
+        "tokens": [
+          51232,
+          1692,
+          311,
+          472,
+          538,
+          33668,
+          8968,
+          300,
+          286,
+          534,
+          411,
+          13,
+          51452
+        ]
+      },
+      {
+        "id": 16,
+        "avg_logprob": -0.2562226951122284,
+        "compression_ratio": 1.6244897842407227,
+        "end": 84.54000091552734,
+        "no_speech_prob": 0.0008164778118953109,
+        "seek": 7622,
+        "start": 80.77999877929688,
+        "temperature": 0.0,
+        "text": " The key thing for me is, yes, we can sample a lot of these baselines because this genre",
+        "tokens": [
+          50364,
+          440,
+          2141,
+          551,
+          337,
+          385,
+          307,
+          11,
+          2086,
+          11,
+          321,
+          393,
+          6889,
+          257,
+          688,
+          295,
+          613,
+          987,
+          9173,
+          570,
+          341,
+          11022,
+          50780
+        ]
+      },
+      {
+        "id": 17,
+        "avg_logprob": -0.2562226951122284,
+        "compression_ratio": 1.6244897842407227,
+        "end": 85.19999694824219,
+        "no_speech_prob": 0.0008164778118953109,
+        "seek": 7622,
+        "start": 84.54000091552734,
+        "temperature": 0.0,
+        "text": " is very sampled.",
+        "tokens": [
+          50780,
+          307,
+          588,
+          3247,
+          15551,
+          13,
+          50830
+        ]
+      },
+      {
+        "id": 18,
+        "avg_logprob": -0.2562226951122284,
+        "compression_ratio": 1.6244897842407227,
+        "end": 87.37999725341797,
+        "no_speech_prob": 0.0008164778118953109,
+        "seek": 7622,
+        "start": 85.27999877929688,
+        "temperature": 0.0,
+        "text": " But for me, it's like paying homage, right?",
+        "tokens": [
+          50830,
+          583,
+          337,
+          385,
+          11,
+          309,
+          311,
+          411,
+          6229,
+          44073,
+          11,
+          558,
+          30,
+          50926
+        ]
+      },
+      {
+        "id": 19,
+        "avg_logprob": -0.2562226951122284,
+        "compression_ratio": 1.6244897842407227,
+        "end": 90.4800033569336,
+        "no_speech_prob": 0.0008164778118953109,
+        "seek": 7622,
+        "start": 87.37999725341797,
+        "temperature": 0.0,
+        "text": " You learn from the past that you don't peak in the past.",
+        "tokens": [
+          50926,
+          509,
+          1466,
+          490,
+          264,
+          1791,
+          300,
+          291,
+          500,
+          380,
+          10651,
+          294,
+          264,
+          1791,
+          13,
+          51082
+        ]
+      },
+      {
+        "id": 20,
+        "avg_logprob": -0.2562226951122284,
+        "compression_ratio": 1.6244897842407227,
+        "end": 91.36000061035156,
+        "no_speech_prob": 0.0008164778118953109,
+        "seek": 7622,
+        "start": 90.54000091552734,
+        "temperature": 0.0,
+        "text": " You don't peak in high school.",
+        "tokens": [
+          51082,
+          509,
+          500,
+          380,
+          10651,
+          294,
+          1090,
+          1395,
+          13,
+          51132
+        ]
+      },
+      {
+        "id": 21,
+        "avg_logprob": -0.2562226951122284,
+        "compression_ratio": 1.6244897842407227,
+        "end": 94.55999755859375,
+        "no_speech_prob": 0.0008164778118953109,
+        "seek": 7622,
+        "start": 91.4000015258789,
+        "temperature": 0.0,
+        "text": " You use that to kind of move forward and innovate on what they've done.",
+        "tokens": [
+          51132,
+          509,
+          764,
+          300,
+          281,
+          733,
+          295,
+          1286,
+          2128,
+          293,
+          33444,
+          322,
+          437,
+          436,
+          600,
+          1096,
+          13,
+          51302
+        ]
+      },
+      {
+        "id": 22,
+        "avg_logprob": -0.2562226951122284,
+        "compression_ratio": 1.6244897842407227,
+        "end": 98.37999725341797,
+        "no_speech_prob": 0.0008164778118953109,
+        "seek": 7622,
+        "start": 94.86000061035156,
+        "temperature": 0.0,
+        "text": " Learning the process of it allows me to provide different flavors that are similar to it,",
+        "tokens": [
+          51302,
+          15205,
+          264,
+          1399,
+          295,
+          309,
+          4045,
+          385,
+          281,
+          2893,
+          819,
+          16303,
+          300,
+          366,
+          2531,
+          281,
+          309,
+          11,
+          51476
+        ]
+      },
+      {
+        "id": 23,
+        "avg_logprob": -0.4872364401817322,
+        "compression_ratio": 1.0,
+        "end": 99.73999786376953,
+        "no_speech_prob": 0.797831654548645,
+        "seek": 9838,
+        "start": 98.37999725341797,
+        "temperature": 0.0,
+        "text": " but can be a little bit more unique.",
+        "tokens": [
+          50364,
+          457,
+          393,
+          312,
+          257,
+          707,
+          857,
+          544,
+          3845,
+          13,
+          50836
+        ]
+      },
+      {
+        "id": 24,
+        "avg_logprob": -0.4872364401817322,
+        "compression_ratio": 1.0,
+        "end": 110.86000061035156,
+        "no_speech_prob": 0.797831654548645,
+        "seek": 9838,
+        "start": 107.81999969482422,
+        "temperature": 0.0,
+        "text": " Some people like Dior, but I like Prada.",
+        "tokens": [
+          50836,
+          2188,
+          561,
+          411,
+          413,
+          1973,
+          11,
+          457,
+          286,
+          411,
+          2114,
+          1538,
+          13,
+          51226
+        ]
+      },
+      {
+        "id": 25,
+        "avg_logprob": -0.38889753818511963,
+        "compression_ratio": 1.3185840845108032,
+        "end": 120.05999755859375,
+        "no_speech_prob": 0.010166374035179615,
+        "seek": 11086,
+        "start": 115.30000305175781,
+        "temperature": 0.0,
+        "text": " Let's get spicy with this one.",
+        "tokens": [
+          50364,
+          961,
+          311,
+          483,
+          9127,
+          365,
+          341,
+          472,
+          13,
+          51504
+        ]
+      },
+      {
+        "id": 26,
+        "avg_logprob": -0.38889753818511963,
+        "compression_ratio": 1.3185840845108032,
+        "end": 136.4199981689453,
+        "no_speech_prob": 0.010166374035179615,
+        "seek": 11086,
+        "start": 133.3000030517578,
+        "temperature": 0.0,
+        "text": " This is one of the ones that sampled from some of the stuff over there to give you,",
+        "tokens": [
+          51504,
+          639,
+          307,
+          472,
+          295,
+          264,
+          2306,
+          300,
+          3247,
+          15551,
+          490,
+          512,
+          295,
+          264,
+          1507,
+          670,
+          456,
+          281,
+          976,
+          291,
+          11,
+          51644
+        ]
+      },
+      {
+        "id": 27,
+        "avg_logprob": -0.38889753818511963,
+        "compression_ratio": 1.3185840845108032,
+        "end": 137.9199981689453,
+        "no_speech_prob": 0.010166374035179615,
+        "seek": 11086,
+        "start": 136.72000122070312,
+        "temperature": 0.0,
+        "text": " again, access to a different tone.",
+        "tokens": [
+          51644,
+          797,
+          11,
+          2105,
+          281,
+          257,
+          819,
+          8027,
+          13,
+          51720
+        ]
+      },
+      {
+        "id": 28,
+        "avg_logprob": -0.3260290324687958,
+        "compression_ratio": 1.528037428855896,
+        "end": 142.25999450683594,
+        "no_speech_prob": 0.00745192589238286,
+        "seek": 13792,
+        "start": 137.9199981689453,
+        "temperature": 0.0,
+        "text": " It's the same proven to work sound that Josh Baker uses, but now it has its own flavor.",
+        "tokens": [
+          50370,
+          467,
+          311,
+          264,
+          912,
+          12785,
+          281,
+          589,
+          1626,
+          300,
+          9785,
+          25780,
+          4960,
+          11,
+          457,
+          586,
+          309,
+          575,
+          1080,
+          1065,
+          6813,
+          13,
+          50570
+        ]
+      },
+      {
+        "id": 29,
+        "avg_logprob": -0.3260290324687958,
+        "compression_ratio": 1.528037428855896,
+        "end": 146.22000122070312,
+        "no_speech_prob": 0.00745192589238286,
+        "seek": 13792,
+        "start": 142.39999389648438,
+        "temperature": 0.0,
+        "text": " Because if people ask, yo man, it sounds kind of like Josh Baker, you go, yeah, you know,",
+        "tokens": [
+          50570,
+          1436,
+          498,
+          561,
+          1029,
+          11,
+          5290,
+          587,
+          11,
+          309,
+          3263,
+          733,
+          295,
+          411,
+          9785,
+          25780,
+          11,
+          291,
+          352,
+          11,
+          1338,
+          11,
+          291,
+          458,
+          11,
+          50786
+        ]
+      },
+      {
+        "id": 30,
+        "avg_logprob": -0.3260290324687958,
+        "compression_ratio": 1.528037428855896,
+        "end": 149.33999633789062,
+        "no_speech_prob": 0.00745192589238286,
+        "seek": 13792,
+        "start": 146.24000549316406,
+        "temperature": 0.0,
+        "text": " but I kind of reworked it a bit and made it my own, man.",
+        "tokens": [
+          50786,
+          457,
+          286,
+          733,
+          295,
+          48376,
+          292,
+          309,
+          257,
+          857,
+          293,
+          1027,
+          309,
+          452,
+          1065,
+          11,
+          587,
+          13,
+          51376
+        ]
+      },
+      {
+        "id": 31,
+        "avg_logprob": -0.3260290324687958,
+        "compression_ratio": 1.528037428855896,
+        "end": 162.3800048828125,
+        "no_speech_prob": 0.00745192589238286,
+        "seek": 13792,
+        "start": 157.89999389648438,
+        "temperature": 0.0,
+        "text": " Now Minimal Nights Volume 3 is going to contain basslines, chords, stabs, leads, plucks, all",
+        "tokens": [
+          51376,
+          823,
+          2829,
+          10650,
+          426,
+          5761,
+          38448,
+          805,
+          307,
+          516,
+          281,
+          5304,
+          10136,
+          11045,
+          11,
+          21733,
+          11,
+          16343,
+          82,
+          11,
+          6689,
+          11,
+          499,
+          15493,
+          11,
+          439,
+          51584
+        ]
+      },
+      {
+        "id": 32,
+        "avg_logprob": -0.4705533981323242,
+        "compression_ratio": 1.1204819679260254,
+        "end": 170.25999450683594,
+        "no_speech_prob": 0.17984607815742493,
+        "seek": 16238,
+        "start": 162.3800048828125,
+        "temperature": 0.0,
+        "text": " in the style of the UK guys.",
+        "tokens": [
+          50364,
+          294,
+          264,
+          3758,
+          295,
+          264,
+          7051,
+          1074,
+          13,
+          51370
+        ]
+      },
+      {
+        "id": 33,
+        "avg_logprob": -0.4705533981323242,
+        "compression_ratio": 1.1204819679260254,
+        "end": 184.63999938964844,
+        "no_speech_prob": 0.17984607815742493,
+        "seek": 16238,
+        "start": 182.16000366210938,
+        "temperature": 0.0,
+        "text": " Some genres also for the breaks, they have these kind of sounds.",
+        "tokens": [
+          51370,
+          2188,
+          30057,
+          611,
+          337,
+          264,
+          9857,
+          11,
+          436,
+          362,
+          613,
+          733,
+          295,
+          3263,
+          13,
+          51732
+        ]
+      },
+      {
+        "id": 34,
+        "avg_logprob": -0.4263722896575928,
+        "compression_ratio": 1.1683168411254883,
+        "end": 201.02000427246094,
+        "no_speech_prob": 0.006898595951497555,
+        "seek": 18464,
+        "start": 189.24000549316406,
+        "temperature": 0.0,
+        "text": " I really want one of you guys to use this sound, especially the Dusty Shop, it's a substance",
+        "tokens": [
+          50364,
+          286,
+          534,
+          528,
+          472,
+          295,
+          291,
+          1074,
+          281,
+          764,
+          341,
+          1626,
+          11,
+          2318,
+          264,
+          26483,
+          88,
+          16319,
+          11,
+          309,
+          311,
+          257,
+          12961,
+          51196
+        ]
+      },
+      {
+        "id": 35,
+        "avg_logprob": -0.4263722896575928,
+        "compression_ratio": 1.1683168411254883,
+        "end": 204.74000549316406,
+        "no_speech_prob": 0.006898595951497555,
+        "seek": 18464,
+        "start": 201.02000427246094,
+        "temperature": 0.0,
+        "text": " that makes you feel good.",
+        "tokens": [
+          51196,
+          300,
+          1669,
+          291,
+          841,
+          665,
+          13,
+          51786
+        ]
+      },
+      {
+        "id": 36,
+        "avg_logprob": -0.26884517073631287,
+        "compression_ratio": 1.4482758045196533,
+        "end": 216.4600067138672,
+        "no_speech_prob": 0.005056922789663076,
+        "seek": 20474,
+        "start": 212.75999450683594,
+        "temperature": 0.0,
+        "text": " This part, one of my favorite sounds, with Serum 2 being out for a while, I really wanted",
+        "tokens": [
+          50364,
+          639,
+          644,
+          11,
+          472,
+          295,
+          452,
+          2954,
+          3263,
+          11,
+          365,
+          4210,
+          449,
+          568,
+          885,
+          484,
+          337,
+          257,
+          1339,
+          11,
+          286,
+          534,
+          1415,
+          50950
+        ]
+      },
+      {
+        "id": 37,
+        "avg_logprob": -0.26884517073631287,
+        "compression_ratio": 1.4482758045196533,
+        "end": 221.1999969482422,
+        "no_speech_prob": 0.005056922789663076,
+        "seek": 20474,
+        "start": 216.77999877929688,
+        "temperature": 0.0,
+        "text": " to capture the granular sound of it, but in a cool way that can add to the song rather",
+        "tokens": [
+          50950,
+          281,
+          7983,
+          264,
+          39962,
+          1626,
+          295,
+          309,
+          11,
+          457,
+          294,
+          257,
+          1627,
+          636,
+          300,
+          393,
+          909,
+          281,
+          264,
+          2153,
+          2831,
+          51188
+        ]
+      },
+      {
+        "id": 38,
+        "avg_logprob": -0.26884517073631287,
+        "compression_ratio": 1.4482758045196533,
+        "end": 223.22000122070312,
+        "no_speech_prob": 0.005056922789663076,
+        "seek": 20474,
+        "start": 221.1999969482422,
+        "temperature": 0.0,
+        "text": " than just go, oh, cool, granular, and that's it.",
+        "tokens": [
+          51188,
+          813,
+          445,
+          352,
+          11,
+          1954,
+          11,
+          1627,
+          11,
+          39962,
+          11,
+          293,
+          300,
+          311,
+          309,
+          13,
+          51306
+        ]
+      },
+      {
+        "id": 39,
+        "avg_logprob": -0.26884517073631287,
+        "compression_ratio": 1.4482758045196533,
+        "end": 224.4199981689453,
+        "no_speech_prob": 0.005056922789663076,
+        "seek": 20474,
+        "start": 223.4199981689453,
+        "temperature": 0.0,
+        "text": " So this is a good example.",
+        "tokens": [
+          51306,
+          407,
+          341,
+          307,
+          257,
+          665,
+          1365,
+          13,
+          51356
+        ]
+      },
+      {
+        "id": 40,
+        "avg_logprob": -0.5199295282363892,
+        "compression_ratio": 1.0,
+        "end": 232.6199951171875,
+        "no_speech_prob": 0.5908445119857788,
+        "seek": 22442,
+        "start": 224.4199981689453,
+        "temperature": 0.0,
+        "text": " For example, we're going to bring this mod up, which activates this.",
+        "tokens": [
+          50364,
+          1171,
+          1365,
+          11,
+          321,
+          434,
+          516,
+          281,
+          1565,
+          341,
+          1072,
+          493,
+          11,
+          597,
+          43869,
+          341,
+          13,
+          51058
+        ]
+      },
+      {
+        "id": 41,
+        "avg_logprob": -0.4752132296562195,
+        "compression_ratio": 1.1958762407302856,
+        "end": 306.0,
+        "no_speech_prob": 0.03457299619913101,
+        "seek": 29262,
+        "start": 300.8999938964844,
+        "temperature": 0.0,
+        "text": " And I had to add this one.",
+        "tokens": [
+          50364,
+          400,
+          286,
+          632,
+          281,
+          909,
+          341,
+          472,
+          13,
+          51426
+        ]
+      },
+      {
+        "id": 42,
+        "avg_logprob": -0.4752132296562195,
+        "compression_ratio": 1.1958762407302856,
+        "end": 318.0799865722656,
+        "no_speech_prob": 0.03457299619913101,
+        "seek": 29262,
+        "start": 313.4800109863281,
+        "temperature": 0.0,
+        "text": " The good thing is there was a bunch of guys online debating about how that sound is made,",
+        "tokens": [
+          51426,
+          440,
+          665,
+          551,
+          307,
+          456,
+          390,
+          257,
+          3840,
+          295,
+          1074,
+          2950,
+          40647,
+          466,
+          577,
+          300,
+          1626,
+          307,
+          1027,
+          11,
+          51642
+        ]
+      },
+      {
+        "id": 43,
+        "avg_logprob": -0.36118191480636597,
+        "compression_ratio": 1.4662576913833618,
+        "end": 320.5400085449219,
+        "no_speech_prob": 0.0826280266046524,
+        "seek": 31808,
+        "start": 318.0799865722656,
+        "temperature": 0.0,
+        "text": " which gave me the tools needed to recreate it.",
+        "tokens": [
+          50364,
+          597,
+          2729,
+          385,
+          264,
+          3873,
+          2978,
+          281,
+          25833,
+          309,
+          13,
+          50484
+        ]
+      },
+      {
+        "id": 44,
+        "avg_logprob": -0.36118191480636597,
+        "compression_ratio": 1.4662576913833618,
+        "end": 321.4800109863281,
+        "no_speech_prob": 0.0826280266046524,
+        "seek": 31808,
+        "start": 320.70001220703125,
+        "temperature": 0.0,
+        "text": " So that was fun.",
+        "tokens": [
+          50484,
+          407,
+          300,
+          390,
+          1019,
+          13,
+          50534
+        ]
+      },
+      {
+        "id": 45,
+        "avg_logprob": -0.36118191480636597,
+        "compression_ratio": 1.4662576913833618,
+        "end": 342.8399963378906,
+        "no_speech_prob": 0.0826280266046524,
+        "seek": 31808,
+        "start": 338.1000061035156,
+        "temperature": 0.0,
+        "text": " Very spacey sounds, very nasty basslines that are a little bit more defined, because in",
+        "tokens": [
+          51364,
+          4372,
+          1901,
+          88,
+          3263,
+          11,
+          588,
+          17923,
+          10136,
+          11045,
+          300,
+          366,
+          257,
+          707,
+          857,
+          544,
+          7642,
+          11,
+          570,
+          294,
+          51600
+        ]
+      },
+      {
+        "id": 46,
+        "avg_logprob": -0.36118191480636597,
+        "compression_ratio": 1.4662576913833618,
+        "end": 346.67999267578125,
+        "no_speech_prob": 0.0826280266046524,
+        "seek": 31808,
+        "start": 342.8399963378906,
+        "temperature": 0.0,
+        "text": " my mind, when I make these sounds, my hope is that you grab them and you infuse it with",
+        "tokens": [
+          51600,
+          452,
+          1575,
+          11,
+          562,
+          286,
+          652,
+          613,
+          3263,
+          11,
+          452,
+          1454,
+          307,
+          300,
+          291,
+          4444,
+          552,
+          293,
+          291,
+          1536,
+          438,
+          309,
+          365,
+          51794
+        ]
+      },
+      {
+        "id": 47,
+        "avg_logprob": -0.30834129452705383,
+        "compression_ratio": 1.6264591217041016,
+        "end": 348.3800048828125,
+        "no_speech_prob": 0.09125297516584396,
+        "seek": 34668,
+        "start": 346.67999267578125,
+        "temperature": 0.0,
+        "text": " what you already do best.",
+        "tokens": [
+          50364,
+          437,
+          291,
+          1217,
+          360,
+          1151,
+          13,
+          50460
+        ]
+      },
+      {
+        "id": 48,
+        "avg_logprob": -0.30834129452705383,
+        "compression_ratio": 1.6264591217041016,
+        "end": 352.1000061035156,
+        "no_speech_prob": 0.09125297516584396,
+        "seek": 34668,
+        "start": 348.4599914550781,
+        "temperature": 0.0,
+        "text": " Maybe the sounds can work in a break, you can infuse it with your drop elements that",
+        "tokens": [
+          50460,
+          2704,
+          264,
+          3263,
+          393,
+          589,
+          294,
+          257,
+          1821,
+          11,
+          291,
+          393,
+          1536,
+          438,
+          309,
+          365,
+          428,
+          3270,
+          4959,
+          300,
+          50630
+        ]
+      },
+      {
+        "id": 49,
+        "avg_logprob": -0.30834129452705383,
+        "compression_ratio": 1.6264591217041016,
+        "end": 353.0400085449219,
+        "no_speech_prob": 0.09125297516584396,
+        "seek": 34668,
+        "start": 352.1000061035156,
+        "temperature": 0.0,
+        "text": " you usually go for.",
+        "tokens": [
+          50630,
+          291,
+          2673,
+          352,
+          337,
+          13,
+          50680
+        ]
+      },
+      {
+        "id": 50,
+        "avg_logprob": -0.30834129452705383,
+        "compression_ratio": 1.6264591217041016,
+        "end": 356.4800109863281,
+        "no_speech_prob": 0.09125297516584396,
+        "seek": 34668,
+        "start": 353.1000061035156,
+        "temperature": 0.0,
+        "text": " At the end of the day, that's the beauty of music, is that you can mix and match different",
+        "tokens": [
+          50680,
+          1711,
+          264,
+          917,
+          295,
+          264,
+          786,
+          11,
+          300,
+          311,
+          264,
+          6643,
+          295,
+          1318,
+          11,
+          307,
+          300,
+          291,
+          393,
+          2890,
+          293,
+          2995,
+          819,
+          50866
+        ]
+      },
+      {
+        "id": 51,
+        "avg_logprob": -0.30834129452705383,
+        "compression_ratio": 1.6264591217041016,
+        "end": 361.2200012207031,
+        "no_speech_prob": 0.09125297516584396,
+        "seek": 34668,
+        "start": 356.4800109863281,
+        "temperature": 0.0,
+        "text": " sounds, different genres to create new things that are still familiar, but fresh to your",
+        "tokens": [
+          50866,
+          3263,
+          11,
+          819,
+          30057,
+          281,
+          1884,
+          777,
+          721,
+          300,
+          366,
+          920,
+          4963,
+          11,
+          457,
+          4451,
+          281,
+          428,
+          51082
+        ]
+      },
+      {
+        "id": 52,
+        "avg_logprob": -0.30834129452705383,
+        "compression_ratio": 1.6264591217041016,
+        "end": 361.4599914550781,
+        "no_speech_prob": 0.09125297516584396,
+        "seek": 34668,
+        "start": 361.2200012207031,
+        "temperature": 0.0,
+        "text": " listeners.",
+        "tokens": [
+          51082,
+          23274,
+          13,
+          51132
+        ]
+      },
+      {
+        "id": 53,
+        "avg_logprob": -0.30834129452705383,
+        "compression_ratio": 1.6264591217041016,
+        "end": 362.5199890136719,
+        "no_speech_prob": 0.09125297516584396,
+        "seek": 34668,
+        "start": 361.5400085449219,
+        "temperature": 0.0,
+        "text": " I like this one a lot.",
+        "tokens": [
+          51132,
+          286,
+          411,
+          341,
+          472,
+          257,
+          688,
+          13,
+          51182
+        ]
+      },
+      {
+        "id": 54,
+        "avg_logprob": -0.30834129452705383,
+        "compression_ratio": 1.6264591217041016,
+        "end": 363.6199951171875,
+        "no_speech_prob": 0.09125297516584396,
+        "seek": 34668,
+        "start": 362.6400146484375,
+        "temperature": 0.0,
+        "text": " The Dean Brothers, man.",
+        "tokens": [
+          51182,
+          440,
+          13324,
+          19886,
+          11,
+          587,
+          13,
+          51232
+        ]
+      },
+      {
+        "id": 55,
+        "avg_logprob": -0.30834129452705383,
+        "compression_ratio": 1.6264591217041016,
+        "end": 364.7200012207031,
+        "no_speech_prob": 0.09125297516584396,
+        "seek": 34668,
+        "start": 363.6199951171875,
+        "temperature": 0.0,
+        "text": " I'm no hater, man.",
+        "tokens": [
+          51232,
+          286,
+          478,
+          572,
+          276,
+          771,
+          11,
+          587,
+          13,
+          51282
+        ]
+      },
+      {
+        "id": 56,
+        "avg_logprob": -0.30834129452705383,
+        "compression_ratio": 1.6264591217041016,
+        "end": 366.8999938964844,
+        "no_speech_prob": 0.09125297516584396,
+        "seek": 34668,
+        "start": 365.29998779296875,
+        "temperature": 0.0,
+        "text": " Goddamn, they're fucking good.",
+        "tokens": [
+          51282,
+          1265,
+          25324,
+          11,
+          436,
+          434,
+          5546,
+          665,
+          13,
+          51332
+        ]
+      },
+      {
+        "id": 57,
+        "avg_logprob": -0.44368264079093933,
+        "compression_ratio": 1.3311688899993896,
+        "end": 370.8399963378906,
+        "no_speech_prob": 0.17092391848564148,
+        "seek": 36690,
+        "start": 366.8999938964844,
+        "temperature": 0.0,
+        "text": " You can't get me out of your mind.",
+        "tokens": [
+          50382,
+          509,
+          393,
+          380,
+          483,
+          385,
+          484,
+          295,
+          428,
+          1575,
+          13,
+          50582
+        ]
+      },
+      {
+        "id": 58,
+        "avg_logprob": -0.44368264079093933,
+        "compression_ratio": 1.3311688899993896,
+        "end": 373.9800109863281,
+        "no_speech_prob": 0.17092391848564148,
+        "seek": 36690,
+        "start": 371.739990234375,
+        "temperature": 0.0,
+        "text": " Oh, you got me going insane.",
+        "tokens": [
+          50582,
+          876,
+          11,
+          291,
+          658,
+          385,
+          516,
+          10838,
+          13,
+          50732
+        ]
+      },
+      {
+        "id": 59,
+        "avg_logprob": -0.44368264079093933,
+        "compression_ratio": 1.3311688899993896,
+        "end": 378.29998779296875,
+        "no_speech_prob": 0.17092391848564148,
+        "seek": 36690,
+        "start": 376.05999755859375,
+        "temperature": 0.0,
+        "text": " A really nice acid bass sound.",
+        "tokens": [
+          50832,
+          316,
+          534,
+          1481,
+          8258,
+          10136,
+          1626,
+          13,
+          50932
+        ]
+      },
+      {
+        "id": 60,
+        "avg_logprob": -0.44368264079093933,
+        "compression_ratio": 1.3311688899993896,
+        "end": 391.79998779296875,
+        "no_speech_prob": 0.17092391848564148,
+        "seek": 36690,
+        "start": 388.2200012207031,
+        "temperature": 0.0,
+        "text": " Now, Chris Duzzi has been on a little bit of a hiatus, but it's all good.",
+        "tokens": [
+          51432,
+          823,
+          11,
+          6688,
+          413,
+          3334,
+          3992,
+          575,
+          668,
+          322,
+          257,
+          707,
+          857,
+          295,
+          257,
+          4879,
+          37926,
+          11,
+          457,
+          309,
+          311,
+          439,
+          665,
+          13,
+          51582
+        ]
+      },
+      {
+        "id": 61,
+        "avg_logprob": -0.44368264079093933,
+        "compression_ratio": 1.3311688899993896,
+        "end": 392.8800048828125,
+        "no_speech_prob": 0.17092391848564148,
+        "seek": 36690,
+        "start": 391.8599853515625,
+        "temperature": 0.0,
+        "text": " I'm pretty sure he's making bangers.",
+        "tokens": [
+          51582,
+          286,
+          478,
+          1238,
+          988,
+          415,
+          311,
+          1455,
+          8550,
+          433,
+          13,
+          51682
+        ]
+      },
+      {
+        "id": 62,
+        "avg_logprob": -0.2639508843421936,
+        "compression_ratio": 1.3105590343475342,
+        "end": 407.0799865722656,
+        "no_speech_prob": 0.0006070458330214024,
+        "seek": 39690,
+        "start": 405.1600036621094,
+        "temperature": 0.0,
+        "text": " Oh, I love that cocaine knob.",
+        "tokens": [
+          50382,
+          876,
+          11,
+          286,
+          959,
+          300,
+          33933,
+          26759,
+          13,
+          50882
+        ]
+      },
+      {
+        "id": 63,
+        "avg_logprob": -0.2639508843421936,
+        "compression_ratio": 1.3105590343475342,
+        "end": 421.5,
+        "no_speech_prob": 0.0006070458330214024,
+        "seek": 39690,
+        "start": 416.1000061035156,
+        "temperature": 0.0,
+        "text": " Now, this particular patch is inspired by the Roland style JB 1080 synths, where it's",
+        "tokens": [
+          51382,
+          823,
+          11,
+          341,
+          1729,
+          9972,
+          307,
+          7547,
+          538,
+          264,
+          39357,
+          3758,
+          43019,
+          24547,
+          10657,
+          82,
+          11,
+          689,
+          309,
+          311,
+          51592
+        ]
+      },
+      {
+        "id": 64,
+        "avg_logprob": -0.2639508843421936,
+        "compression_ratio": 1.3105590343475342,
+        "end": 426.8800048828125,
+        "no_speech_prob": 0.0006070458330214024,
+        "seek": 39690,
+        "start": 421.5,
+        "temperature": 0.0,
+        "text": " a combination of an organic sound with a spectral wavetable sound as a layer, which sounds like",
+        "tokens": [
+          51592,
+          257,
+          6562,
+          295,
+          364,
+          10220,
+          1626,
+          365,
+          257,
+          42761,
+          261,
+          706,
+          302,
+          712,
+          1626,
+          382,
+          257,
+          4583,
+          11,
+          597,
+          3263,
+          411,
+          51860
+        ]
+      },
+      {
+        "id": 65,
+        "avg_logprob": -0.2970679700374603,
+        "compression_ratio": 1.4955357313156128,
+        "end": 427.3999938964844,
+        "no_speech_prob": 0.0005357154295779765,
+        "seek": 42688,
+        "start": 426.8800048828125,
+        "temperature": 0.0,
+        "text": " this.",
+        "tokens": [
+          50364,
+          341,
+          13,
+          50414
+        ]
+      },
+      {
+        "id": 66,
+        "avg_logprob": -0.2970679700374603,
+        "compression_ratio": 1.4955357313156128,
+        "end": 437.0199890136719,
+        "no_speech_prob": 0.0005357154295779765,
+        "seek": 42688,
+        "start": 435.739990234375,
+        "temperature": 0.0,
+        "text": " You can see what it adds.",
+        "tokens": [
+          50814,
+          509,
+          393,
+          536,
+          437,
+          309,
+          10860,
+          13,
+          50864
+        ]
+      },
+      {
+        "id": 67,
+        "avg_logprob": -0.2970679700374603,
+        "compression_ratio": 1.4955357313156128,
+        "end": 440.3399963378906,
+        "no_speech_prob": 0.0005357154295779765,
+        "seek": 42688,
+        "start": 437.0799865722656,
+        "temperature": 0.0,
+        "text": " It adds a nice mystical flow to the sound, and that's the power of it.",
+        "tokens": [
+          50864,
+          467,
+          10860,
+          257,
+          1481,
+          40565,
+          3095,
+          281,
+          264,
+          1626,
+          11,
+          293,
+          300,
+          311,
+          264,
+          1347,
+          295,
+          309,
+          13,
+          51038
+        ]
+      },
+      {
+        "id": 68,
+        "avg_logprob": -0.2970679700374603,
+        "compression_ratio": 1.4955357313156128,
+        "end": 447.6400146484375,
+        "no_speech_prob": 0.0005357154295779765,
+        "seek": 42688,
+        "start": 440.6000061035156,
+        "temperature": 0.0,
+        "text": " I wanted to remake this one because this track went viral on TikTok, which I believe is inspired",
+        "tokens": [
+          51038,
+          286,
+          1415,
+          281,
+          28582,
+          341,
+          472,
+          570,
+          341,
+          2837,
+          1437,
+          16132,
+          322,
+          20211,
+          11,
+          597,
+          286,
+          1697,
+          307,
+          7547,
+          51402
+        ]
+      },
+      {
+        "id": 69,
+        "avg_logprob": -0.2970679700374603,
+        "compression_ratio": 1.4955357313156128,
+        "end": 451.67999267578125,
+        "no_speech_prob": 0.0005357154295779765,
+        "seek": 42688,
+        "start": 447.6400146484375,
+        "temperature": 0.0,
+        "text": " by one of Donna Summer's tracks, which was produced by Giorgio Moroder, but it's a really",
+        "tokens": [
+          51402,
+          538,
+          472,
+          295,
+          31938,
+          16161,
+          311,
+          10218,
+          11,
+          597,
+          390,
+          7126,
+          538,
+          460,
+          1973,
+          17862,
+          5146,
+          19866,
+          11,
+          457,
+          309,
+          311,
+          257,
+          534,
+          51598
+        ]
+      },
+      {
+        "id": 70,
+        "avg_logprob": -0.2970679700374603,
+        "compression_ratio": 1.4955357313156128,
+        "end": 454.239990234375,
+        "no_speech_prob": 0.0005357154295779765,
+        "seek": 42688,
+        "start": 451.67999267578125,
+        "temperature": 0.0,
+        "text": " cool sound with just a nice 80s flavor to it.",
+        "tokens": [
+          51598,
+          1627,
+          1626,
+          365,
+          445,
+          257,
+          1481,
+          4688,
+          82,
+          6813,
+          281,
+          309,
+          13,
+          51732
+        ]
+      },
+      {
+        "id": 71,
+        "avg_logprob": -0.3585045635700226,
+        "compression_ratio": 1.7642585039138794,
+        "end": 456.8599853515625,
+        "no_speech_prob": 0.0038824337534606457,
+        "seek": 45424,
+        "start": 454.239990234375,
+        "temperature": 0.0,
+        "text": " The cool thing about presets, right, is if you use the sound, it's kind of like, OK,",
+        "tokens": [
+          50382,
+          440,
+          1627,
+          551,
+          466,
+          41865,
+          11,
+          558,
+          11,
+          307,
+          498,
+          291,
+          764,
+          264,
+          1626,
+          11,
+          309,
+          311,
+          733,
+          295,
+          411,
+          11,
+          2264,
+          11,
+          50496
+        ]
+      },
+      {
+        "id": 72,
+        "avg_logprob": -0.3585045635700226,
+        "compression_ratio": 1.7642585039138794,
+        "end": 458.239990234375,
+        "no_speech_prob": 0.0038824337534606457,
+        "seek": 45424,
+        "start": 456.8599853515625,
+        "temperature": 0.0,
+        "text": " it sounds exactly like Jam Back.",
+        "tokens": [
+          50496,
+          309,
+          3263,
+          2293,
+          411,
+          10372,
+          5833,
+          13,
+          50594
+        ]
+      },
+      {
+        "id": 73,
+        "avg_logprob": -0.3585045635700226,
+        "compression_ratio": 1.7642585039138794,
+        "end": 462.6400146484375,
+        "no_speech_prob": 0.0038824337534606457,
+        "seek": 45424,
+        "start": 459.1000061035156,
+        "temperature": 0.0,
+        "text": " However, having the programming, what you can do is start to switch maybe some of the",
+        "tokens": [
+          50594,
+          2908,
+          11,
+          1419,
+          264,
+          9410,
+          11,
+          437,
+          291,
+          393,
+          360,
+          307,
+          722,
+          281,
+          3679,
+          1310,
+          512,
+          295,
+          264,
+          50778
+        ]
+      },
+      {
+        "id": 74,
+        "avg_logprob": -0.3585045635700226,
+        "compression_ratio": 1.7642585039138794,
+        "end": 471.79998779296875,
+        "no_speech_prob": 0.0038824337534606457,
+        "seek": 45424,
+        "start": 463.3399963378906,
+        "temperature": 0.0,
+        "text": " way to change the tone of the sound or use the sound as a starting point because presets",
+        "tokens": [
+          50778,
+          636,
+          281,
+          1319,
+          264,
+          8027,
+          295,
+          264,
+          1626,
+          420,
+          764,
+          264,
+          1626,
+          382,
+          257,
+          2891,
+          935,
+          570,
+          41865,
+          51248
+        ]
+      },
+      {
+        "id": 75,
+        "avg_logprob": -0.3585045635700226,
+        "compression_ratio": 1.7642585039138794,
+        "end": 475.20001220703125,
+        "no_speech_prob": 0.0038824337534606457,
+        "seek": 45424,
+        "start": 471.79998779296875,
+        "temperature": 0.0,
+        "text": " while, yeah, you can use them as they are, a lot of the times the really good starting",
+        "tokens": [
+          51248,
+          1339,
+          11,
+          1338,
+          11,
+          291,
+          393,
+          764,
+          552,
+          382,
+          436,
+          366,
+          11,
+          257,
+          688,
+          295,
+          264,
+          1413,
+          264,
+          534,
+          665,
+          2891,
+          51412
+        ]
+      },
+      {
+        "id": 76,
+        "avg_logprob": -0.3585045635700226,
+        "compression_ratio": 1.7642585039138794,
+        "end": 479.0799865722656,
+        "no_speech_prob": 0.0038824337534606457,
+        "seek": 45424,
+        "start": 475.20001220703125,
+        "temperature": 0.0,
+        "text": " points that you can take further in order to create something that feels more yours.",
+        "tokens": [
+          51412,
+          2793,
+          300,
+          291,
+          393,
+          747,
+          3052,
+          294,
+          1668,
+          281,
+          1884,
+          746,
+          300,
+          3417,
+          544,
+          6342,
+          13,
+          51604
+        ]
+      },
+      {
+        "id": 77,
+        "avg_logprob": -0.3410904109477997,
+        "compression_ratio": 1.284552812576294,
+        "end": 480.3599853515625,
+        "no_speech_prob": 0.015168043784797192,
+        "seek": 47908,
+        "start": 479.0799865722656,
+        "temperature": 0.0,
+        "text": " You guys already know this.",
+        "tokens": [
+          50384,
+          509,
+          1074,
+          1217,
+          458,
+          341,
+          13,
+          50434
+        ]
+      },
+      {
+        "id": 78,
+        "avg_logprob": -0.3410904109477997,
+        "compression_ratio": 1.284552812576294,
+        "end": 485.8399963378906,
+        "no_speech_prob": 0.015168043784797192,
+        "seek": 47908,
+        "start": 481.7200012207031,
+        "temperature": 0.0,
+        "text": " Well, I made it using Serum 2 and now you guys can learn from it and see how I programmed",
+        "tokens": [
+          50502,
+          1042,
+          11,
+          286,
+          1027,
+          309,
+          1228,
+          4210,
+          449,
+          568,
+          293,
+          586,
+          291,
+          1074,
+          393,
+          1466,
+          490,
+          309,
+          293,
+          536,
+          577,
+          286,
+          31092,
+          50706
+        ]
+      },
+      {
+        "id": 79,
+        "avg_logprob": -0.3410904109477997,
+        "compression_ratio": 1.284552812576294,
+        "end": 487.7200012207031,
+        "no_speech_prob": 0.015168043784797192,
+        "seek": 47908,
+        "start": 485.8399963378906,
+        "temperature": 0.0,
+        "text": " it in order to get it to sound that way.",
+        "tokens": [
+          50706,
+          309,
+          294,
+          1668,
+          281,
+          483,
+          309,
+          281,
+          1626,
+          300,
+          636,
+          13,
+          50792
+        ]
+      },
+      {
+        "id": 80,
+        "avg_logprob": -0.385019451379776,
+        "compression_ratio": 1.2773722410202026,
+        "end": 511.79998779296875,
+        "no_speech_prob": 0.004260251764208078,
+        "seek": 48772,
+        "start": 508.4800109863281,
+        "temperature": 0.0,
+        "text": " I've been working on this pack for a while, guys, and it's finally done and you guys can",
+        "tokens": [
+          50364,
+          286,
+          600,
+          668,
+          1364,
+          322,
+          341,
+          2844,
+          337,
+          257,
+          1339,
+          11,
+          1074,
+          11,
+          293,
+          309,
+          311,
+          2721,
+          1096,
+          293,
+          291,
+          1074,
+          393,
+          51560
+        ]
+      },
+      {
+        "id": 81,
+        "avg_logprob": -0.385019451379776,
+        "compression_ratio": 1.2773722410202026,
+        "end": 516.47998046875,
+        "no_speech_prob": 0.004260251764208078,
+        "seek": 48772,
+        "start": 511.79998779296875,
+        "temperature": 0.0,
+        "text": " check it out at EvilSounds.com It's going to be a total of 100 and Serum 2 presets all",
+        "tokens": [
+          51560,
+          1520,
+          309,
+          484,
+          412,
+          20528,
+          50,
+          4432,
+          13,
+          1112,
+          467,
+          311,
+          516,
+          281,
+          312,
+          257,
+          3217,
+          295,
+          2319,
+          293,
+          4210,
+          449,
+          568,
+          41865,
+          439,
+          51796
+        ]
+      },
+      {
+        "id": 82,
+        "avg_logprob": -0.2612830102443695,
+        "compression_ratio": 1.75,
+        "end": 522.0999755859375,
+        "no_speech_prob": 0.1642887145280838,
+        "seek": 51648,
+        "start": 516.47998046875,
+        "temperature": 0.0,
+        "text": " in the style of Chris Stussie, Josh Baker, Max Dean, Luke Dean, MK.",
+        "tokens": [
+          50366,
+          294,
+          264,
+          3758,
+          295,
+          6688,
+          745,
+          2023,
+          414,
+          11,
+          9785,
+          25780,
+          11,
+          7402,
+          13324,
+          11,
+          13044,
+          13324,
+          11,
+          30770,
+          13,
+          50650
+        ]
+      },
+      {
+        "id": 83,
+        "avg_logprob": -0.2612830102443695,
+        "compression_ratio": 1.75,
+        "end": 525.7999877929688,
+        "no_speech_prob": 0.1642887145280838,
+        "seek": 51648,
+        "start": 522.4199829101562,
+        "temperature": 0.0,
+        "text": " It took a lot of inspiration from them to make sounds that I know will work for your",
+        "tokens": [
+          50656,
+          467,
+          1890,
+          257,
+          688,
+          295,
+          10249,
+          490,
+          552,
+          281,
+          652,
+          3263,
+          300,
+          286,
+          458,
+          486,
+          589,
+          337,
+          428,
+          50828
+        ]
+      },
+      {
+        "id": 84,
+        "avg_logprob": -0.2612830102443695,
+        "compression_ratio": 1.75,
+        "end": 528.3599853515625,
+        "no_speech_prob": 0.1642887145280838,
+        "seek": 51648,
+        "start": 525.8200073242188,
+        "temperature": 0.0,
+        "text": " music. Proven to work sounds from proven to work track.",
+        "tokens": [
+          50828,
+          1318,
+          13,
+          1705,
+          553,
+          281,
+          589,
+          3263,
+          490,
+          12785,
+          281,
+          589,
+          2837,
+          13,
+          50958
+        ]
+      },
+      {
+        "id": 85,
+        "avg_logprob": -0.2612830102443695,
+        "compression_ratio": 1.75,
+        "end": 532.5,
+        "no_speech_prob": 0.1642887145280838,
+        "seek": 51648,
+        "start": 528.5999755859375,
+        "temperature": 0.0,
+        "text": " My goal is all about making music writing for you have less friction so that when you",
+        "tokens": [
+          50960,
+          1222,
+          3387,
+          307,
+          439,
+          466,
+          1455,
+          1318,
+          3579,
+          337,
+          291,
+          362,
+          1570,
+          17710,
+          370,
+          300,
+          562,
+          291,
+          51164
+        ]
+      },
+      {
+        "id": 86,
+        "avg_logprob": -0.2612830102443695,
+        "compression_ratio": 1.75,
+        "end": 536.8599853515625,
+        "no_speech_prob": 0.1642887145280838,
+        "seek": 51648,
+        "start": 532.5,
+        "temperature": 0.0,
+        "text": " have the time to make music, you create a lot more bomb ideas because you have bomb",
+        "tokens": [
+          51164,
+          362,
+          264,
+          565,
+          281,
+          652,
+          1318,
+          11,
+          291,
+          1884,
+          257,
+          688,
+          544,
+          7851,
+          3487,
+          570,
+          291,
+          362,
+          7851,
+          51382
+        ]
+      },
+      {
+        "id": 87,
+        "avg_logprob": -0.2612830102443695,
+        "compression_ratio": 1.75,
+        "end": 537.7000122070312,
+        "no_speech_prob": 0.1642887145280838,
+        "seek": 51648,
+        "start": 536.8599853515625,
+        "temperature": 0.0,
+        "text": " sounds to get inspired.",
+        "tokens": [
+          51382,
+          3263,
+          281,
+          483,
+          7547,
+          13,
+          51430
+        ]
+      },
+      {
+        "id": 88,
+        "avg_logprob": -0.2612830102443695,
+        "compression_ratio": 1.75,
+        "end": 539.760009765625,
+        "no_speech_prob": 0.1642887145280838,
+        "seek": 51648,
+        "start": 537.8200073242188,
+        "temperature": 0.0,
+        "text": " By the time you watch this video, it's already the new year.",
+        "tokens": [
+          51430,
+          3146,
+          264,
+          565,
+          291,
+          1159,
+          341,
+          960,
+          11,
+          309,
+          311,
+          1217,
+          264,
+          777,
+          1064,
+          13,
+          51526
+        ]
+      },
+      {
+        "id": 89,
+        "avg_logprob": -0.2612830102443695,
+        "compression_ratio": 1.75,
+        "end": 541.5,
+        "no_speech_prob": 0.1642887145280838,
+        "seek": 51648,
+        "start": 539.760009765625,
+        "temperature": 0.0,
+        "text": " So I hope that you guys enjoyed it with loved ones.",
+        "tokens": [
+          51526,
+          407,
+          286,
+          1454,
+          300,
+          291,
+          1074,
+          4626,
+          309,
+          365,
+          4333,
+          2306,
+          13,
+          51616
+        ]
+      },
+      {
+        "id": 90,
+        "avg_logprob": -0.2612830102443695,
+        "compression_ratio": 1.75,
+        "end": 544.3400268554688,
+        "no_speech_prob": 0.1642887145280838,
+        "seek": 51648,
+        "start": 541.5,
+        "temperature": 0.0,
+        "text": " And I want to thank you guys for the support these past 10 years.",
+        "tokens": [
+          51624,
+          400,
+          286,
+          528,
+          281,
+          1309,
+          291,
+          1074,
+          337,
+          264,
+          1406,
+          613,
+          1791,
+          1266,
+          924,
+          13,
+          51762
+        ]
+      },
+      {
+        "id": 91,
+        "avg_logprob": -0.273487389087677,
+        "compression_ratio": 1.3474576473236084,
+        "end": 547.719970703125,
+        "no_speech_prob": 0.0010811096290126443,
+        "seek": 54434,
+        "start": 544.3400268554688,
+        "temperature": 0.0,
+        "text": " So with that being said, use me, guys, use me in any way or form you want.",
+        "tokens": [
+          50368,
+          407,
+          365,
+          300,
+          885,
+          848,
+          11,
+          764,
+          385,
+          11,
+          1074,
+          11,
+          764,
+          385,
+          294,
+          604,
+          636,
+          420,
+          1254,
+          291,
+          528,
+          13,
+          50532
+        ]
+      },
+      {
+        "id": 92,
+        "avg_logprob": -0.273487389087677,
+        "compression_ratio": 1.3474576473236084,
+        "end": 549.280029296875,
+        "no_speech_prob": 0.0010811096290126443,
+        "seek": 54434,
+        "start": 547.8800048828125,
+        "temperature": 0.0,
+        "text": " See you guys for another one.",
+        "tokens": [
+          50534,
+          3008,
+          291,
+          1074,
+          337,
+          1071,
+          472,
+          13,
+          50610
+        ]
+      },
+      {
+        "id": 93,
+        "avg_logprob": -0.273487389087677,
+        "compression_ratio": 1.3474576473236084,
+        "end": 551.280029296875,
+        "no_speech_prob": 0.0010811096290126443,
+        "seek": 54434,
+        "start": 549.4400024414062,
+        "temperature": 0.0,
+        "text": " Take care. And you guys have a great rest of your day.",
+        "tokens": [
+          50610,
+          3664,
+          1127,
+          13,
+          400,
+          291,
+          1074,
+          362,
+          257,
+          869,
+          1472,
+          295,
+          428,
+          786,
+          13,
+          50714
+        ]
+      }
+    ],
+    "words": [
+      {
+        "end": 0.800000011920929,
+        "start": 0.0,
+        "word": "New"
+      },
+      {
+        "end": 1.1799999475479126,
+        "start": 0.800000011920929,
+        "word": "year"
+      },
+      {
+        "end": 1.899999976158142,
+        "start": 1.1799999475479126,
+        "word": "new"
+      },
+      {
+        "end": 2.640000104904175,
+        "start": 1.899999976158142,
+        "word": "sound"
+      },
+      {
+        "end": 12.640000343322754,
+        "start": 12.199999809265137,
+        "word": "Maybe"
+      },
+      {
+        "end": 12.880000114440918,
+        "start": 12.640000343322754,
+        "word": "you"
+      },
+      {
+        "end": 13.020000457763672,
+        "start": 12.880000114440918,
+        "word": "get"
+      },
+      {
+        "end": 13.239999771118164,
+        "start": 13.020000457763672,
+        "word": "more"
+      },
+      {
+        "end": 13.619999885559082,
+        "start": 13.239999771118164,
+        "word": "emotion"
+      },
+      {
+        "end": 19.0,
+        "start": 18.559999465942383,
+        "word": "I"
+      },
+      {
+        "end": 19.260000228881836,
+        "start": 19.0,
+        "word": "really"
+      },
+      {
+        "end": 19.420000076293945,
+        "start": 19.260000228881836,
+        "word": "don't"
+      },
+      {
+        "end": 19.540000915527344,
+        "start": 19.420000076293945,
+        "word": "know"
+      },
+      {
+        "end": 19.68000030517578,
+        "start": 19.540000915527344,
+        "word": "what"
+      },
+      {
+        "end": 19.84000015258789,
+        "start": 19.68000030517578,
+        "word": "they're"
+      },
+      {
+        "end": 19.979999542236328,
+        "start": 19.84000015258789,
+        "word": "putting"
+      },
+      {
+        "end": 20.200000762939453,
+        "start": 19.979999542236328,
+        "word": "the"
+      },
+      {
+        "end": 20.360000610351562,
+        "start": 20.200000762939453,
+        "word": "water"
+      },
+      {
+        "end": 20.5,
+        "start": 20.360000610351562,
+        "word": "in"
+      },
+      {
+        "end": 20.639999389648438,
+        "start": 20.5,
+        "word": "the"
+      },
+      {
+        "end": 21.059999465942383,
+        "start": 20.639999389648438,
+        "word": "UK"
+      },
+      {
+        "end": 21.559999465942383,
+        "start": 21.34000015258789,
+        "word": "but"
+      },
+      {
+        "end": 21.81999969482422,
+        "start": 21.559999465942383,
+        "word": "I"
+      },
+      {
+        "end": 21.979999542236328,
+        "start": 21.81999969482422,
+        "word": "like"
+      },
+      {
+        "end": 22.260000228881836,
+        "start": 21.979999542236328,
+        "word": "what's"
+      },
+      {
+        "end": 22.440000534057617,
+        "start": 22.260000228881836,
+        "word": "coming"
+      },
+      {
+        "end": 22.65999984741211,
+        "start": 22.440000534057617,
+        "word": "out"
+      },
+      {
+        "end": 22.780000686645508,
+        "start": 22.65999984741211,
+        "word": "of"
+      },
+      {
+        "end": 22.940000534057617,
+        "start": 22.780000686645508,
+        "word": "there"
+      },
+      {
+        "end": 23.18000030517578,
+        "start": 22.940000534057617,
+        "word": "man"
+      },
+      {
+        "end": 23.360000610351562,
+        "start": 23.18000030517578,
+        "word": "But"
+      },
+      {
+        "end": 23.3799991607666,
+        "start": 23.360000610351562,
+        "word": "we"
+      },
+      {
+        "end": 23.559999465942383,
+        "start": 23.3799991607666,
+        "word": "still"
+      },
+      {
+        "end": 23.65999984741211,
+        "start": 23.559999465942383,
+        "word": "got"
+      },
+      {
+        "end": 23.979999542236328,
+        "start": 23.65999984741211,
+        "word": "to"
+      },
+      {
+        "end": 24.0,
+        "start": 23.979999542236328,
+        "word": "pay"
+      },
+      {
+        "end": 24.260000228881836,
+        "start": 24.0,
+        "word": "homage"
+      },
+      {
+        "end": 24.440000534057617,
+        "start": 24.260000228881836,
+        "word": "to"
+      },
+      {
+        "end": 24.6200008392334,
+        "start": 24.440000534057617,
+        "word": "the"
+      },
+      {
+        "end": 24.979999542236328,
+        "start": 24.6200008392334,
+        "word": "classics"
+      },
+      {
+        "end": 25.440000534057617,
+        "start": 25.1200008392334,
+        "word": "right"
+      },
+      {
+        "end": 29.18000030517578,
+        "start": 28.739999771118164,
+        "word": "Deep"
+      },
+      {
+        "end": 29.6200008392334,
+        "start": 29.18000030517578,
+        "word": "Dish"
+      },
+      {
+        "end": 29.979999542236328,
+        "start": 29.6200008392334,
+        "word": "oh"
+      },
+      {
+        "end": 30.31999969482422,
+        "start": 29.979999542236328,
+        "word": "my"
+      },
+      {
+        "end": 31.200000762939453,
+        "start": 30.31999969482422,
+        "word": "God"
+      },
+      {
+        "end": 38.439998626708984,
+        "start": 38.0,
+        "word": "I'll"
+      },
+      {
+        "end": 38.560001373291016,
+        "start": 38.439998626708984,
+        "word": "have"
+      },
+      {
+        "end": 38.91999816894531,
+        "start": 38.560001373291016,
+        "word": "analog"
+      },
+      {
+        "end": 39.459999084472656,
+        "start": 38.91999816894531,
+        "word": "since"
+      },
+      {
+        "end": 40.15999984741211,
+        "start": 39.459999084472656,
+        "word": "and"
+      },
+      {
+        "end": 40.31999969482422,
+        "start": 40.15999984741211,
+        "word": "lately"
+      },
+      {
+        "end": 40.58000183105469,
+        "start": 40.31999969482422,
+        "word": "I've"
+      },
+      {
+        "end": 40.65999984741211,
+        "start": 40.58000183105469,
+        "word": "been"
+      },
+      {
+        "end": 40.84000015258789,
+        "start": 40.65999984741211,
+        "word": "putting"
+      },
+      {
+        "end": 41.060001373291016,
+        "start": 40.84000015258789,
+        "word": "them"
+      },
+      {
+        "end": 41.279998779296875,
+        "start": 41.060001373291016,
+        "word": "to"
+      },
+      {
+        "end": 41.400001525878906,
+        "start": 41.279998779296875,
+        "word": "use"
+      },
+      {
+        "end": 41.58000183105469,
+        "start": 41.400001525878906,
+        "word": "to"
+      },
+      {
+        "end": 41.7599983215332,
+        "start": 41.58000183105469,
+        "word": "create"
+      },
+      {
+        "end": 42.099998474121094,
+        "start": 41.7599983215332,
+        "word": "baselines"
+      },
+      {
+        "end": 42.34000015258789,
+        "start": 42.099998474121094,
+        "word": "like"
+      },
+      {
+        "end": 42.560001373291016,
+        "start": 42.34000015258789,
+        "word": "this"
+      },
+      {
+        "end": 42.7400016784668,
+        "start": 42.560001373291016,
+        "word": "one"
+      },
+      {
+        "end": 42.939998626708984,
+        "start": 42.7400016784668,
+        "word": "for"
+      },
+      {
+        "end": 43.119998931884766,
+        "start": 42.939998626708984,
+        "word": "you"
+      },
+      {
+        "end": 43.41999816894531,
+        "start": 43.119998931884766,
+        "word": "guys"
+      },
+      {
+        "end": 43.70000076293945,
+        "start": 43.540000915527344,
+        "word": "With"
+      },
+      {
+        "end": 43.97999954223633,
+        "start": 43.70000076293945,
+        "word": "AI"
+      },
+      {
+        "end": 44.459999084472656,
+        "start": 43.97999954223633,
+        "word": "coming"
+      },
+      {
+        "end": 44.7599983215332,
+        "start": 44.459999084472656,
+        "word": "and"
+      },
+      {
+        "end": 44.91999816894531,
+        "start": 44.7599983215332,
+        "word": "with"
+      },
+      {
+        "end": 45.08000183105469,
+        "start": 44.91999816894531,
+        "word": "all"
+      },
+      {
+        "end": 45.2400016784668,
+        "start": 45.08000183105469,
+        "word": "the"
+      },
+      {
+        "end": 45.619998931884766,
+        "start": 45.2400016784668,
+        "word": "countless"
+      },
+      {
+        "end": 45.86000061035156,
+        "start": 45.619998931884766,
+        "word": "Serum"
+      },
+      {
+        "end": 46.060001373291016,
+        "start": 45.86000061035156,
+        "word": "2"
+      },
+      {
+        "end": 46.34000015258789,
+        "start": 46.060001373291016,
+        "word": "presets"
+      },
+      {
+        "end": 46.560001373291016,
+        "start": 46.34000015258789,
+        "word": "out"
+      },
+      {
+        "end": 46.68000030517578,
+        "start": 46.560001373291016,
+        "word": "there"
+      },
+      {
+        "end": 46.7400016784668,
+        "start": 46.68000030517578,
+        "word": "I"
+      },
+      {
+        "end": 46.880001068115234,
+        "start": 46.7400016784668,
+        "word": "always"
+      },
+      {
+        "end": 47.099998474121094,
+        "start": 46.880001068115234,
+        "word": "ask"
+      },
+      {
+        "end": 47.34000015258789,
+        "start": 47.099998474121094,
+        "word": "myself"
+      },
+      {
+        "end": 47.5,
+        "start": 47.380001068115234,
+        "word": "how"
+      },
+      {
+        "end": 47.68000030517578,
+        "start": 47.5,
+        "word": "can"
+      },
+      {
+        "end": 48.040000915527344,
+        "start": 47.68000030517578,
+        "word": "I"
+      },
+      {
+        "end": 48.2400016784668,
+        "start": 48.040000915527344,
+        "word": "provide"
+      },
+      {
+        "end": 48.459999084472656,
+        "start": 48.2400016784668,
+        "word": "something"
+      },
+      {
+        "end": 48.70000076293945,
+        "start": 48.459999084472656,
+        "word": "to"
+      },
+      {
+        "end": 48.86000061035156,
+        "start": 48.70000076293945,
+        "word": "you"
+      },
+      {
+        "end": 48.97999954223633,
+        "start": 48.86000061035156,
+        "word": "guys"
+      },
+      {
+        "end": 49.400001525878906,
+        "start": 48.97999954223633,
+        "word": "that's"
+      },
+      {
+        "end": 49.63999938964844,
+        "start": 49.400001525878906,
+        "word": "different"
+      },
+      {
+        "end": 49.939998626708984,
+        "start": 49.779998779296875,
+        "word": "at"
+      },
+      {
+        "end": 49.97999954223633,
+        "start": 49.939998626708984,
+        "word": "least"
+      },
+      {
+        "end": 50.29999923706055,
+        "start": 49.97999954223633,
+        "word": "provides"
+      },
+      {
+        "end": 50.619998931884766,
+        "start": 50.29999923706055,
+        "word": "a"
+      },
+      {
+        "end": 50.619998931884766,
+        "start": 50.619998931884766,
+        "word": "different"
+      },
+      {
+        "end": 50.939998626708984,
+        "start": 50.619998931884766,
+        "word": "flavor"
+      },
+      {
+        "end": 51.18000030517578,
+        "start": 51.02000045776367,
+        "word": "It's"
+      },
+      {
+        "end": 51.18000030517578,
+        "start": 51.18000030517578,
+        "word": "not"
+      },
+      {
+        "end": 51.5,
+        "start": 51.18000030517578,
+        "word": "that"
+      },
+      {
+        "end": 51.599998474121094,
+        "start": 51.5,
+        "word": "analog"
+      },
+      {
+        "end": 51.86000061035156,
+        "start": 51.599998474121094,
+        "word": "is"
+      },
+      {
+        "end": 52.02000045776367,
+        "start": 51.86000061035156,
+        "word": "better"
+      },
+      {
+        "end": 52.31999969482422,
+        "start": 52.02000045776367,
+        "word": "than"
+      },
+      {
+        "end": 52.619998931884766,
+        "start": 52.31999969482422,
+        "word": "digital"
+      },
+      {
+        "end": 53.02000045776367,
+        "start": 52.779998779296875,
+        "word": "It's"
+      },
+      {
+        "end": 53.2400016784668,
+        "start": 53.02000045776367,
+        "word": "all"
+      },
+      {
+        "end": 53.439998626708984,
+        "start": 53.2400016784668,
+        "word": "about"
+      },
+      {
+        "end": 53.720001220703125,
+        "start": 53.439998626708984,
+        "word": "providing"
+      },
+      {
+        "end": 54.040000915527344,
+        "start": 53.720001220703125,
+        "word": "that"
+      },
+      {
+        "end": 54.459999084472656,
+        "start": 54.040000915527344,
+        "word": "option"
+      },
+      {
+        "end": 54.779998779296875,
+        "start": 54.459999084472656,
+        "word": "FM"
+      },
+      {
+        "end": 55.13999938964844,
+        "start": 54.779998779296875,
+        "word": "style"
+      },
+      {
+        "end": 55.380001068115234,
+        "start": 55.13999938964844,
+        "word": "baselines"
+      },
+      {
+        "end": 55.540000915527344,
+        "start": 55.380001068115234,
+        "word": "are"
+      },
+      {
+        "end": 55.959999084472656,
+        "start": 55.540000915527344,
+        "word": "also"
+      },
+      {
+        "end": 56.18000030517578,
+        "start": 55.959999084472656,
+        "word": "coming"
+      },
+      {
+        "end": 56.41999816894531,
+        "start": 56.18000030517578,
+        "word": "in"
+      },
+      {
+        "end": 67.18000030517578,
+        "start": 66.69999694824219,
+        "word": "So"
+      },
+      {
+        "end": 67.23999786376953,
+        "start": 67.18000030517578,
+        "word": "if"
+      },
+      {
+        "end": 67.4000015258789,
+        "start": 67.23999786376953,
+        "word": "you've"
+      },
+      {
+        "end": 67.80000305175781,
+        "start": 67.4000015258789,
+        "word": "been"
+      },
+      {
+        "end": 67.80000305175781,
+        "start": 67.80000305175781,
+        "word": "seeking"
+      },
+      {
+        "end": 68.0,
+        "start": 67.80000305175781,
+        "word": "a"
+      },
+      {
+        "end": 68.31999969482422,
+        "start": 68.0,
+        "word": "different"
+      },
+      {
+        "end": 68.44000244140625,
+        "start": 68.31999969482422,
+        "word": "style"
+      },
+      {
+        "end": 68.77999877929688,
+        "start": 68.44000244140625,
+        "word": "of"
+      },
+      {
+        "end": 68.83999633789062,
+        "start": 68.77999877929688,
+        "word": "bassline"
+      },
+      {
+        "end": 69.0,
+        "start": 68.83999633789062,
+        "word": "for"
+      },
+      {
+        "end": 69.33999633789062,
+        "start": 69.0,
+        "word": "your"
+      },
+      {
+        "end": 69.4000015258789,
+        "start": 69.33999633789062,
+        "word": "tech"
+      },
+      {
+        "end": 69.69999694824219,
+        "start": 69.4000015258789,
+        "word": "house"
+      },
+      {
+        "end": 69.86000061035156,
+        "start": 69.69999694824219,
+        "word": "or"
+      },
+      {
+        "end": 70.18000030517578,
+        "start": 69.86000061035156,
+        "word": "minimal"
+      },
+      {
+        "end": 70.5199966430664,
+        "start": 70.18000030517578,
+        "word": "house"
+      },
+      {
+        "end": 70.83999633789062,
+        "start": 70.5199966430664,
+        "word": "tracks"
+      },
+      {
+        "end": 71.12000274658203,
+        "start": 70.95999908447266,
+        "word": "I"
+      },
+      {
+        "end": 71.30000305175781,
+        "start": 71.12000274658203,
+        "word": "got"
+      },
+      {
+        "end": 71.63999938964844,
+        "start": 71.30000305175781,
+        "word": "you"
+      },
+      {
+        "end": 71.9000015258789,
+        "start": 71.76000213623047,
+        "word": "Here's"
+      },
+      {
+        "end": 72.08000183105469,
+        "start": 71.9000015258789,
+        "word": "one"
+      },
+      {
+        "end": 72.27999877929688,
+        "start": 72.08000183105469,
+        "word": "by"
+      },
+      {
+        "end": 72.5999984741211,
+        "start": 72.27999877929688,
+        "word": "Riordan"
+      },
+      {
+        "end": 72.87999725341797,
+        "start": 72.5999984741211,
+        "word": "that"
+      },
+      {
+        "end": 73.05999755859375,
+        "start": 72.87999725341797,
+        "word": "I"
+      },
+      {
+        "end": 73.37999725341797,
+        "start": 73.05999755859375,
+        "word": "really"
+      },
+      {
+        "end": 76.22000122070312,
+        "start": 73.37999725341797,
+        "word": "like"
+      },
+      {
+        "end": 81.18000030517578,
+        "start": 80.77999877929688,
+        "word": "The"
+      },
+      {
+        "end": 81.30000305175781,
+        "start": 81.18000030517578,
+        "word": "key"
+      },
+      {
+        "end": 81.45999908447266,
+        "start": 81.30000305175781,
+        "word": "thing"
+      },
+      {
+        "end": 81.62000274658203,
+        "start": 81.45999908447266,
+        "word": "for"
+      },
+      {
+        "end": 81.86000061035156,
+        "start": 81.62000274658203,
+        "word": "me"
+      },
+      {
+        "end": 82.27999877929688,
+        "start": 81.86000061035156,
+        "word": "is"
+      },
+      {
+        "end": 82.55999755859375,
+        "start": 82.5199966430664,
+        "word": "yes"
+      },
+      {
+        "end": 82.72000122070312,
+        "start": 82.55999755859375,
+        "word": "we"
+      },
+      {
+        "end": 82.86000061035156,
+        "start": 82.72000122070312,
+        "word": "can"
+      },
+      {
+        "end": 83.05999755859375,
+        "start": 82.86000061035156,
+        "word": "sample"
+      },
+      {
+        "end": 83.27999877929688,
+        "start": 83.05999755859375,
+        "word": "a"
+      },
+      {
+        "end": 83.27999877929688,
+        "start": 83.27999877929688,
+        "word": "lot"
+      },
+      {
+        "end": 83.33999633789062,
+        "start": 83.27999877929688,
+        "word": "of"
+      },
+      {
+        "end": 83.5,
+        "start": 83.33999633789062,
+        "word": "these"
+      },
+      {
+        "end": 83.77999877929688,
+        "start": 83.5,
+        "word": "baselines"
+      },
+      {
+        "end": 84.12000274658203,
+        "start": 83.77999877929688,
+        "word": "because"
+      },
+      {
+        "end": 84.36000061035156,
+        "start": 84.12000274658203,
+        "word": "this"
+      },
+      {
+        "end": 84.54000091552734,
+        "start": 84.36000061035156,
+        "word": "genre"
+      },
+      {
+        "end": 84.68000030517578,
+        "start": 84.54000091552734,
+        "word": "is"
+      },
+      {
+        "end": 84.86000061035156,
+        "start": 84.68000030517578,
+        "word": "very"
+      },
+      {
+        "end": 85.19999694824219,
+        "start": 84.86000061035156,
+        "word": "sampled"
+      },
+      {
+        "end": 85.44000244140625,
+        "start": 85.27999877929688,
+        "word": "But"
+      },
+      {
+        "end": 85.66000366210938,
+        "start": 85.44000244140625,
+        "word": "for"
+      },
+      {
+        "end": 85.77999877929688,
+        "start": 85.66000366210938,
+        "word": "me"
+      },
+      {
+        "end": 86.04000091552734,
+        "start": 85.77999877929688,
+        "word": "it's"
+      },
+      {
+        "end": 86.4000015258789,
+        "start": 86.04000091552734,
+        "word": "like"
+      },
+      {
+        "end": 86.66000366210938,
+        "start": 86.4000015258789,
+        "word": "paying"
+      },
+      {
+        "end": 87.0199966430664,
+        "start": 86.66000366210938,
+        "word": "homage"
+      },
+      {
+        "end": 87.37999725341797,
+        "start": 87.0199966430664,
+        "word": "right"
+      },
+      {
+        "end": 87.66000366210938,
+        "start": 87.37999725341797,
+        "word": "You"
+      },
+      {
+        "end": 87.9000015258789,
+        "start": 87.66000366210938,
+        "word": "learn"
+      },
+      {
+        "end": 88.41999816894531,
+        "start": 87.9000015258789,
+        "word": "from"
+      },
+      {
+        "end": 88.54000091552734,
+        "start": 88.41999816894531,
+        "word": "the"
+      },
+      {
+        "end": 88.95999908447266,
+        "start": 88.54000091552734,
+        "word": "past"
+      },
+      {
+        "end": 89.31999969482422,
+        "start": 88.95999908447266,
+        "word": "that"
+      },
+      {
+        "end": 89.4000015258789,
+        "start": 89.31999969482422,
+        "word": "you"
+      },
+      {
+        "end": 89.5999984741211,
+        "start": 89.4000015258789,
+        "word": "don't"
+      },
+      {
+        "end": 89.9000015258789,
+        "start": 89.5999984741211,
+        "word": "peak"
+      },
+      {
+        "end": 90.0199966430664,
+        "start": 89.9000015258789,
+        "word": "in"
+      },
+      {
+        "end": 90.19999694824219,
+        "start": 90.0199966430664,
+        "word": "the"
+      },
+      {
+        "end": 90.4800033569336,
+        "start": 90.19999694824219,
+        "word": "past"
+      },
+      {
+        "end": 90.5999984741211,
+        "start": 90.54000091552734,
+        "word": "You"
+      },
+      {
+        "end": 90.72000122070312,
+        "start": 90.5999984741211,
+        "word": "don't"
+      },
+      {
+        "end": 90.86000061035156,
+        "start": 90.72000122070312,
+        "word": "peak"
+      },
+      {
+        "end": 91.0,
+        "start": 90.86000061035156,
+        "word": "in"
+      },
+      {
+        "end": 91.19999694824219,
+        "start": 91.0,
+        "word": "high"
+      },
+      {
+        "end": 91.36000061035156,
+        "start": 91.19999694824219,
+        "word": "school"
+      },
+      {
+        "end": 91.5999984741211,
+        "start": 91.4000015258789,
+        "word": "You"
+      },
+      {
+        "end": 91.77999877929688,
+        "start": 91.5999984741211,
+        "word": "use"
+      },
+      {
+        "end": 92.0,
+        "start": 91.77999877929688,
+        "word": "that"
+      },
+      {
+        "end": 92.18000030517578,
+        "start": 92.0,
+        "word": "to"
+      },
+      {
+        "end": 92.36000061035156,
+        "start": 92.18000030517578,
+        "word": "kind"
+      },
+      {
+        "end": 92.4800033569336,
+        "start": 92.36000061035156,
+        "word": "of"
+      },
+      {
+        "end": 92.69999694824219,
+        "start": 92.4800033569336,
+        "word": "move"
+      },
+      {
+        "end": 93.08000183105469,
+        "start": 92.69999694824219,
+        "word": "forward"
+      },
+      {
+        "end": 93.41999816894531,
+        "start": 93.08000183105469,
+        "word": "and"
+      },
+      {
+        "end": 93.63999938964844,
+        "start": 93.41999816894531,
+        "word": "innovate"
+      },
+      {
+        "end": 93.91999816894531,
+        "start": 93.63999938964844,
+        "word": "on"
+      },
+      {
+        "end": 94.05999755859375,
+        "start": 93.91999816894531,
+        "word": "what"
+      },
+      {
+        "end": 94.33999633789062,
+        "start": 94.05999755859375,
+        "word": "they've"
+      },
+      {
+        "end": 94.55999755859375,
+        "start": 94.33999633789062,
+        "word": "done"
+      },
+      {
+        "end": 94.9800033569336,
+        "start": 94.86000061035156,
+        "word": "Learning"
+      },
+      {
+        "end": 95.18000030517578,
+        "start": 94.9800033569336,
+        "word": "the"
+      },
+      {
+        "end": 95.55999755859375,
+        "start": 95.18000030517578,
+        "word": "process"
+      },
+      {
+        "end": 95.72000122070312,
+        "start": 95.55999755859375,
+        "word": "of"
+      },
+      {
+        "end": 95.86000061035156,
+        "start": 95.72000122070312,
+        "word": "it"
+      },
+      {
+        "end": 96.0199966430664,
+        "start": 95.86000061035156,
+        "word": "allows"
+      },
+      {
+        "end": 96.18000030517578,
+        "start": 96.0199966430664,
+        "word": "me"
+      },
+      {
+        "end": 96.41999816894531,
+        "start": 96.18000030517578,
+        "word": "to"
+      },
+      {
+        "end": 96.62000274658203,
+        "start": 96.41999816894531,
+        "word": "provide"
+      },
+      {
+        "end": 96.9800033569336,
+        "start": 96.62000274658203,
+        "word": "different"
+      },
+      {
+        "end": 97.31999969482422,
+        "start": 96.9800033569336,
+        "word": "flavors"
+      },
+      {
+        "end": 97.54000091552734,
+        "start": 97.31999969482422,
+        "word": "that"
+      },
+      {
+        "end": 97.73999786376953,
+        "start": 97.54000091552734,
+        "word": "are"
+      },
+      {
+        "end": 97.9000015258789,
+        "start": 97.73999786376953,
+        "word": "similar"
+      },
+      {
+        "end": 98.16000366210938,
+        "start": 97.9000015258789,
+        "word": "to"
+      },
+      {
+        "end": 98.37999725341797,
+        "start": 98.16000366210938,
+        "word": "it"
+      },
+      {
+        "end": 98.5199966430664,
+        "start": 98.37999725341797,
+        "word": "but"
+      },
+      {
+        "end": 98.66000366210938,
+        "start": 98.5199966430664,
+        "word": "can"
+      },
+      {
+        "end": 98.73999786376953,
+        "start": 98.66000366210938,
+        "word": "be"
+      },
+      {
+        "end": 98.87999725341797,
+        "start": 98.73999786376953,
+        "word": "a"
+      },
+      {
+        "end": 98.9800033569336,
+        "start": 98.87999725341797,
+        "word": "little"
+      },
+      {
+        "end": 99.22000122070312,
+        "start": 98.9800033569336,
+        "word": "bit"
+      },
+      {
+        "end": 99.5,
+        "start": 99.22000122070312,
+        "word": "more"
+      },
+      {
+        "end": 99.73999786376953,
+        "start": 99.5,
+        "word": "unique"
+      },
+      {
+        "end": 107.83999633789062,
+        "start": 107.54000091552734,
+        "word": "Some"
+      },
+      {
+        "end": 108.05999755859375,
+        "start": 107.83999633789062,
+        "word": "people"
+      },
+      {
+        "end": 108.4000015258789,
+        "start": 108.05999755859375,
+        "word": "like"
+      },
+      {
+        "end": 108.69999694824219,
+        "start": 108.4000015258789,
+        "word": "Dior"
+      },
+      {
+        "end": 109.76000213623047,
+        "start": 109.33999633789062,
+        "word": "but"
+      },
+      {
+        "end": 110.13999938964844,
+        "start": 109.76000213623047,
+        "word": "I"
+      },
+      {
+        "end": 110.5,
+        "start": 110.13999938964844,
+        "word": "like"
+      },
+      {
+        "end": 110.86000061035156,
+        "start": 110.5,
+        "word": "Prada"
+      },
+      {
+        "end": 115.69999694824219,
+        "start": 115.30000305175781,
+        "word": "Let's"
+      },
+      {
+        "end": 115.94000244140625,
+        "start": 115.69999694824219,
+        "word": "get"
+      },
+      {
+        "end": 116.31999969482422,
+        "start": 115.94000244140625,
+        "word": "spicy"
+      },
+      {
+        "end": 116.58000183105469,
+        "start": 116.31999969482422,
+        "word": "with"
+      },
+      {
+        "end": 116.80000305175781,
+        "start": 116.58000183105469,
+        "word": "this"
+      },
+      {
+        "end": 120.05999755859375,
+        "start": 116.80000305175781,
+        "word": "one"
+      },
+      {
+        "end": 133.6999969482422,
+        "start": 133.3000030517578,
+        "word": "This"
+      },
+      {
+        "end": 133.82000732421875,
+        "start": 133.6999969482422,
+        "word": "is"
+      },
+      {
+        "end": 133.94000244140625,
+        "start": 133.82000732421875,
+        "word": "one"
+      },
+      {
+        "end": 134.05999755859375,
+        "start": 133.94000244140625,
+        "word": "of"
+      },
+      {
+        "end": 134.13999938964844,
+        "start": 134.05999755859375,
+        "word": "the"
+      },
+      {
+        "end": 134.27999877929688,
+        "start": 134.13999938964844,
+        "word": "ones"
+      },
+      {
+        "end": 134.5800018310547,
+        "start": 134.27999877929688,
+        "word": "that"
+      },
+      {
+        "end": 134.77999877929688,
+        "start": 134.5800018310547,
+        "word": "sampled"
+      },
+      {
+        "end": 135.0399932861328,
+        "start": 134.77999877929688,
+        "word": "from"
+      },
+      {
+        "end": 135.17999267578125,
+        "start": 135.0399932861328,
+        "word": "some"
+      },
+      {
+        "end": 135.27999877929688,
+        "start": 135.17999267578125,
+        "word": "of"
+      },
+      {
+        "end": 135.3800048828125,
+        "start": 135.27999877929688,
+        "word": "the"
+      },
+      {
+        "end": 135.60000610351562,
+        "start": 135.3800048828125,
+        "word": "stuff"
+      },
+      {
+        "end": 135.82000732421875,
+        "start": 135.60000610351562,
+        "word": "over"
+      },
+      {
+        "end": 135.9199981689453,
+        "start": 135.82000732421875,
+        "word": "there"
+      },
+      {
+        "end": 136.0399932861328,
+        "start": 135.9199981689453,
+        "word": "to"
+      },
+      {
+        "end": 136.17999267578125,
+        "start": 136.0399932861328,
+        "word": "give"
+      },
+      {
+        "end": 136.4199981689453,
+        "start": 136.17999267578125,
+        "word": "you"
+      },
+      {
+        "end": 136.72000122070312,
+        "start": 136.72000122070312,
+        "word": "again"
+      },
+      {
+        "end": 136.97999572753906,
+        "start": 136.8000030517578,
+        "word": "access"
+      },
+      {
+        "end": 137.16000366210938,
+        "start": 136.97999572753906,
+        "word": "to"
+      },
+      {
+        "end": 137.5800018310547,
+        "start": 137.16000366210938,
+        "word": "a"
+      },
+      {
+        "end": 137.5800018310547,
+        "start": 137.5800018310547,
+        "word": "different"
+      },
+      {
+        "end": 137.9199981689453,
+        "start": 137.5800018310547,
+        "word": "tone"
+      },
+      {
+        "end": 138.05999755859375,
+        "start": 137.9199981689453,
+        "word": "It's"
+      },
+      {
+        "end": 138.24000549316406,
+        "start": 138.05999755859375,
+        "word": "the"
+      },
+      {
+        "end": 138.5399932861328,
+        "start": 138.24000549316406,
+        "word": "same"
+      },
+      {
+        "end": 138.77999877929688,
+        "start": 138.5399932861328,
+        "word": "proven"
+      },
+      {
+        "end": 138.97999572753906,
+        "start": 138.77999877929688,
+        "word": "to"
+      },
+      {
+        "end": 139.13999938964844,
+        "start": 138.97999572753906,
+        "word": "work"
+      },
+      {
+        "end": 139.3800048828125,
+        "start": 139.13999938964844,
+        "word": "sound"
+      },
+      {
+        "end": 139.60000610351562,
+        "start": 139.3800048828125,
+        "word": "that"
+      },
+      {
+        "end": 139.8800048828125,
+        "start": 139.60000610351562,
+        "word": "Josh"
+      },
+      {
+        "end": 140.02000427246094,
+        "start": 139.8800048828125,
+        "word": "Baker"
+      },
+      {
+        "end": 140.4600067138672,
+        "start": 140.02000427246094,
+        "word": "uses"
+      },
+      {
+        "end": 140.74000549316406,
+        "start": 140.63999938964844,
+        "word": "but"
+      },
+      {
+        "end": 141.0800018310547,
+        "start": 140.74000549316406,
+        "word": "now"
+      },
+      {
+        "end": 141.25999450683594,
+        "start": 141.0800018310547,
+        "word": "it"
+      },
+      {
+        "end": 141.4199981689453,
+        "start": 141.25999450683594,
+        "word": "has"
+      },
+      {
+        "end": 141.60000610351562,
+        "start": 141.4199981689453,
+        "word": "its"
+      },
+      {
+        "end": 141.9199981689453,
+        "start": 141.60000610351562,
+        "word": "own"
+      },
+      {
+        "end": 142.25999450683594,
+        "start": 141.9199981689453,
+        "word": "flavor"
+      },
+      {
+        "end": 142.47999572753906,
+        "start": 142.39999389648438,
+        "word": "Because"
+      },
+      {
+        "end": 142.55999755859375,
+        "start": 142.47999572753906,
+        "word": "if"
+      },
+      {
+        "end": 142.72000122070312,
+        "start": 142.55999755859375,
+        "word": "people"
+      },
+      {
+        "end": 143.02000427246094,
+        "start": 142.72000122070312,
+        "word": "ask"
+      },
+      {
+        "end": 143.36000061035156,
+        "start": 143.22000122070312,
+        "word": "yo"
+      },
+      {
+        "end": 143.6199951171875,
+        "start": 143.36000061035156,
+        "word": "man"
+      },
+      {
+        "end": 143.82000732421875,
+        "start": 143.6199951171875,
+        "word": "it"
+      },
+      {
+        "end": 143.8800048828125,
+        "start": 143.82000732421875,
+        "word": "sounds"
+      },
+      {
+        "end": 144.0800018310547,
+        "start": 143.8800048828125,
+        "word": "kind"
+      },
+      {
+        "end": 144.1199951171875,
+        "start": 144.0800018310547,
+        "word": "of"
+      },
+      {
+        "end": 144.3800048828125,
+        "start": 144.1199951171875,
+        "word": "like"
+      },
+      {
+        "end": 144.52000427246094,
+        "start": 144.3800048828125,
+        "word": "Josh"
+      },
+      {
+        "end": 144.6999969482422,
+        "start": 144.52000427246094,
+        "word": "Baker"
+      },
+      {
+        "end": 144.9199981689453,
+        "start": 144.8000030517578,
+        "word": "you"
+      },
+      {
+        "end": 145.10000610351562,
+        "start": 144.9199981689453,
+        "word": "go"
+      },
+      {
+        "end": 145.9199981689453,
+        "start": 145.6199951171875,
+        "word": "yeah"
+      },
+      {
+        "end": 146.0800018310547,
+        "start": 145.9199981689453,
+        "word": "you"
+      },
+      {
+        "end": 146.22000122070312,
+        "start": 146.0800018310547,
+        "word": "know"
+      },
+      {
+        "end": 146.36000061035156,
+        "start": 146.24000549316406,
+        "word": "but"
+      },
+      {
+        "end": 146.55999755859375,
+        "start": 146.36000061035156,
+        "word": "I"
+      },
+      {
+        "end": 146.67999267578125,
+        "start": 146.55999755859375,
+        "word": "kind"
+      },
+      {
+        "end": 146.8000030517578,
+        "start": 146.67999267578125,
+        "word": "of"
+      },
+      {
+        "end": 147.24000549316406,
+        "start": 146.8000030517578,
+        "word": "reworked"
+      },
+      {
+        "end": 147.32000732421875,
+        "start": 147.24000549316406,
+        "word": "it"
+      },
+      {
+        "end": 147.5399932861328,
+        "start": 147.32000732421875,
+        "word": "a"
+      },
+      {
+        "end": 147.5399932861328,
+        "start": 147.5399932861328,
+        "word": "bit"
+      },
+      {
+        "end": 147.6999969482422,
+        "start": 147.5399932861328,
+        "word": "and"
+      },
+      {
+        "end": 147.82000732421875,
+        "start": 147.6999969482422,
+        "word": "made"
+      },
+      {
+        "end": 147.9600067138672,
+        "start": 147.82000732421875,
+        "word": "it"
+      },
+      {
+        "end": 148.13999938964844,
+        "start": 147.9600067138672,
+        "word": "my"
+      },
+      {
+        "end": 148.3000030517578,
+        "start": 148.13999938964844,
+        "word": "own"
+      },
+      {
+        "end": 149.33999633789062,
+        "start": 148.3800048828125,
+        "word": "man"
+      },
+      {
+        "end": 158.25999450683594,
+        "start": 157.89999389648438,
+        "word": "Now"
+      },
+      {
+        "end": 158.44000244140625,
+        "start": 158.25999450683594,
+        "word": "Minimal"
+      },
+      {
+        "end": 158.6999969482422,
+        "start": 158.44000244140625,
+        "word": "Nights"
+      },
+      {
+        "end": 159.10000610351562,
+        "start": 158.6999969482422,
+        "word": "Volume"
+      },
+      {
+        "end": 159.4199981689453,
+        "start": 159.10000610351562,
+        "word": "3"
+      },
+      {
+        "end": 159.66000366210938,
+        "start": 159.4199981689453,
+        "word": "is"
+      },
+      {
+        "end": 159.6999969482422,
+        "start": 159.66000366210938,
+        "word": "going"
+      },
+      {
+        "end": 160.0800018310547,
+        "start": 159.6999969482422,
+        "word": "to"
+      },
+      {
+        "end": 160.0800018310547,
+        "start": 160.0800018310547,
+        "word": "contain"
+      },
+      {
+        "end": 160.63999938964844,
+        "start": 160.0800018310547,
+        "word": "basslines"
+      },
+      {
+        "end": 161.05999755859375,
+        "start": 160.8800048828125,
+        "word": "chords"
+      },
+      {
+        "end": 161.4600067138672,
+        "start": 161.1199951171875,
+        "word": "stabs"
+      },
+      {
+        "end": 161.6999969482422,
+        "start": 161.66000366210938,
+        "word": "leads"
+      },
+      {
+        "end": 162.10000610351562,
+        "start": 162.10000610351562,
+        "word": "plucks"
+      },
+      {
+        "end": 162.3800048828125,
+        "start": 162.13999938964844,
+        "word": "all"
+      },
+      {
+        "end": 162.47999572753906,
+        "start": 162.3800048828125,
+        "word": "in"
+      },
+      {
+        "end": 162.66000366210938,
+        "start": 162.47999572753906,
+        "word": "the"
+      },
+      {
+        "end": 162.94000244140625,
+        "start": 162.66000366210938,
+        "word": "style"
+      },
+      {
+        "end": 170.16000366210938,
+        "start": 162.94000244140625,
+        "word": "of"
+      },
+      {
+        "end": 170.16000366210938,
+        "start": 170.16000366210938,
+        "word": "the"
+      },
+      {
+        "end": 170.16000366210938,
+        "start": 170.16000366210938,
+        "word": "UK"
+      },
+      {
+        "end": 170.25999450683594,
+        "start": 170.16000366210938,
+        "word": "guys"
+      },
+      {
+        "end": 182.55999755859375,
+        "start": 182.16000366210938,
+        "word": "Some"
+      },
+      {
+        "end": 182.75999450683594,
+        "start": 182.55999755859375,
+        "word": "genres"
+      },
+      {
+        "end": 183.02000427246094,
+        "start": 182.75999450683594,
+        "word": "also"
+      },
+      {
+        "end": 183.16000366210938,
+        "start": 183.02000427246094,
+        "word": "for"
+      },
+      {
+        "end": 183.32000732421875,
+        "start": 183.16000366210938,
+        "word": "the"
+      },
+      {
+        "end": 183.52000427246094,
+        "start": 183.32000732421875,
+        "word": "breaks"
+      },
+      {
+        "end": 183.67999267578125,
+        "start": 183.67999267578125,
+        "word": "they"
+      },
+      {
+        "end": 183.82000732421875,
+        "start": 183.67999267578125,
+        "word": "have"
+      },
+      {
+        "end": 184.02000427246094,
+        "start": 183.82000732421875,
+        "word": "these"
+      },
+      {
+        "end": 184.1999969482422,
+        "start": 184.02000427246094,
+        "word": "kind"
+      },
+      {
+        "end": 184.3000030517578,
+        "start": 184.1999969482422,
+        "word": "of"
+      },
+      {
+        "end": 184.63999938964844,
+        "start": 184.3000030517578,
+        "word": "sounds"
+      },
+      {
+        "end": 189.83999633789062,
+        "start": 189.24000549316406,
+        "word": "I"
+      },
+      {
+        "end": 190.10000610351562,
+        "start": 189.83999633789062,
+        "word": "really"
+      },
+      {
+        "end": 190.44000244140625,
+        "start": 190.10000610351562,
+        "word": "want"
+      },
+      {
+        "end": 190.6999969482422,
+        "start": 190.44000244140625,
+        "word": "one"
+      },
+      {
+        "end": 190.83999633789062,
+        "start": 190.6999969482422,
+        "word": "of"
+      },
+      {
+        "end": 190.9600067138672,
+        "start": 190.83999633789062,
+        "word": "you"
+      },
+      {
+        "end": 191.22000122070312,
+        "start": 190.9600067138672,
+        "word": "guys"
+      },
+      {
+        "end": 191.39999389648438,
+        "start": 191.22000122070312,
+        "word": "to"
+      },
+      {
+        "end": 191.5800018310547,
+        "start": 191.39999389648438,
+        "word": "use"
+      },
+      {
+        "end": 191.8800048828125,
+        "start": 191.5800018310547,
+        "word": "this"
+      },
+      {
+        "end": 192.1999969482422,
+        "start": 191.8800048828125,
+        "word": "sound"
+      },
+      {
+        "end": 192.5800018310547,
+        "start": 192.1999969482422,
+        "word": "especially"
+      },
+      {
+        "end": 192.83999633789062,
+        "start": 192.5800018310547,
+        "word": "the"
+      },
+      {
+        "end": 193.4199981689453,
+        "start": 192.83999633789062,
+        "word": "Dusty"
+      },
+      {
+        "end": 193.8800048828125,
+        "start": 193.4199981689453,
+        "word": "Shop"
+      },
+      {
+        "end": 200.36000061035156,
+        "start": 194.36000061035156,
+        "word": "it's"
+      },
+      {
+        "end": 200.5399932861328,
+        "start": 200.36000061035156,
+        "word": "a"
+      },
+      {
+        "end": 201.02000427246094,
+        "start": 200.5399932861328,
+        "word": "substance"
+      },
+      {
+        "end": 201.44000244140625,
+        "start": 201.02000427246094,
+        "word": "that"
+      },
+      {
+        "end": 201.5399932861328,
+        "start": 201.44000244140625,
+        "word": "makes"
+      },
+      {
+        "end": 201.77999877929688,
+        "start": 201.5399932861328,
+        "word": "you"
+      },
+      {
+        "end": 201.94000244140625,
+        "start": 201.77999877929688,
+        "word": "feel"
+      },
+      {
+        "end": 204.74000549316406,
+        "start": 201.94000244140625,
+        "word": "good"
+      },
+      {
+        "end": 213.1199951171875,
+        "start": 212.75999450683594,
+        "word": "This"
+      },
+      {
+        "end": 213.33999633789062,
+        "start": 213.1199951171875,
+        "word": "part"
+      },
+      {
+        "end": 213.5,
+        "start": 213.39999389648438,
+        "word": "one"
+      },
+      {
+        "end": 213.5800018310547,
+        "start": 213.5,
+        "word": "of"
+      },
+      {
+        "end": 213.86000061035156,
+        "start": 213.5800018310547,
+        "word": "my"
+      },
+      {
+        "end": 214.05999755859375,
+        "start": 213.86000061035156,
+        "word": "favorite"
+      },
+      {
+        "end": 214.4199981689453,
+        "start": 214.05999755859375,
+        "word": "sounds"
+      },
+      {
+        "end": 214.86000061035156,
+        "start": 214.60000610351562,
+        "word": "with"
+      },
+      {
+        "end": 214.86000061035156,
+        "start": 214.86000061035156,
+        "word": "Serum"
+      },
+      {
+        "end": 214.9600067138672,
+        "start": 214.86000061035156,
+        "word": "2"
+      },
+      {
+        "end": 215.24000549316406,
+        "start": 214.9600067138672,
+        "word": "being"
+      },
+      {
+        "end": 215.39999389648438,
+        "start": 215.24000549316406,
+        "word": "out"
+      },
+      {
+        "end": 215.67999267578125,
+        "start": 215.39999389648438,
+        "word": "for"
+      },
+      {
+        "end": 215.74000549316406,
+        "start": 215.67999267578125,
+        "word": "a"
+      },
+      {
+        "end": 215.8000030517578,
+        "start": 215.74000549316406,
+        "word": "while"
+      },
+      {
+        "end": 215.9600067138672,
+        "start": 215.8800048828125,
+        "word": "I"
+      },
+      {
+        "end": 216.25999450683594,
+        "start": 215.9600067138672,
+        "word": "really"
+      },
+      {
+        "end": 216.4600067138672,
+        "start": 216.25999450683594,
+        "word": "wanted"
+      },
+      {
+        "end": 217.13999938964844,
+        "start": 216.77999877929688,
+        "word": "to"
+      },
+      {
+        "end": 217.13999938964844,
+        "start": 217.13999938964844,
+        "word": "capture"
+      },
+      {
+        "end": 217.82000732421875,
+        "start": 217.13999938964844,
+        "word": "the"
+      },
+      {
+        "end": 217.8800048828125,
+        "start": 217.82000732421875,
+        "word": "granular"
+      },
+      {
+        "end": 218.25999450683594,
+        "start": 217.8800048828125,
+        "word": "sound"
+      },
+      {
+        "end": 218.4199981689453,
+        "start": 218.25999450683594,
+        "word": "of"
+      },
+      {
+        "end": 218.4600067138672,
+        "start": 218.4199981689453,
+        "word": "it"
+      },
+      {
+        "end": 218.6199951171875,
+        "start": 218.52000427246094,
+        "word": "but"
+      },
+      {
+        "end": 218.72000122070312,
+        "start": 218.6199951171875,
+        "word": "in"
+      },
+      {
+        "end": 218.86000061035156,
+        "start": 218.72000122070312,
+        "word": "a"
+      },
+      {
+        "end": 219.02000427246094,
+        "start": 218.86000061035156,
+        "word": "cool"
+      },
+      {
+        "end": 219.17999267578125,
+        "start": 219.02000427246094,
+        "word": "way"
+      },
+      {
+        "end": 219.36000061035156,
+        "start": 219.17999267578125,
+        "word": "that"
+      },
+      {
+        "end": 219.74000549316406,
+        "start": 219.36000061035156,
+        "word": "can"
+      },
+      {
+        "end": 220.52000427246094,
+        "start": 219.74000549316406,
+        "word": "add"
+      },
+      {
+        "end": 220.6199951171875,
+        "start": 220.52000427246094,
+        "word": "to"
+      },
+      {
+        "end": 220.8000030517578,
+        "start": 220.6199951171875,
+        "word": "the"
+      },
+      {
+        "end": 221.0,
+        "start": 220.8000030517578,
+        "word": "song"
+      },
+      {
+        "end": 221.1999969482422,
+        "start": 221.0,
+        "word": "rather"
+      },
+      {
+        "end": 221.4600067138672,
+        "start": 221.1999969482422,
+        "word": "than"
+      },
+      {
+        "end": 221.63999938964844,
+        "start": 221.4600067138672,
+        "word": "just"
+      },
+      {
+        "end": 221.82000732421875,
+        "start": 221.63999938964844,
+        "word": "go"
+      },
+      {
+        "end": 222.0800018310547,
+        "start": 222.0800018310547,
+        "word": "oh"
+      },
+      {
+        "end": 222.22000122070312,
+        "start": 222.0800018310547,
+        "word": "cool"
+      },
+      {
+        "end": 222.5399932861328,
+        "start": 222.4199981689453,
+        "word": "granular"
+      },
+      {
+        "end": 222.82000732421875,
+        "start": 222.67999267578125,
+        "word": "and"
+      },
+      {
+        "end": 223.0,
+        "start": 222.82000732421875,
+        "word": "that's"
+      },
+      {
+        "end": 223.22000122070312,
+        "start": 223.0,
+        "word": "it"
+      },
+      {
+        "end": 223.67999267578125,
+        "start": 223.4199981689453,
+        "word": "So"
+      },
+      {
+        "end": 223.77999877929688,
+        "start": 223.67999267578125,
+        "word": "this"
+      },
+      {
+        "end": 223.8800048828125,
+        "start": 223.77999877929688,
+        "word": "is"
+      },
+      {
+        "end": 224.0,
+        "start": 223.8800048828125,
+        "word": "a"
+      },
+      {
+        "end": 224.16000366210938,
+        "start": 224.0,
+        "word": "good"
+      },
+      {
+        "end": 224.4199981689453,
+        "start": 224.16000366210938,
+        "word": "example"
+      },
+      {
+        "end": 224.66000366210938,
+        "start": 224.4199981689453,
+        "word": "For"
+      },
+      {
+        "end": 224.94000244140625,
+        "start": 224.66000366210938,
+        "word": "example"
+      },
+      {
+        "end": 225.16000366210938,
+        "start": 224.97999572753906,
+        "word": "we're"
+      },
+      {
+        "end": 225.16000366210938,
+        "start": 225.16000366210938,
+        "word": "going"
+      },
+      {
+        "end": 225.33999633789062,
+        "start": 225.16000366210938,
+        "word": "to"
+      },
+      {
+        "end": 225.4600067138672,
+        "start": 225.33999633789062,
+        "word": "bring"
+      },
+      {
+        "end": 225.74000549316406,
+        "start": 225.4600067138672,
+        "word": "this"
+      },
+      {
+        "end": 225.89999389648438,
+        "start": 225.74000549316406,
+        "word": "mod"
+      },
+      {
+        "end": 226.0,
+        "start": 225.89999389648438,
+        "word": "up"
+      },
+      {
+        "end": 226.1999969482422,
+        "start": 226.05999755859375,
+        "word": "which"
+      },
+      {
+        "end": 226.5800018310547,
+        "start": 226.1999969482422,
+        "word": "activates"
+      },
+      {
+        "end": 232.6199951171875,
+        "start": 226.5800018310547,
+        "word": "this"
+      },
+      {
+        "end": 301.29998779296875,
+        "start": 300.8999938964844,
+        "word": "And"
+      },
+      {
+        "end": 301.4200134277344,
+        "start": 301.29998779296875,
+        "word": "I"
+      },
+      {
+        "end": 301.6000061035156,
+        "start": 301.4200134277344,
+        "word": "had"
+      },
+      {
+        "end": 301.760009765625,
+        "start": 301.6000061035156,
+        "word": "to"
+      },
+      {
+        "end": 301.8800048828125,
+        "start": 301.760009765625,
+        "word": "add"
+      },
+      {
+        "end": 302.1199951171875,
+        "start": 301.8800048828125,
+        "word": "this"
+      },
+      {
+        "end": 306.0,
+        "start": 302.1199951171875,
+        "word": "one"
+      },
+      {
+        "end": 313.8800048828125,
+        "start": 313.4800109863281,
+        "word": "The"
+      },
+      {
+        "end": 314.0799865722656,
+        "start": 313.8800048828125,
+        "word": "good"
+      },
+      {
+        "end": 314.2200012207031,
+        "start": 314.0799865722656,
+        "word": "thing"
+      },
+      {
+        "end": 314.3800048828125,
+        "start": 314.2200012207031,
+        "word": "is"
+      },
+      {
+        "end": 314.4800109863281,
+        "start": 314.3800048828125,
+        "word": "there"
+      },
+      {
+        "end": 314.5400085449219,
+        "start": 314.4800109863281,
+        "word": "was"
+      },
+      {
+        "end": 314.8399963378906,
+        "start": 314.5400085449219,
+        "word": "a"
+      },
+      {
+        "end": 314.8399963378906,
+        "start": 314.8399963378906,
+        "word": "bunch"
+      },
+      {
+        "end": 315.260009765625,
+        "start": 314.8399963378906,
+        "word": "of"
+      },
+      {
+        "end": 315.7799987792969,
+        "start": 315.260009765625,
+        "word": "guys"
+      },
+      {
+        "end": 316.3399963378906,
+        "start": 315.7799987792969,
+        "word": "online"
+      },
+      {
+        "end": 316.70001220703125,
+        "start": 316.3399963378906,
+        "word": "debating"
+      },
+      {
+        "end": 317.1000061035156,
+        "start": 316.70001220703125,
+        "word": "about"
+      },
+      {
+        "end": 317.239990234375,
+        "start": 317.1000061035156,
+        "word": "how"
+      },
+      {
+        "end": 317.5,
+        "start": 317.239990234375,
+        "word": "that"
+      },
+      {
+        "end": 317.67999267578125,
+        "start": 317.5,
+        "word": "sound"
+      },
+      {
+        "end": 317.9599914550781,
+        "start": 317.67999267578125,
+        "word": "is"
+      },
+      {
+        "end": 318.0799865722656,
+        "start": 317.9599914550781,
+        "word": "made"
+      },
+      {
+        "end": 318.3399963378906,
+        "start": 318.0799865722656,
+        "word": "which"
+      },
+      {
+        "end": 318.6600036621094,
+        "start": 318.3399963378906,
+        "word": "gave"
+      },
+      {
+        "end": 318.8399963378906,
+        "start": 318.6600036621094,
+        "word": "me"
+      },
+      {
+        "end": 319.0400085449219,
+        "start": 318.8399963378906,
+        "word": "the"
+      },
+      {
+        "end": 319.2799987792969,
+        "start": 319.0400085449219,
+        "word": "tools"
+      },
+      {
+        "end": 319.55999755859375,
+        "start": 319.2799987792969,
+        "word": "needed"
+      },
+      {
+        "end": 319.8800048828125,
+        "start": 319.55999755859375,
+        "word": "to"
+      },
+      {
+        "end": 320.260009765625,
+        "start": 319.8800048828125,
+        "word": "recreate"
+      },
+      {
+        "end": 320.5400085449219,
+        "start": 320.260009765625,
+        "word": "it"
+      },
+      {
+        "end": 320.70001220703125,
+        "start": 320.70001220703125,
+        "word": "So"
+      },
+      {
+        "end": 321.05999755859375,
+        "start": 320.70001220703125,
+        "word": "that"
+      },
+      {
+        "end": 321.2200012207031,
+        "start": 321.05999755859375,
+        "word": "was"
+      },
+      {
+        "end": 321.4800109863281,
+        "start": 321.2200012207031,
+        "word": "fun"
+      },
+      {
+        "end": 338.5799865722656,
+        "start": 338.1000061035156,
+        "word": "Very"
+      },
+      {
+        "end": 339.05999755859375,
+        "start": 338.5799865722656,
+        "word": "spacey"
+      },
+      {
+        "end": 339.5,
+        "start": 339.05999755859375,
+        "word": "sounds"
+      },
+      {
+        "end": 340.3999938964844,
+        "start": 340.1199951171875,
+        "word": "very"
+      },
+      {
+        "end": 340.7200012207031,
+        "start": 340.3999938964844,
+        "word": "nasty"
+      },
+      {
+        "end": 341.1400146484375,
+        "start": 340.7200012207031,
+        "word": "basslines"
+      },
+      {
+        "end": 341.2799987792969,
+        "start": 341.1400146484375,
+        "word": "that"
+      },
+      {
+        "end": 341.3800048828125,
+        "start": 341.2799987792969,
+        "word": "are"
+      },
+      {
+        "end": 341.55999755859375,
+        "start": 341.3800048828125,
+        "word": "a"
+      },
+      {
+        "end": 341.55999755859375,
+        "start": 341.55999755859375,
+        "word": "little"
+      },
+      {
+        "end": 341.739990234375,
+        "start": 341.55999755859375,
+        "word": "bit"
+      },
+      {
+        "end": 341.9200134277344,
+        "start": 341.739990234375,
+        "word": "more"
+      },
+      {
+        "end": 342.3599853515625,
+        "start": 341.9200134277344,
+        "word": "defined"
+      },
+      {
+        "end": 342.70001220703125,
+        "start": 342.3999938964844,
+        "word": "because"
+      },
+      {
+        "end": 342.8399963378906,
+        "start": 342.70001220703125,
+        "word": "in"
+      },
+      {
+        "end": 343.0799865722656,
+        "start": 342.8399963378906,
+        "word": "my"
+      },
+      {
+        "end": 343.17999267578125,
+        "start": 343.0799865722656,
+        "word": "mind"
+      },
+      {
+        "end": 343.29998779296875,
+        "start": 343.17999267578125,
+        "word": "when"
+      },
+      {
+        "end": 343.4200134277344,
+        "start": 343.29998779296875,
+        "word": "I"
+      },
+      {
+        "end": 343.55999755859375,
+        "start": 343.4200134277344,
+        "word": "make"
+      },
+      {
+        "end": 343.8399963378906,
+        "start": 343.55999755859375,
+        "word": "these"
+      },
+      {
+        "end": 344.1199951171875,
+        "start": 343.8399963378906,
+        "word": "sounds"
+      },
+      {
+        "end": 344.3399963378906,
+        "start": 344.1600036621094,
+        "word": "my"
+      },
+      {
+        "end": 344.4599914550781,
+        "start": 344.3399963378906,
+        "word": "hope"
+      },
+      {
+        "end": 344.6000061035156,
+        "start": 344.4599914550781,
+        "word": "is"
+      },
+      {
+        "end": 344.739990234375,
+        "start": 344.6000061035156,
+        "word": "that"
+      },
+      {
+        "end": 344.9200134277344,
+        "start": 344.739990234375,
+        "word": "you"
+      },
+      {
+        "end": 345.1600036621094,
+        "start": 344.9200134277344,
+        "word": "grab"
+      },
+      {
+        "end": 345.3800048828125,
+        "start": 345.1600036621094,
+        "word": "them"
+      },
+      {
+        "end": 345.5799865722656,
+        "start": 345.3800048828125,
+        "word": "and"
+      },
+      {
+        "end": 345.8599853515625,
+        "start": 345.5799865722656,
+        "word": "you"
+      },
+      {
+        "end": 346.1000061035156,
+        "start": 345.8599853515625,
+        "word": "infuse"
+      },
+      {
+        "end": 346.5199890136719,
+        "start": 346.1000061035156,
+        "word": "it"
+      },
+      {
+        "end": 346.67999267578125,
+        "start": 346.5199890136719,
+        "word": "with"
+      },
+      {
+        "end": 347.0400085449219,
+        "start": 346.67999267578125,
+        "word": "what"
+      },
+      {
+        "end": 347.20001220703125,
+        "start": 347.0400085449219,
+        "word": "you"
+      },
+      {
+        "end": 347.6400146484375,
+        "start": 347.20001220703125,
+        "word": "already"
+      },
+      {
+        "end": 347.94000244140625,
+        "start": 347.6400146484375,
+        "word": "do"
+      },
+      {
+        "end": 348.3800048828125,
+        "start": 347.94000244140625,
+        "word": "best"
+      },
+      {
+        "end": 348.6600036621094,
+        "start": 348.4599914550781,
+        "word": "Maybe"
+      },
+      {
+        "end": 348.8800048828125,
+        "start": 348.6600036621094,
+        "word": "the"
+      },
+      {
+        "end": 349.0400085449219,
+        "start": 348.8800048828125,
+        "word": "sounds"
+      },
+      {
+        "end": 349.239990234375,
+        "start": 349.0400085449219,
+        "word": "can"
+      },
+      {
+        "end": 349.3999938964844,
+        "start": 349.239990234375,
+        "word": "work"
+      },
+      {
+        "end": 349.5799865722656,
+        "start": 349.3999938964844,
+        "word": "in"
+      },
+      {
+        "end": 349.760009765625,
+        "start": 349.5799865722656,
+        "word": "a"
+      },
+      {
+        "end": 349.9800109863281,
+        "start": 349.760009765625,
+        "word": "break"
+      },
+      {
+        "end": 350.239990234375,
+        "start": 350.0400085449219,
+        "word": "you"
+      },
+      {
+        "end": 350.4800109863281,
+        "start": 350.239990234375,
+        "word": "can"
+      },
+      {
+        "end": 350.70001220703125,
+        "start": 350.4800109863281,
+        "word": "infuse"
+      },
+      {
+        "end": 350.8800048828125,
+        "start": 350.70001220703125,
+        "word": "it"
+      },
+      {
+        "end": 350.9800109863281,
+        "start": 350.8800048828125,
+        "word": "with"
+      },
+      {
+        "end": 351.2200012207031,
+        "start": 350.9800109863281,
+        "word": "your"
+      },
+      {
+        "end": 351.5199890136719,
+        "start": 351.2200012207031,
+        "word": "drop"
+      },
+      {
+        "end": 351.8800048828125,
+        "start": 351.5199890136719,
+        "word": "elements"
+      },
+      {
+        "end": 352.1000061035156,
+        "start": 351.8800048828125,
+        "word": "that"
+      },
+      {
+        "end": 352.2200012207031,
+        "start": 352.1000061035156,
+        "word": "you"
+      },
+      {
+        "end": 352.4800109863281,
+        "start": 352.2200012207031,
+        "word": "usually"
+      },
+      {
+        "end": 352.739990234375,
+        "start": 352.4800109863281,
+        "word": "go"
+      },
+      {
+        "end": 353.0400085449219,
+        "start": 352.739990234375,
+        "word": "for"
+      },
+      {
+        "end": 353.29998779296875,
+        "start": 353.1000061035156,
+        "word": "At"
+      },
+      {
+        "end": 353.32000732421875,
+        "start": 353.29998779296875,
+        "word": "the"
+      },
+      {
+        "end": 353.32000732421875,
+        "start": 353.32000732421875,
+        "word": "end"
+      },
+      {
+        "end": 353.44000244140625,
+        "start": 353.32000732421875,
+        "word": "of"
+      },
+      {
+        "end": 353.5799865722656,
+        "start": 353.44000244140625,
+        "word": "the"
+      },
+      {
+        "end": 353.7799987792969,
+        "start": 353.5799865722656,
+        "word": "day"
+      },
+      {
+        "end": 354.0,
+        "start": 353.7799987792969,
+        "word": "that's"
+      },
+      {
+        "end": 354.32000732421875,
+        "start": 354.0,
+        "word": "the"
+      },
+      {
+        "end": 354.3800048828125,
+        "start": 354.32000732421875,
+        "word": "beauty"
+      },
+      {
+        "end": 354.6600036621094,
+        "start": 354.3800048828125,
+        "word": "of"
+      },
+      {
+        "end": 354.8999938964844,
+        "start": 354.6600036621094,
+        "word": "music"
+      },
+      {
+        "end": 355.1400146484375,
+        "start": 355.0199890136719,
+        "word": "is"
+      },
+      {
+        "end": 355.239990234375,
+        "start": 355.1400146484375,
+        "word": "that"
+      },
+      {
+        "end": 355.29998779296875,
+        "start": 355.239990234375,
+        "word": "you"
+      },
+      {
+        "end": 355.6199951171875,
+        "start": 355.29998779296875,
+        "word": "can"
+      },
+      {
+        "end": 355.7200012207031,
+        "start": 355.6199951171875,
+        "word": "mix"
+      },
+      {
+        "end": 356.1400146484375,
+        "start": 355.7200012207031,
+        "word": "and"
+      },
+      {
+        "end": 356.1400146484375,
+        "start": 356.1400146484375,
+        "word": "match"
+      },
+      {
+        "end": 356.4800109863281,
+        "start": 356.1400146484375,
+        "word": "different"
+      },
+      {
+        "end": 356.760009765625,
+        "start": 356.4800109863281,
+        "word": "sounds"
+      },
+      {
+        "end": 357.1000061035156,
+        "start": 357.05999755859375,
+        "word": "different"
+      },
+      {
+        "end": 357.4200134277344,
+        "start": 357.1000061035156,
+        "word": "genres"
+      },
+      {
+        "end": 357.70001220703125,
+        "start": 357.4200134277344,
+        "word": "to"
+      },
+      {
+        "end": 357.8399963378906,
+        "start": 357.70001220703125,
+        "word": "create"
+      },
+      {
+        "end": 358.2200012207031,
+        "start": 357.8399963378906,
+        "word": "new"
+      },
+      {
+        "end": 358.4599914550781,
+        "start": 358.2200012207031,
+        "word": "things"
+      },
+      {
+        "end": 358.79998779296875,
+        "start": 358.4599914550781,
+        "word": "that"
+      },
+      {
+        "end": 358.9200134277344,
+        "start": 358.79998779296875,
+        "word": "are"
+      },
+      {
+        "end": 359.29998779296875,
+        "start": 358.9200134277344,
+        "word": "still"
+      },
+      {
+        "end": 359.79998779296875,
+        "start": 359.29998779296875,
+        "word": "familiar"
+      },
+      {
+        "end": 360.260009765625,
+        "start": 359.94000244140625,
+        "word": "but"
+      },
+      {
+        "end": 360.6000061035156,
+        "start": 360.260009765625,
+        "word": "fresh"
+      },
+      {
+        "end": 360.9800109863281,
+        "start": 360.6000061035156,
+        "word": "to"
+      },
+      {
+        "end": 361.2200012207031,
+        "start": 360.9800109863281,
+        "word": "your"
+      },
+      {
+        "end": 361.4599914550781,
+        "start": 361.2200012207031,
+        "word": "listeners"
+      },
+      {
+        "end": 361.6400146484375,
+        "start": 361.5400085449219,
+        "word": "I"
+      },
+      {
+        "end": 361.8399963378906,
+        "start": 361.6400146484375,
+        "word": "like"
+      },
+      {
+        "end": 361.9800109863281,
+        "start": 361.8399963378906,
+        "word": "this"
+      },
+      {
+        "end": 362.1400146484375,
+        "start": 361.9800109863281,
+        "word": "one"
+      },
+      {
+        "end": 362.3399963378906,
+        "start": 362.1400146484375,
+        "word": "a"
+      },
+      {
+        "end": 362.5199890136719,
+        "start": 362.3399963378906,
+        "word": "lot"
+      },
+      {
+        "end": 362.8599853515625,
+        "start": 362.6400146484375,
+        "word": "The"
+      },
+      {
+        "end": 362.9800109863281,
+        "start": 362.8599853515625,
+        "word": "Dean"
+      },
+      {
+        "end": 363.29998779296875,
+        "start": 362.9800109863281,
+        "word": "Brothers"
+      },
+      {
+        "end": 363.6199951171875,
+        "start": 363.44000244140625,
+        "word": "man"
+      },
+      {
+        "end": 363.79998779296875,
+        "start": 363.6199951171875,
+        "word": "I'm"
+      },
+      {
+        "end": 364.1000061035156,
+        "start": 363.79998779296875,
+        "word": "no"
+      },
+      {
+        "end": 364.3599853515625,
+        "start": 364.1000061035156,
+        "word": "hater"
+      },
+      {
+        "end": 364.7200012207031,
+        "start": 364.6000061035156,
+        "word": "man"
+      },
+      {
+        "end": 365.6400146484375,
+        "start": 365.29998779296875,
+        "word": "Goddamn"
+      },
+      {
+        "end": 365.8999938964844,
+        "start": 365.8999938964844,
+        "word": "they're"
+      },
+      {
+        "end": 366.17999267578125,
+        "start": 365.8999938964844,
+        "word": "fucking"
+      },
+      {
+        "end": 366.8999938964844,
+        "start": 366.17999267578125,
+        "word": "good"
+      },
+      {
+        "end": 367.739990234375,
+        "start": 366.8999938964844,
+        "word": "You"
+      },
+      {
+        "end": 368.7200012207031,
+        "start": 367.739990234375,
+        "word": "can't"
+      },
+      {
+        "end": 368.94000244140625,
+        "start": 368.7200012207031,
+        "word": "get"
+      },
+      {
+        "end": 369.44000244140625,
+        "start": 368.94000244140625,
+        "word": "me"
+      },
+      {
+        "end": 369.67999267578125,
+        "start": 369.44000244140625,
+        "word": "out"
+      },
+      {
+        "end": 369.9800109863281,
+        "start": 369.67999267578125,
+        "word": "of"
+      },
+      {
+        "end": 370.6199951171875,
+        "start": 369.9800109863281,
+        "word": "your"
+      },
+      {
+        "end": 370.8399963378906,
+        "start": 370.6199951171875,
+        "word": "mind"
+      },
+      {
+        "end": 371.739990234375,
+        "start": 371.739990234375,
+        "word": "Oh"
+      },
+      {
+        "end": 372.05999755859375,
+        "start": 371.739990234375,
+        "word": "you"
+      },
+      {
+        "end": 372.6000061035156,
+        "start": 372.05999755859375,
+        "word": "got"
+      },
+      {
+        "end": 373.0799865722656,
+        "start": 372.6000061035156,
+        "word": "me"
+      },
+      {
+        "end": 373.32000732421875,
+        "start": 373.0799865722656,
+        "word": "going"
+      },
+      {
+        "end": 373.9800109863281,
+        "start": 373.32000732421875,
+        "word": "insane"
+      },
+      {
+        "end": 376.55999755859375,
+        "start": 376.05999755859375,
+        "word": "A"
+      },
+      {
+        "end": 376.82000732421875,
+        "start": 376.55999755859375,
+        "word": "really"
+      },
+      {
+        "end": 377.1000061035156,
+        "start": 376.82000732421875,
+        "word": "nice"
+      },
+      {
+        "end": 377.3999938964844,
+        "start": 377.1000061035156,
+        "word": "acid"
+      },
+      {
+        "end": 377.70001220703125,
+        "start": 377.3999938964844,
+        "word": "bass"
+      },
+      {
+        "end": 378.29998779296875,
+        "start": 377.70001220703125,
+        "word": "sound"
+      },
+      {
+        "end": 388.7200012207031,
+        "start": 388.2200012207031,
+        "word": "Now"
+      },
+      {
+        "end": 388.8599853515625,
+        "start": 388.739990234375,
+        "word": "Chris"
+      },
+      {
+        "end": 389.05999755859375,
+        "start": 388.8599853515625,
+        "word": "Duzzi"
+      },
+      {
+        "end": 389.29998779296875,
+        "start": 389.05999755859375,
+        "word": "has"
+      },
+      {
+        "end": 389.44000244140625,
+        "start": 389.29998779296875,
+        "word": "been"
+      },
+      {
+        "end": 389.67999267578125,
+        "start": 389.44000244140625,
+        "word": "on"
+      },
+      {
+        "end": 389.70001220703125,
+        "start": 389.67999267578125,
+        "word": "a"
+      },
+      {
+        "end": 389.9599914550781,
+        "start": 389.70001220703125,
+        "word": "little"
+      },
+      {
+        "end": 390.1000061035156,
+        "start": 389.9599914550781,
+        "word": "bit"
+      },
+      {
+        "end": 390.29998779296875,
+        "start": 390.1000061035156,
+        "word": "of"
+      },
+      {
+        "end": 390.4800109863281,
+        "start": 390.29998779296875,
+        "word": "a"
+      },
+      {
+        "end": 390.760009765625,
+        "start": 390.4800109863281,
+        "word": "hiatus"
+      },
+      {
+        "end": 391.17999267578125,
+        "start": 390.9800109863281,
+        "word": "but"
+      },
+      {
+        "end": 391.3399963378906,
+        "start": 391.17999267578125,
+        "word": "it's"
+      },
+      {
+        "end": 391.6600036621094,
+        "start": 391.3399963378906,
+        "word": "all"
+      },
+      {
+        "end": 391.79998779296875,
+        "start": 391.6600036621094,
+        "word": "good"
+      },
+      {
+        "end": 392.0,
+        "start": 391.8599853515625,
+        "word": "I'm"
+      },
+      {
+        "end": 392.1600036621094,
+        "start": 392.0,
+        "word": "pretty"
+      },
+      {
+        "end": 392.2799987792969,
+        "start": 392.1600036621094,
+        "word": "sure"
+      },
+      {
+        "end": 392.4599914550781,
+        "start": 392.2799987792969,
+        "word": "he's"
+      },
+      {
+        "end": 392.5199890136719,
+        "start": 392.4599914550781,
+        "word": "making"
+      },
+      {
+        "end": 392.8800048828125,
+        "start": 392.5199890136719,
+        "word": "bangers"
+      },
+      {
+        "end": 405.8399963378906,
+        "start": 405.1600036621094,
+        "word": "Oh"
+      },
+      {
+        "end": 406.17999267578125,
+        "start": 405.94000244140625,
+        "word": "I"
+      },
+      {
+        "end": 406.17999267578125,
+        "start": 406.17999267578125,
+        "word": "love"
+      },
+      {
+        "end": 406.3800048828125,
+        "start": 406.17999267578125,
+        "word": "that"
+      },
+      {
+        "end": 406.739990234375,
+        "start": 406.3800048828125,
+        "word": "cocaine"
+      },
+      {
+        "end": 407.0799865722656,
+        "start": 406.739990234375,
+        "word": "knob"
+      },
+      {
+        "end": 416.7799987792969,
+        "start": 416.1000061035156,
+        "word": "Now"
+      },
+      {
+        "end": 417.4599914550781,
+        "start": 416.7799987792969,
+        "word": "this"
+      },
+      {
+        "end": 417.8599853515625,
+        "start": 417.4599914550781,
+        "word": "particular"
+      },
+      {
+        "end": 418.20001220703125,
+        "start": 417.8599853515625,
+        "word": "patch"
+      },
+      {
+        "end": 418.70001220703125,
+        "start": 418.20001220703125,
+        "word": "is"
+      },
+      {
+        "end": 418.70001220703125,
+        "start": 418.70001220703125,
+        "word": "inspired"
+      },
+      {
+        "end": 418.9800109863281,
+        "start": 418.70001220703125,
+        "word": "by"
+      },
+      {
+        "end": 419.3800048828125,
+        "start": 418.9800109863281,
+        "word": "the"
+      },
+      {
+        "end": 419.70001220703125,
+        "start": 419.3800048828125,
+        "word": "Roland"
+      },
+      {
+        "end": 420.1400146484375,
+        "start": 419.70001220703125,
+        "word": "style"
+      },
+      {
+        "end": 420.3599853515625,
+        "start": 420.1400146484375,
+        "word": "JB"
+      },
+      {
+        "end": 420.8599853515625,
+        "start": 420.3599853515625,
+        "word": "1080"
+      },
+      {
+        "end": 421.260009765625,
+        "start": 420.8599853515625,
+        "word": "synths"
+      },
+      {
+        "end": 421.3800048828125,
+        "start": 421.260009765625,
+        "word": "where"
+      },
+      {
+        "end": 421.5,
+        "start": 421.3800048828125,
+        "word": "it's"
+      },
+      {
+        "end": 421.760009765625,
+        "start": 421.5,
+        "word": "a"
+      },
+      {
+        "end": 422.0400085449219,
+        "start": 421.760009765625,
+        "word": "combination"
+      },
+      {
+        "end": 422.29998779296875,
+        "start": 422.0400085449219,
+        "word": "of"
+      },
+      {
+        "end": 422.82000732421875,
+        "start": 422.29998779296875,
+        "word": "an"
+      },
+      {
+        "end": 422.82000732421875,
+        "start": 422.82000732421875,
+        "word": "organic"
+      },
+      {
+        "end": 423.2799987792969,
+        "start": 422.82000732421875,
+        "word": "sound"
+      },
+      {
+        "end": 423.8599853515625,
+        "start": 423.2799987792969,
+        "word": "with"
+      },
+      {
+        "end": 424.55999755859375,
+        "start": 423.8599853515625,
+        "word": "a"
+      },
+      {
+        "end": 424.55999755859375,
+        "start": 424.55999755859375,
+        "word": "spectral"
+      },
+      {
+        "end": 425.05999755859375,
+        "start": 424.55999755859375,
+        "word": "wavetable"
+      },
+      {
+        "end": 425.4800109863281,
+        "start": 425.05999755859375,
+        "word": "sound"
+      },
+      {
+        "end": 425.6199951171875,
+        "start": 425.4800109863281,
+        "word": "as"
+      },
+      {
+        "end": 426.0,
+        "start": 425.6199951171875,
+        "word": "a"
+      },
+      {
+        "end": 426.0199890136719,
+        "start": 426.0,
+        "word": "layer"
+      },
+      {
+        "end": 426.5199890136719,
+        "start": 426.3599853515625,
+        "word": "which"
+      },
+      {
+        "end": 426.67999267578125,
+        "start": 426.5199890136719,
+        "word": "sounds"
+      },
+      {
+        "end": 426.8800048828125,
+        "start": 426.67999267578125,
+        "word": "like"
+      },
+      {
+        "end": 427.3999938964844,
+        "start": 426.8800048828125,
+        "word": "this"
+      },
+      {
+        "end": 436.17999267578125,
+        "start": 435.739990234375,
+        "word": "You"
+      },
+      {
+        "end": 436.3599853515625,
+        "start": 436.17999267578125,
+        "word": "can"
+      },
+      {
+        "end": 436.4800109863281,
+        "start": 436.3599853515625,
+        "word": "see"
+      },
+      {
+        "end": 436.6400146484375,
+        "start": 436.4800109863281,
+        "word": "what"
+      },
+      {
+        "end": 436.79998779296875,
+        "start": 436.6400146484375,
+        "word": "it"
+      },
+      {
+        "end": 437.0199890136719,
+        "start": 436.79998779296875,
+        "word": "adds"
+      },
+      {
+        "end": 437.1600036621094,
+        "start": 437.0799865722656,
+        "word": "It"
+      },
+      {
+        "end": 437.29998779296875,
+        "start": 437.1600036621094,
+        "word": "adds"
+      },
+      {
+        "end": 437.5400085449219,
+        "start": 437.29998779296875,
+        "word": "a"
+      },
+      {
+        "end": 437.7799987792969,
+        "start": 437.5400085449219,
+        "word": "nice"
+      },
+      {
+        "end": 438.1400146484375,
+        "start": 437.7799987792969,
+        "word": "mystical"
+      },
+      {
+        "end": 438.5199890136719,
+        "start": 438.1400146484375,
+        "word": "flow"
+      },
+      {
+        "end": 438.739990234375,
+        "start": 438.5199890136719,
+        "word": "to"
+      },
+      {
+        "end": 439.0799865722656,
+        "start": 438.739990234375,
+        "word": "the"
+      },
+      {
+        "end": 439.17999267578125,
+        "start": 439.0799865722656,
+        "word": "sound"
+      },
+      {
+        "end": 439.3599853515625,
+        "start": 439.239990234375,
+        "word": "and"
+      },
+      {
+        "end": 439.55999755859375,
+        "start": 439.3599853515625,
+        "word": "that's"
+      },
+      {
+        "end": 439.760009765625,
+        "start": 439.55999755859375,
+        "word": "the"
+      },
+      {
+        "end": 439.9800109863281,
+        "start": 439.760009765625,
+        "word": "power"
+      },
+      {
+        "end": 440.2200012207031,
+        "start": 439.9800109863281,
+        "word": "of"
+      },
+      {
+        "end": 440.3399963378906,
+        "start": 440.2200012207031,
+        "word": "it"
+      },
+      {
+        "end": 440.6000061035156,
+        "start": 440.6000061035156,
+        "word": "I"
+      },
+      {
+        "end": 440.6000061035156,
+        "start": 440.6000061035156,
+        "word": "wanted"
+      },
+      {
+        "end": 440.82000732421875,
+        "start": 440.6000061035156,
+        "word": "to"
+      },
+      {
+        "end": 441.0799865722656,
+        "start": 440.82000732421875,
+        "word": "remake"
+      },
+      {
+        "end": 441.2799987792969,
+        "start": 441.0799865722656,
+        "word": "this"
+      },
+      {
+        "end": 441.44000244140625,
+        "start": 441.2799987792969,
+        "word": "one"
+      },
+      {
+        "end": 441.70001220703125,
+        "start": 441.44000244140625,
+        "word": "because"
+      },
+      {
+        "end": 441.9800109863281,
+        "start": 441.70001220703125,
+        "word": "this"
+      },
+      {
+        "end": 442.8800048828125,
+        "start": 441.9800109863281,
+        "word": "track"
+      },
+      {
+        "end": 443.1600036621094,
+        "start": 442.8800048828125,
+        "word": "went"
+      },
+      {
+        "end": 443.29998779296875,
+        "start": 443.1600036621094,
+        "word": "viral"
+      },
+      {
+        "end": 443.5400085449219,
+        "start": 443.29998779296875,
+        "word": "on"
+      },
+      {
+        "end": 443.7799987792969,
+        "start": 443.5400085449219,
+        "word": "TikTok"
+      },
+      {
+        "end": 446.7200012207031,
+        "start": 446.6199951171875,
+        "word": "which"
+      },
+      {
+        "end": 446.9200134277344,
+        "start": 446.7200012207031,
+        "word": "I"
+      },
+      {
+        "end": 447.1400146484375,
+        "start": 446.9200134277344,
+        "word": "believe"
+      },
+      {
+        "end": 447.3599853515625,
+        "start": 447.1400146484375,
+        "word": "is"
+      },
+      {
+        "end": 447.6400146484375,
+        "start": 447.3599853515625,
+        "word": "inspired"
+      },
+      {
+        "end": 447.8399963378906,
+        "start": 447.6400146484375,
+        "word": "by"
+      },
+      {
+        "end": 447.8999938964844,
+        "start": 447.8399963378906,
+        "word": "one"
+      },
+      {
+        "end": 448.1199951171875,
+        "start": 447.8999938964844,
+        "word": "of"
+      },
+      {
+        "end": 448.3599853515625,
+        "start": 448.1199951171875,
+        "word": "Donna"
+      },
+      {
+        "end": 448.9200134277344,
+        "start": 448.3599853515625,
+        "word": "Summer's"
+      },
+      {
+        "end": 449.1400146484375,
+        "start": 448.9200134277344,
+        "word": "tracks"
+      },
+      {
+        "end": 449.3800048828125,
+        "start": 449.17999267578125,
+        "word": "which"
+      },
+      {
+        "end": 449.6000061035156,
+        "start": 449.3800048828125,
+        "word": "was"
+      },
+      {
+        "end": 449.8599853515625,
+        "start": 449.6000061035156,
+        "word": "produced"
+      },
+      {
+        "end": 450.2200012207031,
+        "start": 449.8599853515625,
+        "word": "by"
+      },
+      {
+        "end": 450.5400085449219,
+        "start": 450.2200012207031,
+        "word": "Giorgio"
+      },
+      {
+        "end": 450.9800109863281,
+        "start": 450.5400085449219,
+        "word": "Moroder"
+      },
+      {
+        "end": 451.20001220703125,
+        "start": 451.05999755859375,
+        "word": "but"
+      },
+      {
+        "end": 451.29998779296875,
+        "start": 451.20001220703125,
+        "word": "it's"
+      },
+      {
+        "end": 451.4599914550781,
+        "start": 451.29998779296875,
+        "word": "a"
+      },
+      {
+        "end": 451.67999267578125,
+        "start": 451.4599914550781,
+        "word": "really"
+      },
+      {
+        "end": 451.8399963378906,
+        "start": 451.67999267578125,
+        "word": "cool"
+      },
+      {
+        "end": 452.1000061035156,
+        "start": 451.8399963378906,
+        "word": "sound"
+      },
+      {
+        "end": 452.2799987792969,
+        "start": 452.1000061035156,
+        "word": "with"
+      },
+      {
+        "end": 452.5400085449219,
+        "start": 452.2799987792969,
+        "word": "just"
+      },
+      {
+        "end": 452.82000732421875,
+        "start": 452.5400085449219,
+        "word": "a"
+      },
+      {
+        "end": 453.1600036621094,
+        "start": 452.82000732421875,
+        "word": "nice"
+      },
+      {
+        "end": 453.5199890136719,
+        "start": 453.1600036621094,
+        "word": "80s"
+      },
+      {
+        "end": 453.79998779296875,
+        "start": 453.5199890136719,
+        "word": "flavor"
+      },
+      {
+        "end": 454.0799865722656,
+        "start": 453.79998779296875,
+        "word": "to"
+      },
+      {
+        "end": 454.239990234375,
+        "start": 454.0799865722656,
+        "word": "it"
+      },
+      {
+        "end": 454.4200134277344,
+        "start": 454.239990234375,
+        "word": "The"
+      },
+      {
+        "end": 454.4200134277344,
+        "start": 454.4200134277344,
+        "word": "cool"
+      },
+      {
+        "end": 454.5199890136719,
+        "start": 454.4200134277344,
+        "word": "thing"
+      },
+      {
+        "end": 454.760009765625,
+        "start": 454.5199890136719,
+        "word": "about"
+      },
+      {
+        "end": 455.0199890136719,
+        "start": 454.760009765625,
+        "word": "presets"
+      },
+      {
+        "end": 455.3599853515625,
+        "start": 455.1199951171875,
+        "word": "right"
+      },
+      {
+        "end": 455.4200134277344,
+        "start": 455.3599853515625,
+        "word": "is"
+      },
+      {
+        "end": 455.55999755859375,
+        "start": 455.4200134277344,
+        "word": "if"
+      },
+      {
+        "end": 455.6199951171875,
+        "start": 455.55999755859375,
+        "word": "you"
+      },
+      {
+        "end": 455.7200012207031,
+        "start": 455.6199951171875,
+        "word": "use"
+      },
+      {
+        "end": 455.94000244140625,
+        "start": 455.7200012207031,
+        "word": "the"
+      },
+      {
+        "end": 456.1199951171875,
+        "start": 455.94000244140625,
+        "word": "sound"
+      },
+      {
+        "end": 456.32000732421875,
+        "start": 456.20001220703125,
+        "word": "it's"
+      },
+      {
+        "end": 456.4599914550781,
+        "start": 456.32000732421875,
+        "word": "kind"
+      },
+      {
+        "end": 456.5400085449219,
+        "start": 456.4599914550781,
+        "word": "of"
+      },
+      {
+        "end": 456.7799987792969,
+        "start": 456.5400085449219,
+        "word": "like"
+      },
+      {
+        "end": 456.8599853515625,
+        "start": 456.7799987792969,
+        "word": "OK"
+      },
+      {
+        "end": 457.1400146484375,
+        "start": 456.8599853515625,
+        "word": "it"
+      },
+      {
+        "end": 457.1400146484375,
+        "start": 457.1400146484375,
+        "word": "sounds"
+      },
+      {
+        "end": 457.5199890136719,
+        "start": 457.1400146484375,
+        "word": "exactly"
+      },
+      {
+        "end": 457.8800048828125,
+        "start": 457.5199890136719,
+        "word": "like"
+      },
+      {
+        "end": 458.05999755859375,
+        "start": 457.8800048828125,
+        "word": "Jam"
+      },
+      {
+        "end": 458.239990234375,
+        "start": 458.05999755859375,
+        "word": "Back"
+      },
+      {
+        "end": 459.3800048828125,
+        "start": 459.1000061035156,
+        "word": "However"
+      },
+      {
+        "end": 459.760009765625,
+        "start": 459.3800048828125,
+        "word": "having"
+      },
+      {
+        "end": 460.05999755859375,
+        "start": 459.760009765625,
+        "word": "the"
+      },
+      {
+        "end": 460.3999938964844,
+        "start": 460.05999755859375,
+        "word": "programming"
+      },
+      {
+        "end": 460.6600036621094,
+        "start": 460.55999755859375,
+        "word": "what"
+      },
+      {
+        "end": 460.7799987792969,
+        "start": 460.6600036621094,
+        "word": "you"
+      },
+      {
+        "end": 460.9800109863281,
+        "start": 460.7799987792969,
+        "word": "can"
+      },
+      {
+        "end": 461.1400146484375,
+        "start": 460.9800109863281,
+        "word": "do"
+      },
+      {
+        "end": 461.3399963378906,
+        "start": 461.1400146484375,
+        "word": "is"
+      },
+      {
+        "end": 461.4599914550781,
+        "start": 461.3399963378906,
+        "word": "start"
+      },
+      {
+        "end": 461.70001220703125,
+        "start": 461.4599914550781,
+        "word": "to"
+      },
+      {
+        "end": 461.9200134277344,
+        "start": 461.70001220703125,
+        "word": "switch"
+      },
+      {
+        "end": 462.1600036621094,
+        "start": 461.9200134277344,
+        "word": "maybe"
+      },
+      {
+        "end": 462.3999938964844,
+        "start": 462.1600036621094,
+        "word": "some"
+      },
+      {
+        "end": 462.5199890136719,
+        "start": 462.3999938964844,
+        "word": "of"
+      },
+      {
+        "end": 462.6400146484375,
+        "start": 462.5199890136719,
+        "word": "the"
+      },
+      {
+        "end": 463.7799987792969,
+        "start": 463.3399963378906,
+        "word": "way"
+      },
+      {
+        "end": 464.2200012207031,
+        "start": 463.7799987792969,
+        "word": "to"
+      },
+      {
+        "end": 464.44000244140625,
+        "start": 464.2200012207031,
+        "word": "change"
+      },
+      {
+        "end": 464.6400146484375,
+        "start": 464.44000244140625,
+        "word": "the"
+      },
+      {
+        "end": 464.8599853515625,
+        "start": 464.6400146484375,
+        "word": "tone"
+      },
+      {
+        "end": 467.8399963378906,
+        "start": 464.8599853515625,
+        "word": "of"
+      },
+      {
+        "end": 467.8399963378906,
+        "start": 467.8399963378906,
+        "word": "the"
+      },
+      {
+        "end": 467.8399963378906,
+        "start": 467.8399963378906,
+        "word": "sound"
+      },
+      {
+        "end": 469.3800048828125,
+        "start": 467.8399963378906,
+        "word": "or"
+      },
+      {
+        "end": 469.6400146484375,
+        "start": 469.3800048828125,
+        "word": "use"
+      },
+      {
+        "end": 469.79998779296875,
+        "start": 469.6400146484375,
+        "word": "the"
+      },
+      {
+        "end": 470.0,
+        "start": 469.79998779296875,
+        "word": "sound"
+      },
+      {
+        "end": 470.1600036621094,
+        "start": 470.0,
+        "word": "as"
+      },
+      {
+        "end": 470.6400146484375,
+        "start": 470.1600036621094,
+        "word": "a"
+      },
+      {
+        "end": 470.6400146484375,
+        "start": 470.6400146484375,
+        "word": "starting"
+      },
+      {
+        "end": 471.0199890136719,
+        "start": 470.6400146484375,
+        "word": "point"
+      },
+      {
+        "end": 471.4200134277344,
+        "start": 471.0199890136719,
+        "word": "because"
+      },
+      {
+        "end": 471.79998779296875,
+        "start": 471.4200134277344,
+        "word": "presets"
+      },
+      {
+        "end": 472.0199890136719,
+        "start": 471.79998779296875,
+        "word": "while"
+      },
+      {
+        "end": 472.20001220703125,
+        "start": 472.20001220703125,
+        "word": "yeah"
+      },
+      {
+        "end": 472.29998779296875,
+        "start": 472.20001220703125,
+        "word": "you"
+      },
+      {
+        "end": 472.4800109863281,
+        "start": 472.29998779296875,
+        "word": "can"
+      },
+      {
+        "end": 472.6199951171875,
+        "start": 472.4800109863281,
+        "word": "use"
+      },
+      {
+        "end": 472.739990234375,
+        "start": 472.6199951171875,
+        "word": "them"
+      },
+      {
+        "end": 472.8800048828125,
+        "start": 472.739990234375,
+        "word": "as"
+      },
+      {
+        "end": 473.05999755859375,
+        "start": 472.8800048828125,
+        "word": "they"
+      },
+      {
+        "end": 473.3399963378906,
+        "start": 473.05999755859375,
+        "word": "are"
+      },
+      {
+        "end": 473.8800048828125,
+        "start": 473.6000061035156,
+        "word": "a"
+      },
+      {
+        "end": 473.8800048828125,
+        "start": 473.8800048828125,
+        "word": "lot"
+      },
+      {
+        "end": 473.94000244140625,
+        "start": 473.8800048828125,
+        "word": "of"
+      },
+      {
+        "end": 474.05999755859375,
+        "start": 473.94000244140625,
+        "word": "the"
+      },
+      {
+        "end": 474.260009765625,
+        "start": 474.05999755859375,
+        "word": "times"
+      },
+      {
+        "end": 474.4599914550781,
+        "start": 474.260009765625,
+        "word": "the"
+      },
+      {
+        "end": 474.739990234375,
+        "start": 474.4599914550781,
+        "word": "really"
+      },
+      {
+        "end": 474.9599914550781,
+        "start": 474.739990234375,
+        "word": "good"
+      },
+      {
+        "end": 475.20001220703125,
+        "start": 474.9599914550781,
+        "word": "starting"
+      },
+      {
+        "end": 475.4599914550781,
+        "start": 475.20001220703125,
+        "word": "points"
+      },
+      {
+        "end": 475.6000061035156,
+        "start": 475.4599914550781,
+        "word": "that"
+      },
+      {
+        "end": 475.7200012207031,
+        "start": 475.6000061035156,
+        "word": "you"
+      },
+      {
+        "end": 475.8800048828125,
+        "start": 475.7200012207031,
+        "word": "can"
+      },
+      {
+        "end": 476.17999267578125,
+        "start": 475.8800048828125,
+        "word": "take"
+      },
+      {
+        "end": 476.55999755859375,
+        "start": 476.17999267578125,
+        "word": "further"
+      },
+      {
+        "end": 477.260009765625,
+        "start": 476.55999755859375,
+        "word": "in"
+      },
+      {
+        "end": 477.29998779296875,
+        "start": 477.260009765625,
+        "word": "order"
+      },
+      {
+        "end": 477.6600036621094,
+        "start": 477.29998779296875,
+        "word": "to"
+      },
+      {
+        "end": 477.6600036621094,
+        "start": 477.6600036621094,
+        "word": "create"
+      },
+      {
+        "end": 477.9800109863281,
+        "start": 477.6600036621094,
+        "word": "something"
+      },
+      {
+        "end": 478.20001220703125,
+        "start": 477.9800109863281,
+        "word": "that"
+      },
+      {
+        "end": 478.44000244140625,
+        "start": 478.20001220703125,
+        "word": "feels"
+      },
+      {
+        "end": 478.70001220703125,
+        "start": 478.44000244140625,
+        "word": "more"
+      },
+      {
+        "end": 479.0799865722656,
+        "start": 478.70001220703125,
+        "word": "yours"
+      },
+      {
+        "end": 479.6000061035156,
+        "start": 479.0799865722656,
+        "word": "You"
+      },
+      {
+        "end": 479.739990234375,
+        "start": 479.6000061035156,
+        "word": "guys"
+      },
+      {
+        "end": 479.9800109863281,
+        "start": 479.739990234375,
+        "word": "already"
+      },
+      {
+        "end": 480.1199951171875,
+        "start": 479.9800109863281,
+        "word": "know"
+      },
+      {
+        "end": 480.3599853515625,
+        "start": 480.1199951171875,
+        "word": "this"
+      },
+      {
+        "end": 482.0799865722656,
+        "start": 481.7200012207031,
+        "word": "Well"
+      },
+      {
+        "end": 482.260009765625,
+        "start": 482.0799865722656,
+        "word": "I"
+      },
+      {
+        "end": 482.4599914550781,
+        "start": 482.260009765625,
+        "word": "made"
+      },
+      {
+        "end": 482.8599853515625,
+        "start": 482.4599914550781,
+        "word": "it"
+      },
+      {
+        "end": 483.1600036621094,
+        "start": 482.8599853515625,
+        "word": "using"
+      },
+      {
+        "end": 483.55999755859375,
+        "start": 483.1600036621094,
+        "word": "Serum"
+      },
+      {
+        "end": 483.70001220703125,
+        "start": 483.55999755859375,
+        "word": "2"
+      },
+      {
+        "end": 483.8599853515625,
+        "start": 483.70001220703125,
+        "word": "and"
+      },
+      {
+        "end": 484.0199890136719,
+        "start": 483.8599853515625,
+        "word": "now"
+      },
+      {
+        "end": 484.1000061035156,
+        "start": 484.0199890136719,
+        "word": "you"
+      },
+      {
+        "end": 484.29998779296875,
+        "start": 484.1000061035156,
+        "word": "guys"
+      },
+      {
+        "end": 484.4599914550781,
+        "start": 484.29998779296875,
+        "word": "can"
+      },
+      {
+        "end": 484.6400146484375,
+        "start": 484.4599914550781,
+        "word": "learn"
+      },
+      {
+        "end": 484.79998779296875,
+        "start": 484.6400146484375,
+        "word": "from"
+      },
+      {
+        "end": 484.94000244140625,
+        "start": 484.79998779296875,
+        "word": "it"
+      },
+      {
+        "end": 485.05999755859375,
+        "start": 484.94000244140625,
+        "word": "and"
+      },
+      {
+        "end": 485.17999267578125,
+        "start": 485.05999755859375,
+        "word": "see"
+      },
+      {
+        "end": 485.29998779296875,
+        "start": 485.17999267578125,
+        "word": "how"
+      },
+      {
+        "end": 485.6600036621094,
+        "start": 485.29998779296875,
+        "word": "I"
+      },
+      {
+        "end": 485.8399963378906,
+        "start": 485.6600036621094,
+        "word": "programmed"
+      },
+      {
+        "end": 486.1000061035156,
+        "start": 485.8399963378906,
+        "word": "it"
+      },
+      {
+        "end": 486.2799987792969,
+        "start": 486.1000061035156,
+        "word": "in"
+      },
+      {
+        "end": 486.29998779296875,
+        "start": 486.2799987792969,
+        "word": "order"
+      },
+      {
+        "end": 486.55999755859375,
+        "start": 486.29998779296875,
+        "word": "to"
+      },
+      {
+        "end": 486.6600036621094,
+        "start": 486.55999755859375,
+        "word": "get"
+      },
+      {
+        "end": 486.79998779296875,
+        "start": 486.6600036621094,
+        "word": "it"
+      },
+      {
+        "end": 487.1600036621094,
+        "start": 486.79998779296875,
+        "word": "to"
+      },
+      {
+        "end": 487.1600036621094,
+        "start": 487.1600036621094,
+        "word": "sound"
+      },
+      {
+        "end": 487.3999938964844,
+        "start": 487.1600036621094,
+        "word": "that"
+      },
+      {
+        "end": 487.7200012207031,
+        "start": 487.3999938964844,
+        "word": "way"
+      },
+      {
+        "end": 508.8399963378906,
+        "start": 508.4800109863281,
+        "word": "I've"
+      },
+      {
+        "end": 509.20001220703125,
+        "start": 508.8399963378906,
+        "word": "been"
+      },
+      {
+        "end": 509.3599853515625,
+        "start": 509.20001220703125,
+        "word": "working"
+      },
+      {
+        "end": 509.5,
+        "start": 509.3599853515625,
+        "word": "on"
+      },
+      {
+        "end": 509.6600036621094,
+        "start": 509.5,
+        "word": "this"
+      },
+      {
+        "end": 509.8599853515625,
+        "start": 509.6600036621094,
+        "word": "pack"
+      },
+      {
+        "end": 510.0799865722656,
+        "start": 509.8599853515625,
+        "word": "for"
+      },
+      {
+        "end": 510.1400146484375,
+        "start": 510.0799865722656,
+        "word": "a"
+      },
+      {
+        "end": 510.2799987792969,
+        "start": 510.1400146484375,
+        "word": "while"
+      },
+      {
+        "end": 510.5199890136719,
+        "start": 510.2799987792969,
+        "word": "guys"
+      },
+      {
+        "end": 510.6199951171875,
+        "start": 510.5199890136719,
+        "word": "and"
+      },
+      {
+        "end": 510.7799987792969,
+        "start": 510.6199951171875,
+        "word": "it's"
+      },
+      {
+        "end": 511.0199890136719,
+        "start": 510.7799987792969,
+        "word": "finally"
+      },
+      {
+        "end": 511.239990234375,
+        "start": 511.0199890136719,
+        "word": "done"
+      },
+      {
+        "end": 511.3599853515625,
+        "start": 511.239990234375,
+        "word": "and"
+      },
+      {
+        "end": 511.44000244140625,
+        "start": 511.3599853515625,
+        "word": "you"
+      },
+      {
+        "end": 511.6000061035156,
+        "start": 511.44000244140625,
+        "word": "guys"
+      },
+      {
+        "end": 511.79998779296875,
+        "start": 511.6000061035156,
+        "word": "can"
+      },
+      {
+        "end": 511.8599853515625,
+        "start": 511.79998779296875,
+        "word": "check"
+      },
+      {
+        "end": 511.9800109863281,
+        "start": 511.8599853515625,
+        "word": "it"
+      },
+      {
+        "end": 512.0800170898438,
+        "start": 511.9800109863281,
+        "word": "out"
+      },
+      {
+        "end": 512.2999877929688,
+        "start": 512.0800170898438,
+        "word": "at"
+      },
+      {
+        "end": 512.780029296875,
+        "start": 512.2999877929688,
+        "word": "EvilSounds"
+      },
+      {
+        "end": 513.4600219726562,
+        "start": 512.780029296875,
+        "word": "com"
+      },
+      {
+        "end": 513.760009765625,
+        "start": 513.4600219726562,
+        "word": "It's"
+      },
+      {
+        "end": 513.8200073242188,
+        "start": 513.760009765625,
+        "word": "going"
+      },
+      {
+        "end": 513.8200073242188,
+        "start": 513.8200073242188,
+        "word": "to"
+      },
+      {
+        "end": 513.9199829101562,
+        "start": 513.8200073242188,
+        "word": "be"
+      },
+      {
+        "end": 514.0599975585938,
+        "start": 513.9199829101562,
+        "word": "a"
+      },
+      {
+        "end": 514.1199951171875,
+        "start": 514.0599975585938,
+        "word": "total"
+      },
+      {
+        "end": 514.260009765625,
+        "start": 514.1199951171875,
+        "word": "of"
+      },
+      {
+        "end": 514.9199829101562,
+        "start": 514.260009765625,
+        "word": "100"
+      },
+      {
+        "end": 515.219970703125,
+        "start": 514.9199829101562,
+        "word": "and"
+      },
+      {
+        "end": 515.4400024414062,
+        "start": 515.219970703125,
+        "word": "Serum"
+      },
+      {
+        "end": 515.739990234375,
+        "start": 515.4400024414062,
+        "word": "2"
+      },
+      {
+        "end": 516.0599975585938,
+        "start": 515.739990234375,
+        "word": "presets"
+      },
+      {
+        "end": 516.47998046875,
+        "start": 516.0599975585938,
+        "word": "all"
+      },
+      {
+        "end": 516.6400146484375,
+        "start": 516.47998046875,
+        "word": "in"
+      },
+      {
+        "end": 516.739990234375,
+        "start": 516.6400146484375,
+        "word": "the"
+      },
+      {
+        "end": 517.1599731445312,
+        "start": 516.739990234375,
+        "word": "style"
+      },
+      {
+        "end": 517.6199951171875,
+        "start": 517.1599731445312,
+        "word": "of"
+      },
+      {
+        "end": 517.9199829101562,
+        "start": 517.6199951171875,
+        "word": "Chris"
+      },
+      {
+        "end": 518.3599853515625,
+        "start": 517.9199829101562,
+        "word": "Stussie"
+      },
+      {
+        "end": 518.97998046875,
+        "start": 518.6599731445312,
+        "word": "Josh"
+      },
+      {
+        "end": 519.4400024414062,
+        "start": 518.97998046875,
+        "word": "Baker"
+      },
+      {
+        "end": 520.0999755859375,
+        "start": 519.8599853515625,
+        "word": "Max"
+      },
+      {
+        "end": 520.4000244140625,
+        "start": 520.0999755859375,
+        "word": "Dean"
+      },
+      {
+        "end": 520.8200073242188,
+        "start": 520.719970703125,
+        "word": "Luke"
+      },
+      {
+        "end": 521.260009765625,
+        "start": 520.8200073242188,
+        "word": "Dean"
+      },
+      {
+        "end": 522.0999755859375,
+        "start": 521.6199951171875,
+        "word": "MK"
+      },
+      {
+        "end": 522.52001953125,
+        "start": 522.4199829101562,
+        "word": "It"
+      },
+      {
+        "end": 522.5999755859375,
+        "start": 522.52001953125,
+        "word": "took"
+      },
+      {
+        "end": 522.780029296875,
+        "start": 522.5999755859375,
+        "word": "a"
+      },
+      {
+        "end": 522.8800048828125,
+        "start": 522.780029296875,
+        "word": "lot"
+      },
+      {
+        "end": 523.0999755859375,
+        "start": 522.8800048828125,
+        "word": "of"
+      },
+      {
+        "end": 523.4400024414062,
+        "start": 523.0999755859375,
+        "word": "inspiration"
+      },
+      {
+        "end": 523.760009765625,
+        "start": 523.4400024414062,
+        "word": "from"
+      },
+      {
+        "end": 523.9000244140625,
+        "start": 523.760009765625,
+        "word": "them"
+      },
+      {
+        "end": 524.02001953125,
+        "start": 523.9000244140625,
+        "word": "to"
+      },
+      {
+        "end": 524.2000122070312,
+        "start": 524.02001953125,
+        "word": "make"
+      },
+      {
+        "end": 524.4600219726562,
+        "start": 524.2000122070312,
+        "word": "sounds"
+      },
+      {
+        "end": 524.5999755859375,
+        "start": 524.4600219726562,
+        "word": "that"
+      },
+      {
+        "end": 524.719970703125,
+        "start": 524.5999755859375,
+        "word": "I"
+      },
+      {
+        "end": 524.8400268554688,
+        "start": 524.719970703125,
+        "word": "know"
+      },
+      {
+        "end": 525.0999755859375,
+        "start": 524.8400268554688,
+        "word": "will"
+      },
+      {
+        "end": 525.2999877929688,
+        "start": 525.0999755859375,
+        "word": "work"
+      },
+      {
+        "end": 525.5999755859375,
+        "start": 525.2999877929688,
+        "word": "for"
+      },
+      {
+        "end": 525.7999877929688,
+        "start": 525.5999755859375,
+        "word": "your"
+      },
+      {
+        "end": 526.219970703125,
+        "start": 525.8200073242188,
+        "word": "music"
+      },
+      {
+        "end": 526.47998046875,
+        "start": 526.47998046875,
+        "word": "Proven"
+      },
+      {
+        "end": 526.6400146484375,
+        "start": 526.47998046875,
+        "word": "to"
+      },
+      {
+        "end": 526.7999877929688,
+        "start": 526.6400146484375,
+        "word": "work"
+      },
+      {
+        "end": 527.2000122070312,
+        "start": 526.7999877929688,
+        "word": "sounds"
+      },
+      {
+        "end": 527.5,
+        "start": 527.2000122070312,
+        "word": "from"
+      },
+      {
+        "end": 527.719970703125,
+        "start": 527.5,
+        "word": "proven"
+      },
+      {
+        "end": 527.9400024414062,
+        "start": 527.719970703125,
+        "word": "to"
+      },
+      {
+        "end": 528.1400146484375,
+        "start": 527.9400024414062,
+        "word": "work"
+      },
+      {
+        "end": 528.3599853515625,
+        "start": 528.1400146484375,
+        "word": "track"
+      },
+      {
+        "end": 528.5999755859375,
+        "start": 528.5999755859375,
+        "word": "My"
+      },
+      {
+        "end": 528.739990234375,
+        "start": 528.5999755859375,
+        "word": "goal"
+      },
+      {
+        "end": 528.8800048828125,
+        "start": 528.739990234375,
+        "word": "is"
+      },
+      {
+        "end": 529.0599975585938,
+        "start": 528.8800048828125,
+        "word": "all"
+      },
+      {
+        "end": 529.1799926757812,
+        "start": 529.0599975585938,
+        "word": "about"
+      },
+      {
+        "end": 529.5,
+        "start": 529.1799926757812,
+        "word": "making"
+      },
+      {
+        "end": 530.0,
+        "start": 529.5,
+        "word": "music"
+      },
+      {
+        "end": 530.260009765625,
+        "start": 530.0,
+        "word": "writing"
+      },
+      {
+        "end": 530.6199951171875,
+        "start": 530.260009765625,
+        "word": "for"
+      },
+      {
+        "end": 530.9000244140625,
+        "start": 530.6199951171875,
+        "word": "you"
+      },
+      {
+        "end": 531.3200073242188,
+        "start": 530.9000244140625,
+        "word": "have"
+      },
+      {
+        "end": 531.5399780273438,
+        "start": 531.3200073242188,
+        "word": "less"
+      },
+      {
+        "end": 531.9000244140625,
+        "start": 531.5399780273438,
+        "word": "friction"
+      },
+      {
+        "end": 532.0999755859375,
+        "start": 531.9000244140625,
+        "word": "so"
+      },
+      {
+        "end": 532.239990234375,
+        "start": 532.0999755859375,
+        "word": "that"
+      },
+      {
+        "end": 532.3800048828125,
+        "start": 532.239990234375,
+        "word": "when"
+      },
+      {
+        "end": 532.5,
+        "start": 532.3800048828125,
+        "word": "you"
+      },
+      {
+        "end": 532.6400146484375,
+        "start": 532.5,
+        "word": "have"
+      },
+      {
+        "end": 532.8200073242188,
+        "start": 532.6400146484375,
+        "word": "the"
+      },
+      {
+        "end": 532.9600219726562,
+        "start": 532.8200073242188,
+        "word": "time"
+      },
+      {
+        "end": 533.1199951171875,
+        "start": 532.9600219726562,
+        "word": "to"
+      },
+      {
+        "end": 533.280029296875,
+        "start": 533.1199951171875,
+        "word": "make"
+      },
+      {
+        "end": 533.6400146484375,
+        "start": 533.280029296875,
+        "word": "music"
+      },
+      {
+        "end": 534.1799926757812,
+        "start": 533.97998046875,
+        "word": "you"
+      },
+      {
+        "end": 534.4400024414062,
+        "start": 534.1799926757812,
+        "word": "create"
+      },
+      {
+        "end": 534.719970703125,
+        "start": 534.4400024414062,
+        "word": "a"
+      },
+      {
+        "end": 534.8200073242188,
+        "start": 534.719970703125,
+        "word": "lot"
+      },
+      {
+        "end": 535.239990234375,
+        "start": 534.8200073242188,
+        "word": "more"
+      },
+      {
+        "end": 535.5399780273438,
+        "start": 535.239990234375,
+        "word": "bomb"
+      },
+      {
+        "end": 535.9400024414062,
+        "start": 535.5399780273438,
+        "word": "ideas"
+      },
+      {
+        "end": 536.3200073242188,
+        "start": 535.9400024414062,
+        "word": "because"
+      },
+      {
+        "end": 536.4600219726562,
+        "start": 536.3200073242188,
+        "word": "you"
+      },
+      {
+        "end": 536.6400146484375,
+        "start": 536.4600219726562,
+        "word": "have"
+      },
+      {
+        "end": 536.8599853515625,
+        "start": 536.6400146484375,
+        "word": "bomb"
+      },
+      {
+        "end": 537.0599975585938,
+        "start": 536.8599853515625,
+        "word": "sounds"
+      },
+      {
+        "end": 537.219970703125,
+        "start": 537.0599975585938,
+        "word": "to"
+      },
+      {
+        "end": 537.3800048828125,
+        "start": 537.219970703125,
+        "word": "get"
+      },
+      {
+        "end": 537.7000122070312,
+        "start": 537.3800048828125,
+        "word": "inspired"
+      },
+      {
+        "end": 538.0800170898438,
+        "start": 537.8200073242188,
+        "word": "By"
+      },
+      {
+        "end": 538.0800170898438,
+        "start": 538.0800170898438,
+        "word": "the"
+      },
+      {
+        "end": 538.0800170898438,
+        "start": 538.0800170898438,
+        "word": "time"
+      },
+      {
+        "end": 538.239990234375,
+        "start": 538.0800170898438,
+        "word": "you"
+      },
+      {
+        "end": 538.4600219726562,
+        "start": 538.239990234375,
+        "word": "watch"
+      },
+      {
+        "end": 538.6599731445312,
+        "start": 538.4600219726562,
+        "word": "this"
+      },
+      {
+        "end": 538.8200073242188,
+        "start": 538.6599731445312,
+        "word": "video"
+      },
+      {
+        "end": 539.0,
+        "start": 538.8599853515625,
+        "word": "it's"
+      },
+      {
+        "end": 539.2000122070312,
+        "start": 539.0,
+        "word": "already"
+      },
+      {
+        "end": 539.3599853515625,
+        "start": 539.2000122070312,
+        "word": "the"
+      },
+      {
+        "end": 539.5399780273438,
+        "start": 539.3599853515625,
+        "word": "new"
+      },
+      {
+        "end": 539.760009765625,
+        "start": 539.5399780273438,
+        "word": "year"
+      },
+      {
+        "end": 539.9400024414062,
+        "start": 539.760009765625,
+        "word": "So"
+      },
+      {
+        "end": 540.0800170898438,
+        "start": 539.9400024414062,
+        "word": "I"
+      },
+      {
+        "end": 540.0800170898438,
+        "start": 540.0800170898438,
+        "word": "hope"
+      },
+      {
+        "end": 540.260009765625,
+        "start": 540.0800170898438,
+        "word": "that"
+      },
+      {
+        "end": 540.3200073242188,
+        "start": 540.260009765625,
+        "word": "you"
+      },
+      {
+        "end": 540.47998046875,
+        "start": 540.3200073242188,
+        "word": "guys"
+      },
+      {
+        "end": 540.7000122070312,
+        "start": 540.47998046875,
+        "word": "enjoyed"
+      },
+      {
+        "end": 540.8800048828125,
+        "start": 540.7000122070312,
+        "word": "it"
+      },
+      {
+        "end": 541.0399780273438,
+        "start": 540.8800048828125,
+        "word": "with"
+      },
+      {
+        "end": 541.280029296875,
+        "start": 541.0399780273438,
+        "word": "loved"
+      },
+      {
+        "end": 541.5,
+        "start": 541.280029296875,
+        "word": "ones"
+      },
+      {
+        "end": 541.8800048828125,
+        "start": 541.5,
+        "word": "And"
+      },
+      {
+        "end": 541.97998046875,
+        "start": 541.8800048828125,
+        "word": "I"
+      },
+      {
+        "end": 542.0599975585938,
+        "start": 541.97998046875,
+        "word": "want"
+      },
+      {
+        "end": 542.1400146484375,
+        "start": 542.0599975585938,
+        "word": "to"
+      },
+      {
+        "end": 542.2000122070312,
+        "start": 542.1400146484375,
+        "word": "thank"
+      },
+      {
+        "end": 542.280029296875,
+        "start": 542.2000122070312,
+        "word": "you"
+      },
+      {
+        "end": 542.4199829101562,
+        "start": 542.280029296875,
+        "word": "guys"
+      },
+      {
+        "end": 542.5800170898438,
+        "start": 542.4199829101562,
+        "word": "for"
+      },
+      {
+        "end": 542.6599731445312,
+        "start": 542.5800170898438,
+        "word": "the"
+      },
+      {
+        "end": 542.9600219726562,
+        "start": 542.6599731445312,
+        "word": "support"
+      },
+      {
+        "end": 543.239990234375,
+        "start": 542.9600219726562,
+        "word": "these"
+      },
+      {
+        "end": 543.7000122070312,
+        "start": 543.239990234375,
+        "word": "past"
+      },
+      {
+        "end": 544.0399780273438,
+        "start": 543.7000122070312,
+        "word": "10"
+      },
+      {
+        "end": 544.3400268554688,
+        "start": 544.0399780273438,
+        "word": "years"
+      },
+      {
+        "end": 544.5599975585938,
+        "start": 544.3400268554688,
+        "word": "So"
+      },
+      {
+        "end": 544.6799926757812,
+        "start": 544.5599975585938,
+        "word": "with"
+      },
+      {
+        "end": 544.8200073242188,
+        "start": 544.6799926757812,
+        "word": "that"
+      },
+      {
+        "end": 545.0399780273438,
+        "start": 544.8200073242188,
+        "word": "being"
+      },
+      {
+        "end": 545.219970703125,
+        "start": 545.0399780273438,
+        "word": "said"
+      },
+      {
+        "end": 545.6199951171875,
+        "start": 545.4000244140625,
+        "word": "use"
+      },
+      {
+        "end": 545.8800048828125,
+        "start": 545.6199951171875,
+        "word": "me"
+      },
+      {
+        "end": 546.1599731445312,
+        "start": 546.1199951171875,
+        "word": "guys"
+      },
+      {
+        "end": 546.47998046875,
+        "start": 546.3400268554688,
+        "word": "use"
+      },
+      {
+        "end": 546.6599731445312,
+        "start": 546.47998046875,
+        "word": "me"
+      },
+      {
+        "end": 546.780029296875,
+        "start": 546.6599731445312,
+        "word": "in"
+      },
+      {
+        "end": 546.8200073242188,
+        "start": 546.780029296875,
+        "word": "any"
+      },
+      {
+        "end": 546.9600219726562,
+        "start": 546.8200073242188,
+        "word": "way"
+      },
+      {
+        "end": 547.1599731445312,
+        "start": 546.9600219726562,
+        "word": "or"
+      },
+      {
+        "end": 547.260009765625,
+        "start": 547.1599731445312,
+        "word": "form"
+      },
+      {
+        "end": 547.4000244140625,
+        "start": 547.260009765625,
+        "word": "you"
+      },
+      {
+        "end": 547.719970703125,
+        "start": 547.4000244140625,
+        "word": "want"
+      },
+      {
+        "end": 548.0,
+        "start": 547.8800048828125,
+        "word": "See"
+      },
+      {
+        "end": 548.1400146484375,
+        "start": 548.0,
+        "word": "you"
+      },
+      {
+        "end": 548.4000244140625,
+        "start": 548.1400146484375,
+        "word": "guys"
+      },
+      {
+        "end": 548.8200073242188,
+        "start": 548.4000244140625,
+        "word": "for"
+      },
+      {
+        "end": 548.97998046875,
+        "start": 548.8200073242188,
+        "word": "another"
+      },
+      {
+        "end": 549.280029296875,
+        "start": 548.97998046875,
+        "word": "one"
+      },
+      {
+        "end": 549.5599975585938,
+        "start": 549.4400024414062,
+        "word": "Take"
+      },
+      {
+        "end": 549.739990234375,
+        "start": 549.5599975585938,
+        "word": "care"
+      },
+      {
+        "end": 549.8400268554688,
+        "start": 549.8200073242188,
+        "word": "And"
+      },
+      {
+        "end": 549.9199829101562,
+        "start": 549.8400268554688,
+        "word": "you"
+      },
+      {
+        "end": 550.0800170898438,
+        "start": 549.9199829101562,
+        "word": "guys"
+      },
+      {
+        "end": 550.1400146484375,
+        "start": 550.0800170898438,
+        "word": "have"
+      },
+      {
+        "end": 550.2999877929688,
+        "start": 550.1400146484375,
+        "word": "a"
+      },
+      {
+        "end": 550.4600219726562,
+        "start": 550.2999877929688,
+        "word": "great"
+      },
+      {
+        "end": 550.8200073242188,
+        "start": 550.4600219726562,
+        "word": "rest"
+      },
+      {
+        "end": 551.0,
+        "start": 550.8200073242188,
+        "word": "of"
+      },
+      {
+        "end": 551.0999755859375,
+        "start": 551.0,
+        "word": "your"
+      },
+      {
+        "end": 551.280029296875,
+        "start": 551.0999755859375,
+        "word": "day"
+      }
+    ]
+  }
+}

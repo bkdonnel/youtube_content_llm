@@ -1,0 +1,133 @@
+Video: You are mixing blind (and it’s ruining your low end)
+URL: https://www.youtube.com/watch?v=e_lNVXcymNI
+Duration: 6.5 minutes
+================================================================================
+
+[00:00] just close your eyes this is the single and most confident yet distracted piece of advice
+
+[00:08] in the music community today use your ears it sounds romantic it sounds artistic but if you
+
+[00:14] are producing in a home studio in 2026 trusting your ears for the low end is not artistic it is
+
+[00:21] gamble and the house your room acoustics always wins today i'm going to show you how your ears
+
+[00:28] are lying to you and how to finally see the truth let's start with the hard reality
+
+[00:34] you are likely mixing in a room built for sleeping not for music production
+
+[00:40] top left what producers think what they hear top right the bedroom look at that huge dip around 40
+
+[00:47] hertz here is our living room a total chaos and another reference headphone look at that deep
+
+[00:53] physics is literally canceling that frequency out in your listening position you can't hear
+
+[00:58] the kick drums punch so you're boosted with your eq to your ears it finally sounds full but in
+
+[01:05] reality you just ruined your mix it's going to sound muddy everywhere else you didn't fail as
+
+[01:11] a producer your room guest lighted you but let's say you have a perfect room you spend 10 000 on
+
+[01:17] treatment but you are still fighting the final boss your own biology human evolution design our
+
+[01:24] ears to hear voices snapping physics and babies crying these mid-range frequencies in that range
+
+[01:30] your hearing is precise like a fine-tipped artist's brush but down here below 100 hertz we lose
+
+[01:37] definition we lose pitch perception relying on your ears for sub base detail is like trying to
+
+[01:43] hyper-realistic portrait using a paint roller you are making broad clumsy strokes thinking you are
+
+[01:49] being precise you aren't you physically cannot hear the fine lines but the analyzer it kind of
+
+[01:55] sees everything so how do we fix this we stop kissing and start looking here are three scenarios
+
+[02:01] where your eyeballs win over your ears every time lalala introduced a new algorithm that's called
+
+[02:07] Andromeda so the newest neural network delivers cleaner vocal isolation if you are like me who
+
+[02:12] really loves especially taking the vocals from old classics this is really heaven sent tool so go
+
+[02:17] to lalala i'm going to use one of my own tracks you upload the track and bam you get the vocals
+
+[02:23] and track take a listen to vocal listen to the original vocals and see how close it got even with
+
+[02:30] the effects let's take a look at for a bit busier area of the track
+
+[02:36] figure out figure out isn't this crazy and that part of the track is really busy
+
+[02:49] you click on split in full and bam now you can download the full
+
+[02:53] separated vocals and instrumental let's try one more time
+
+[02:59] and separate it
+
+[03:01] more time
+
+[03:04] this is a good example because it also shows it still does really good job even though there's a
+
+[03:09] heavy vocal auto-tune on top if you want to try it yourself check the links below invisible phase
+
+[03:13] issue you layer your kick and sub it sounds weak you try to eq it you try to compress it it sounds
+
+[03:21] still it lacks the punch stop touching the faders and eq look at the waveform see this constructive
+
+[03:27] interference versus destructive interference your kick wants to push the speaker out however
+
+[03:33] your sub wants to pull it in they cancel each other out look at this roll off
+
+[03:39] your sub removing your punch let's get the peaks aligned here here here and look at that punch
+
+[03:49] it hits here i talk this a lot in the channel it is a 30 hertz cut mid there's so many different
+
+[03:54] issues that arise because of this you have been told cut everything below 30 hertz to
+
+[03:59] clean up the headroom right look at the transient of this kick
+
+[04:03] let's put an eq cut that 30 hertz and look at that again this is called phase shift by cutting
+
+[04:09] the lows we actually smeared the transient energy you thought you were cleaning up the mud you end
+
+[04:14] up smearing your transient of your kick sometimes effect could be even weirder look at this kick
+
+[04:19] cool punchy look at this fatty initial attack 30 hertz cut look at the results this looks super
+
+[04:26] weird isn't it the whole fatness of the kick is gone and the waveform is even weirder don't cut
+
+[04:31] blind look at the response if the waveform looks weaker it is weak i saved the best for the last
+
+[04:37] this is the most important part the referencing you compare your mix to the pro track and yours
+
+[04:42] feels weak so you turn up the sub by comparing apples to oranges their track is mastered compressed
+
+[04:49] brick yours is dynamic if you want to compare the low end you have to simulate the master
+
+[04:54] crush your track with the limiter first you need to look at two things the dynamic response
+
+[05:01] and sustain response what does that mean put an eq cut it off
+
+[05:09] this is more or less the bass but we are looking the dynamic relationship between
+
+[05:13] the top point and lower point this is the footprint of the track let's look at our track
+
+[05:20] do you see how fast we see the problem how easy it was to figure out we are
+
+[05:24] effectively quieter on the sub bass now go move your sub bass up look at that
+
+[05:37] now these two look much more similar give it two three db plus and minus it is your
+
+[05:42] taste but now super fast you're over on the ballpark i'm not telling you to stop listening
+
+[05:48] your ears are for the soul of the music use your ears for the groove use your ears for the melody
+
+[05:55] use your ears for the camera use your ears for the emotion of the track that is where art lives
+
+[06:01] but for the low end for the foundation that is engineering and in engineering we don't guess
+
+[06:07] we measure use your eyes to build the foundation of your house and use your ears to design and
+
+[06:13] decorate it if you want to see exactly how i set up my monitoring tools and reference my low end
+
+[06:18] take a look at this video i go super deep into the concept will you speech perfect oh my god
+
+[06:24] human evolution design or ears to hem
+

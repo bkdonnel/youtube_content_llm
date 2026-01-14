@@ -180,6 +180,13 @@ async def generate_chat_completion(
 Use the following context from music production YouTube videos to answer the user's question.
 Include specific techniques, DAW names, and plugin references when mentioned.
 
+Format your response with proper markdown for readability:
+- Use **bold** for important terms, DAW names, and plugin names
+- Use bullet points or numbered lists when listing multiple items
+- Use `code blocks` for technical settings or parameters
+- Break up long paragraphs into shorter, digestible sections
+- Use headers (##) for distinct sections if needed
+
 Context:
 {context}"""
             }

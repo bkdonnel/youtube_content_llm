@@ -1,0 +1,423 @@
+Video: Why your synths sound "Plastic" (Imperfection Protocol)
+URL: https://www.youtube.com/watch?v=Q5WsiqY0-x0
+Duration: 13.2 minutes
+================================================================================
+
+[00:01] Does this sound pure to you?
+
+[00:04] No.
+
+[00:04] It sounds plastic.
+
+[00:05] It sounds like a calculator, not an instrument.
+
+[00:08] This is because digital synths are mathematically perfect.
+
+[00:11] And your brain hates perfection.
+
+[00:15] It reads it as fake.
+
+[00:17] The real instruments, they drift, they break, they struggle.
+
+[00:21] That imperfection is what makes them expensive.
+
+[00:24] So I took the cheapest, a free synthesizer, and injected it with that imperfections.
+
+[00:30] Listen one more time.
+
+[00:38] The both are exactly the same free plugin, one of the simplest digital synths that you
+
+[00:43] can ever get.
+
+[00:44] The difference is this.
+
+[00:45] The imperfection protocol.
+
+[00:46] And let me show you why should you use it in your next sound.
+
+[00:49] To make this work, I took one of the simplest synthesizers.
+
+[00:52] This one is called KHS-1 from Kilohertz.
+
+[00:55] They actually discontinued this plugin.
+
+[00:57] But I wanted to have something very simple.
+
+[01:00] And this is quite simple.
+
+[01:01] So initial sound, single oscillator, simple envelope, everything else is turned off.
+
+[01:09] This is as digital and plastic as it gets.
+
+[01:12] Consider four things when you are making your sound more analog or authentic.
+
+[01:16] The first one is source instability.
+
+[01:18] That means making the oscillators or the source of your sound less stable.
+
+[01:24] The first thing, introduce second oscillator, one octave down, detune it slightly, increase
+
+[01:32] the gain, it's a bit muddy, don't worry about it, we want that muddiness, that imperfection.
+
+[01:38] But this is still too sterile.
+
+[01:40] The thing I like to do, introducing a wobble, a pitch shift up and down, making the sound
+
+[01:45] coming from like a vintage synthesizer.
+
+[01:47] Many ways to do this one.
+
+[01:48] One of the simplest way, using echo, from sync to time, 1-1, 100% wet, and take off
+
+[01:53] the filter.
+
+[01:55] So it should basically doesn't change the sound.
+
+[01:57] What happens is you go to wobble.
+
+[02:04] If I can make it 100%, you can hear a bit better, right?
+
+[02:07] We don't want that much.
+
+[02:08] And I want a subtle noise, like a cassette noise.
+
+[02:13] Hear that?
+
+[02:18] That subtle pitch drift.
+
+[02:19] If you enjoyed the video up to now, please consider like and subscribe, and I promise
+
+[02:23] I will make more videos like this.
+
+[02:25] Number two, reactive modulation.
+
+[02:27] When you are playing an instrument, your touch, your pick, so that the volume and the character
+
+[02:32] of the sound changes every single hit.
+
+[02:34] How can we generate this in a simple synthesizer like this?
+
+[02:37] You are in 2026, at least.
+
+[02:40] That means that you have tools that you need inside your DAW.
+
+[02:43] I'm gonna start with Envelope MIDI.
+
+[02:45] You map the parameters that you want to modulate inside your synthesizers.
+
+[02:49] For me, the most important parameters are filter decay, how fast filter moves back and
+
+[02:54] forward, amplitude decay, how fast the volume of the sound decays, filter itself, the cutoff,
+
+[02:59] how open the filter is, and filter envelope, how fast the filter moves.
+
+[03:03] These four would already get you tons of different variations in your sound.
+
+[03:07] You don't need to overcomplicate the things.
+
+[03:09] To add that variation in perfection, I will start with the LFO.
+
+[03:13] That will help you to move things around, modulate the things.
+
+[03:16] Then, you click map, and map each parameter on your synthesizer.
+
+[03:20] Let's start with filter envelope.
+
+[03:27] Can you feel the filter is opening?
+
+[03:30] Look at here.
+
+[03:31] Let's put it on the volume decay.
+
+[03:40] And let's put it on the filter as well.
+
+[03:50] Without.
+
+[03:55] With.
+
+[03:57] Can you hear the sound is breathing?
+
+[03:59] But for me, we are just starting.
+
+[04:02] I also want slower, longer movement on my cutoff, so that I can emphasize this building
+
+[04:07] up.
+
+[04:07] Another filter, the previous filter was just sine wave up and down.
+
+[04:11] The next filter is on rate of one bar.
+
+[04:14] So building, building up, going down.
+
+[04:15] And we cannot jitter, so it's not perfect.
+
+[04:17] Again, we like this type of mode.
+
+[04:19] And I'm gonna put a bit smooth.
+
+[04:21] Look at that.
+
+[04:22] Looks very analog, isn't it?
+
+[04:23] And on the cutoff.
+
+[04:32] Suddenly, everything sounds much more analog.
+
+[04:35] We are just starting.
+
+[04:36] I want to emphasize those highs, when I pluck the string.
+
+[04:40] What can you do?
+
+[04:41] Bring an envelope midi.
+
+[04:42] We are simulating that pluck.
+
+[04:44] Bring an equalizer.
+
+[04:45] First slight curve, just emphasize lows and highs a bit.
+
+[04:53] This is reactor modulation.
+
+[04:55] This is a reflection of human playing instrument in digital domain.
+
+[04:58] It's not every day, a new plugin comes and impresses me.
+
+[05:01] But today, is not one of those days.
+
+[05:03] Let me introduce you the Wingman.
+
+[05:05] It's a new plugin from Mixing Key.
+
+[05:07] And the idea is simple.
+
+[05:08] A simple plugin, that can help you build your chords, your melodies, your basses, be a wingman
+
+[05:13] of yours in music production.
+
+[05:15] Let's take a simple example.
+
+[05:20] The way it works, you record your audio, clicking this record.
+
+[05:37] And it immediately, extremely fast, creates a chord progression for me, that I can try
+
+[05:42] out in the vocal and a bass on top.
+
+[05:44] So we have the bass and the chords.
+
+[05:46] And if you play together, you will hear.
+
+[06:01] This was really a perfect chord progression for this vocal.
+
+[06:04] And if you saw the bass, here's the bass.
+
+[06:08] And this is the chords.
+
+[06:12] Not only that, it creates actually different variations.
+
+[06:15] So if you don't like the first one, you can scroll through.
+
+[06:26] This is good too.
+
+[06:28] So you can go through the different variations for your vocals, and pick the one that you
+
+[06:33] enjoy.
+
+[06:34] But it also does stamp separation.
+
+[06:35] What does that mean?
+
+[06:36] For example, let's try it on this one.
+
+[06:41] Put on the Wingman.
+
+[06:42] Let's record this part.
+
+[06:51] And we have immediately the vocals, instrument, bass and drums.
+
+[07:02] This is very handy, especially if you want to come up with new ideas, change the chord
+
+[07:05] progression.
+
+[07:06] So for example, here, now we have this.
+
+[07:15] Also, you can create your chord progression based on different parts of your stems too.
+
+[07:19] For example, if you're going to go after the bass, then you can have a completely new chord
+
+[07:23] progression made after the bass.
+
+[07:32] And anytime if you're happy with anything, it's as easy as just pulling the midi and
+
+[07:38] dropping down.
+
+[07:39] Then you can actually change it the way you want.
+
+[07:41] Pretty cool.
+
+[07:42] It's a very cool plugin.
+
+[07:43] So if you want to try it yourself, check the links on the below.
+
+[07:45] Tree texture creation.
+
+[07:46] We still have very clean sound.
+
+[07:49] So we need type of a texture in the sound.
+
+[07:52] So it feels even more natural.
+
+[07:53] I like to start easy, erosion on the high.
+
+[07:56] And this will introduce this like noise like sound.
+
+[08:06] But I also want dynamic saturation on top of that.
+
+[08:10] We had already our envelope midi.
+
+[08:12] What you need to do, taking that, putting a saturation.
+
+[08:15] I'm using simple analog clip and putting drive and drive wet into that envelope.
+
+[08:19] So every hit creates a bit sudden saturation texture in the sound.
+
+[08:31] Here's an A B, so you can hear how much difference we made.
+
+[08:41] Without any effects on this, if you take this loop and give it to your analog obsessed friend,
+
+[08:47] I guarantee you many of them would think this is analog sound and tell you how they immediately
+
+[08:51] understand it from the dynamics of the sound, the character, the saturation.
+
+[08:56] This is something I like to do to my analog friends and watch their faces afterwards.
+
+[09:01] But this is not that.
+
+[09:02] We need to put this into a space now.
+
+[09:04] The first, I want to give a bit stereo.
+
+[09:06] I'm going to use auto pan.
+
+[09:10] So this helps me with the dynamic positioning.
+
+[09:13] But the main room feeling comes from a reverb.
+
+[09:16] Any reverb you like.
+
+[09:17] To keep it simple, Ableton's medium dark plate with 25%.
+
+[09:20] The most important thing is actually cutting up a bit too low so we don't muddle too much.
+
+[09:26] And using it very subtly.
+
+[09:28] So 21% wetness.
+
+[09:33] This is the sound.
+
+[09:34] So we are having a plate.
+
+[09:42] Then I want the whole.
+
+[09:44] So instant reflections from the plate and bigger reflection from the whole simulation.
+
+[09:48] This time, we go for the return channel so that I can control the sound more.
+
+[09:53] Send it there.
+
+[09:54] So this solo the channel.
+
+[09:56] See how big it is?
+
+[10:04] And we are cleaning up all this high so we have this much cleaner sound.
+
+[10:12] Together.
+
+[10:21] It's very subtle in the background.
+
+[10:23] And then I want my delays.
+
+[10:25] Up to now this sound is very focused in the middle.
+
+[10:27] I intentionally didn't use any unison because I want to show you a single oscillator is
+
+[10:32] oftentimes enough to get this really rich sound.
+
+[10:35] But we do.
+
+[10:35] Go to our second return channel.
+
+[10:40] We have a ping pong delay.
+
+[10:42] This is where the stereo is created.
+
+[10:45] Moves slightly and side changes sound itself.
+
+[10:48] So we are ducking each time we play a note.
+
+[10:53] So this helps with not muddying the track.
+
+[10:56] Together.
+
+[11:04] Amazing.
+
+[11:05] We haven't done it.
+
+[11:06] I like to put also very fast delay to just emphasize those stereos even more.
+
+[11:10] Another send channel.
+
+[11:11] This time we have very fast 116th slap delay with no feedback.
+
+[11:19] This high side sound.
+
+[11:22] Together.
+
+[11:29] Now do you want cherry on top?
+
+[11:30] A glue compression.
+
+[11:32] This will make things even more glued together in the origin sound.
+
+[11:41] Slow attack fast release.
+
+[11:43] So we can let that those initial transients pass a bit through.
+
+[11:55] And final piece in the puzzle is actually another filter.
+
+[11:59] That you have your envelope on the filter frequency.
+
+[12:02] So you can open and close the sound the way you like.
+
+[12:12] And slight touches with EQ.
+
+[12:21] And look at this beautiful sound.
+
+[12:39] Raw, dynamic, beautiful.
+
+[12:41] And we got this from one of the simplest synthesizer in the market for free.
+
+[12:45] Also you know what?
+
+[12:46] This project is free.
+
+[12:47] I'm gonna put on my Patreon.
+
+[12:48] And you can download it for free there.
+
+[12:50] I'm a sound designer.
+
+[12:51] So I make outdoor preset packs.
+
+[12:53] If you want to try my sounds like this.
+
+[12:57] Or this.
+
+[12:59] Or maybe even this.
+
+[13:01] Check them out on mercurialtones.com
+
+[13:03] Maybe you find something.
+
+[13:05] That imperfection is what makes them...
+

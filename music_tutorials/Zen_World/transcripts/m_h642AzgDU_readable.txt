@@ -1,0 +1,405 @@
+Video: What Nobody Tells You About 90s UKG Drums (Riordan / Josh Baker Bounce)
+URL: https://www.youtube.com/watch?v=m_h642AzgDU
+Duration: 16.4 minutes
+================================================================================
+
+[00:10] I'm gonna teach you guys how to shake that butt like Riordan.
+
+[00:18] Now a lot of the times I'm building my grooves out with the 909 core kit.
+
+[00:21] It takes the choice out of everything because a lot of people get stuck picking the samples.
+
+[00:25] It's very important to work on the rhythm, the midi first.
+
+[00:27] So let's get this thing started.
+
+[00:28] So here we have an 8 bar loop and all I'm going to do is put the open hat on the off.
+
+[00:34] So I'm going to go into the 909 open hat and lower it.
+
+[00:43] From there the clap on the 2 and the 4.
+
+[00:47] Now here's where we're going to swag it up.
+
+[00:49] We're going to right click and now we're going to go into six scenes.
+
+[00:51] Now these new two sections here is where the swing of a track in most house tracks is going
+
+[00:57] to come from.
+
+[00:57] So in theory if you wanted something set in stone that you can always do.
+
+[01:01] It's not wrong to say that if you're making a track like this you can always have a snare
+
+[01:04] drum hit.
+
+[01:05] When the clap hits 3 squares to the right in 16th grid.
+
+[01:11] Now I'm going to switch this because that sounds like someone's getting their ass beat.
+
+[01:17] I can use these features here to design the drum.
+
+[01:19] Usually I like to lower down the tone to make it a lot more tight.
+
+[01:28] Now from there I can choose to do another one but I'm going to follow the man reordering
+
+[01:35] himself.
+
+[01:35] I'm going to do another one here but this time I'm not going to double.
+
+[01:41] I can duplicate this and here I'm going to do a triple hit.
+
+[01:59] Now with these ones there's something very important that you must do and that is control
+
+[02:03] the velocity.
+
+[02:03] The velocity is a parameter which is going to be able to know how hard the note is being
+
+[02:08] hit or how loud you want the snare to be played at the exact moment that we're altering the
+
+[02:12] 
+
+[02:12] So what I can do is on some parts lower the velocity like so.
+
+[02:19] It's going to make it like hit like loud.
+
+[02:21] But the thing that I've noticed with people is that when you play something a lot quieter
+
+[02:26] the tonality kind of feels like it's changing.
+
+[02:30] But in theory it's not.
+
+[02:31] It's just the volume is going down.
+
+[02:33] What makes people hear that and go is there pitch automation going on which sometimes
+
+[02:36] there might be however just going down the volume you can add a lot of like that feeling
+
+[02:40] of groove.
+
+[02:41] It's not robotic because everything's hitting at the same velocity the same volume.
+
+[02:52] And I'm just going to duplicate this across like so.
+
+[02:56] And yeah you can add more variation more micro variations if you want but with this you're
+
+[03:01] going to be pretty much better than most.
+
+[03:02] Now this whole time I thought I didn't have swing but I do have swing which you can find
+
+[03:06] here.
+
+[03:07] Now this is what's really going to make the space of loop that you've created just feel
+
+[03:10] a lot more alive.
+
+[03:12] And what this is going to do is it's going to grab these notes and it's going to shift
+
+[03:16] them to the right slightly.
+
+[03:17] Now by how much is dependent on the groove the swing you decide to apply.
+
+[03:22] So if we click here on the bring up your collection of grooves so I'm going to have different
+
+[03:25] ones than you.
+
+[03:26] Everyone's going to have all different kinds you know variety.
+
+[03:30] There we go but the one I've decided to pick is the Ableton one which is the swing 1664.
+
+[03:36] 64 is the intensity of the swing and the 16 means that it's going to be applied to the
+
+[03:40] notes that are hitting on those 16's those pockets we were talking about.
+
+[03:43] Notice that when I have the timing up you want to bob the head but when I have it down
+
+[03:53] it sounds bleached.
+
+[03:56] We need to unbleach that.
+
+[04:06] I added a tambourine which is also going to get the swing.
+
+[04:14] If you were going to be applying swing to a loop you command A the loop by clicking
+
+[04:18] here and then you command U or quantize and you can also go into Ableton's transform section
+
+[04:24] here and quantize it here as you can see there there's a quantize feature and then
+
+[04:28] from there you would quantize to 16.
+
+[04:32] Now from there what Ableton's going to do since you're telling it that you want the
+
+[04:35] swing 16 on it which you're going to be able to see here.
+
+[04:38] From there it's going to apply the same swing we've added to this snare here.
+
+[04:42] So if I were to commit it by just clicking this arrow you're going to see that some notes
+
+[04:46] are getting shifted to the right while other ones remain and that is what's going to give
+
+[04:49] you that swag.
+
+[04:55] But what if you wanted to program your own tambourine and you don't want to use mine's
+
+[04:59] for some reason.
+
+[05:00] Just get yourself a nice tambourine sample set at 16 like so.
+
+[05:05] Now I'm going to loop it so that I can drag it out so it's already looped I'm just going
+
+[05:08] to drag it all the way because the sample's not really going to change so that's where
+
+[05:11] we loop it.
+
+[05:14] Now from here you can choose to move some of the notes or play with the velocities.
+
+[05:25] You can also get a more natural sounding one.
+
+[05:38] I'm going to show you guys a super clutch trick that's super easy to implement.
+
+[05:41] One thing you can do is you can grab this guy and from there command E and turn it into
+
+[05:48] 2.
+
+[05:49] So now you get this double hit there which is going to add even more swag.
+
+[06:04] And since you have this swing applied this open hat gets that swing the last one and
+
+[06:09] that makes a tasty ass boom.
+
+[06:12] What magic.
+
+[06:12] Right.
+
+[06:13] And then you can play with the velocity too if you choose.
+
+[06:22] I do have a reverse clap here.
+
+[06:25] It's been making itself known.
+
+[06:27] I'm just going to lower the volume.
+
+[06:30] The purpose of it is to lead you into that last clap which creates a very nice swag and
+
+[06:35] another variation to it of course is to do it every 2 bars if you choose to.
+
+[06:49] From there I recommend grabbing loops and chopping up the parts that you like.
+
+[06:53] For example.
+
+[06:57] There's a very heavy loop that has a lot going on.
+
+[07:01] However, I don't really want all of that so what I can do is start to chop to get what
+
+[07:08] I like.
+
+[07:10] Cue it to just grab that rim that I really like the pattern.
+
+[07:30] It's a very dusty loop.
+
+[07:32] Now the reason that I'm adding loops like this is because I'm trying to fill in the
+
+[07:37] gaps with other style of drums to add flavor but at the same time sometimes we might want
+
+[07:41] more we just don't know and that's where sample packs will come into play.
+
+[07:45] You should use them as sort of inspiration where you could maybe get inspired and do
+
+[07:49] your own pattern to it or maybe you like the tone and texture that the sample provides.
+
+[07:54] Back then I was super super strict on not using top loops like this over existing drums
+
+[07:58] because there's always the fear or the risk of cancelling out phasing out which is where
+
+[08:03] two drums that sound the same hit and it sounds rather odd.
+
+[08:06] However, after being in some sessions with some more veteran producers that make some
+
+[08:10] bomb music I've noticed a lot of them don't really care about it and when I asked the
+
+[08:13] way it was explained to me is that a lot of the times these drums will add a noise floor
+
+[08:17] and what that means is without those drums there's like an empty gap in the song that
+
+[08:22] isn't being filled and the way they see it it adds texture.
+
+[08:25] The key thing of course is being aware that this can lead to some detrimental
+
+[08:29] issues that will arise with the audio where you're going to find like the audio just
+
+[08:33] sounds a lot shittier but the question is is it on purpose and does it add to the character
+
+[08:37] of the song and that's really up to you to decide what your taste as a producer.
+
+[08:42] From there I can now start to replace some of the drums in the core kit.
+
+[08:50] Now let's compare.
+
+[08:57] Not bad.
+
+[09:00] And this one just has a lot more character on the snare drum it doesn't sound so stocked
+
+[09:03] but it doesn't mean the other snare is bad the other snare has a bit more weight so that
+
+[09:07] actually tells me something as I compare both and it opens up to my eyes that I maybe need
+
+[09:10] a little more body on this.
+
+[09:32] And of course I'm making it a case to use the 909 kick drum from Ableton it's just
+
+[09:36] it's like a like a test to yourself when you get that thing to sound good
+
+[09:39] then you know you're a real producer.
+
+[09:44] That's going to be essentially saturated to give it a bit more meat this is going to make the
+
+[09:49] kick more of a blob but that's what we want from there I'm using this Neutron Ford Transient
+
+[09:54] Shaper for the only fact that it's a multi-band so essentially it lets me split up the kick
+
+[09:58] into different frequency sides and then from there this I can get rid of that nasty noise
+
+[10:06] that whoever at Ableton recorded it like you can see okay there we can kind of just make it a
+
+[10:11] little clean from there I'm shortening it a bit with kickstart which is essentially just volume
+
+[10:15] automation the way you see it the volume is allowed here at full and then it slowly gets reduced.
+
+[10:21] But from here I'm using standard clip just to clip off just the tip the key thing though
+
+[10:26] is I don't want to clip the low end because anytime you clip low and it's going to sound
+
+[10:29] so I'm going to ease off and there we go.
+
+[10:37] That's just controlling that peak because that peak is going to trigger the compressor so this
+
+[10:40] is just a couple of things that I've done in order to make this be a lot more friendlier
+
+[10:43] to compressors and the limiter on the master. Now let's talk about the processing of the drums
+
+[10:48] because this is where I had one of probably the biggest revelations that I've had when it comes
+
+[10:52] to these type of drums and that is the usage little thing called an AK-9X which is a preamp that is
+
+[10:57] created to mimic the color of an old school Akai sampler. Let me show you when I turn all this off how it sounds.
+
+[11:06] Yeah so these drums need a bit of love let me show you what's really going to give these drums
+
+[11:10] flavor this is the stuff they don't show you because they just don't want you to have the
+
+[11:14] flavor they're scared of your ideas because they know you are going to kill it more than they are.
+
+[11:18] Let's not blow someone else's candle to light ours unless they ain't gonna show us the goods.
+
+[11:22] The first thing is some compression this is something that you can write down for yourself
+
+[11:25] that you can always have and that is going to be a compressor the glue from Ableton
+
+[11:29] that is going to be set to a two to one ratio two for every two db that goes over the threshold
+
+[11:34] being hit when the needle moves one db will come out so it's not going to be that hard.
+
+[11:37] The next thing is the attack can either be 30 or 10 it just really depends on how tight you want
+
+[11:42] your drums to feel 10 is going to allow for more gain reduction and it's going to grab onto the
+
+[11:46] drum a lot quicker meaning that it's going to be a lot shorter on the compression 30 you're
+
+[11:51] again it's going to be very minuscule because we're talking about 10 milliseconds 30 milliseconds
+
+[11:57] here so i'm going to go with the 10 release we want it fast because if we leave it
+
+[12:02] that needle takes forever to go down and with drums they're fast hitting right so we want this
+
+[12:07] compressor to grab on and do its thing when needed. Now the way this thing glues is by controlling
+
+[12:11] the volume if something goes above the threshold meaning the clap hits a little louder than
+
+[12:15] everything else because it's activating the threshold and nothing else is then it's going
+
+[12:19] reduce the volume at that instant when the clap hits or 10 milliseconds after it triggers it
+
+[12:24] meaning the volume gets reduced on the clap making it feel a lot more glued because the volume isn't
+
+[12:29] like there's not a lot of change in volume inside the drum. Tape saturation is one of those things
+
+[12:33] that's very beautiful essentially mimicking the idea of recording something to tape and as
+
+[12:38] something was recorded to tape there was some saturation that occurred probably during like
+
+[12:42] someone running hot on it and this one i like to use the drum bus preset and then from there i'll
+
+[12:46] play with the input and the output so for example i'm going to lower these down right now so we don't bust
+
+[13:01] that is how like it sounds louder yet it's quieter. Remember the ips is the color how fast
+
+[13:06] this is moving but the lower the number the more rounded your high end is going to get so lower
+
+[13:14] good for lo-fi i would say 15 is a good medium of like i'm kind of hippie and old school but i'm kind
+
+[13:19] of not and 30 let's let's it all out the high end is just gonna be
+
+[13:32] but i'm gonna go with 15 because it gives us more of that 90s flavor that roundness to to the high end
+
+[13:49] now as i do this you're going to notice the claps the drums start to sound more flat if you want a
+
+[13:53] good range for clipping i would say no more than 2 to 4 db of clipping occurring this is coming
+
+[13:57] from a mentor i have that masters music for a living i did ask the question because i noticed
+
+[14:01] a lot of people clip and i'll get into some sessions with some people that clip to god's end
+
+[14:04] you can definitely clip and be all complex about it but at the end of the day composure is needed
+
+[14:09] in music you do so much and you can push stuff to the limit for sure if it isn't doing anything
+
+[14:13] for your music then you know have the confidence to say this is good enough finally my new favorite
+
+[14:18] plug-in for this kind of stuff is ak9x which is going to be something that mimics an akai preamp
+
+[14:25] the idea of it is is that when we use that we can reduce the quality of the sound the sample
+
+[14:30] for the sake of rounding out the high end
+
+[14:39] so
+
+[14:41] what i want you to pay attention to is this section here i'm going to turn it on and off
+
+[14:44] and you'll see what it's doing
+
+[14:51] don't get out of
+
+[15:03] now when we do that you notice there's a change to the way it sounds right
+
+[15:07] and that is the missing key for me personally as i was trying to get
+
+[15:11] a similar vibe to his drums again i'm not reordering so i'm not going to sound exactly like
+
+[15:15] him he can be the best version of himself but i can still allow myself to learn from it and this
+
+[15:19] is one of the things i learned that in order to sound the 90s vibe i need to think like in the
+
+[15:24] 90s and this plug-in here allows me to put the color of this preamp that was in an akai sampler
+
+[15:30] so a preamp is you can think about it like the input the output for instance on a microphone
+
+[15:34] the preamp is meant to boost the gain of the microphone however certain preamps will have
+
+[15:39] color to them a certain curve to them a certain tone that when you run that mic through it and
+
+[15:44] you push the preamp past a certain point will provide that color that flavor to it and that's
+
+[15:48] what we want with this
+
+[16:00] all right you can hear the difference like that and i know a lot of you guys are going like oh
+
+[16:03] what the if you guys want me to get into the bass let me know in the comments below i will break down
+
+[16:07] the bass the patterns of the bass what you can learn from it to really put that into your production
+
+[16:12] that being said if you guys want to support the channel and you like a lot of the sounds you heard
+
+[16:14] in this little demo find them over at evilsounds.com minimal nights volume 3
+
+[16:18] a pack that pays respect to the past but isn't defined by it
+

@@ -1,0 +1,7476 @@
+{
+  "video_id": "e_lNVXcymNI",
+  "title": "You are mixing blind (and it’s ruining your low end)",
+  "url": "https://www.youtube.com/watch?v=e_lNVXcymNI",
+  "duration": 388,
+  "upload_date": "20260104",
+  "transcript": {
+    "text": "just close your eyes this is the single and most confident yet distracted piece of advice in the music community today use your ears it sounds romantic it sounds artistic but if you are producing in a home studio in 2026 trusting your ears for the low end is not artistic it is gamble and the house your room acoustics always wins today i'm going to show you how your ears are lying to you and how to finally see the truth let's start with the hard reality you are likely mixing in a room built for sleeping not for music production top left what producers think what they hear top right the bedroom look at that huge dip around 40 hertz here is our living room a total chaos and another reference headphone look at that deep physics is literally canceling that frequency out in your listening position you can't hear the kick drums punch so you're boosted with your eq to your ears it finally sounds full but in reality you just ruined your mix it's going to sound muddy everywhere else you didn't fail as a producer your room guest lighted you but let's say you have a perfect room you spend 10 000 on treatment but you are still fighting the final boss your own biology human evolution design our ears to hear voices snapping physics and babies crying these mid-range frequencies in that range your hearing is precise like a fine-tipped artist's brush but down here below 100 hertz we lose definition we lose pitch perception relying on your ears for sub base detail is like trying to hyper-realistic portrait using a paint roller you are making broad clumsy strokes thinking you are being precise you aren't you physically cannot hear the fine lines but the analyzer it kind of sees everything so how do we fix this we stop kissing and start looking here are three scenarios where your eyeballs win over your ears every time lalala introduced a new algorithm that's called Andromeda so the newest neural network delivers cleaner vocal isolation if you are like me who really loves especially taking the vocals from old classics this is really heaven sent tool so go to lalala i'm going to use one of my own tracks you upload the track and bam you get the vocals and track take a listen to vocal listen to the original vocals and see how close it got even with the effects let's take a look at for a bit busier area of the track figure out figure out isn't this crazy and that part of the track is really busy you click on split in full and bam now you can download the full separated vocals and instrumental let's try one more time and separate it more time this is a good example because it also shows it still does really good job even though there's a heavy vocal auto-tune on top if you want to try it yourself check the links below invisible phase issue you layer your kick and sub it sounds weak you try to eq it you try to compress it it sounds still it lacks the punch stop touching the faders and eq look at the waveform see this constructive interference versus destructive interference your kick wants to push the speaker out however your sub wants to pull it in they cancel each other out look at this roll off your sub removing your punch let's get the peaks aligned here here here and look at that punch it hits here i talk this a lot in the channel it is a 30 hertz cut mid there's so many different issues that arise because of this you have been told cut everything below 30 hertz to clean up the headroom right look at the transient of this kick let's put an eq cut that 30 hertz and look at that again this is called phase shift by cutting the lows we actually smeared the transient energy you thought you were cleaning up the mud you end up smearing your transient of your kick sometimes effect could be even weirder look at this kick cool punchy look at this fatty initial attack 30 hertz cut look at the results this looks super weird isn't it the whole fatness of the kick is gone and the waveform is even weirder don't cut blind look at the response if the waveform looks weaker it is weak i saved the best for the last this is the most important part the referencing you compare your mix to the pro track and yours feels weak so you turn up the sub by comparing apples to oranges their track is mastered compressed brick yours is dynamic if you want to compare the low end you have to simulate the master crush your track with the limiter first you need to look at two things the dynamic response and sustain response what does that mean put an eq cut it off this is more or less the bass but we are looking the dynamic relationship between the top point and lower point this is the footprint of the track let's look at our track do you see how fast we see the problem how easy it was to figure out we are effectively quieter on the sub bass now go move your sub bass up look at that now these two look much more similar give it two three db plus and minus it is your taste but now super fast you're over on the ballpark i'm not telling you to stop listening your ears are for the soul of the music use your ears for the groove use your ears for the melody use your ears for the camera use your ears for the emotion of the track that is where art lives but for the low end for the foundation that is engineering and in engineering we don't guess we measure use your eyes to build the foundation of your house and use your ears to design and decorate it if you want to see exactly how i set up my monitoring tools and reference my low end take a look at this video i go super deep into the concept will you speech perfect oh my god human evolution design or ears to hem",
+    "language": "english",
+    "duration": 388.4599914550781,
+    "segments": [
+      {
+        "id": 0,
+        "avg_logprob": -0.2399553507566452,
+        "compression_ratio": 1.7464789152145386,
+        "end": 8.199999809265137,
+        "no_speech_prob": 0.04984741657972336,
+        "seek": 0,
+        "start": 0.0,
+        "temperature": 0.0,
+        "text": " just close your eyes this is the single and most confident yet distracted piece of advice",
+        "tokens": [
+          50364,
+          445,
+          1998,
+          428,
+          2575,
+          341,
+          307,
+          264,
+          2167,
+          293,
+          881,
+          6679,
+          1939,
+          21658,
+          2522,
+          295,
+          5192,
+          50772
+        ]
+      },
+      {
+        "id": 1,
+        "avg_logprob": -0.2399553507566452,
+        "compression_ratio": 1.7464789152145386,
+        "end": 14.84000015258789,
+        "no_speech_prob": 0.04984741657972336,
+        "seek": 0,
+        "start": 8.199999809265137,
+        "temperature": 0.0,
+        "text": " in the music community today use your ears it sounds romantic it sounds artistic but if you",
+        "tokens": [
+          50772,
+          294,
+          264,
+          1318,
+          1768,
+          965,
+          764,
+          428,
+          8798,
+          309,
+          3263,
+          13590,
+          309,
+          3263,
+          17090,
+          457,
+          498,
+          291,
+          51100
+        ]
+      },
+      {
+        "id": 2,
+        "avg_logprob": -0.2399553507566452,
+        "compression_ratio": 1.7464789152145386,
+        "end": 21.6200008392334,
+        "no_speech_prob": 0.04984741657972336,
+        "seek": 0,
+        "start": 14.84000015258789,
+        "temperature": 0.0,
+        "text": " are producing in a home studio in 2026 trusting your ears for the low end is not artistic it is",
+        "tokens": [
+          51100,
+          366,
+          10501,
+          294,
+          257,
+          1280,
+          6811,
+          294,
+          945,
+          10880,
+          28235,
+          428,
+          8798,
+          337,
+          264,
+          2295,
+          917,
+          307,
+          406,
+          17090,
+          309,
+          307,
+          51436
+        ]
+      },
+      {
+        "id": 3,
+        "avg_logprob": -0.2399553507566452,
+        "compression_ratio": 1.7464789152145386,
+        "end": 28.360000610351562,
+        "no_speech_prob": 0.04984741657972336,
+        "seek": 0,
+        "start": 21.81999969482422,
+        "temperature": 0.0,
+        "text": " gamble and the house your room acoustics always wins today i'm going to show you how your ears",
+        "tokens": [
+          51436,
+          44128,
+          293,
+          264,
+          1782,
+          428,
+          1808,
+          22740,
+          1167,
+          1009,
+          10641,
+          965,
+          741,
+          478,
+          516,
+          281,
+          855,
+          291,
+          577,
+          428,
+          8798,
+          51784
+        ]
+      },
+      {
+        "id": 4,
+        "avg_logprob": -0.1986202895641327,
+        "compression_ratio": 1.6603773832321167,
+        "end": 32.720001220703125,
+        "no_speech_prob": 0.0026956142392009497,
+        "seek": 2836,
+        "start": 28.360000610351562,
+        "temperature": 0.0,
+        "text": " are lying to you and how to finally see the truth let's start with the hard reality",
+        "tokens": [
+          50368,
+          366,
+          8493,
+          281,
+          291,
+          293,
+          577,
+          281,
+          2721,
+          536,
+          264,
+          3494,
+          718,
+          311,
+          722,
+          365,
+          264,
+          1152,
+          4103,
+          50576
+        ]
+      },
+      {
+        "id": 5,
+        "avg_logprob": -0.1986202895641327,
+        "compression_ratio": 1.6603773832321167,
+        "end": 39.13999938964844,
+        "no_speech_prob": 0.0026956142392009497,
+        "seek": 2836,
+        "start": 34.060001373291016,
+        "temperature": 0.0,
+        "text": " you are likely mixing in a room built for sleeping not for music production",
+        "tokens": [
+          50668,
+          291,
+          366,
+          3700,
+          11983,
+          294,
+          257,
+          1808,
+          3094,
+          337,
+          8296,
+          406,
+          337,
+          1318,
+          4265,
+          50892
+        ]
+      },
+      {
+        "id": 6,
+        "avg_logprob": -0.1986202895641327,
+        "compression_ratio": 1.6603773832321167,
+        "end": 47.31999969482422,
+        "no_speech_prob": 0.0026956142392009497,
+        "seek": 2836,
+        "start": 40.63999938964844,
+        "temperature": 0.0,
+        "text": " top left what producers think what they hear top right the bedroom look at that huge dip around 40",
+        "tokens": [
+          50992,
+          1192,
+          1411,
+          437,
+          16080,
+          519,
+          437,
+          436,
+          1568,
+          1192,
+          558,
+          264,
+          11211,
+          574,
+          412,
+          300,
+          2603,
+          10460,
+          926,
+          3356,
+          51308
+        ]
+      },
+      {
+        "id": 7,
+        "avg_logprob": -0.1986202895641327,
+        "compression_ratio": 1.6603773832321167,
+        "end": 53.18000030517578,
+        "no_speech_prob": 0.0026956142392009497,
+        "seek": 2836,
+        "start": 47.31999969482422,
+        "temperature": 0.0,
+        "text": " hertz here is our living room a total chaos and another reference headphone look at that deep",
+        "tokens": [
+          51308,
+          45830,
+          510,
+          307,
+          527,
+          2647,
+          1808,
+          257,
+          3217,
+          14158,
+          293,
+          1071,
+          6408,
+          35028,
+          574,
+          412,
+          300,
+          2452,
+          51608
+        ]
+      },
+      {
+        "id": 8,
+        "avg_logprob": -0.22254152595996857,
+        "compression_ratio": 1.6681416034698486,
+        "end": 58.779998779296875,
+        "no_speech_prob": 0.0002860745007637888,
+        "seek": 5318,
+        "start": 53.18000030517578,
+        "temperature": 0.0,
+        "text": " physics is literally canceling that frequency out in your listening position you can't hear",
+        "tokens": [
+          50364,
+          10649,
+          307,
+          3736,
+          10373,
+          278,
+          300,
+          7893,
+          484,
+          294,
+          428,
+          4764,
+          2535,
+          291,
+          393,
+          380,
+          1568,
+          50636
+        ]
+      },
+      {
+        "id": 9,
+        "avg_logprob": -0.22254152595996857,
+        "compression_ratio": 1.6681416034698486,
+        "end": 65.23999786376953,
+        "no_speech_prob": 0.0002860745007637888,
+        "seek": 5318,
+        "start": 58.779998779296875,
+        "temperature": 0.0,
+        "text": " the kick drums punch so you're boosted with your eq to your ears it finally sounds full but in",
+        "tokens": [
+          50636,
+          264,
+          4437,
+          20420,
+          8135,
+          370,
+          291,
+          434,
+          9194,
+          292,
+          365,
+          428,
+          308,
+          80,
+          281,
+          428,
+          8798,
+          309,
+          2721,
+          3263,
+          1577,
+          457,
+          294,
+          50960
+        ]
+      },
+      {
+        "id": 10,
+        "avg_logprob": -0.22254152595996857,
+        "compression_ratio": 1.6681416034698486,
+        "end": 71.16000366210938,
+        "no_speech_prob": 0.0002860745007637888,
+        "seek": 5318,
+        "start": 65.23999786376953,
+        "temperature": 0.0,
+        "text": " reality you just ruined your mix it's going to sound muddy everywhere else you didn't fail as",
+        "tokens": [
+          50960,
+          4103,
+          291,
+          445,
+          17013,
+          428,
+          2890,
+          309,
+          311,
+          516,
+          281,
+          1626,
+          38540,
+          5315,
+          1646,
+          291,
+          994,
+          380,
+          3061,
+          382,
+          51256
+        ]
+      },
+      {
+        "id": 11,
+        "avg_logprob": -0.22254152595996857,
+        "compression_ratio": 1.6681416034698486,
+        "end": 77.9000015258789,
+        "no_speech_prob": 0.0002860745007637888,
+        "seek": 5318,
+        "start": 71.16000366210938,
+        "temperature": 0.0,
+        "text": " a producer your room guest lighted you but let's say you have a perfect room you spend 10 000 on",
+        "tokens": [
+          51256,
+          257,
+          12314,
+          428,
+          1808,
+          8341,
+          1442,
+          292,
+          291,
+          457,
+          718,
+          311,
+          584,
+          291,
+          362,
+          257,
+          2176,
+          1808,
+          291,
+          3496,
+          1266,
+          13711,
+          322,
+          51600
+        ]
+      },
+      {
+        "id": 12,
+        "avg_logprob": -0.25042203068733215,
+        "compression_ratio": 1.6580086946487427,
+        "end": 84.12000274658203,
+        "no_speech_prob": 0.037237588316202164,
+        "seek": 7798,
+        "start": 77.9800033569336,
+        "temperature": 0.0,
+        "text": " treatment but you are still fighting the final boss your own biology human evolution design our",
+        "tokens": [
+          50364,
+          5032,
+          457,
+          291,
+          366,
+          920,
+          5237,
+          264,
+          2572,
+          5741,
+          428,
+          1065,
+          14956,
+          1952,
+          9303,
+          1715,
+          527,
+          50672
+        ]
+      },
+      {
+        "id": 13,
+        "avg_logprob": -0.25042203068733215,
+        "compression_ratio": 1.6580086946487427,
+        "end": 90.19999694824219,
+        "no_speech_prob": 0.037237588316202164,
+        "seek": 7798,
+        "start": 84.12000274658203,
+        "temperature": 0.0,
+        "text": " ears to hear voices snapping physics and babies crying these mid-range frequencies in that range",
+        "tokens": [
+          50672,
+          8798,
+          281,
+          1568,
+          9802,
+          42727,
+          10649,
+          293,
+          10917,
+          8554,
+          613,
+          2062,
+          12,
+          14521,
+          20250,
+          294,
+          300,
+          3613,
+          50980
+        ]
+      },
+      {
+        "id": 14,
+        "avg_logprob": -0.25042203068733215,
+        "compression_ratio": 1.6580086946487427,
+        "end": 97.04000091552734,
+        "no_speech_prob": 0.037237588316202164,
+        "seek": 7798,
+        "start": 90.19999694824219,
+        "temperature": 0.0,
+        "text": " your hearing is precise like a fine-tipped artist's brush but down here below 100 hertz we lose",
+        "tokens": [
+          50980,
+          428,
+          4763,
+          307,
+          13600,
+          411,
+          257,
+          2489,
+          12,
+          83,
+          5529,
+          5748,
+          311,
+          5287,
+          457,
+          760,
+          510,
+          2507,
+          2319,
+          45830,
+          321,
+          3624,
+          51316
+        ]
+      },
+      {
+        "id": 15,
+        "avg_logprob": -0.25042203068733215,
+        "compression_ratio": 1.6580086946487427,
+        "end": 103.0999984741211,
+        "no_speech_prob": 0.037237588316202164,
+        "seek": 7798,
+        "start": 97.08000183105469,
+        "temperature": 0.0,
+        "text": " definition we lose pitch perception relying on your ears for sub base detail is like trying to",
+        "tokens": [
+          51316,
+          7123,
+          321,
+          3624,
+          7293,
+          12860,
+          24140,
+          322,
+          428,
+          8798,
+          337,
+          1422,
+          3096,
+          2607,
+          307,
+          411,
+          1382,
+          281,
+          51620
+        ]
+      },
+      {
+        "id": 16,
+        "avg_logprob": -0.21950119733810425,
+        "compression_ratio": 1.6947368383407593,
+        "end": 109.62000274658203,
+        "no_speech_prob": 0.05028402805328369,
+        "seek": 10334,
+        "start": 103.33999633789062,
+        "temperature": 0.0,
+        "text": " hyper-realistic portrait using a paint roller you are making broad clumsy strokes thinking you are",
+        "tokens": [
+          50368,
+          9848,
+          12,
+          9342,
+          3142,
+          17126,
+          1228,
+          257,
+          4225,
+          15948,
+          291,
+          366,
+          1455,
+          4152,
+          44640,
+          24493,
+          1953,
+          291,
+          366,
+          50672
+        ]
+      },
+      {
+        "id": 17,
+        "avg_logprob": -0.21950119733810425,
+        "compression_ratio": 1.6947368383407593,
+        "end": 115.81999969482422,
+        "no_speech_prob": 0.05028402805328369,
+        "seek": 10334,
+        "start": 109.62000274658203,
+        "temperature": 0.0,
+        "text": " being precise you aren't you physically cannot hear the fine lines but the analyzer it kind of",
+        "tokens": [
+          50672,
+          885,
+          13600,
+          291,
+          3212,
+          380,
+          291,
+          9762,
+          2644,
+          1568,
+          264,
+          2489,
+          3876,
+          457,
+          264,
+          6459,
+          4527,
+          309,
+          733,
+          295,
+          50976
+        ]
+      },
+      {
+        "id": 18,
+        "avg_logprob": -0.21950119733810425,
+        "compression_ratio": 1.6947368383407593,
+        "end": 121.31999969482422,
+        "no_speech_prob": 0.05028402805328369,
+        "seek": 10334,
+        "start": 115.81999969482422,
+        "temperature": 0.0,
+        "text": " sees everything so how do we fix this we stop kissing and start looking here are three scenarios",
+        "tokens": [
+          50976,
+          8194,
+          1203,
+          370,
+          577,
+          360,
+          321,
+          3191,
+          341,
+          321,
+          1590,
+          29495,
+          293,
+          722,
+          1237,
+          510,
+          366,
+          1045,
+          15077,
+          51264
+        ]
+      },
+      {
+        "id": 19,
+        "avg_logprob": -0.21950119733810425,
+        "compression_ratio": 1.6947368383407593,
+        "end": 127.04000091552734,
+        "no_speech_prob": 0.05028402805328369,
+        "seek": 10334,
+        "start": 121.31999969482422,
+        "temperature": 0.0,
+        "text": " where your eyeballs win over your ears every time lalala introduced a new algorithm that's called",
+        "tokens": [
+          51264,
+          689,
+          428,
+          43758,
+          1942,
+          670,
+          428,
+          8798,
+          633,
+          565,
+          287,
+          304,
+          5159,
+          7268,
+          257,
+          777,
+          9284,
+          300,
+          311,
+          1219,
+          51544
+        ]
+      },
+      {
+        "id": 20,
+        "avg_logprob": -0.21950119733810425,
+        "compression_ratio": 1.6947368383407593,
+        "end": 132.5,
+        "no_speech_prob": 0.05028402805328369,
+        "seek": 10334,
+        "start": 127.04000091552734,
+        "temperature": 0.0,
+        "text": " Andromeda so the newest neural network delivers cleaner vocal isolation if you are like me who",
+        "tokens": [
+          51544,
+          400,
+          4397,
+          8801,
+          370,
+          264,
+          17569,
+          18161,
+          3209,
+          24860,
+          16532,
+          11657,
+          16001,
+          498,
+          291,
+          366,
+          411,
+          385,
+          567,
+          51820
+        ]
+      },
+      {
+        "id": 21,
+        "avg_logprob": -0.2752241790294647,
+        "compression_ratio": 1.8040200471878052,
+        "end": 137.94000244140625,
+        "no_speech_prob": 0.004259252920746803,
+        "seek": 13250,
+        "start": 132.5,
+        "temperature": 0.0,
+        "text": " really loves especially taking the vocals from old classics this is really heaven sent tool so go",
+        "tokens": [
+          50364,
+          534,
+          6752,
+          2318,
+          1940,
+          264,
+          28441,
+          490,
+          1331,
+          36110,
+          341,
+          307,
+          534,
+          7162,
+          2279,
+          2290,
+          370,
+          352,
+          50628
+        ]
+      },
+      {
+        "id": 22,
+        "avg_logprob": -0.2752241790294647,
+        "compression_ratio": 1.8040200471878052,
+        "end": 143.33999633789062,
+        "no_speech_prob": 0.004259252920746803,
+        "seek": 13250,
+        "start": 137.94000244140625,
+        "temperature": 0.0,
+        "text": " to lalala i'm going to use one of my own tracks you upload the track and bam you get the vocals",
+        "tokens": [
+          50628,
+          281,
+          287,
+          304,
+          5159,
+          741,
+          478,
+          516,
+          281,
+          764,
+          472,
+          295,
+          452,
+          1065,
+          10218,
+          291,
+          6580,
+          264,
+          2837,
+          293,
+          18132,
+          291,
+          483,
+          264,
+          28441,
+          50908
+        ]
+      },
+      {
+        "id": 23,
+        "avg_logprob": -0.2752241790294647,
+        "compression_ratio": 1.8040200471878052,
+        "end": 150.44000244140625,
+        "no_speech_prob": 0.004259252920746803,
+        "seek": 13250,
+        "start": 143.33999633789062,
+        "temperature": 0.0,
+        "text": " and track take a listen to vocal listen to the original vocals and see how close it got even with",
+        "tokens": [
+          50908,
+          293,
+          2837,
+          747,
+          257,
+          2140,
+          281,
+          11657,
+          2140,
+          281,
+          264,
+          3380,
+          28441,
+          293,
+          536,
+          577,
+          1998,
+          309,
+          658,
+          754,
+          365,
+          51256
+        ]
+      },
+      {
+        "id": 24,
+        "avg_logprob": -0.2752241790294647,
+        "compression_ratio": 1.8040200471878052,
+        "end": 156.55999755859375,
+        "no_speech_prob": 0.004259252920746803,
+        "seek": 13250,
+        "start": 150.44000244140625,
+        "temperature": 0.0,
+        "text": " the effects let's take a look at for a bit busier area of the track",
+        "tokens": [
+          51256,
+          264,
+          5065,
+          718,
+          311,
+          747,
+          257,
+          574,
+          412,
+          337,
+          257,
+          857,
+          1255,
+          811,
+          1859,
+          295,
+          264,
+          2837,
+          51560
+        ]
+      },
+      {
+        "id": 25,
+        "avg_logprob": -0.3467341661453247,
+        "compression_ratio": 1.5422534942626953,
+        "end": 164.22000122070312,
+        "no_speech_prob": 0.004464724566787481,
+        "seek": 15656,
+        "start": 156.55999755859375,
+        "temperature": 0.0,
+        "text": " figure out figure out isn't this crazy and that part of the track is really busy",
+        "tokens": [
+          50364,
+          2573,
+          484,
+          2573,
+          484,
+          1943,
+          380,
+          341,
+          3219,
+          293,
+          300,
+          644,
+          295,
+          264,
+          2837,
+          307,
+          534,
+          5856,
+          50740
+        ]
+      },
+      {
+        "id": 26,
+        "avg_logprob": -0.3467341661453247,
+        "compression_ratio": 1.5422534942626953,
+        "end": 173.13999938964844,
+        "no_speech_prob": 0.004464724566787481,
+        "seek": 15656,
+        "start": 169.25999450683594,
+        "temperature": 0.0,
+        "text": " you click on split in full and bam now you can download the full",
+        "tokens": [
+          51024,
+          291,
+          2052,
+          322,
+          7472,
+          294,
+          1577,
+          293,
+          18132,
+          586,
+          291,
+          393,
+          5484,
+          264,
+          1577,
+          51184
+        ]
+      },
+      {
+        "id": 27,
+        "avg_logprob": -0.3467341661453247,
+        "compression_ratio": 1.5422534942626953,
+        "end": 176.47999572753906,
+        "no_speech_prob": 0.004464724566787481,
+        "seek": 15656,
+        "start": 173.13999938964844,
+        "temperature": 0.0,
+        "text": " separated vocals and instrumental let's try one more time",
+        "tokens": [
+          51184,
+          12005,
+          28441,
+          293,
+          17388,
+          718,
+          311,
+          853,
+          472,
+          544,
+          565,
+          51352
+        ]
+      },
+      {
+        "id": 28,
+        "avg_logprob": -0.3467341661453247,
+        "compression_ratio": 1.5422534942626953,
+        "end": 181.1999969482422,
+        "no_speech_prob": 0.004464724566787481,
+        "seek": 15656,
+        "start": 179.75999450683594,
+        "temperature": 0.0,
+        "text": " and separate it",
+        "tokens": [
+          51540,
+          293,
+          4994,
+          309,
+          51584
+        ]
+      },
+      {
+        "id": 29,
+        "avg_logprob": -0.2474539577960968,
+        "compression_ratio": 1.686192512512207,
+        "end": 182.39999389648438,
+        "no_speech_prob": 0.0016215512296184897,
+        "seek": 18120,
+        "start": 181.1999969482422,
+        "temperature": 0.0,
+        "text": " more time",
+        "tokens": [
+          50372,
+          544,
+          565,
+          50412
+        ]
+      },
+      {
+        "id": 30,
+        "avg_logprob": -0.2474539577960968,
+        "compression_ratio": 1.686192512512207,
+        "end": 189.33999633789062,
+        "no_speech_prob": 0.0016215512296184897,
+        "seek": 18120,
+        "start": 184.0800018310547,
+        "temperature": 0.0,
+        "text": " this is a good example because it also shows it still does really good job even though there's a",
+        "tokens": [
+          50528,
+          341,
+          307,
+          257,
+          665,
+          1365,
+          570,
+          309,
+          611,
+          3110,
+          309,
+          920,
+          775,
+          534,
+          665,
+          1691,
+          754,
+          1673,
+          456,
+          311,
+          257,
+          50760
+        ]
+      },
+      {
+        "id": 31,
+        "avg_logprob": -0.2474539577960968,
+        "compression_ratio": 1.686192512512207,
+        "end": 193.75999450683594,
+        "no_speech_prob": 0.0016215512296184897,
+        "seek": 18120,
+        "start": 189.33999633789062,
+        "temperature": 0.0,
+        "text": " heavy vocal auto-tune on top if you want to try it yourself check the links below invisible phase",
+        "tokens": [
+          50760,
+          4676,
+          11657,
+          8399,
+          12,
+          83,
+          2613,
+          322,
+          1192,
+          498,
+          291,
+          528,
+          281,
+          853,
+          309,
+          1803,
+          1520,
+          264,
+          6123,
+          2507,
+          14603,
+          5574,
+          50988
+        ]
+      },
+      {
+        "id": 32,
+        "avg_logprob": -0.2474539577960968,
+        "compression_ratio": 1.686192512512207,
+        "end": 201.02000427246094,
+        "no_speech_prob": 0.0016215512296184897,
+        "seek": 18120,
+        "start": 193.75999450683594,
+        "temperature": 0.0,
+        "text": " issue you layer your kick and sub it sounds weak you try to eq it you try to compress it it sounds",
+        "tokens": [
+          50988,
+          2734,
+          291,
+          4583,
+          428,
+          4437,
+          293,
+          1422,
+          309,
+          3263,
+          5336,
+          291,
+          853,
+          281,
+          308,
+          80,
+          309,
+          291,
+          853,
+          281,
+          14778,
+          309,
+          309,
+          3263,
+          51352
+        ]
+      },
+      {
+        "id": 33,
+        "avg_logprob": -0.2474539577960968,
+        "compression_ratio": 1.686192512512207,
+        "end": 207.52000427246094,
+        "no_speech_prob": 0.0016215512296184897,
+        "seek": 18120,
+        "start": 201.02000427246094,
+        "temperature": 0.0,
+        "text": " still it lacks the punch stop touching the faders and eq look at the waveform see this constructive",
+        "tokens": [
+          51352,
+          920,
+          309,
+          31132,
+          264,
+          8135,
+          1590,
+          11175,
+          264,
+          283,
+          15221,
+          293,
+          308,
+          80,
+          574,
+          412,
+          264,
+          36512,
+          536,
+          341,
+          30223,
+          51680
+        ]
+      },
+      {
+        "id": 34,
+        "avg_logprob": -0.22257886826992035,
+        "compression_ratio": 1.7832512855529785,
+        "end": 213.22000122070312,
+        "no_speech_prob": 0.0038084250409156084,
+        "seek": 20752,
+        "start": 207.52000427246094,
+        "temperature": 0.0,
+        "text": " interference versus destructive interference your kick wants to push the speaker out however",
+        "tokens": [
+          50364,
+          24497,
+          5717,
+          26960,
+          24497,
+          428,
+          4437,
+          2738,
+          281,
+          2944,
+          264,
+          8145,
+          484,
+          4461,
+          50652
+        ]
+      },
+      {
+        "id": 35,
+        "avg_logprob": -0.22257886826992035,
+        "compression_ratio": 1.7832512855529785,
+        "end": 217.6999969482422,
+        "no_speech_prob": 0.0038084250409156084,
+        "seek": 20752,
+        "start": 213.22000122070312,
+        "temperature": 0.0,
+        "text": " your sub wants to pull it in they cancel each other out look at this roll off",
+        "tokens": [
+          50652,
+          428,
+          1422,
+          2738,
+          281,
+          2235,
+          309,
+          294,
+          436,
+          10373,
+          1184,
+          661,
+          484,
+          574,
+          412,
+          341,
+          3373,
+          766,
+          50860
+        ]
+      },
+      {
+        "id": 36,
+        "avg_logprob": -0.22257886826992035,
+        "compression_ratio": 1.7832512855529785,
+        "end": 227.5,
+        "no_speech_prob": 0.0038084250409156084,
+        "seek": 20752,
+        "start": 219.60000610351562,
+        "temperature": 0.0,
+        "text": " your sub removing your punch let's get the peaks aligned here here here and look at that punch",
+        "tokens": [
+          50976,
+          428,
+          1422,
+          12720,
+          428,
+          8135,
+          718,
+          311,
+          483,
+          264,
+          26897,
+          17962,
+          510,
+          510,
+          510,
+          293,
+          574,
+          412,
+          300,
+          8135,
+          51340
+        ]
+      },
+      {
+        "id": 37,
+        "avg_logprob": -0.22257886826992035,
+        "compression_ratio": 1.7832512855529785,
+        "end": 234.36000061035156,
+        "no_speech_prob": 0.0038084250409156084,
+        "seek": 20752,
+        "start": 229.0800018310547,
+        "temperature": 0.0,
+        "text": " it hits here i talk this a lot in the channel it is a 30 hertz cut mid there's so many different",
+        "tokens": [
+          51452,
+          309,
+          8664,
+          510,
+          741,
+          751,
+          341,
+          257,
+          688,
+          294,
+          264,
+          2269,
+          309,
+          307,
+          257,
+          2217,
+          45830,
+          1723,
+          2062,
+          456,
+          311,
+          370,
+          867,
+          819,
+          51700
+        ]
+      },
+      {
+        "id": 38,
+        "avg_logprob": -0.1990193873643875,
+        "compression_ratio": 1.8140496015548706,
+        "end": 239.1199951171875,
+        "no_speech_prob": 0.012991700321435928,
+        "seek": 23436,
+        "start": 234.36000061035156,
+        "temperature": 0.0,
+        "text": " issues that arise because of this you have been told cut everything below 30 hertz to",
+        "tokens": [
+          50364,
+          2663,
+          300,
+          20288,
+          570,
+          295,
+          341,
+          291,
+          362,
+          668,
+          1907,
+          1723,
+          1203,
+          2507,
+          2217,
+          45830,
+          281,
+          50600
+        ]
+      },
+      {
+        "id": 39,
+        "avg_logprob": -0.1990193873643875,
+        "compression_ratio": 1.8140496015548706,
+        "end": 242.4199981689453,
+        "no_speech_prob": 0.012991700321435928,
+        "seek": 23436,
+        "start": 239.1199951171875,
+        "temperature": 0.0,
+        "text": " clean up the headroom right look at the transient of this kick",
+        "tokens": [
+          50600,
+          2541,
+          493,
+          264,
+          1378,
+          2861,
+          558,
+          574,
+          412,
+          264,
+          41998,
+          295,
+          341,
+          4437,
+          50760
+        ]
+      },
+      {
+        "id": 40,
+        "avg_logprob": -0.1990193873643875,
+        "compression_ratio": 1.8140496015548706,
+        "end": 249.5800018310547,
+        "no_speech_prob": 0.012991700321435928,
+        "seek": 23436,
+        "start": 243.89999389648438,
+        "temperature": 0.0,
+        "text": " let's put an eq cut that 30 hertz and look at that again this is called phase shift by cutting",
+        "tokens": [
+          50852,
+          718,
+          311,
+          829,
+          364,
+          308,
+          80,
+          1723,
+          300,
+          2217,
+          45830,
+          293,
+          574,
+          412,
+          300,
+          797,
+          341,
+          307,
+          1219,
+          5574,
+          5513,
+          538,
+          6492,
+          51124
+        ]
+      },
+      {
+        "id": 41,
+        "avg_logprob": -0.1990193873643875,
+        "compression_ratio": 1.8140496015548706,
+        "end": 254.3000030517578,
+        "no_speech_prob": 0.012991700321435928,
+        "seek": 23436,
+        "start": 249.5800018310547,
+        "temperature": 0.0,
+        "text": " the lows we actually smeared the transient energy you thought you were cleaning up the mud you end",
+        "tokens": [
+          51124,
+          264,
+          34794,
+          321,
+          767,
+          41818,
+          1642,
+          264,
+          41998,
+          2281,
+          291,
+          1194,
+          291,
+          645,
+          8924,
+          493,
+          264,
+          8933,
+          291,
+          917,
+          51356
+        ]
+      },
+      {
+        "id": 42,
+        "avg_logprob": -0.1990193873643875,
+        "compression_ratio": 1.8140496015548706,
+        "end": 259.8599853515625,
+        "no_speech_prob": 0.012991700321435928,
+        "seek": 23436,
+        "start": 254.3000030517578,
+        "temperature": 0.0,
+        "text": " up smearing your transient of your kick sometimes effect could be even weirder look at this kick",
+        "tokens": [
+          51356,
+          493,
+          41818,
+          1921,
+          428,
+          41998,
+          295,
+          428,
+          4437,
+          2171,
+          1802,
+          727,
+          312,
+          754,
+          321,
+          347,
+          1068,
+          574,
+          412,
+          341,
+          4437,
+          51624
+        ]
+      },
+      {
+        "id": 43,
+        "avg_logprob": -0.19749437272548676,
+        "compression_ratio": 1.8615384101867676,
+        "end": 266.2799987792969,
+        "no_speech_prob": 0.001980772241950035,
+        "seek": 25986,
+        "start": 259.8599853515625,
+        "temperature": 0.0,
+        "text": " cool punchy look at this fatty initial attack 30 hertz cut look at the results this looks super",
+        "tokens": [
+          50384,
+          1627,
+          8135,
+          88,
+          574,
+          412,
+          341,
+          24898,
+          5883,
+          2690,
+          2217,
+          45830,
+          1723,
+          574,
+          412,
+          264,
+          3542,
+          341,
+          1542,
+          1687,
+          50680
+        ]
+      },
+      {
+        "id": 44,
+        "avg_logprob": -0.19749437272548676,
+        "compression_ratio": 1.8615384101867676,
+        "end": 271.6199951171875,
+        "no_speech_prob": 0.001980772241950035,
+        "seek": 25986,
+        "start": 266.2799987792969,
+        "temperature": 0.0,
+        "text": " weird isn't it the whole fatness of the kick is gone and the waveform is even weirder don't cut",
+        "tokens": [
+          50680,
+          3657,
+          1943,
+          380,
+          309,
+          264,
+          1379,
+          4046,
+          1287,
+          295,
+          264,
+          4437,
+          307,
+          2780,
+          293,
+          264,
+          36512,
+          307,
+          754,
+          321,
+          347,
+          1068,
+          500,
+          380,
+          1723,
+          50944
+        ]
+      },
+      {
+        "id": 45,
+        "avg_logprob": -0.19749437272548676,
+        "compression_ratio": 1.8615384101867676,
+        "end": 277.0,
+        "no_speech_prob": 0.001980772241950035,
+        "seek": 25986,
+        "start": 271.6199951171875,
+        "temperature": 0.0,
+        "text": " blind look at the response if the waveform looks weaker it is weak i saved the best for the last",
+        "tokens": [
+          50944,
+          6865,
+          574,
+          412,
+          264,
+          4134,
+          498,
+          264,
+          36512,
+          1542,
+          24286,
+          309,
+          307,
+          5336,
+          741,
+          6624,
+          264,
+          1151,
+          337,
+          264,
+          1036,
+          51216
+        ]
+      },
+      {
+        "id": 46,
+        "avg_logprob": -0.19749437272548676,
+        "compression_ratio": 1.8615384101867676,
+        "end": 282.239990234375,
+        "no_speech_prob": 0.001980772241950035,
+        "seek": 25986,
+        "start": 277.0,
+        "temperature": 0.0,
+        "text": " this is the most important part the referencing you compare your mix to the pro track and yours",
+        "tokens": [
+          51216,
+          341,
+          307,
+          264,
+          881,
+          1021,
+          644,
+          264,
+          40582,
+          291,
+          6794,
+          428,
+          2890,
+          281,
+          264,
+          447,
+          2837,
+          293,
+          6342,
+          51484
+        ]
+      },
+      {
+        "id": 47,
+        "avg_logprob": -0.19749437272548676,
+        "compression_ratio": 1.8615384101867676,
+        "end": 289.20001220703125,
+        "no_speech_prob": 0.001980772241950035,
+        "seek": 25986,
+        "start": 282.239990234375,
+        "temperature": 0.0,
+        "text": " feels weak so you turn up the sub by comparing apples to oranges their track is mastered compressed",
+        "tokens": [
+          51484,
+          3417,
+          5336,
+          370,
+          291,
+          1261,
+          493,
+          264,
+          1422,
+          538,
+          15763,
+          16814,
+          281,
+          35474,
+          641,
+          2837,
+          307,
+          38686,
+          30353,
+          51836
+        ]
+      },
+      {
+        "id": 48,
+        "avg_logprob": -0.22034215927124023,
+        "compression_ratio": 1.8648648262023926,
+        "end": 294.9599914550781,
+        "no_speech_prob": 0.0013769795186817646,
+        "seek": 28920,
+        "start": 289.20001220703125,
+        "temperature": 0.0,
+        "text": " brick yours is dynamic if you want to compare the low end you have to simulate the master",
+        "tokens": [
+          50368,
+          16725,
+          6342,
+          307,
+          8546,
+          498,
+          291,
+          528,
+          281,
+          6794,
+          264,
+          2295,
+          917,
+          291,
+          362,
+          281,
+          27817,
+          264,
+          4505,
+          50648
+        ]
+      },
+      {
+        "id": 49,
+        "avg_logprob": -0.22034215927124023,
+        "compression_ratio": 1.8648648262023926,
+        "end": 301.3999938964844,
+        "no_speech_prob": 0.0013769795186817646,
+        "seek": 28920,
+        "start": 294.9599914550781,
+        "temperature": 0.0,
+        "text": " crush your track with the limiter first you need to look at two things the dynamic response",
+        "tokens": [
+          50648,
+          10321,
+          428,
+          2837,
+          365,
+          264,
+          2364,
+          1681,
+          700,
+          291,
+          643,
+          281,
+          574,
+          412,
+          732,
+          721,
+          264,
+          8546,
+          4134,
+          50980
+        ]
+      },
+      {
+        "id": 50,
+        "avg_logprob": -0.22034215927124023,
+        "compression_ratio": 1.8648648262023926,
+        "end": 305.239990234375,
+        "no_speech_prob": 0.0013769795186817646,
+        "seek": 28920,
+        "start": 301.3999938964844,
+        "temperature": 0.0,
+        "text": " and sustain response what does that mean put an eq cut it off",
+        "tokens": [
+          50980,
+          293,
+          6769,
+          4134,
+          437,
+          775,
+          300,
+          914,
+          829,
+          364,
+          308,
+          80,
+          1723,
+          309,
+          766,
+          51152
+        ]
+      },
+      {
+        "id": 51,
+        "avg_logprob": -0.22034215927124023,
+        "compression_ratio": 1.8648648262023926,
+        "end": 313.5,
+        "no_speech_prob": 0.0013769795186817646,
+        "seek": 28920,
+        "start": 309.6199951171875,
+        "temperature": 0.0,
+        "text": " this is more or less the bass but we are looking the dynamic relationship between",
+        "tokens": [
+          51392,
+          341,
+          307,
+          544,
+          420,
+          1570,
+          264,
+          10136,
+          457,
+          321,
+          366,
+          1237,
+          264,
+          8546,
+          2480,
+          1296,
+          51576
+        ]
+      },
+      {
+        "id": 52,
+        "avg_logprob": -0.22034215927124023,
+        "compression_ratio": 1.8648648262023926,
+        "end": 317.79998779296875,
+        "no_speech_prob": 0.0013769795186817646,
+        "seek": 28920,
+        "start": 313.5,
+        "temperature": 0.0,
+        "text": " the top point and lower point this is the footprint of the track let's look at our track",
+        "tokens": [
+          51576,
+          264,
+          1192,
+          935,
+          293,
+          3126,
+          935,
+          341,
+          307,
+          264,
+          24222,
+          295,
+          264,
+          2837,
+          718,
+          311,
+          574,
+          412,
+          527,
+          2837,
+          51792
+        ]
+      },
+      {
+        "id": 53,
+        "avg_logprob": -0.25790661573410034,
+        "compression_ratio": 1.6907216310501099,
+        "end": 324.760009765625,
+        "no_speech_prob": 0.0005096842651255429,
+        "seek": 31920,
+        "start": 320.82000732421875,
+        "temperature": 0.0,
+        "text": " do you see how fast we see the problem how easy it was to figure out we are",
+        "tokens": [
+          50404,
+          360,
+          291,
+          536,
+          577,
+          2370,
+          321,
+          536,
+          264,
+          1154,
+          577,
+          1858,
+          309,
+          390,
+          281,
+          2573,
+          484,
+          321,
+          366,
+          50632
+        ]
+      },
+      {
+        "id": 54,
+        "avg_logprob": -0.25790661573410034,
+        "compression_ratio": 1.6907216310501099,
+        "end": 331.44000244140625,
+        "no_speech_prob": 0.0005096842651255429,
+        "seek": 31920,
+        "start": 324.9800109863281,
+        "temperature": 0.0,
+        "text": " effectively quieter on the sub bass now go move your sub bass up look at that",
+        "tokens": [
+          50632,
+          8659,
+          43339,
+          322,
+          264,
+          1422,
+          10136,
+          586,
+          352,
+          1286,
+          428,
+          1422,
+          10136,
+          493,
+          574,
+          412,
+          300,
+          50976
+        ]
+      },
+      {
+        "id": 55,
+        "avg_logprob": -0.25790661573410034,
+        "compression_ratio": 1.6907216310501099,
+        "end": 342.05999755859375,
+        "no_speech_prob": 0.0005096842651255429,
+        "seek": 31920,
+        "start": 337.0,
+        "temperature": 0.0,
+        "text": " now these two look much more similar give it two three db plus and minus it is your",
+        "tokens": [
+          51264,
+          586,
+          613,
+          732,
+          574,
+          709,
+          544,
+          2531,
+          976,
+          309,
+          732,
+          1045,
+          274,
+          65,
+          1804,
+          293,
+          3175,
+          309,
+          307,
+          428,
+          51500
+        ]
+      },
+      {
+        "id": 56,
+        "avg_logprob": -0.25790661573410034,
+        "compression_ratio": 1.6907216310501099,
+        "end": 348.7799987792969,
+        "no_speech_prob": 0.0005096842651255429,
+        "seek": 31920,
+        "start": 342.05999755859375,
+        "temperature": 0.0,
+        "text": " taste but now super fast you're over on the ballpark i'm not telling you to stop listening",
+        "tokens": [
+          51500,
+          3939,
+          457,
+          586,
+          1687,
+          2370,
+          291,
+          434,
+          670,
+          322,
+          264,
+          2594,
+          31239,
+          741,
+          478,
+          406,
+          3585,
+          291,
+          281,
+          1590,
+          4764,
+          51844
+        ]
+      },
+      {
+        "id": 57,
+        "avg_logprob": -0.1742897778749466,
+        "compression_ratio": 2.172727346420288,
+        "end": 355.3399963378906,
+        "no_speech_prob": 0.005352011416107416,
+        "seek": 34878,
+        "start": 348.7799987792969,
+        "temperature": 0.0,
+        "text": " your ears are for the soul of the music use your ears for the groove use your ears for the melody",
+        "tokens": [
+          50368,
+          428,
+          8798,
+          366,
+          337,
+          264,
+          5133,
+          295,
+          264,
+          1318,
+          764,
+          428,
+          8798,
+          337,
+          264,
+          26910,
+          764,
+          428,
+          8798,
+          337,
+          264,
+          17997,
+          50692
+        ]
+      },
+      {
+        "id": 58,
+        "avg_logprob": -0.1742897778749466,
+        "compression_ratio": 2.172727346420288,
+        "end": 361.67999267578125,
+        "no_speech_prob": 0.005352011416107416,
+        "seek": 34878,
+        "start": 355.3399963378906,
+        "temperature": 0.0,
+        "text": " use your ears for the camera use your ears for the emotion of the track that is where art lives",
+        "tokens": [
+          50692,
+          764,
+          428,
+          8798,
+          337,
+          264,
+          2799,
+          764,
+          428,
+          8798,
+          337,
+          264,
+          8913,
+          295,
+          264,
+          2837,
+          300,
+          307,
+          689,
+          1523,
+          2909,
+          51004
+        ]
+      },
+      {
+        "id": 59,
+        "avg_logprob": -0.1742897778749466,
+        "compression_ratio": 2.172727346420288,
+        "end": 367.2799987792969,
+        "no_speech_prob": 0.005352011416107416,
+        "seek": 34878,
+        "start": 361.67999267578125,
+        "temperature": 0.0,
+        "text": " but for the low end for the foundation that is engineering and in engineering we don't guess",
+        "tokens": [
+          51004,
+          457,
+          337,
+          264,
+          2295,
+          917,
+          337,
+          264,
+          7030,
+          300,
+          307,
+          7043,
+          293,
+          294,
+          7043,
+          321,
+          500,
+          380,
+          2041,
+          51288
+        ]
+      },
+      {
+        "id": 60,
+        "avg_logprob": -0.1742897778749466,
+        "compression_ratio": 2.172727346420288,
+        "end": 373.1199951171875,
+        "no_speech_prob": 0.005352011416107416,
+        "seek": 34878,
+        "start": 367.2799987792969,
+        "temperature": 0.0,
+        "text": " we measure use your eyes to build the foundation of your house and use your ears to design and",
+        "tokens": [
+          51288,
+          321,
+          3481,
+          764,
+          428,
+          2575,
+          281,
+          1322,
+          264,
+          7030,
+          295,
+          428,
+          1782,
+          293,
+          764,
+          428,
+          8798,
+          281,
+          1715,
+          293,
+          51568
+        ]
+      },
+      {
+        "id": 61,
+        "avg_logprob": -0.1742897778749466,
+        "compression_ratio": 2.172727346420288,
+        "end": 378.67999267578125,
+        "no_speech_prob": 0.005352011416107416,
+        "seek": 34878,
+        "start": 373.1199951171875,
+        "temperature": 0.0,
+        "text": " decorate it if you want to see exactly how i set up my monitoring tools and reference my low end",
+        "tokens": [
+          51568,
+          24229,
+          309,
+          498,
+          291,
+          528,
+          281,
+          536,
+          2293,
+          577,
+          741,
+          992,
+          493,
+          452,
+          11028,
+          3873,
+          293,
+          6408,
+          452,
+          2295,
+          917,
+          51860
+        ]
+      },
+      {
+        "id": 62,
+        "avg_logprob": -0.27896156907081604,
+        "compression_ratio": 1.3265305757522583,
+        "end": 384.79998779296875,
+        "no_speech_prob": 0.02222343347966671,
+        "seek": 37868,
+        "start": 378.67999267578125,
+        "temperature": 0.0,
+        "text": " take a look at this video i go super deep into the concept will you speech perfect oh my god",
+        "tokens": [
+          50364,
+          747,
+          257,
+          574,
+          412,
+          341,
+          960,
+          741,
+          352,
+          1687,
+          2452,
+          666,
+          264,
+          3410,
+          486,
+          291,
+          6218,
+          2176,
+          1954,
+          452,
+          3044,
+          50660
+        ]
+      },
+      {
+        "id": 63,
+        "avg_logprob": -0.27896156907081604,
+        "compression_ratio": 1.3265305757522583,
+        "end": 387.1400146484375,
+        "no_speech_prob": 0.02222343347966671,
+        "seek": 37868,
+        "start": 384.79998779296875,
+        "temperature": 0.0,
+        "text": " human evolution design or ears to hem",
+        "tokens": [
+          50660,
+          1952,
+          9303,
+          1715,
+          420,
+          8798,
+          281,
+          8636,
+          50840
+        ]
+      }
+    ],
+    "words": [
+      {
+        "end": 0.30000001192092896,
+        "start": 0.0,
+        "word": "just"
+      },
+      {
+        "end": 0.6200000047683716,
+        "start": 0.30000001192092896,
+        "word": "close"
+      },
+      {
+        "end": 0.7799999713897705,
+        "start": 0.6200000047683716,
+        "word": "your"
+      },
+      {
+        "end": 1.0800000429153442,
+        "start": 0.7799999713897705,
+        "word": "eyes"
+      },
+      {
+        "end": 2.5399999618530273,
+        "start": 1.0800000429153442,
+        "word": "this"
+      },
+      {
+        "end": 4.260000228881836,
+        "start": 2.5399999618530273,
+        "word": "is"
+      },
+      {
+        "end": 4.360000133514404,
+        "start": 4.260000228881836,
+        "word": "the"
+      },
+      {
+        "end": 4.880000114440918,
+        "start": 4.360000133514404,
+        "word": "single"
+      },
+      {
+        "end": 5.400000095367432,
+        "start": 4.880000114440918,
+        "word": "and"
+      },
+      {
+        "end": 5.679999828338623,
+        "start": 5.400000095367432,
+        "word": "most"
+      },
+      {
+        "end": 6.300000190734863,
+        "start": 5.679999828338623,
+        "word": "confident"
+      },
+      {
+        "end": 6.679999828338623,
+        "start": 6.300000190734863,
+        "word": "yet"
+      },
+      {
+        "end": 7.179999828338623,
+        "start": 6.679999828338623,
+        "word": "distracted"
+      },
+      {
+        "end": 7.579999923706055,
+        "start": 7.179999828338623,
+        "word": "piece"
+      },
+      {
+        "end": 8.199999809265137,
+        "start": 7.579999923706055,
+        "word": "of"
+      },
+      {
+        "end": 8.199999809265137,
+        "start": 8.199999809265137,
+        "word": "advice"
+      },
+      {
+        "end": 8.420000076293945,
+        "start": 8.199999809265137,
+        "word": "in"
+      },
+      {
+        "end": 8.619999885559082,
+        "start": 8.420000076293945,
+        "word": "the"
+      },
+      {
+        "end": 8.960000038146973,
+        "start": 8.619999885559082,
+        "word": "music"
+      },
+      {
+        "end": 9.4399995803833,
+        "start": 8.960000038146973,
+        "word": "community"
+      },
+      {
+        "end": 9.84000015258789,
+        "start": 9.4399995803833,
+        "word": "today"
+      },
+      {
+        "end": 10.399999618530273,
+        "start": 9.84000015258789,
+        "word": "use"
+      },
+      {
+        "end": 10.819999694824219,
+        "start": 10.399999618530273,
+        "word": "your"
+      },
+      {
+        "end": 11.239999771118164,
+        "start": 10.819999694824219,
+        "word": "ears"
+      },
+      {
+        "end": 11.720000267028809,
+        "start": 11.239999771118164,
+        "word": "it"
+      },
+      {
+        "end": 12.0,
+        "start": 11.720000267028809,
+        "word": "sounds"
+      },
+      {
+        "end": 12.579999923706055,
+        "start": 12.0,
+        "word": "romantic"
+      },
+      {
+        "end": 12.960000038146973,
+        "start": 12.579999923706055,
+        "word": "it"
+      },
+      {
+        "end": 13.300000190734863,
+        "start": 12.960000038146973,
+        "word": "sounds"
+      },
+      {
+        "end": 14.100000381469727,
+        "start": 13.300000190734863,
+        "word": "artistic"
+      },
+      {
+        "end": 14.4399995803833,
+        "start": 14.100000381469727,
+        "word": "but"
+      },
+      {
+        "end": 14.720000267028809,
+        "start": 14.4399995803833,
+        "word": "if"
+      },
+      {
+        "end": 14.84000015258789,
+        "start": 14.720000267028809,
+        "word": "you"
+      },
+      {
+        "end": 15.079999923706055,
+        "start": 14.84000015258789,
+        "word": "are"
+      },
+      {
+        "end": 15.460000038146973,
+        "start": 15.079999923706055,
+        "word": "producing"
+      },
+      {
+        "end": 15.800000190734863,
+        "start": 15.460000038146973,
+        "word": "in"
+      },
+      {
+        "end": 16.059999465942383,
+        "start": 15.800000190734863,
+        "word": "a"
+      },
+      {
+        "end": 16.15999984741211,
+        "start": 16.059999465942383,
+        "word": "home"
+      },
+      {
+        "end": 16.459999084472656,
+        "start": 16.15999984741211,
+        "word": "studio"
+      },
+      {
+        "end": 16.760000228881836,
+        "start": 16.459999084472656,
+        "word": "in"
+      },
+      {
+        "end": 17.780000686645508,
+        "start": 16.760000228881836,
+        "word": "2026"
+      },
+      {
+        "end": 18.31999969482422,
+        "start": 17.780000686645508,
+        "word": "trusting"
+      },
+      {
+        "end": 18.639999389648438,
+        "start": 18.31999969482422,
+        "word": "your"
+      },
+      {
+        "end": 18.920000076293945,
+        "start": 18.639999389648438,
+        "word": "ears"
+      },
+      {
+        "end": 19.18000030517578,
+        "start": 18.920000076293945,
+        "word": "for"
+      },
+      {
+        "end": 19.520000457763672,
+        "start": 19.18000030517578,
+        "word": "the"
+      },
+      {
+        "end": 19.700000762939453,
+        "start": 19.520000457763672,
+        "word": "low"
+      },
+      {
+        "end": 19.940000534057617,
+        "start": 19.700000762939453,
+        "word": "end"
+      },
+      {
+        "end": 20.31999969482422,
+        "start": 19.940000534057617,
+        "word": "is"
+      },
+      {
+        "end": 20.540000915527344,
+        "start": 20.31999969482422,
+        "word": "not"
+      },
+      {
+        "end": 21.239999771118164,
+        "start": 20.540000915527344,
+        "word": "artistic"
+      },
+      {
+        "end": 21.459999084472656,
+        "start": 21.239999771118164,
+        "word": "it"
+      },
+      {
+        "end": 21.6200008392334,
+        "start": 21.459999084472656,
+        "word": "is"
+      },
+      {
+        "end": 22.5,
+        "start": 21.81999969482422,
+        "word": "gamble"
+      },
+      {
+        "end": 23.18000030517578,
+        "start": 22.5,
+        "word": "and"
+      },
+      {
+        "end": 23.559999465942383,
+        "start": 23.18000030517578,
+        "word": "the"
+      },
+      {
+        "end": 23.760000228881836,
+        "start": 23.559999465942383,
+        "word": "house"
+      },
+      {
+        "end": 24.260000228881836,
+        "start": 23.760000228881836,
+        "word": "your"
+      },
+      {
+        "end": 24.440000534057617,
+        "start": 24.260000228881836,
+        "word": "room"
+      },
+      {
+        "end": 24.979999542236328,
+        "start": 24.440000534057617,
+        "word": "acoustics"
+      },
+      {
+        "end": 25.719999313354492,
+        "start": 24.979999542236328,
+        "word": "always"
+      },
+      {
+        "end": 26.139999389648438,
+        "start": 25.719999313354492,
+        "word": "wins"
+      },
+      {
+        "end": 26.520000457763672,
+        "start": 26.139999389648438,
+        "word": "today"
+      },
+      {
+        "end": 26.920000076293945,
+        "start": 26.520000457763672,
+        "word": "i'm"
+      },
+      {
+        "end": 27.0,
+        "start": 26.920000076293945,
+        "word": "going"
+      },
+      {
+        "end": 27.15999984741211,
+        "start": 27.0,
+        "word": "to"
+      },
+      {
+        "end": 27.34000015258789,
+        "start": 27.15999984741211,
+        "word": "show"
+      },
+      {
+        "end": 27.540000915527344,
+        "start": 27.34000015258789,
+        "word": "you"
+      },
+      {
+        "end": 27.760000228881836,
+        "start": 27.540000915527344,
+        "word": "how"
+      },
+      {
+        "end": 28.020000457763672,
+        "start": 27.760000228881836,
+        "word": "your"
+      },
+      {
+        "end": 28.360000610351562,
+        "start": 28.020000457763672,
+        "word": "ears"
+      },
+      {
+        "end": 28.6200008392334,
+        "start": 28.360000610351562,
+        "word": "are"
+      },
+      {
+        "end": 29.020000457763672,
+        "start": 28.6200008392334,
+        "word": "lying"
+      },
+      {
+        "end": 29.31999969482422,
+        "start": 29.020000457763672,
+        "word": "to"
+      },
+      {
+        "end": 29.420000076293945,
+        "start": 29.31999969482422,
+        "word": "you"
+      },
+      {
+        "end": 29.559999465942383,
+        "start": 29.420000076293945,
+        "word": "and"
+      },
+      {
+        "end": 29.760000228881836,
+        "start": 29.559999465942383,
+        "word": "how"
+      },
+      {
+        "end": 29.940000534057617,
+        "start": 29.760000228881836,
+        "word": "to"
+      },
+      {
+        "end": 30.299999237060547,
+        "start": 29.940000534057617,
+        "word": "finally"
+      },
+      {
+        "end": 30.440000534057617,
+        "start": 30.299999237060547,
+        "word": "see"
+      },
+      {
+        "end": 30.579999923706055,
+        "start": 30.440000534057617,
+        "word": "the"
+      },
+      {
+        "end": 30.84000015258789,
+        "start": 30.579999923706055,
+        "word": "truth"
+      },
+      {
+        "end": 31.440000534057617,
+        "start": 30.84000015258789,
+        "word": "let's"
+      },
+      {
+        "end": 31.600000381469727,
+        "start": 31.440000534057617,
+        "word": "start"
+      },
+      {
+        "end": 31.780000686645508,
+        "start": 31.600000381469727,
+        "word": "with"
+      },
+      {
+        "end": 31.920000076293945,
+        "start": 31.780000686645508,
+        "word": "the"
+      },
+      {
+        "end": 32.18000030517578,
+        "start": 31.920000076293945,
+        "word": "hard"
+      },
+      {
+        "end": 32.720001220703125,
+        "start": 32.18000030517578,
+        "word": "reality"
+      },
+      {
+        "end": 34.70000076293945,
+        "start": 34.060001373291016,
+        "word": "you"
+      },
+      {
+        "end": 34.880001068115234,
+        "start": 34.70000076293945,
+        "word": "are"
+      },
+      {
+        "end": 35.29999923706055,
+        "start": 34.880001068115234,
+        "word": "likely"
+      },
+      {
+        "end": 35.63999938964844,
+        "start": 35.29999923706055,
+        "word": "mixing"
+      },
+      {
+        "end": 35.84000015258789,
+        "start": 35.63999938964844,
+        "word": "in"
+      },
+      {
+        "end": 36.119998931884766,
+        "start": 35.84000015258789,
+        "word": "a"
+      },
+      {
+        "end": 36.119998931884766,
+        "start": 36.119998931884766,
+        "word": "room"
+      },
+      {
+        "end": 36.5,
+        "start": 36.119998931884766,
+        "word": "built"
+      },
+      {
+        "end": 36.91999816894531,
+        "start": 36.5,
+        "word": "for"
+      },
+      {
+        "end": 37.31999969482422,
+        "start": 36.91999816894531,
+        "word": "sleeping"
+      },
+      {
+        "end": 37.70000076293945,
+        "start": 37.31999969482422,
+        "word": "not"
+      },
+      {
+        "end": 38.15999984741211,
+        "start": 37.70000076293945,
+        "word": "for"
+      },
+      {
+        "end": 38.400001525878906,
+        "start": 38.15999984741211,
+        "word": "music"
+      },
+      {
+        "end": 39.13999938964844,
+        "start": 38.400001525878906,
+        "word": "production"
+      },
+      {
+        "end": 41.279998779296875,
+        "start": 40.63999938964844,
+        "word": "top"
+      },
+      {
+        "end": 41.560001373291016,
+        "start": 41.279998779296875,
+        "word": "left"
+      },
+      {
+        "end": 41.97999954223633,
+        "start": 41.560001373291016,
+        "word": "what"
+      },
+      {
+        "end": 42.52000045776367,
+        "start": 41.97999954223633,
+        "word": "producers"
+      },
+      {
+        "end": 43.13999938964844,
+        "start": 42.52000045776367,
+        "word": "think"
+      },
+      {
+        "end": 43.5,
+        "start": 43.13999938964844,
+        "word": "what"
+      },
+      {
+        "end": 43.70000076293945,
+        "start": 43.5,
+        "word": "they"
+      },
+      {
+        "end": 44.13999938964844,
+        "start": 43.70000076293945,
+        "word": "hear"
+      },
+      {
+        "end": 44.5,
+        "start": 44.13999938964844,
+        "word": "top"
+      },
+      {
+        "end": 44.720001220703125,
+        "start": 44.5,
+        "word": "right"
+      },
+      {
+        "end": 45.2400016784668,
+        "start": 44.720001220703125,
+        "word": "the"
+      },
+      {
+        "end": 45.2400016784668,
+        "start": 45.2400016784668,
+        "word": "bedroom"
+      },
+      {
+        "end": 45.599998474121094,
+        "start": 45.2400016784668,
+        "word": "look"
+      },
+      {
+        "end": 45.7599983215332,
+        "start": 45.599998474121094,
+        "word": "at"
+      },
+      {
+        "end": 46.0,
+        "start": 45.7599983215332,
+        "word": "that"
+      },
+      {
+        "end": 46.41999816894531,
+        "start": 46.0,
+        "word": "huge"
+      },
+      {
+        "end": 46.720001220703125,
+        "start": 46.41999816894531,
+        "word": "dip"
+      },
+      {
+        "end": 47.02000045776367,
+        "start": 46.720001220703125,
+        "word": "around"
+      },
+      {
+        "end": 47.31999969482422,
+        "start": 47.02000045776367,
+        "word": "40"
+      },
+      {
+        "end": 47.619998931884766,
+        "start": 47.31999969482422,
+        "word": "hertz"
+      },
+      {
+        "end": 48.02000045776367,
+        "start": 47.619998931884766,
+        "word": "here"
+      },
+      {
+        "end": 48.13999938964844,
+        "start": 48.02000045776367,
+        "word": "is"
+      },
+      {
+        "end": 48.400001525878906,
+        "start": 48.13999938964844,
+        "word": "our"
+      },
+      {
+        "end": 48.63999938964844,
+        "start": 48.400001525878906,
+        "word": "living"
+      },
+      {
+        "end": 48.86000061035156,
+        "start": 48.63999938964844,
+        "word": "room"
+      },
+      {
+        "end": 49.20000076293945,
+        "start": 48.86000061035156,
+        "word": "a"
+      },
+      {
+        "end": 49.5,
+        "start": 49.20000076293945,
+        "word": "total"
+      },
+      {
+        "end": 50.02000045776367,
+        "start": 49.5,
+        "word": "chaos"
+      },
+      {
+        "end": 50.380001068115234,
+        "start": 50.02000045776367,
+        "word": "and"
+      },
+      {
+        "end": 50.70000076293945,
+        "start": 50.380001068115234,
+        "word": "another"
+      },
+      {
+        "end": 51.08000183105469,
+        "start": 50.70000076293945,
+        "word": "reference"
+      },
+      {
+        "end": 51.52000045776367,
+        "start": 51.08000183105469,
+        "word": "headphone"
+      },
+      {
+        "end": 51.900001525878906,
+        "start": 51.52000045776367,
+        "word": "look"
+      },
+      {
+        "end": 52.380001068115234,
+        "start": 51.900001525878906,
+        "word": "at"
+      },
+      {
+        "end": 52.63999938964844,
+        "start": 52.380001068115234,
+        "word": "that"
+      },
+      {
+        "end": 53.18000030517578,
+        "start": 52.63999938964844,
+        "word": "deep"
+      },
+      {
+        "end": 53.70000076293945,
+        "start": 53.18000030517578,
+        "word": "physics"
+      },
+      {
+        "end": 54.20000076293945,
+        "start": 53.70000076293945,
+        "word": "is"
+      },
+      {
+        "end": 54.900001525878906,
+        "start": 54.20000076293945,
+        "word": "literally"
+      },
+      {
+        "end": 55.34000015258789,
+        "start": 54.900001525878906,
+        "word": "canceling"
+      },
+      {
+        "end": 55.63999938964844,
+        "start": 55.34000015258789,
+        "word": "that"
+      },
+      {
+        "end": 56.0,
+        "start": 55.63999938964844,
+        "word": "frequency"
+      },
+      {
+        "end": 56.459999084472656,
+        "start": 56.0,
+        "word": "out"
+      },
+      {
+        "end": 56.68000030517578,
+        "start": 56.459999084472656,
+        "word": "in"
+      },
+      {
+        "end": 56.900001525878906,
+        "start": 56.68000030517578,
+        "word": "your"
+      },
+      {
+        "end": 57.20000076293945,
+        "start": 56.900001525878906,
+        "word": "listening"
+      },
+      {
+        "end": 57.86000061035156,
+        "start": 57.20000076293945,
+        "word": "position"
+      },
+      {
+        "end": 58.220001220703125,
+        "start": 57.86000061035156,
+        "word": "you"
+      },
+      {
+        "end": 58.65999984741211,
+        "start": 58.220001220703125,
+        "word": "can't"
+      },
+      {
+        "end": 58.779998779296875,
+        "start": 58.65999984741211,
+        "word": "hear"
+      },
+      {
+        "end": 58.939998626708984,
+        "start": 58.779998779296875,
+        "word": "the"
+      },
+      {
+        "end": 59.13999938964844,
+        "start": 58.939998626708984,
+        "word": "kick"
+      },
+      {
+        "end": 59.380001068115234,
+        "start": 59.13999938964844,
+        "word": "drums"
+      },
+      {
+        "end": 59.7400016784668,
+        "start": 59.380001068115234,
+        "word": "punch"
+      },
+      {
+        "end": 59.97999954223633,
+        "start": 59.7400016784668,
+        "word": "so"
+      },
+      {
+        "end": 60.400001525878906,
+        "start": 59.97999954223633,
+        "word": "you're"
+      },
+      {
+        "end": 60.81999969482422,
+        "start": 60.400001525878906,
+        "word": "boosted"
+      },
+      {
+        "end": 61.0,
+        "start": 60.81999969482422,
+        "word": "with"
+      },
+      {
+        "end": 61.220001220703125,
+        "start": 61.0,
+        "word": "your"
+      },
+      {
+        "end": 61.540000915527344,
+        "start": 61.220001220703125,
+        "word": "eq"
+      },
+      {
+        "end": 61.86000061035156,
+        "start": 61.540000915527344,
+        "word": "to"
+      },
+      {
+        "end": 62.099998474121094,
+        "start": 61.86000061035156,
+        "word": "your"
+      },
+      {
+        "end": 62.619998931884766,
+        "start": 62.099998474121094,
+        "word": "ears"
+      },
+      {
+        "end": 63.0,
+        "start": 62.619998931884766,
+        "word": "it"
+      },
+      {
+        "end": 63.7400016784668,
+        "start": 63.0,
+        "word": "finally"
+      },
+      {
+        "end": 64.18000030517578,
+        "start": 63.7400016784668,
+        "word": "sounds"
+      },
+      {
+        "end": 64.58000183105469,
+        "start": 64.18000030517578,
+        "word": "full"
+      },
+      {
+        "end": 64.87999725341797,
+        "start": 64.58000183105469,
+        "word": "but"
+      },
+      {
+        "end": 65.23999786376953,
+        "start": 64.87999725341797,
+        "word": "in"
+      },
+      {
+        "end": 65.69999694824219,
+        "start": 65.23999786376953,
+        "word": "reality"
+      },
+      {
+        "end": 66.18000030517578,
+        "start": 65.69999694824219,
+        "word": "you"
+      },
+      {
+        "end": 66.5999984741211,
+        "start": 66.18000030517578,
+        "word": "just"
+      },
+      {
+        "end": 66.9800033569336,
+        "start": 66.5999984741211,
+        "word": "ruined"
+      },
+      {
+        "end": 67.31999969482422,
+        "start": 66.9800033569336,
+        "word": "your"
+      },
+      {
+        "end": 67.63999938964844,
+        "start": 67.31999969482422,
+        "word": "mix"
+      },
+      {
+        "end": 68.05999755859375,
+        "start": 67.63999938964844,
+        "word": "it's"
+      },
+      {
+        "end": 68.18000030517578,
+        "start": 68.05999755859375,
+        "word": "going"
+      },
+      {
+        "end": 68.44000244140625,
+        "start": 68.18000030517578,
+        "word": "to"
+      },
+      {
+        "end": 68.72000122070312,
+        "start": 68.44000244140625,
+        "word": "sound"
+      },
+      {
+        "end": 69.0199966430664,
+        "start": 68.72000122070312,
+        "word": "muddy"
+      },
+      {
+        "end": 69.62000274658203,
+        "start": 69.0199966430664,
+        "word": "everywhere"
+      },
+      {
+        "end": 70.13999938964844,
+        "start": 69.62000274658203,
+        "word": "else"
+      },
+      {
+        "end": 70.41999816894531,
+        "start": 70.13999938964844,
+        "word": "you"
+      },
+      {
+        "end": 70.73999786376953,
+        "start": 70.41999816894531,
+        "word": "didn't"
+      },
+      {
+        "end": 71.0,
+        "start": 70.73999786376953,
+        "word": "fail"
+      },
+      {
+        "end": 71.16000366210938,
+        "start": 71.0,
+        "word": "as"
+      },
+      {
+        "end": 71.37999725341797,
+        "start": 71.16000366210938,
+        "word": "a"
+      },
+      {
+        "end": 71.68000030517578,
+        "start": 71.37999725341797,
+        "word": "producer"
+      },
+      {
+        "end": 72.13999938964844,
+        "start": 71.68000030517578,
+        "word": "your"
+      },
+      {
+        "end": 72.41999816894531,
+        "start": 72.13999938964844,
+        "word": "room"
+      },
+      {
+        "end": 72.9800033569336,
+        "start": 72.41999816894531,
+        "word": "guest"
+      },
+      {
+        "end": 73.31999969482422,
+        "start": 72.9800033569336,
+        "word": "lighted"
+      },
+      {
+        "end": 73.63999938964844,
+        "start": 73.31999969482422,
+        "word": "you"
+      },
+      {
+        "end": 74.63999938964844,
+        "start": 73.63999938964844,
+        "word": "but"
+      },
+      {
+        "end": 74.9000015258789,
+        "start": 74.63999938964844,
+        "word": "let's"
+      },
+      {
+        "end": 75.12000274658203,
+        "start": 74.9000015258789,
+        "word": "say"
+      },
+      {
+        "end": 75.31999969482422,
+        "start": 75.12000274658203,
+        "word": "you"
+      },
+      {
+        "end": 75.5,
+        "start": 75.31999969482422,
+        "word": "have"
+      },
+      {
+        "end": 75.9000015258789,
+        "start": 75.5,
+        "word": "a"
+      },
+      {
+        "end": 76.18000030517578,
+        "start": 75.9000015258789,
+        "word": "perfect"
+      },
+      {
+        "end": 76.5,
+        "start": 76.18000030517578,
+        "word": "room"
+      },
+      {
+        "end": 76.73999786376953,
+        "start": 76.5,
+        "word": "you"
+      },
+      {
+        "end": 77.05999755859375,
+        "start": 76.73999786376953,
+        "word": "spend"
+      },
+      {
+        "end": 77.37999725341797,
+        "start": 77.05999755859375,
+        "word": "10"
+      },
+      {
+        "end": 77.66000366210938,
+        "start": 77.37999725341797,
+        "word": "000"
+      },
+      {
+        "end": 77.9800033569336,
+        "start": 77.66000366210938,
+        "word": "on"
+      },
+      {
+        "end": 78.36000061035156,
+        "start": 77.9800033569336,
+        "word": "treatment"
+      },
+      {
+        "end": 78.68000030517578,
+        "start": 78.36000061035156,
+        "word": "but"
+      },
+      {
+        "end": 78.77999877929688,
+        "start": 78.68000030517578,
+        "word": "you"
+      },
+      {
+        "end": 78.95999908447266,
+        "start": 78.77999877929688,
+        "word": "are"
+      },
+      {
+        "end": 79.37999725341797,
+        "start": 78.95999908447266,
+        "word": "still"
+      },
+      {
+        "end": 79.55999755859375,
+        "start": 79.37999725341797,
+        "word": "fighting"
+      },
+      {
+        "end": 79.83999633789062,
+        "start": 79.55999755859375,
+        "word": "the"
+      },
+      {
+        "end": 80.12000274658203,
+        "start": 79.83999633789062,
+        "word": "final"
+      },
+      {
+        "end": 80.41999816894531,
+        "start": 80.12000274658203,
+        "word": "boss"
+      },
+      {
+        "end": 80.9800033569336,
+        "start": 80.41999816894531,
+        "word": "your"
+      },
+      {
+        "end": 81.54000091552734,
+        "start": 80.9800033569336,
+        "word": "own"
+      },
+      {
+        "end": 82.13999938964844,
+        "start": 81.54000091552734,
+        "word": "biology"
+      },
+      {
+        "end": 82.5999984741211,
+        "start": 82.13999938964844,
+        "word": "human"
+      },
+      {
+        "end": 83.05999755859375,
+        "start": 82.5999984741211,
+        "word": "evolution"
+      },
+      {
+        "end": 83.72000122070312,
+        "start": 83.05999755859375,
+        "word": "design"
+      },
+      {
+        "end": 84.12000274658203,
+        "start": 83.72000122070312,
+        "word": "our"
+      },
+      {
+        "end": 84.5199966430664,
+        "start": 84.12000274658203,
+        "word": "ears"
+      },
+      {
+        "end": 84.77999877929688,
+        "start": 84.5199966430664,
+        "word": "to"
+      },
+      {
+        "end": 85.0,
+        "start": 84.77999877929688,
+        "word": "hear"
+      },
+      {
+        "end": 85.62000274658203,
+        "start": 85.0,
+        "word": "voices"
+      },
+      {
+        "end": 86.13999938964844,
+        "start": 85.62000274658203,
+        "word": "snapping"
+      },
+      {
+        "end": 86.55999755859375,
+        "start": 86.13999938964844,
+        "word": "physics"
+      },
+      {
+        "end": 86.9000015258789,
+        "start": 86.55999755859375,
+        "word": "and"
+      },
+      {
+        "end": 87.36000061035156,
+        "start": 86.9000015258789,
+        "word": "babies"
+      },
+      {
+        "end": 87.86000061035156,
+        "start": 87.36000061035156,
+        "word": "crying"
+      },
+      {
+        "end": 88.26000213623047,
+        "start": 87.86000061035156,
+        "word": "these"
+      },
+      {
+        "end": 88.66000366210938,
+        "start": 88.26000213623047,
+        "word": "mid"
+      },
+      {
+        "end": 88.66000366210938,
+        "start": 88.66000366210938,
+        "word": "range"
+      },
+      {
+        "end": 89.18000030517578,
+        "start": 88.66000366210938,
+        "word": "frequencies"
+      },
+      {
+        "end": 89.66000366210938,
+        "start": 89.18000030517578,
+        "word": "in"
+      },
+      {
+        "end": 89.94000244140625,
+        "start": 89.66000366210938,
+        "word": "that"
+      },
+      {
+        "end": 90.19999694824219,
+        "start": 89.94000244140625,
+        "word": "range"
+      },
+      {
+        "end": 90.68000030517578,
+        "start": 90.19999694824219,
+        "word": "your"
+      },
+      {
+        "end": 91.0999984741211,
+        "start": 90.68000030517578,
+        "word": "hearing"
+      },
+      {
+        "end": 91.4000015258789,
+        "start": 91.0999984741211,
+        "word": "is"
+      },
+      {
+        "end": 91.94000244140625,
+        "start": 91.4000015258789,
+        "word": "precise"
+      },
+      {
+        "end": 92.45999908447266,
+        "start": 91.94000244140625,
+        "word": "like"
+      },
+      {
+        "end": 92.72000122070312,
+        "start": 92.45999908447266,
+        "word": "a"
+      },
+      {
+        "end": 93.13999938964844,
+        "start": 92.72000122070312,
+        "word": "fine"
+      },
+      {
+        "end": 93.36000061035156,
+        "start": 93.13999938964844,
+        "word": "tipped"
+      },
+      {
+        "end": 94.36000061035156,
+        "start": 93.36000061035156,
+        "word": "artist's"
+      },
+      {
+        "end": 94.36000061035156,
+        "start": 94.36000061035156,
+        "word": "brush"
+      },
+      {
+        "end": 94.68000030517578,
+        "start": 94.36000061035156,
+        "word": "but"
+      },
+      {
+        "end": 95.04000091552734,
+        "start": 94.68000030517578,
+        "word": "down"
+      },
+      {
+        "end": 95.4000015258789,
+        "start": 95.04000091552734,
+        "word": "here"
+      },
+      {
+        "end": 95.63999938964844,
+        "start": 95.4000015258789,
+        "word": "below"
+      },
+      {
+        "end": 96.0199966430664,
+        "start": 95.63999938964844,
+        "word": "100"
+      },
+      {
+        "end": 96.33999633789062,
+        "start": 96.0199966430664,
+        "word": "hertz"
+      },
+      {
+        "end": 96.77999877929688,
+        "start": 96.33999633789062,
+        "word": "we"
+      },
+      {
+        "end": 97.04000091552734,
+        "start": 96.77999877929688,
+        "word": "lose"
+      },
+      {
+        "end": 97.83999633789062,
+        "start": 97.08000183105469,
+        "word": "definition"
+      },
+      {
+        "end": 98.33999633789062,
+        "start": 97.83999633789062,
+        "word": "we"
+      },
+      {
+        "end": 98.4800033569336,
+        "start": 98.33999633789062,
+        "word": "lose"
+      },
+      {
+        "end": 98.80000305175781,
+        "start": 98.4800033569336,
+        "word": "pitch"
+      },
+      {
+        "end": 99.33999633789062,
+        "start": 98.80000305175781,
+        "word": "perception"
+      },
+      {
+        "end": 99.76000213623047,
+        "start": 99.33999633789062,
+        "word": "relying"
+      },
+      {
+        "end": 100.0199966430664,
+        "start": 99.76000213623047,
+        "word": "on"
+      },
+      {
+        "end": 100.22000122070312,
+        "start": 100.0199966430664,
+        "word": "your"
+      },
+      {
+        "end": 100.55999755859375,
+        "start": 100.22000122070312,
+        "word": "ears"
+      },
+      {
+        "end": 101.08000183105469,
+        "start": 100.55999755859375,
+        "word": "for"
+      },
+      {
+        "end": 101.27999877929688,
+        "start": 101.08000183105469,
+        "word": "sub"
+      },
+      {
+        "end": 101.66000366210938,
+        "start": 101.27999877929688,
+        "word": "base"
+      },
+      {
+        "end": 101.9800033569336,
+        "start": 101.66000366210938,
+        "word": "detail"
+      },
+      {
+        "end": 102.16000366210938,
+        "start": 101.9800033569336,
+        "word": "is"
+      },
+      {
+        "end": 102.37999725341797,
+        "start": 102.16000366210938,
+        "word": "like"
+      },
+      {
+        "end": 102.95999908447266,
+        "start": 102.37999725341797,
+        "word": "trying"
+      },
+      {
+        "end": 103.33999633789062,
+        "start": 102.95999908447266,
+        "word": "to"
+      },
+      {
+        "end": 103.81999969482422,
+        "start": 103.33999633789062,
+        "word": "hyper"
+      },
+      {
+        "end": 104.30000305175781,
+        "start": 103.81999969482422,
+        "word": "realistic"
+      },
+      {
+        "end": 104.63999938964844,
+        "start": 104.30000305175781,
+        "word": "portrait"
+      },
+      {
+        "end": 105.4800033569336,
+        "start": 104.63999938964844,
+        "word": "using"
+      },
+      {
+        "end": 105.73999786376953,
+        "start": 105.4800033569336,
+        "word": "a"
+      },
+      {
+        "end": 106.0199966430664,
+        "start": 105.73999786376953,
+        "word": "paint"
+      },
+      {
+        "end": 106.31999969482422,
+        "start": 106.0199966430664,
+        "word": "roller"
+      },
+      {
+        "end": 106.72000122070312,
+        "start": 106.31999969482422,
+        "word": "you"
+      },
+      {
+        "end": 106.91999816894531,
+        "start": 106.72000122070312,
+        "word": "are"
+      },
+      {
+        "end": 107.26000213623047,
+        "start": 106.91999816894531,
+        "word": "making"
+      },
+      {
+        "end": 107.86000061035156,
+        "start": 107.26000213623047,
+        "word": "broad"
+      },
+      {
+        "end": 108.36000061035156,
+        "start": 107.86000061035156,
+        "word": "clumsy"
+      },
+      {
+        "end": 108.77999877929688,
+        "start": 108.36000061035156,
+        "word": "strokes"
+      },
+      {
+        "end": 109.26000213623047,
+        "start": 108.77999877929688,
+        "word": "thinking"
+      },
+      {
+        "end": 109.5,
+        "start": 109.26000213623047,
+        "word": "you"
+      },
+      {
+        "end": 109.62000274658203,
+        "start": 109.5,
+        "word": "are"
+      },
+      {
+        "end": 109.9000015258789,
+        "start": 109.62000274658203,
+        "word": "being"
+      },
+      {
+        "end": 110.44000244140625,
+        "start": 109.9000015258789,
+        "word": "precise"
+      },
+      {
+        "end": 110.81999969482422,
+        "start": 110.44000244140625,
+        "word": "you"
+      },
+      {
+        "end": 111.31999969482422,
+        "start": 110.81999969482422,
+        "word": "aren't"
+      },
+      {
+        "end": 111.54000091552734,
+        "start": 111.31999969482422,
+        "word": "you"
+      },
+      {
+        "end": 111.94000244140625,
+        "start": 111.54000091552734,
+        "word": "physically"
+      },
+      {
+        "end": 112.23999786376953,
+        "start": 111.94000244140625,
+        "word": "cannot"
+      },
+      {
+        "end": 112.63999938964844,
+        "start": 112.23999786376953,
+        "word": "hear"
+      },
+      {
+        "end": 112.9000015258789,
+        "start": 112.63999938964844,
+        "word": "the"
+      },
+      {
+        "end": 113.13999938964844,
+        "start": 112.9000015258789,
+        "word": "fine"
+      },
+      {
+        "end": 113.45999908447266,
+        "start": 113.13999938964844,
+        "word": "lines"
+      },
+      {
+        "end": 113.77999877929688,
+        "start": 113.45999908447266,
+        "word": "but"
+      },
+      {
+        "end": 114.12000274658203,
+        "start": 113.77999877929688,
+        "word": "the"
+      },
+      {
+        "end": 114.5,
+        "start": 114.12000274658203,
+        "word": "analyzer"
+      },
+      {
+        "end": 115.36000061035156,
+        "start": 114.5,
+        "word": "it"
+      },
+      {
+        "end": 115.63999938964844,
+        "start": 115.36000061035156,
+        "word": "kind"
+      },
+      {
+        "end": 115.81999969482422,
+        "start": 115.63999938964844,
+        "word": "of"
+      },
+      {
+        "end": 116.0199966430664,
+        "start": 115.81999969482422,
+        "word": "sees"
+      },
+      {
+        "end": 116.5199966430664,
+        "start": 116.0199966430664,
+        "word": "everything"
+      },
+      {
+        "end": 116.9000015258789,
+        "start": 116.5199966430664,
+        "word": "so"
+      },
+      {
+        "end": 117.22000122070312,
+        "start": 116.9000015258789,
+        "word": "how"
+      },
+      {
+        "end": 117.5199966430664,
+        "start": 117.22000122070312,
+        "word": "do"
+      },
+      {
+        "end": 117.63999938964844,
+        "start": 117.5199966430664,
+        "word": "we"
+      },
+      {
+        "end": 117.73999786376953,
+        "start": 117.63999938964844,
+        "word": "fix"
+      },
+      {
+        "end": 118.05999755859375,
+        "start": 117.73999786376953,
+        "word": "this"
+      },
+      {
+        "end": 118.36000061035156,
+        "start": 118.05999755859375,
+        "word": "we"
+      },
+      {
+        "end": 118.62000274658203,
+        "start": 118.36000061035156,
+        "word": "stop"
+      },
+      {
+        "end": 118.95999908447266,
+        "start": 118.62000274658203,
+        "word": "kissing"
+      },
+      {
+        "end": 119.31999969482422,
+        "start": 118.95999908447266,
+        "word": "and"
+      },
+      {
+        "end": 119.73999786376953,
+        "start": 119.31999969482422,
+        "word": "start"
+      },
+      {
+        "end": 120.16000366210938,
+        "start": 119.73999786376953,
+        "word": "looking"
+      },
+      {
+        "end": 120.45999908447266,
+        "start": 120.16000366210938,
+        "word": "here"
+      },
+      {
+        "end": 120.63999938964844,
+        "start": 120.45999908447266,
+        "word": "are"
+      },
+      {
+        "end": 120.9000015258789,
+        "start": 120.63999938964844,
+        "word": "three"
+      },
+      {
+        "end": 121.31999969482422,
+        "start": 120.9000015258789,
+        "word": "scenarios"
+      },
+      {
+        "end": 121.73999786376953,
+        "start": 121.31999969482422,
+        "word": "where"
+      },
+      {
+        "end": 122.19999694824219,
+        "start": 121.73999786376953,
+        "word": "your"
+      },
+      {
+        "end": 122.58000183105469,
+        "start": 122.19999694824219,
+        "word": "eyeballs"
+      },
+      {
+        "end": 122.83999633789062,
+        "start": 122.58000183105469,
+        "word": "win"
+      },
+      {
+        "end": 123.0999984741211,
+        "start": 122.83999633789062,
+        "word": "over"
+      },
+      {
+        "end": 123.31999969482422,
+        "start": 123.0999984741211,
+        "word": "your"
+      },
+      {
+        "end": 123.72000122070312,
+        "start": 123.31999969482422,
+        "word": "ears"
+      },
+      {
+        "end": 124.12000274658203,
+        "start": 123.72000122070312,
+        "word": "every"
+      },
+      {
+        "end": 124.37999725341797,
+        "start": 124.12000274658203,
+        "word": "time"
+      },
+      {
+        "end": 124.9800033569336,
+        "start": 124.37999725341797,
+        "word": "lalala"
+      },
+      {
+        "end": 125.55999755859375,
+        "start": 124.9800033569336,
+        "word": "introduced"
+      },
+      {
+        "end": 125.83999633789062,
+        "start": 125.55999755859375,
+        "word": "a"
+      },
+      {
+        "end": 126.0999984741211,
+        "start": 125.83999633789062,
+        "word": "new"
+      },
+      {
+        "end": 126.45999908447266,
+        "start": 126.0999984741211,
+        "word": "algorithm"
+      },
+      {
+        "end": 126.81999969482422,
+        "start": 126.45999908447266,
+        "word": "that's"
+      },
+      {
+        "end": 127.04000091552734,
+        "start": 126.81999969482422,
+        "word": "called"
+      },
+      {
+        "end": 127.66000366210938,
+        "start": 127.04000091552734,
+        "word": "Andromeda"
+      },
+      {
+        "end": 128.0399932861328,
+        "start": 127.66000366210938,
+        "word": "so"
+      },
+      {
+        "end": 128.27999877929688,
+        "start": 128.0399932861328,
+        "word": "the"
+      },
+      {
+        "end": 128.47999572753906,
+        "start": 128.27999877929688,
+        "word": "newest"
+      },
+      {
+        "end": 128.77999877929688,
+        "start": 128.47999572753906,
+        "word": "neural"
+      },
+      {
+        "end": 129.17999267578125,
+        "start": 128.77999877929688,
+        "word": "network"
+      },
+      {
+        "end": 129.67999267578125,
+        "start": 129.17999267578125,
+        "word": "delivers"
+      },
+      {
+        "end": 130.24000549316406,
+        "start": 129.67999267578125,
+        "word": "cleaner"
+      },
+      {
+        "end": 130.60000610351562,
+        "start": 130.24000549316406,
+        "word": "vocal"
+      },
+      {
+        "end": 131.1199951171875,
+        "start": 130.60000610351562,
+        "word": "isolation"
+      },
+      {
+        "end": 131.5800018310547,
+        "start": 131.1199951171875,
+        "word": "if"
+      },
+      {
+        "end": 131.67999267578125,
+        "start": 131.5800018310547,
+        "word": "you"
+      },
+      {
+        "end": 131.83999633789062,
+        "start": 131.67999267578125,
+        "word": "are"
+      },
+      {
+        "end": 132.0,
+        "start": 131.83999633789062,
+        "word": "like"
+      },
+      {
+        "end": 132.1999969482422,
+        "start": 132.0,
+        "word": "me"
+      },
+      {
+        "end": 132.5,
+        "start": 132.1999969482422,
+        "word": "who"
+      },
+      {
+        "end": 132.77999877929688,
+        "start": 132.5,
+        "word": "really"
+      },
+      {
+        "end": 133.32000732421875,
+        "start": 132.77999877929688,
+        "word": "loves"
+      },
+      {
+        "end": 133.83999633789062,
+        "start": 133.32000732421875,
+        "word": "especially"
+      },
+      {
+        "end": 134.3000030517578,
+        "start": 133.83999633789062,
+        "word": "taking"
+      },
+      {
+        "end": 134.5399932861328,
+        "start": 134.3000030517578,
+        "word": "the"
+      },
+      {
+        "end": 134.6999969482422,
+        "start": 134.5399932861328,
+        "word": "vocals"
+      },
+      {
+        "end": 135.0399932861328,
+        "start": 134.6999969482422,
+        "word": "from"
+      },
+      {
+        "end": 135.3800048828125,
+        "start": 135.0399932861328,
+        "word": "old"
+      },
+      {
+        "end": 135.72000122070312,
+        "start": 135.3800048828125,
+        "word": "classics"
+      },
+      {
+        "end": 135.97999572753906,
+        "start": 135.72000122070312,
+        "word": "this"
+      },
+      {
+        "end": 136.13999938964844,
+        "start": 135.97999572753906,
+        "word": "is"
+      },
+      {
+        "end": 136.4600067138672,
+        "start": 136.13999938964844,
+        "word": "really"
+      },
+      {
+        "end": 136.77999877929688,
+        "start": 136.4600067138672,
+        "word": "heaven"
+      },
+      {
+        "end": 137.05999755859375,
+        "start": 136.77999877929688,
+        "word": "sent"
+      },
+      {
+        "end": 137.39999389648438,
+        "start": 137.05999755859375,
+        "word": "tool"
+      },
+      {
+        "end": 137.5800018310547,
+        "start": 137.39999389648438,
+        "word": "so"
+      },
+      {
+        "end": 137.94000244140625,
+        "start": 137.5800018310547,
+        "word": "go"
+      },
+      {
+        "end": 138.24000549316406,
+        "start": 137.94000244140625,
+        "word": "to"
+      },
+      {
+        "end": 138.39999389648438,
+        "start": 138.24000549316406,
+        "word": "lalala"
+      },
+      {
+        "end": 138.74000549316406,
+        "start": 138.39999389648438,
+        "word": "i'm"
+      },
+      {
+        "end": 138.77999877929688,
+        "start": 138.74000549316406,
+        "word": "going"
+      },
+      {
+        "end": 138.94000244140625,
+        "start": 138.77999877929688,
+        "word": "to"
+      },
+      {
+        "end": 139.02000427246094,
+        "start": 138.94000244140625,
+        "word": "use"
+      },
+      {
+        "end": 139.1999969482422,
+        "start": 139.02000427246094,
+        "word": "one"
+      },
+      {
+        "end": 139.32000732421875,
+        "start": 139.1999969482422,
+        "word": "of"
+      },
+      {
+        "end": 139.47999572753906,
+        "start": 139.32000732421875,
+        "word": "my"
+      },
+      {
+        "end": 139.89999389648438,
+        "start": 139.47999572753906,
+        "word": "own"
+      },
+      {
+        "end": 140.24000549316406,
+        "start": 139.89999389648438,
+        "word": "tracks"
+      },
+      {
+        "end": 140.5399932861328,
+        "start": 140.24000549316406,
+        "word": "you"
+      },
+      {
+        "end": 140.83999633789062,
+        "start": 140.5399932861328,
+        "word": "upload"
+      },
+      {
+        "end": 141.0800018310547,
+        "start": 140.83999633789062,
+        "word": "the"
+      },
+      {
+        "end": 141.32000732421875,
+        "start": 141.0800018310547,
+        "word": "track"
+      },
+      {
+        "end": 141.67999267578125,
+        "start": 141.32000732421875,
+        "word": "and"
+      },
+      {
+        "end": 142.17999267578125,
+        "start": 141.67999267578125,
+        "word": "bam"
+      },
+      {
+        "end": 142.36000061035156,
+        "start": 142.17999267578125,
+        "word": "you"
+      },
+      {
+        "end": 142.74000549316406,
+        "start": 142.36000061035156,
+        "word": "get"
+      },
+      {
+        "end": 143.33999633789062,
+        "start": 142.74000549316406,
+        "word": "the"
+      },
+      {
+        "end": 143.33999633789062,
+        "start": 143.33999633789062,
+        "word": "vocals"
+      },
+      {
+        "end": 143.6999969482422,
+        "start": 143.33999633789062,
+        "word": "and"
+      },
+      {
+        "end": 144.1999969482422,
+        "start": 143.6999969482422,
+        "word": "track"
+      },
+      {
+        "end": 144.39999389648438,
+        "start": 144.1999969482422,
+        "word": "take"
+      },
+      {
+        "end": 144.5800018310547,
+        "start": 144.39999389648438,
+        "word": "a"
+      },
+      {
+        "end": 144.63999938964844,
+        "start": 144.5800018310547,
+        "word": "listen"
+      },
+      {
+        "end": 144.77999877929688,
+        "start": 144.63999938964844,
+        "word": "to"
+      },
+      {
+        "end": 145.0800018310547,
+        "start": 144.77999877929688,
+        "word": "vocal"
+      },
+      {
+        "end": 147.8000030517578,
+        "start": 145.0800018310547,
+        "word": "listen"
+      },
+      {
+        "end": 147.97999572753906,
+        "start": 147.8000030517578,
+        "word": "to"
+      },
+      {
+        "end": 148.3000030517578,
+        "start": 147.97999572753906,
+        "word": "the"
+      },
+      {
+        "end": 148.3000030517578,
+        "start": 148.3000030517578,
+        "word": "original"
+      },
+      {
+        "end": 148.63999938964844,
+        "start": 148.3000030517578,
+        "word": "vocals"
+      },
+      {
+        "end": 148.89999389648438,
+        "start": 148.63999938964844,
+        "word": "and"
+      },
+      {
+        "end": 149.0800018310547,
+        "start": 148.89999389648438,
+        "word": "see"
+      },
+      {
+        "end": 149.27999877929688,
+        "start": 149.0800018310547,
+        "word": "how"
+      },
+      {
+        "end": 149.5399932861328,
+        "start": 149.27999877929688,
+        "word": "close"
+      },
+      {
+        "end": 149.66000366210938,
+        "start": 149.5399932861328,
+        "word": "it"
+      },
+      {
+        "end": 150.0,
+        "start": 149.66000366210938,
+        "word": "got"
+      },
+      {
+        "end": 150.24000549316406,
+        "start": 150.0,
+        "word": "even"
+      },
+      {
+        "end": 150.44000244140625,
+        "start": 150.24000549316406,
+        "word": "with"
+      },
+      {
+        "end": 150.63999938964844,
+        "start": 150.44000244140625,
+        "word": "the"
+      },
+      {
+        "end": 151.0399932861328,
+        "start": 150.63999938964844,
+        "word": "effects"
+      },
+      {
+        "end": 153.9600067138672,
+        "start": 151.0399932861328,
+        "word": "let's"
+      },
+      {
+        "end": 154.13999938964844,
+        "start": 153.9600067138672,
+        "word": "take"
+      },
+      {
+        "end": 154.25999450683594,
+        "start": 154.13999938964844,
+        "word": "a"
+      },
+      {
+        "end": 154.36000061035156,
+        "start": 154.25999450683594,
+        "word": "look"
+      },
+      {
+        "end": 154.5399932861328,
+        "start": 154.36000061035156,
+        "word": "at"
+      },
+      {
+        "end": 154.82000732421875,
+        "start": 154.5399932861328,
+        "word": "for"
+      },
+      {
+        "end": 154.89999389648438,
+        "start": 154.82000732421875,
+        "word": "a"
+      },
+      {
+        "end": 155.1999969482422,
+        "start": 154.89999389648438,
+        "word": "bit"
+      },
+      {
+        "end": 155.6999969482422,
+        "start": 155.1999969482422,
+        "word": "busier"
+      },
+      {
+        "end": 156.0,
+        "start": 155.6999969482422,
+        "word": "area"
+      },
+      {
+        "end": 156.1999969482422,
+        "start": 156.0,
+        "word": "of"
+      },
+      {
+        "end": 156.24000549316406,
+        "start": 156.1999969482422,
+        "word": "the"
+      },
+      {
+        "end": 156.55999755859375,
+        "start": 156.24000549316406,
+        "word": "track"
+      },
+      {
+        "end": 157.0800018310547,
+        "start": 156.55999755859375,
+        "word": "figure"
+      },
+      {
+        "end": 158.22000122070312,
+        "start": 157.0800018310547,
+        "word": "out"
+      },
+      {
+        "end": 159.25999450683594,
+        "start": 158.22000122070312,
+        "word": "figure"
+      },
+      {
+        "end": 161.10000610351562,
+        "start": 159.25999450683594,
+        "word": "out"
+      },
+      {
+        "end": 161.5,
+        "start": 161.10000610351562,
+        "word": "isn't"
+      },
+      {
+        "end": 161.83999633789062,
+        "start": 161.5,
+        "word": "this"
+      },
+      {
+        "end": 162.27999877929688,
+        "start": 161.83999633789062,
+        "word": "crazy"
+      },
+      {
+        "end": 162.52000427246094,
+        "start": 162.27999877929688,
+        "word": "and"
+      },
+      {
+        "end": 162.6999969482422,
+        "start": 162.52000427246094,
+        "word": "that"
+      },
+      {
+        "end": 162.9600067138672,
+        "start": 162.6999969482422,
+        "word": "part"
+      },
+      {
+        "end": 163.13999938964844,
+        "start": 162.9600067138672,
+        "word": "of"
+      },
+      {
+        "end": 163.1999969482422,
+        "start": 163.13999938964844,
+        "word": "the"
+      },
+      {
+        "end": 163.3800048828125,
+        "start": 163.1999969482422,
+        "word": "track"
+      },
+      {
+        "end": 163.5399932861328,
+        "start": 163.3800048828125,
+        "word": "is"
+      },
+      {
+        "end": 164.02000427246094,
+        "start": 163.5399932861328,
+        "word": "really"
+      },
+      {
+        "end": 164.22000122070312,
+        "start": 164.02000427246094,
+        "word": "busy"
+      },
+      {
+        "end": 169.86000061035156,
+        "start": 169.25999450683594,
+        "word": "you"
+      },
+      {
+        "end": 170.24000549316406,
+        "start": 169.86000061035156,
+        "word": "click"
+      },
+      {
+        "end": 170.60000610351562,
+        "start": 170.24000549316406,
+        "word": "on"
+      },
+      {
+        "end": 170.67999267578125,
+        "start": 170.60000610351562,
+        "word": "split"
+      },
+      {
+        "end": 170.8800048828125,
+        "start": 170.67999267578125,
+        "word": "in"
+      },
+      {
+        "end": 171.10000610351562,
+        "start": 170.8800048828125,
+        "word": "full"
+      },
+      {
+        "end": 171.36000061035156,
+        "start": 171.10000610351562,
+        "word": "and"
+      },
+      {
+        "end": 171.55999755859375,
+        "start": 171.36000061035156,
+        "word": "bam"
+      },
+      {
+        "end": 171.75999450683594,
+        "start": 171.55999755859375,
+        "word": "now"
+      },
+      {
+        "end": 171.89999389648438,
+        "start": 171.75999450683594,
+        "word": "you"
+      },
+      {
+        "end": 172.1999969482422,
+        "start": 171.89999389648438,
+        "word": "can"
+      },
+      {
+        "end": 172.52000427246094,
+        "start": 172.1999969482422,
+        "word": "download"
+      },
+      {
+        "end": 172.83999633789062,
+        "start": 172.52000427246094,
+        "word": "the"
+      },
+      {
+        "end": 173.13999938964844,
+        "start": 172.83999633789062,
+        "word": "full"
+      },
+      {
+        "end": 173.5399932861328,
+        "start": 173.13999938964844,
+        "word": "separated"
+      },
+      {
+        "end": 173.94000244140625,
+        "start": 173.5399932861328,
+        "word": "vocals"
+      },
+      {
+        "end": 174.36000061035156,
+        "start": 173.94000244140625,
+        "word": "and"
+      },
+      {
+        "end": 175.02000427246094,
+        "start": 174.36000061035156,
+        "word": "instrumental"
+      },
+      {
+        "end": 175.52000427246094,
+        "start": 175.02000427246094,
+        "word": "let's"
+      },
+      {
+        "end": 175.77999877929688,
+        "start": 175.52000427246094,
+        "word": "try"
+      },
+      {
+        "end": 175.9600067138672,
+        "start": 175.77999877929688,
+        "word": "one"
+      },
+      {
+        "end": 176.17999267578125,
+        "start": 175.9600067138672,
+        "word": "more"
+      },
+      {
+        "end": 176.47999572753906,
+        "start": 176.17999267578125,
+        "word": "time"
+      },
+      {
+        "end": 180.36000061035156,
+        "start": 179.75999450683594,
+        "word": "and"
+      },
+      {
+        "end": 180.89999389648438,
+        "start": 180.36000061035156,
+        "word": "separate"
+      },
+      {
+        "end": 181.1999969482422,
+        "start": 180.89999389648438,
+        "word": "it"
+      },
+      {
+        "end": 181.39999389648438,
+        "start": 181.1999969482422,
+        "word": "more"
+      },
+      {
+        "end": 182.39999389648438,
+        "start": 181.39999389648438,
+        "word": "time"
+      },
+      {
+        "end": 184.60000610351562,
+        "start": 184.0800018310547,
+        "word": "this"
+      },
+      {
+        "end": 184.9600067138672,
+        "start": 184.60000610351562,
+        "word": "is"
+      },
+      {
+        "end": 185.02000427246094,
+        "start": 184.9600067138672,
+        "word": "a"
+      },
+      {
+        "end": 185.22000122070312,
+        "start": 185.02000427246094,
+        "word": "good"
+      },
+      {
+        "end": 185.63999938964844,
+        "start": 185.22000122070312,
+        "word": "example"
+      },
+      {
+        "end": 185.94000244140625,
+        "start": 185.63999938964844,
+        "word": "because"
+      },
+      {
+        "end": 186.10000610351562,
+        "start": 185.94000244140625,
+        "word": "it"
+      },
+      {
+        "end": 186.47999572753906,
+        "start": 186.10000610351562,
+        "word": "also"
+      },
+      {
+        "end": 186.9199981689453,
+        "start": 186.47999572753906,
+        "word": "shows"
+      },
+      {
+        "end": 187.1999969482422,
+        "start": 186.9199981689453,
+        "word": "it"
+      },
+      {
+        "end": 187.44000244140625,
+        "start": 187.1999969482422,
+        "word": "still"
+      },
+      {
+        "end": 187.66000366210938,
+        "start": 187.44000244140625,
+        "word": "does"
+      },
+      {
+        "end": 188.05999755859375,
+        "start": 187.66000366210938,
+        "word": "really"
+      },
+      {
+        "end": 188.25999450683594,
+        "start": 188.05999755859375,
+        "word": "good"
+      },
+      {
+        "end": 188.5,
+        "start": 188.25999450683594,
+        "word": "job"
+      },
+      {
+        "end": 188.72000122070312,
+        "start": 188.5,
+        "word": "even"
+      },
+      {
+        "end": 188.9199981689453,
+        "start": 188.72000122070312,
+        "word": "though"
+      },
+      {
+        "end": 189.13999938964844,
+        "start": 188.9199981689453,
+        "word": "there's"
+      },
+      {
+        "end": 189.33999633789062,
+        "start": 189.13999938964844,
+        "word": "a"
+      },
+      {
+        "end": 189.5,
+        "start": 189.33999633789062,
+        "word": "heavy"
+      },
+      {
+        "end": 189.74000549316406,
+        "start": 189.5,
+        "word": "vocal"
+      },
+      {
+        "end": 190.10000610351562,
+        "start": 189.74000549316406,
+        "word": "auto"
+      },
+      {
+        "end": 190.22000122070312,
+        "start": 190.10000610351562,
+        "word": "tune"
+      },
+      {
+        "end": 190.52000427246094,
+        "start": 190.22000122070312,
+        "word": "on"
+      },
+      {
+        "end": 190.77999877929688,
+        "start": 190.52000427246094,
+        "word": "top"
+      },
+      {
+        "end": 190.9199981689453,
+        "start": 190.77999877929688,
+        "word": "if"
+      },
+      {
+        "end": 190.97999572753906,
+        "start": 190.9199981689453,
+        "word": "you"
+      },
+      {
+        "end": 191.13999938964844,
+        "start": 190.97999572753906,
+        "word": "want"
+      },
+      {
+        "end": 191.24000549316406,
+        "start": 191.13999938964844,
+        "word": "to"
+      },
+      {
+        "end": 191.3800048828125,
+        "start": 191.24000549316406,
+        "word": "try"
+      },
+      {
+        "end": 191.5399932861328,
+        "start": 191.3800048828125,
+        "word": "it"
+      },
+      {
+        "end": 191.97999572753906,
+        "start": 191.5399932861328,
+        "word": "yourself"
+      },
+      {
+        "end": 192.25999450683594,
+        "start": 191.97999572753906,
+        "word": "check"
+      },
+      {
+        "end": 192.44000244140625,
+        "start": 192.25999450683594,
+        "word": "the"
+      },
+      {
+        "end": 192.60000610351562,
+        "start": 192.44000244140625,
+        "word": "links"
+      },
+      {
+        "end": 192.94000244140625,
+        "start": 192.60000610351562,
+        "word": "below"
+      },
+      {
+        "end": 193.39999389648438,
+        "start": 192.94000244140625,
+        "word": "invisible"
+      },
+      {
+        "end": 193.75999450683594,
+        "start": 193.39999389648438,
+        "word": "phase"
+      },
+      {
+        "end": 194.10000610351562,
+        "start": 193.75999450683594,
+        "word": "issue"
+      },
+      {
+        "end": 194.5,
+        "start": 194.10000610351562,
+        "word": "you"
+      },
+      {
+        "end": 194.77999877929688,
+        "start": 194.5,
+        "word": "layer"
+      },
+      {
+        "end": 195.02000427246094,
+        "start": 194.77999877929688,
+        "word": "your"
+      },
+      {
+        "end": 195.1999969482422,
+        "start": 195.02000427246094,
+        "word": "kick"
+      },
+      {
+        "end": 195.39999389648438,
+        "start": 195.1999969482422,
+        "word": "and"
+      },
+      {
+        "end": 195.6999969482422,
+        "start": 195.39999389648438,
+        "word": "sub"
+      },
+      {
+        "end": 197.17999267578125,
+        "start": 195.6999969482422,
+        "word": "it"
+      },
+      {
+        "end": 197.6999969482422,
+        "start": 197.17999267578125,
+        "word": "sounds"
+      },
+      {
+        "end": 198.32000732421875,
+        "start": 197.6999969482422,
+        "word": "weak"
+      },
+      {
+        "end": 198.60000610351562,
+        "start": 198.32000732421875,
+        "word": "you"
+      },
+      {
+        "end": 198.82000732421875,
+        "start": 198.60000610351562,
+        "word": "try"
+      },
+      {
+        "end": 199.1199951171875,
+        "start": 198.82000732421875,
+        "word": "to"
+      },
+      {
+        "end": 199.25999450683594,
+        "start": 199.1199951171875,
+        "word": "eq"
+      },
+      {
+        "end": 199.4600067138672,
+        "start": 199.25999450683594,
+        "word": "it"
+      },
+      {
+        "end": 199.5800018310547,
+        "start": 199.4600067138672,
+        "word": "you"
+      },
+      {
+        "end": 199.72000122070312,
+        "start": 199.5800018310547,
+        "word": "try"
+      },
+      {
+        "end": 199.9600067138672,
+        "start": 199.72000122070312,
+        "word": "to"
+      },
+      {
+        "end": 200.1999969482422,
+        "start": 199.9600067138672,
+        "word": "compress"
+      },
+      {
+        "end": 200.44000244140625,
+        "start": 200.1999969482422,
+        "word": "it"
+      },
+      {
+        "end": 200.67999267578125,
+        "start": 200.44000244140625,
+        "word": "it"
+      },
+      {
+        "end": 201.02000427246094,
+        "start": 200.67999267578125,
+        "word": "sounds"
+      },
+      {
+        "end": 201.4600067138672,
+        "start": 201.02000427246094,
+        "word": "still"
+      },
+      {
+        "end": 202.02000427246094,
+        "start": 201.4600067138672,
+        "word": "it"
+      },
+      {
+        "end": 202.0800018310547,
+        "start": 202.02000427246094,
+        "word": "lacks"
+      },
+      {
+        "end": 202.4199981689453,
+        "start": 202.0800018310547,
+        "word": "the"
+      },
+      {
+        "end": 202.75999450683594,
+        "start": 202.4199981689453,
+        "word": "punch"
+      },
+      {
+        "end": 203.5,
+        "start": 202.75999450683594,
+        "word": "stop"
+      },
+      {
+        "end": 203.75999450683594,
+        "start": 203.5,
+        "word": "touching"
+      },
+      {
+        "end": 204.17999267578125,
+        "start": 203.75999450683594,
+        "word": "the"
+      },
+      {
+        "end": 204.3000030517578,
+        "start": 204.17999267578125,
+        "word": "faders"
+      },
+      {
+        "end": 204.63999938964844,
+        "start": 204.3000030517578,
+        "word": "and"
+      },
+      {
+        "end": 204.89999389648438,
+        "start": 204.63999938964844,
+        "word": "eq"
+      },
+      {
+        "end": 205.3800048828125,
+        "start": 204.89999389648438,
+        "word": "look"
+      },
+      {
+        "end": 205.5399932861328,
+        "start": 205.3800048828125,
+        "word": "at"
+      },
+      {
+        "end": 205.67999267578125,
+        "start": 205.5399932861328,
+        "word": "the"
+      },
+      {
+        "end": 206.0399932861328,
+        "start": 205.67999267578125,
+        "word": "waveform"
+      },
+      {
+        "end": 206.60000610351562,
+        "start": 206.0399932861328,
+        "word": "see"
+      },
+      {
+        "end": 206.8800048828125,
+        "start": 206.60000610351562,
+        "word": "this"
+      },
+      {
+        "end": 207.52000427246094,
+        "start": 206.8800048828125,
+        "word": "constructive"
+      },
+      {
+        "end": 208.13999938964844,
+        "start": 207.52000427246094,
+        "word": "interference"
+      },
+      {
+        "end": 209.02000427246094,
+        "start": 208.13999938964844,
+        "word": "versus"
+      },
+      {
+        "end": 209.6199951171875,
+        "start": 209.02000427246094,
+        "word": "destructive"
+      },
+      {
+        "end": 210.24000549316406,
+        "start": 209.6199951171875,
+        "word": "interference"
+      },
+      {
+        "end": 210.55999755859375,
+        "start": 210.24000549316406,
+        "word": "your"
+      },
+      {
+        "end": 210.82000732421875,
+        "start": 210.55999755859375,
+        "word": "kick"
+      },
+      {
+        "end": 211.24000549316406,
+        "start": 210.82000732421875,
+        "word": "wants"
+      },
+      {
+        "end": 211.4600067138672,
+        "start": 211.24000549316406,
+        "word": "to"
+      },
+      {
+        "end": 211.5399932861328,
+        "start": 211.4600067138672,
+        "word": "push"
+      },
+      {
+        "end": 211.8000030517578,
+        "start": 211.5399932861328,
+        "word": "the"
+      },
+      {
+        "end": 212.02000427246094,
+        "start": 211.8000030517578,
+        "word": "speaker"
+      },
+      {
+        "end": 212.75999450683594,
+        "start": 212.02000427246094,
+        "word": "out"
+      },
+      {
+        "end": 213.22000122070312,
+        "start": 212.75999450683594,
+        "word": "however"
+      },
+      {
+        "end": 213.74000549316406,
+        "start": 213.22000122070312,
+        "word": "your"
+      },
+      {
+        "end": 214.05999755859375,
+        "start": 213.74000549316406,
+        "word": "sub"
+      },
+      {
+        "end": 214.44000244140625,
+        "start": 214.05999755859375,
+        "word": "wants"
+      },
+      {
+        "end": 214.6999969482422,
+        "start": 214.44000244140625,
+        "word": "to"
+      },
+      {
+        "end": 214.82000732421875,
+        "start": 214.6999969482422,
+        "word": "pull"
+      },
+      {
+        "end": 215.0399932861328,
+        "start": 214.82000732421875,
+        "word": "it"
+      },
+      {
+        "end": 215.22000122070312,
+        "start": 215.0399932861328,
+        "word": "in"
+      },
+      {
+        "end": 215.47999572753906,
+        "start": 215.22000122070312,
+        "word": "they"
+      },
+      {
+        "end": 215.82000732421875,
+        "start": 215.47999572753906,
+        "word": "cancel"
+      },
+      {
+        "end": 216.0399932861328,
+        "start": 215.82000732421875,
+        "word": "each"
+      },
+      {
+        "end": 216.24000549316406,
+        "start": 216.0399932861328,
+        "word": "other"
+      },
+      {
+        "end": 216.6199951171875,
+        "start": 216.24000549316406,
+        "word": "out"
+      },
+      {
+        "end": 216.83999633789062,
+        "start": 216.6199951171875,
+        "word": "look"
+      },
+      {
+        "end": 216.97999572753906,
+        "start": 216.83999633789062,
+        "word": "at"
+      },
+      {
+        "end": 217.17999267578125,
+        "start": 216.97999572753906,
+        "word": "this"
+      },
+      {
+        "end": 217.44000244140625,
+        "start": 217.17999267578125,
+        "word": "roll"
+      },
+      {
+        "end": 217.6999969482422,
+        "start": 217.44000244140625,
+        "word": "off"
+      },
+      {
+        "end": 220.1199951171875,
+        "start": 219.60000610351562,
+        "word": "your"
+      },
+      {
+        "end": 220.5800018310547,
+        "start": 220.1199951171875,
+        "word": "sub"
+      },
+      {
+        "end": 221.16000366210938,
+        "start": 220.5800018310547,
+        "word": "removing"
+      },
+      {
+        "end": 221.4600067138672,
+        "start": 221.16000366210938,
+        "word": "your"
+      },
+      {
+        "end": 221.74000549316406,
+        "start": 221.4600067138672,
+        "word": "punch"
+      },
+      {
+        "end": 222.17999267578125,
+        "start": 221.74000549316406,
+        "word": "let's"
+      },
+      {
+        "end": 222.36000061035156,
+        "start": 222.17999267578125,
+        "word": "get"
+      },
+      {
+        "end": 222.55999755859375,
+        "start": 222.36000061035156,
+        "word": "the"
+      },
+      {
+        "end": 222.75999450683594,
+        "start": 222.55999755859375,
+        "word": "peaks"
+      },
+      {
+        "end": 223.16000366210938,
+        "start": 222.75999450683594,
+        "word": "aligned"
+      },
+      {
+        "end": 223.66000366210938,
+        "start": 223.16000366210938,
+        "word": "here"
+      },
+      {
+        "end": 224.32000732421875,
+        "start": 223.66000366210938,
+        "word": "here"
+      },
+      {
+        "end": 224.8000030517578,
+        "start": 224.32000732421875,
+        "word": "here"
+      },
+      {
+        "end": 226.22000122070312,
+        "start": 224.8000030517578,
+        "word": "and"
+      },
+      {
+        "end": 226.52000427246094,
+        "start": 226.22000122070312,
+        "word": "look"
+      },
+      {
+        "end": 226.66000366210938,
+        "start": 226.52000427246094,
+        "word": "at"
+      },
+      {
+        "end": 226.9199981689453,
+        "start": 226.66000366210938,
+        "word": "that"
+      },
+      {
+        "end": 227.5,
+        "start": 226.9199981689453,
+        "word": "punch"
+      },
+      {
+        "end": 229.60000610351562,
+        "start": 229.0800018310547,
+        "word": "it"
+      },
+      {
+        "end": 229.82000732421875,
+        "start": 229.60000610351562,
+        "word": "hits"
+      },
+      {
+        "end": 230.1199951171875,
+        "start": 229.82000732421875,
+        "word": "here"
+      },
+      {
+        "end": 230.44000244140625,
+        "start": 230.1199951171875,
+        "word": "i"
+      },
+      {
+        "end": 230.6999969482422,
+        "start": 230.44000244140625,
+        "word": "talk"
+      },
+      {
+        "end": 230.8800048828125,
+        "start": 230.6999969482422,
+        "word": "this"
+      },
+      {
+        "end": 231.0800018310547,
+        "start": 230.8800048828125,
+        "word": "a"
+      },
+      {
+        "end": 231.10000610351562,
+        "start": 231.0800018310547,
+        "word": "lot"
+      },
+      {
+        "end": 231.3000030517578,
+        "start": 231.10000610351562,
+        "word": "in"
+      },
+      {
+        "end": 231.5399932861328,
+        "start": 231.3000030517578,
+        "word": "the"
+      },
+      {
+        "end": 231.6999969482422,
+        "start": 231.5399932861328,
+        "word": "channel"
+      },
+      {
+        "end": 231.94000244140625,
+        "start": 231.6999969482422,
+        "word": "it"
+      },
+      {
+        "end": 232.05999755859375,
+        "start": 231.94000244140625,
+        "word": "is"
+      },
+      {
+        "end": 232.25999450683594,
+        "start": 232.05999755859375,
+        "word": "a"
+      },
+      {
+        "end": 232.52000427246094,
+        "start": 232.25999450683594,
+        "word": "30"
+      },
+      {
+        "end": 232.72000122070312,
+        "start": 232.52000427246094,
+        "word": "hertz"
+      },
+      {
+        "end": 233.0800018310547,
+        "start": 232.72000122070312,
+        "word": "cut"
+      },
+      {
+        "end": 233.24000549316406,
+        "start": 233.0800018310547,
+        "word": "mid"
+      },
+      {
+        "end": 233.63999938964844,
+        "start": 233.24000549316406,
+        "word": "there's"
+      },
+      {
+        "end": 233.9199981689453,
+        "start": 233.63999938964844,
+        "word": "so"
+      },
+      {
+        "end": 234.05999755859375,
+        "start": 233.9199981689453,
+        "word": "many"
+      },
+      {
+        "end": 234.36000061035156,
+        "start": 234.05999755859375,
+        "word": "different"
+      },
+      {
+        "end": 234.66000366210938,
+        "start": 234.36000061035156,
+        "word": "issues"
+      },
+      {
+        "end": 234.82000732421875,
+        "start": 234.66000366210938,
+        "word": "that"
+      },
+      {
+        "end": 235.13999938964844,
+        "start": 234.82000732421875,
+        "word": "arise"
+      },
+      {
+        "end": 235.47999572753906,
+        "start": 235.13999938964844,
+        "word": "because"
+      },
+      {
+        "end": 235.66000366210938,
+        "start": 235.47999572753906,
+        "word": "of"
+      },
+      {
+        "end": 235.82000732421875,
+        "start": 235.66000366210938,
+        "word": "this"
+      },
+      {
+        "end": 235.97999572753906,
+        "start": 235.82000732421875,
+        "word": "you"
+      },
+      {
+        "end": 236.17999267578125,
+        "start": 235.97999572753906,
+        "word": "have"
+      },
+      {
+        "end": 236.25999450683594,
+        "start": 236.17999267578125,
+        "word": "been"
+      },
+      {
+        "end": 236.6999969482422,
+        "start": 236.25999450683594,
+        "word": "told"
+      },
+      {
+        "end": 237.05999755859375,
+        "start": 236.6999969482422,
+        "word": "cut"
+      },
+      {
+        "end": 237.75999450683594,
+        "start": 237.05999755859375,
+        "word": "everything"
+      },
+      {
+        "end": 238.05999755859375,
+        "start": 237.75999450683594,
+        "word": "below"
+      },
+      {
+        "end": 238.4600067138672,
+        "start": 238.05999755859375,
+        "word": "30"
+      },
+      {
+        "end": 238.66000366210938,
+        "start": 238.4600067138672,
+        "word": "hertz"
+      },
+      {
+        "end": 239.1199951171875,
+        "start": 238.66000366210938,
+        "word": "to"
+      },
+      {
+        "end": 239.55999755859375,
+        "start": 239.1199951171875,
+        "word": "clean"
+      },
+      {
+        "end": 239.8000030517578,
+        "start": 239.55999755859375,
+        "word": "up"
+      },
+      {
+        "end": 239.9199981689453,
+        "start": 239.8000030517578,
+        "word": "the"
+      },
+      {
+        "end": 240.32000732421875,
+        "start": 239.9199981689453,
+        "word": "headroom"
+      },
+      {
+        "end": 240.63999938964844,
+        "start": 240.32000732421875,
+        "word": "right"
+      },
+      {
+        "end": 241.10000610351562,
+        "start": 240.63999938964844,
+        "word": "look"
+      },
+      {
+        "end": 241.32000732421875,
+        "start": 241.10000610351562,
+        "word": "at"
+      },
+      {
+        "end": 241.4199981689453,
+        "start": 241.32000732421875,
+        "word": "the"
+      },
+      {
+        "end": 241.75999450683594,
+        "start": 241.4199981689453,
+        "word": "transient"
+      },
+      {
+        "end": 241.9600067138672,
+        "start": 241.75999450683594,
+        "word": "of"
+      },
+      {
+        "end": 242.16000366210938,
+        "start": 241.9600067138672,
+        "word": "this"
+      },
+      {
+        "end": 242.4199981689453,
+        "start": 242.16000366210938,
+        "word": "kick"
+      },
+      {
+        "end": 244.4199981689453,
+        "start": 243.89999389648438,
+        "word": "let's"
+      },
+      {
+        "end": 244.6199951171875,
+        "start": 244.4199981689453,
+        "word": "put"
+      },
+      {
+        "end": 244.83999633789062,
+        "start": 244.6199951171875,
+        "word": "an"
+      },
+      {
+        "end": 245.17999267578125,
+        "start": 244.83999633789062,
+        "word": "eq"
+      },
+      {
+        "end": 245.60000610351562,
+        "start": 245.17999267578125,
+        "word": "cut"
+      },
+      {
+        "end": 245.8000030517578,
+        "start": 245.60000610351562,
+        "word": "that"
+      },
+      {
+        "end": 246.05999755859375,
+        "start": 245.8000030517578,
+        "word": "30"
+      },
+      {
+        "end": 246.33999633789062,
+        "start": 246.05999755859375,
+        "word": "hertz"
+      },
+      {
+        "end": 246.77999877929688,
+        "start": 246.33999633789062,
+        "word": "and"
+      },
+      {
+        "end": 246.94000244140625,
+        "start": 246.77999877929688,
+        "word": "look"
+      },
+      {
+        "end": 247.05999755859375,
+        "start": 246.94000244140625,
+        "word": "at"
+      },
+      {
+        "end": 247.25999450683594,
+        "start": 247.05999755859375,
+        "word": "that"
+      },
+      {
+        "end": 247.60000610351562,
+        "start": 247.25999450683594,
+        "word": "again"
+      },
+      {
+        "end": 247.89999389648438,
+        "start": 247.60000610351562,
+        "word": "this"
+      },
+      {
+        "end": 248.10000610351562,
+        "start": 247.89999389648438,
+        "word": "is"
+      },
+      {
+        "end": 248.33999633789062,
+        "start": 248.10000610351562,
+        "word": "called"
+      },
+      {
+        "end": 248.8800048828125,
+        "start": 248.33999633789062,
+        "word": "phase"
+      },
+      {
+        "end": 249.10000610351562,
+        "start": 248.8800048828125,
+        "word": "shift"
+      },
+      {
+        "end": 249.36000061035156,
+        "start": 249.10000610351562,
+        "word": "by"
+      },
+      {
+        "end": 249.5800018310547,
+        "start": 249.36000061035156,
+        "word": "cutting"
+      },
+      {
+        "end": 249.83999633789062,
+        "start": 249.5800018310547,
+        "word": "the"
+      },
+      {
+        "end": 250.0,
+        "start": 249.83999633789062,
+        "word": "lows"
+      },
+      {
+        "end": 250.27999877929688,
+        "start": 250.0,
+        "word": "we"
+      },
+      {
+        "end": 250.72000122070312,
+        "start": 250.27999877929688,
+        "word": "actually"
+      },
+      {
+        "end": 251.10000610351562,
+        "start": 250.72000122070312,
+        "word": "smeared"
+      },
+      {
+        "end": 251.39999389648438,
+        "start": 251.10000610351562,
+        "word": "the"
+      },
+      {
+        "end": 251.75999450683594,
+        "start": 251.39999389648438,
+        "word": "transient"
+      },
+      {
+        "end": 252.16000366210938,
+        "start": 251.75999450683594,
+        "word": "energy"
+      },
+      {
+        "end": 252.55999755859375,
+        "start": 252.16000366210938,
+        "word": "you"
+      },
+      {
+        "end": 252.60000610351562,
+        "start": 252.55999755859375,
+        "word": "thought"
+      },
+      {
+        "end": 252.74000549316406,
+        "start": 252.60000610351562,
+        "word": "you"
+      },
+      {
+        "end": 252.94000244140625,
+        "start": 252.74000549316406,
+        "word": "were"
+      },
+      {
+        "end": 253.1199951171875,
+        "start": 252.94000244140625,
+        "word": "cleaning"
+      },
+      {
+        "end": 253.32000732421875,
+        "start": 253.1199951171875,
+        "word": "up"
+      },
+      {
+        "end": 253.47999572753906,
+        "start": 253.32000732421875,
+        "word": "the"
+      },
+      {
+        "end": 253.67999267578125,
+        "start": 253.47999572753906,
+        "word": "mud"
+      },
+      {
+        "end": 253.97999572753906,
+        "start": 253.67999267578125,
+        "word": "you"
+      },
+      {
+        "end": 254.3000030517578,
+        "start": 253.97999572753906,
+        "word": "end"
+      },
+      {
+        "end": 254.5,
+        "start": 254.3000030517578,
+        "word": "up"
+      },
+      {
+        "end": 254.8000030517578,
+        "start": 254.5,
+        "word": "smearing"
+      },
+      {
+        "end": 255.1999969482422,
+        "start": 254.8000030517578,
+        "word": "your"
+      },
+      {
+        "end": 255.6199951171875,
+        "start": 255.1999969482422,
+        "word": "transient"
+      },
+      {
+        "end": 255.82000732421875,
+        "start": 255.6199951171875,
+        "word": "of"
+      },
+      {
+        "end": 256.0,
+        "start": 255.82000732421875,
+        "word": "your"
+      },
+      {
+        "end": 256.2200012207031,
+        "start": 256.0,
+        "word": "kick"
+      },
+      {
+        "end": 256.9200134277344,
+        "start": 256.2200012207031,
+        "word": "sometimes"
+      },
+      {
+        "end": 257.5,
+        "start": 256.9200134277344,
+        "word": "effect"
+      },
+      {
+        "end": 257.760009765625,
+        "start": 257.5,
+        "word": "could"
+      },
+      {
+        "end": 257.8599853515625,
+        "start": 257.760009765625,
+        "word": "be"
+      },
+      {
+        "end": 258.17999267578125,
+        "start": 257.8599853515625,
+        "word": "even"
+      },
+      {
+        "end": 258.5400085449219,
+        "start": 258.17999267578125,
+        "word": "weirder"
+      },
+      {
+        "end": 258.9599914550781,
+        "start": 258.5400085449219,
+        "word": "look"
+      },
+      {
+        "end": 259.1199951171875,
+        "start": 258.9599914550781,
+        "word": "at"
+      },
+      {
+        "end": 259.3599853515625,
+        "start": 259.1199951171875,
+        "word": "this"
+      },
+      {
+        "end": 259.8599853515625,
+        "start": 259.3599853515625,
+        "word": "kick"
+      },
+      {
+        "end": 260.6600036621094,
+        "start": 259.8599853515625,
+        "word": "cool"
+      },
+      {
+        "end": 261.32000732421875,
+        "start": 260.6600036621094,
+        "word": "punchy"
+      },
+      {
+        "end": 261.4599914550781,
+        "start": 261.32000732421875,
+        "word": "look"
+      },
+      {
+        "end": 261.55999755859375,
+        "start": 261.4599914550781,
+        "word": "at"
+      },
+      {
+        "end": 261.82000732421875,
+        "start": 261.55999755859375,
+        "word": "this"
+      },
+      {
+        "end": 262.1199951171875,
+        "start": 261.82000732421875,
+        "word": "fatty"
+      },
+      {
+        "end": 262.6400146484375,
+        "start": 262.1199951171875,
+        "word": "initial"
+      },
+      {
+        "end": 262.9800109863281,
+        "start": 262.6400146484375,
+        "word": "attack"
+      },
+      {
+        "end": 263.2799987792969,
+        "start": 262.9800109863281,
+        "word": "30"
+      },
+      {
+        "end": 263.4800109863281,
+        "start": 263.2799987792969,
+        "word": "hertz"
+      },
+      {
+        "end": 263.82000732421875,
+        "start": 263.4800109863281,
+        "word": "cut"
+      },
+      {
+        "end": 264.2799987792969,
+        "start": 263.82000732421875,
+        "word": "look"
+      },
+      {
+        "end": 264.5,
+        "start": 264.2799987792969,
+        "word": "at"
+      },
+      {
+        "end": 264.7200012207031,
+        "start": 264.5,
+        "word": "the"
+      },
+      {
+        "end": 265.0199890136719,
+        "start": 264.7200012207031,
+        "word": "results"
+      },
+      {
+        "end": 265.4200134277344,
+        "start": 265.0199890136719,
+        "word": "this"
+      },
+      {
+        "end": 265.7200012207031,
+        "start": 265.4200134277344,
+        "word": "looks"
+      },
+      {
+        "end": 266.2799987792969,
+        "start": 265.7200012207031,
+        "word": "super"
+      },
+      {
+        "end": 266.5199890136719,
+        "start": 266.2799987792969,
+        "word": "weird"
+      },
+      {
+        "end": 266.7200012207031,
+        "start": 266.5199890136719,
+        "word": "isn't"
+      },
+      {
+        "end": 267.05999755859375,
+        "start": 266.7200012207031,
+        "word": "it"
+      },
+      {
+        "end": 267.239990234375,
+        "start": 267.05999755859375,
+        "word": "the"
+      },
+      {
+        "end": 267.7200012207031,
+        "start": 267.239990234375,
+        "word": "whole"
+      },
+      {
+        "end": 268.1600036621094,
+        "start": 267.7200012207031,
+        "word": "fatness"
+      },
+      {
+        "end": 268.3599853515625,
+        "start": 268.1600036621094,
+        "word": "of"
+      },
+      {
+        "end": 268.4599914550781,
+        "start": 268.3599853515625,
+        "word": "the"
+      },
+      {
+        "end": 268.6600036621094,
+        "start": 268.4599914550781,
+        "word": "kick"
+      },
+      {
+        "end": 268.82000732421875,
+        "start": 268.6600036621094,
+        "word": "is"
+      },
+      {
+        "end": 269.0799865722656,
+        "start": 268.82000732421875,
+        "word": "gone"
+      },
+      {
+        "end": 269.6000061035156,
+        "start": 269.0799865722656,
+        "word": "and"
+      },
+      {
+        "end": 269.94000244140625,
+        "start": 269.6000061035156,
+        "word": "the"
+      },
+      {
+        "end": 270.0799865722656,
+        "start": 269.94000244140625,
+        "word": "waveform"
+      },
+      {
+        "end": 270.32000732421875,
+        "start": 270.0799865722656,
+        "word": "is"
+      },
+      {
+        "end": 270.55999755859375,
+        "start": 270.32000732421875,
+        "word": "even"
+      },
+      {
+        "end": 270.9599914550781,
+        "start": 270.55999755859375,
+        "word": "weirder"
+      },
+      {
+        "end": 271.29998779296875,
+        "start": 270.9599914550781,
+        "word": "don't"
+      },
+      {
+        "end": 271.6199951171875,
+        "start": 271.29998779296875,
+        "word": "cut"
+      },
+      {
+        "end": 271.9599914550781,
+        "start": 271.6199951171875,
+        "word": "blind"
+      },
+      {
+        "end": 272.20001220703125,
+        "start": 271.9599914550781,
+        "word": "look"
+      },
+      {
+        "end": 272.32000732421875,
+        "start": 272.20001220703125,
+        "word": "at"
+      },
+      {
+        "end": 272.5799865722656,
+        "start": 272.32000732421875,
+        "word": "the"
+      },
+      {
+        "end": 272.9599914550781,
+        "start": 272.5799865722656,
+        "word": "response"
+      },
+      {
+        "end": 273.260009765625,
+        "start": 272.9599914550781,
+        "word": "if"
+      },
+      {
+        "end": 273.44000244140625,
+        "start": 273.260009765625,
+        "word": "the"
+      },
+      {
+        "end": 273.760009765625,
+        "start": 273.44000244140625,
+        "word": "waveform"
+      },
+      {
+        "end": 274.0,
+        "start": 273.760009765625,
+        "word": "looks"
+      },
+      {
+        "end": 274.4200134277344,
+        "start": 274.0,
+        "word": "weaker"
+      },
+      {
+        "end": 274.7799987792969,
+        "start": 274.4200134277344,
+        "word": "it"
+      },
+      {
+        "end": 274.9200134277344,
+        "start": 274.7799987792969,
+        "word": "is"
+      },
+      {
+        "end": 275.17999267578125,
+        "start": 274.9200134277344,
+        "word": "weak"
+      },
+      {
+        "end": 275.5799865722656,
+        "start": 275.17999267578125,
+        "word": "i"
+      },
+      {
+        "end": 275.8999938964844,
+        "start": 275.5799865722656,
+        "word": "saved"
+      },
+      {
+        "end": 276.05999755859375,
+        "start": 275.8999938964844,
+        "word": "the"
+      },
+      {
+        "end": 276.32000732421875,
+        "start": 276.05999755859375,
+        "word": "best"
+      },
+      {
+        "end": 276.6000061035156,
+        "start": 276.32000732421875,
+        "word": "for"
+      },
+      {
+        "end": 276.739990234375,
+        "start": 276.6000061035156,
+        "word": "the"
+      },
+      {
+        "end": 277.0,
+        "start": 276.739990234375,
+        "word": "last"
+      },
+      {
+        "end": 277.260009765625,
+        "start": 277.0,
+        "word": "this"
+      },
+      {
+        "end": 277.3999938964844,
+        "start": 277.260009765625,
+        "word": "is"
+      },
+      {
+        "end": 277.5199890136719,
+        "start": 277.3999938964844,
+        "word": "the"
+      },
+      {
+        "end": 277.7799987792969,
+        "start": 277.5199890136719,
+        "word": "most"
+      },
+      {
+        "end": 278.1199951171875,
+        "start": 277.7799987792969,
+        "word": "important"
+      },
+      {
+        "end": 278.55999755859375,
+        "start": 278.1199951171875,
+        "word": "part"
+      },
+      {
+        "end": 278.8599853515625,
+        "start": 278.55999755859375,
+        "word": "the"
+      },
+      {
+        "end": 279.3800048828125,
+        "start": 278.8599853515625,
+        "word": "referencing"
+      },
+      {
+        "end": 279.8599853515625,
+        "start": 279.3800048828125,
+        "word": "you"
+      },
+      {
+        "end": 280.2200012207031,
+        "start": 279.8599853515625,
+        "word": "compare"
+      },
+      {
+        "end": 280.4599914550781,
+        "start": 280.2200012207031,
+        "word": "your"
+      },
+      {
+        "end": 280.6199951171875,
+        "start": 280.4599914550781,
+        "word": "mix"
+      },
+      {
+        "end": 280.79998779296875,
+        "start": 280.6199951171875,
+        "word": "to"
+      },
+      {
+        "end": 280.9200134277344,
+        "start": 280.79998779296875,
+        "word": "the"
+      },
+      {
+        "end": 281.0799865722656,
+        "start": 280.9200134277344,
+        "word": "pro"
+      },
+      {
+        "end": 281.3599853515625,
+        "start": 281.0799865722656,
+        "word": "track"
+      },
+      {
+        "end": 281.7200012207031,
+        "start": 281.3599853515625,
+        "word": "and"
+      },
+      {
+        "end": 282.239990234375,
+        "start": 281.7200012207031,
+        "word": "yours"
+      },
+      {
+        "end": 282.739990234375,
+        "start": 282.239990234375,
+        "word": "feels"
+      },
+      {
+        "end": 283.2200012207031,
+        "start": 282.739990234375,
+        "word": "weak"
+      },
+      {
+        "end": 283.4599914550781,
+        "start": 283.2200012207031,
+        "word": "so"
+      },
+      {
+        "end": 283.70001220703125,
+        "start": 283.4599914550781,
+        "word": "you"
+      },
+      {
+        "end": 283.8399963378906,
+        "start": 283.70001220703125,
+        "word": "turn"
+      },
+      {
+        "end": 284.0199890136719,
+        "start": 283.8399963378906,
+        "word": "up"
+      },
+      {
+        "end": 284.17999267578125,
+        "start": 284.0199890136719,
+        "word": "the"
+      },
+      {
+        "end": 284.3999938964844,
+        "start": 284.17999267578125,
+        "word": "sub"
+      },
+      {
+        "end": 284.7200012207031,
+        "start": 284.3999938964844,
+        "word": "by"
+      },
+      {
+        "end": 285.1199951171875,
+        "start": 284.7200012207031,
+        "word": "comparing"
+      },
+      {
+        "end": 285.7200012207031,
+        "start": 285.1199951171875,
+        "word": "apples"
+      },
+      {
+        "end": 286.8599853515625,
+        "start": 285.7200012207031,
+        "word": "to"
+      },
+      {
+        "end": 286.8599853515625,
+        "start": 286.8599853515625,
+        "word": "oranges"
+      },
+      {
+        "end": 287.29998779296875,
+        "start": 286.8599853515625,
+        "word": "their"
+      },
+      {
+        "end": 287.5400085449219,
+        "start": 287.29998779296875,
+        "word": "track"
+      },
+      {
+        "end": 287.9599914550781,
+        "start": 287.5400085449219,
+        "word": "is"
+      },
+      {
+        "end": 288.5199890136719,
+        "start": 287.9599914550781,
+        "word": "mastered"
+      },
+      {
+        "end": 289.20001220703125,
+        "start": 288.5199890136719,
+        "word": "compressed"
+      },
+      {
+        "end": 289.7200012207031,
+        "start": 289.20001220703125,
+        "word": "brick"
+      },
+      {
+        "end": 290.3399963378906,
+        "start": 289.7200012207031,
+        "word": "yours"
+      },
+      {
+        "end": 290.70001220703125,
+        "start": 290.3399963378906,
+        "word": "is"
+      },
+      {
+        "end": 291.05999755859375,
+        "start": 290.70001220703125,
+        "word": "dynamic"
+      },
+      {
+        "end": 291.3599853515625,
+        "start": 291.05999755859375,
+        "word": "if"
+      },
+      {
+        "end": 291.4800109863281,
+        "start": 291.3599853515625,
+        "word": "you"
+      },
+      {
+        "end": 291.6600036621094,
+        "start": 291.4800109863281,
+        "word": "want"
+      },
+      {
+        "end": 291.7799987792969,
+        "start": 291.6600036621094,
+        "word": "to"
+      },
+      {
+        "end": 292.1400146484375,
+        "start": 291.7799987792969,
+        "word": "compare"
+      },
+      {
+        "end": 292.3399963378906,
+        "start": 292.1400146484375,
+        "word": "the"
+      },
+      {
+        "end": 292.6400146484375,
+        "start": 292.3399963378906,
+        "word": "low"
+      },
+      {
+        "end": 292.8999938964844,
+        "start": 292.6400146484375,
+        "word": "end"
+      },
+      {
+        "end": 293.17999267578125,
+        "start": 292.8999938964844,
+        "word": "you"
+      },
+      {
+        "end": 293.6400146484375,
+        "start": 293.17999267578125,
+        "word": "have"
+      },
+      {
+        "end": 294.0,
+        "start": 293.6400146484375,
+        "word": "to"
+      },
+      {
+        "end": 294.32000732421875,
+        "start": 294.0,
+        "word": "simulate"
+      },
+      {
+        "end": 294.55999755859375,
+        "start": 294.32000732421875,
+        "word": "the"
+      },
+      {
+        "end": 294.9599914550781,
+        "start": 294.55999755859375,
+        "word": "master"
+      },
+      {
+        "end": 295.29998779296875,
+        "start": 294.9599914550781,
+        "word": "crush"
+      },
+      {
+        "end": 295.5400085449219,
+        "start": 295.29998779296875,
+        "word": "your"
+      },
+      {
+        "end": 295.7200012207031,
+        "start": 295.5400085449219,
+        "word": "track"
+      },
+      {
+        "end": 295.9200134277344,
+        "start": 295.7200012207031,
+        "word": "with"
+      },
+      {
+        "end": 296.0400085449219,
+        "start": 295.9200134277344,
+        "word": "the"
+      },
+      {
+        "end": 296.239990234375,
+        "start": 296.0400085449219,
+        "word": "limiter"
+      },
+      {
+        "end": 296.94000244140625,
+        "start": 296.239990234375,
+        "word": "first"
+      },
+      {
+        "end": 299.2799987792969,
+        "start": 296.94000244140625,
+        "word": "you"
+      },
+      {
+        "end": 299.4200134277344,
+        "start": 299.2799987792969,
+        "word": "need"
+      },
+      {
+        "end": 299.5799865722656,
+        "start": 299.4200134277344,
+        "word": "to"
+      },
+      {
+        "end": 299.6600036621094,
+        "start": 299.5799865722656,
+        "word": "look"
+      },
+      {
+        "end": 299.8599853515625,
+        "start": 299.6600036621094,
+        "word": "at"
+      },
+      {
+        "end": 300.0400085449219,
+        "start": 299.8599853515625,
+        "word": "two"
+      },
+      {
+        "end": 300.29998779296875,
+        "start": 300.0400085449219,
+        "word": "things"
+      },
+      {
+        "end": 300.70001220703125,
+        "start": 300.29998779296875,
+        "word": "the"
+      },
+      {
+        "end": 300.9200134277344,
+        "start": 300.70001220703125,
+        "word": "dynamic"
+      },
+      {
+        "end": 301.3999938964844,
+        "start": 300.9200134277344,
+        "word": "response"
+      },
+      {
+        "end": 301.82000732421875,
+        "start": 301.3999938964844,
+        "word": "and"
+      },
+      {
+        "end": 302.32000732421875,
+        "start": 301.82000732421875,
+        "word": "sustain"
+      },
+      {
+        "end": 302.82000732421875,
+        "start": 302.32000732421875,
+        "word": "response"
+      },
+      {
+        "end": 303.239990234375,
+        "start": 302.82000732421875,
+        "word": "what"
+      },
+      {
+        "end": 303.3999938964844,
+        "start": 303.239990234375,
+        "word": "does"
+      },
+      {
+        "end": 303.67999267578125,
+        "start": 303.3999938964844,
+        "word": "that"
+      },
+      {
+        "end": 303.79998779296875,
+        "start": 303.67999267578125,
+        "word": "mean"
+      },
+      {
+        "end": 304.0,
+        "start": 303.79998779296875,
+        "word": "put"
+      },
+      {
+        "end": 304.2200012207031,
+        "start": 304.0,
+        "word": "an"
+      },
+      {
+        "end": 304.3800048828125,
+        "start": 304.2200012207031,
+        "word": "eq"
+      },
+      {
+        "end": 304.70001220703125,
+        "start": 304.3800048828125,
+        "word": "cut"
+      },
+      {
+        "end": 304.8599853515625,
+        "start": 304.70001220703125,
+        "word": "it"
+      },
+      {
+        "end": 305.239990234375,
+        "start": 304.8599853515625,
+        "word": "off"
+      },
+      {
+        "end": 310.1000061035156,
+        "start": 309.6199951171875,
+        "word": "this"
+      },
+      {
+        "end": 310.260009765625,
+        "start": 310.1000061035156,
+        "word": "is"
+      },
+      {
+        "end": 310.3999938964844,
+        "start": 310.260009765625,
+        "word": "more"
+      },
+      {
+        "end": 310.6000061035156,
+        "start": 310.3999938964844,
+        "word": "or"
+      },
+      {
+        "end": 310.6000061035156,
+        "start": 310.6000061035156,
+        "word": "less"
+      },
+      {
+        "end": 310.82000732421875,
+        "start": 310.6000061035156,
+        "word": "the"
+      },
+      {
+        "end": 311.0400085449219,
+        "start": 310.82000732421875,
+        "word": "bass"
+      },
+      {
+        "end": 311.44000244140625,
+        "start": 311.0400085449219,
+        "word": "but"
+      },
+      {
+        "end": 311.6000061035156,
+        "start": 311.44000244140625,
+        "word": "we"
+      },
+      {
+        "end": 311.6400146484375,
+        "start": 311.6000061035156,
+        "word": "are"
+      },
+      {
+        "end": 311.94000244140625,
+        "start": 311.6400146484375,
+        "word": "looking"
+      },
+      {
+        "end": 312.4599914550781,
+        "start": 311.94000244140625,
+        "word": "the"
+      },
+      {
+        "end": 312.70001220703125,
+        "start": 312.4599914550781,
+        "word": "dynamic"
+      },
+      {
+        "end": 313.20001220703125,
+        "start": 312.70001220703125,
+        "word": "relationship"
+      },
+      {
+        "end": 313.5,
+        "start": 313.20001220703125,
+        "word": "between"
+      },
+      {
+        "end": 313.70001220703125,
+        "start": 313.5,
+        "word": "the"
+      },
+      {
+        "end": 313.9200134277344,
+        "start": 313.70001220703125,
+        "word": "top"
+      },
+      {
+        "end": 314.1000061035156,
+        "start": 313.9200134277344,
+        "word": "point"
+      },
+      {
+        "end": 314.44000244140625,
+        "start": 314.1000061035156,
+        "word": "and"
+      },
+      {
+        "end": 314.6400146484375,
+        "start": 314.44000244140625,
+        "word": "lower"
+      },
+      {
+        "end": 314.9800109863281,
+        "start": 314.6400146484375,
+        "word": "point"
+      },
+      {
+        "end": 315.260009765625,
+        "start": 314.9800109863281,
+        "word": "this"
+      },
+      {
+        "end": 315.3999938964844,
+        "start": 315.260009765625,
+        "word": "is"
+      },
+      {
+        "end": 315.6400146484375,
+        "start": 315.3999938964844,
+        "word": "the"
+      },
+      {
+        "end": 315.9200134277344,
+        "start": 315.6400146484375,
+        "word": "footprint"
+      },
+      {
+        "end": 316.3599853515625,
+        "start": 315.9200134277344,
+        "word": "of"
+      },
+      {
+        "end": 316.5400085449219,
+        "start": 316.3599853515625,
+        "word": "the"
+      },
+      {
+        "end": 316.79998779296875,
+        "start": 316.5400085449219,
+        "word": "track"
+      },
+      {
+        "end": 317.0799865722656,
+        "start": 316.79998779296875,
+        "word": "let's"
+      },
+      {
+        "end": 317.20001220703125,
+        "start": 317.0799865722656,
+        "word": "look"
+      },
+      {
+        "end": 317.3399963378906,
+        "start": 317.20001220703125,
+        "word": "at"
+      },
+      {
+        "end": 317.55999755859375,
+        "start": 317.3399963378906,
+        "word": "our"
+      },
+      {
+        "end": 317.79998779296875,
+        "start": 317.55999755859375,
+        "word": "track"
+      },
+      {
+        "end": 321.3399963378906,
+        "start": 320.82000732421875,
+        "word": "do"
+      },
+      {
+        "end": 321.4599914550781,
+        "start": 321.3399963378906,
+        "word": "you"
+      },
+      {
+        "end": 321.6199951171875,
+        "start": 321.4599914550781,
+        "word": "see"
+      },
+      {
+        "end": 321.8800048828125,
+        "start": 321.6199951171875,
+        "word": "how"
+      },
+      {
+        "end": 322.1000061035156,
+        "start": 321.8800048828125,
+        "word": "fast"
+      },
+      {
+        "end": 322.2799987792969,
+        "start": 322.1000061035156,
+        "word": "we"
+      },
+      {
+        "end": 322.3599853515625,
+        "start": 322.2799987792969,
+        "word": "see"
+      },
+      {
+        "end": 322.6600036621094,
+        "start": 322.3599853515625,
+        "word": "the"
+      },
+      {
+        "end": 322.7799987792969,
+        "start": 322.6600036621094,
+        "word": "problem"
+      },
+      {
+        "end": 323.0400085449219,
+        "start": 322.7799987792969,
+        "word": "how"
+      },
+      {
+        "end": 323.3399963378906,
+        "start": 323.0400085449219,
+        "word": "easy"
+      },
+      {
+        "end": 323.5400085449219,
+        "start": 323.3399963378906,
+        "word": "it"
+      },
+      {
+        "end": 323.67999267578125,
+        "start": 323.5400085449219,
+        "word": "was"
+      },
+      {
+        "end": 323.94000244140625,
+        "start": 323.67999267578125,
+        "word": "to"
+      },
+      {
+        "end": 323.94000244140625,
+        "start": 323.94000244140625,
+        "word": "figure"
+      },
+      {
+        "end": 324.260009765625,
+        "start": 323.94000244140625,
+        "word": "out"
+      },
+      {
+        "end": 324.5199890136719,
+        "start": 324.260009765625,
+        "word": "we"
+      },
+      {
+        "end": 324.760009765625,
+        "start": 324.5199890136719,
+        "word": "are"
+      },
+      {
+        "end": 325.5,
+        "start": 324.9800109863281,
+        "word": "effectively"
+      },
+      {
+        "end": 326.0199890136719,
+        "start": 325.5,
+        "word": "quieter"
+      },
+      {
+        "end": 326.3399963378906,
+        "start": 326.0199890136719,
+        "word": "on"
+      },
+      {
+        "end": 326.5199890136719,
+        "start": 326.3399963378906,
+        "word": "the"
+      },
+      {
+        "end": 326.7200012207031,
+        "start": 326.5199890136719,
+        "word": "sub"
+      },
+      {
+        "end": 326.9599914550781,
+        "start": 326.7200012207031,
+        "word": "bass"
+      },
+      {
+        "end": 327.29998779296875,
+        "start": 326.9599914550781,
+        "word": "now"
+      },
+      {
+        "end": 327.5199890136719,
+        "start": 327.29998779296875,
+        "word": "go"
+      },
+      {
+        "end": 327.8999938964844,
+        "start": 327.5199890136719,
+        "word": "move"
+      },
+      {
+        "end": 328.0400085449219,
+        "start": 327.8999938964844,
+        "word": "your"
+      },
+      {
+        "end": 328.2200012207031,
+        "start": 328.0400085449219,
+        "word": "sub"
+      },
+      {
+        "end": 328.32000732421875,
+        "start": 328.2200012207031,
+        "word": "bass"
+      },
+      {
+        "end": 329.4800109863281,
+        "start": 328.32000732421875,
+        "word": "up"
+      },
+      {
+        "end": 330.8399963378906,
+        "start": 329.4800109863281,
+        "word": "look"
+      },
+      {
+        "end": 331.29998779296875,
+        "start": 330.8399963378906,
+        "word": "at"
+      },
+      {
+        "end": 331.55999755859375,
+        "start": 331.29998779296875,
+        "word": "that"
+      },
+      {
+        "end": 337.5199890136719,
+        "start": 337.0,
+        "word": "now"
+      },
+      {
+        "end": 337.82000732421875,
+        "start": 337.5199890136719,
+        "word": "these"
+      },
+      {
+        "end": 338.05999755859375,
+        "start": 337.82000732421875,
+        "word": "two"
+      },
+      {
+        "end": 338.32000732421875,
+        "start": 338.05999755859375,
+        "word": "look"
+      },
+      {
+        "end": 338.739990234375,
+        "start": 338.32000732421875,
+        "word": "much"
+      },
+      {
+        "end": 339.17999267578125,
+        "start": 338.739990234375,
+        "word": "more"
+      },
+      {
+        "end": 339.3399963378906,
+        "start": 339.17999267578125,
+        "word": "similar"
+      },
+      {
+        "end": 339.6400146484375,
+        "start": 339.3399963378906,
+        "word": "give"
+      },
+      {
+        "end": 339.79998779296875,
+        "start": 339.6400146484375,
+        "word": "it"
+      },
+      {
+        "end": 340.2200012207031,
+        "start": 339.79998779296875,
+        "word": "two"
+      },
+      {
+        "end": 340.44000244140625,
+        "start": 340.2200012207031,
+        "word": "three"
+      },
+      {
+        "end": 340.79998779296875,
+        "start": 340.44000244140625,
+        "word": "db"
+      },
+      {
+        "end": 341.05999755859375,
+        "start": 340.79998779296875,
+        "word": "plus"
+      },
+      {
+        "end": 341.3999938964844,
+        "start": 341.05999755859375,
+        "word": "and"
+      },
+      {
+        "end": 341.5,
+        "start": 341.3999938964844,
+        "word": "minus"
+      },
+      {
+        "end": 341.760009765625,
+        "start": 341.5,
+        "word": "it"
+      },
+      {
+        "end": 341.8599853515625,
+        "start": 341.760009765625,
+        "word": "is"
+      },
+      {
+        "end": 342.05999755859375,
+        "start": 341.8599853515625,
+        "word": "your"
+      },
+      {
+        "end": 342.29998779296875,
+        "start": 342.05999755859375,
+        "word": "taste"
+      },
+      {
+        "end": 342.6000061035156,
+        "start": 342.29998779296875,
+        "word": "but"
+      },
+      {
+        "end": 342.94000244140625,
+        "start": 342.6000061035156,
+        "word": "now"
+      },
+      {
+        "end": 343.20001220703125,
+        "start": 342.94000244140625,
+        "word": "super"
+      },
+      {
+        "end": 343.4800109863281,
+        "start": 343.20001220703125,
+        "word": "fast"
+      },
+      {
+        "end": 343.94000244140625,
+        "start": 343.4800109863281,
+        "word": "you're"
+      },
+      {
+        "end": 344.2200012207031,
+        "start": 343.94000244140625,
+        "word": "over"
+      },
+      {
+        "end": 344.44000244140625,
+        "start": 344.2200012207031,
+        "word": "on"
+      },
+      {
+        "end": 344.6600036621094,
+        "start": 344.44000244140625,
+        "word": "the"
+      },
+      {
+        "end": 345.0199890136719,
+        "start": 344.6600036621094,
+        "word": "ballpark"
+      },
+      {
+        "end": 347.2799987792969,
+        "start": 345.0199890136719,
+        "word": "i'm"
+      },
+      {
+        "end": 347.55999755859375,
+        "start": 347.2799987792969,
+        "word": "not"
+      },
+      {
+        "end": 347.760009765625,
+        "start": 347.55999755859375,
+        "word": "telling"
+      },
+      {
+        "end": 347.94000244140625,
+        "start": 347.760009765625,
+        "word": "you"
+      },
+      {
+        "end": 348.239990234375,
+        "start": 347.94000244140625,
+        "word": "to"
+      },
+      {
+        "end": 348.3999938964844,
+        "start": 348.239990234375,
+        "word": "stop"
+      },
+      {
+        "end": 348.7799987792969,
+        "start": 348.3999938964844,
+        "word": "listening"
+      },
+      {
+        "end": 349.1600036621094,
+        "start": 348.7799987792969,
+        "word": "your"
+      },
+      {
+        "end": 349.5,
+        "start": 349.1600036621094,
+        "word": "ears"
+      },
+      {
+        "end": 350.05999755859375,
+        "start": 349.5,
+        "word": "are"
+      },
+      {
+        "end": 350.32000732421875,
+        "start": 350.05999755859375,
+        "word": "for"
+      },
+      {
+        "end": 350.5799865722656,
+        "start": 350.32000732421875,
+        "word": "the"
+      },
+      {
+        "end": 350.8999938964844,
+        "start": 350.5799865722656,
+        "word": "soul"
+      },
+      {
+        "end": 351.1400146484375,
+        "start": 350.8999938964844,
+        "word": "of"
+      },
+      {
+        "end": 351.29998779296875,
+        "start": 351.1400146484375,
+        "word": "the"
+      },
+      {
+        "end": 351.70001220703125,
+        "start": 351.29998779296875,
+        "word": "music"
+      },
+      {
+        "end": 352.1600036621094,
+        "start": 351.70001220703125,
+        "word": "use"
+      },
+      {
+        "end": 352.3999938964844,
+        "start": 352.1600036621094,
+        "word": "your"
+      },
+      {
+        "end": 352.7200012207031,
+        "start": 352.3999938964844,
+        "word": "ears"
+      },
+      {
+        "end": 352.9800109863281,
+        "start": 352.7200012207031,
+        "word": "for"
+      },
+      {
+        "end": 353.20001220703125,
+        "start": 352.9800109863281,
+        "word": "the"
+      },
+      {
+        "end": 353.5,
+        "start": 353.20001220703125,
+        "word": "groove"
+      },
+      {
+        "end": 353.8399963378906,
+        "start": 353.5,
+        "word": "use"
+      },
+      {
+        "end": 354.1199951171875,
+        "start": 353.8399963378906,
+        "word": "your"
+      },
+      {
+        "end": 354.44000244140625,
+        "start": 354.1199951171875,
+        "word": "ears"
+      },
+      {
+        "end": 354.7200012207031,
+        "start": 354.44000244140625,
+        "word": "for"
+      },
+      {
+        "end": 354.9599914550781,
+        "start": 354.7200012207031,
+        "word": "the"
+      },
+      {
+        "end": 355.3399963378906,
+        "start": 354.9599914550781,
+        "word": "melody"
+      },
+      {
+        "end": 355.7200012207031,
+        "start": 355.3399963378906,
+        "word": "use"
+      },
+      {
+        "end": 355.9800109863281,
+        "start": 355.7200012207031,
+        "word": "your"
+      },
+      {
+        "end": 356.2200012207031,
+        "start": 355.9800109863281,
+        "word": "ears"
+      },
+      {
+        "end": 356.4599914550781,
+        "start": 356.2200012207031,
+        "word": "for"
+      },
+      {
+        "end": 356.55999755859375,
+        "start": 356.4599914550781,
+        "word": "the"
+      },
+      {
+        "end": 356.9200134277344,
+        "start": 356.55999755859375,
+        "word": "camera"
+      },
+      {
+        "end": 357.3999938964844,
+        "start": 356.9200134277344,
+        "word": "use"
+      },
+      {
+        "end": 357.7200012207031,
+        "start": 357.3999938964844,
+        "word": "your"
+      },
+      {
+        "end": 358.0400085449219,
+        "start": 357.7200012207031,
+        "word": "ears"
+      },
+      {
+        "end": 358.3399963378906,
+        "start": 358.0400085449219,
+        "word": "for"
+      },
+      {
+        "end": 358.5799865722656,
+        "start": 358.3399963378906,
+        "word": "the"
+      },
+      {
+        "end": 359.2200012207031,
+        "start": 358.5799865722656,
+        "word": "emotion"
+      },
+      {
+        "end": 359.6000061035156,
+        "start": 359.2200012207031,
+        "word": "of"
+      },
+      {
+        "end": 359.79998779296875,
+        "start": 359.6000061035156,
+        "word": "the"
+      },
+      {
+        "end": 360.1199951171875,
+        "start": 359.79998779296875,
+        "word": "track"
+      },
+      {
+        "end": 360.3800048828125,
+        "start": 360.1199951171875,
+        "word": "that"
+      },
+      {
+        "end": 360.5400085449219,
+        "start": 360.3800048828125,
+        "word": "is"
+      },
+      {
+        "end": 360.94000244140625,
+        "start": 360.5400085449219,
+        "word": "where"
+      },
+      {
+        "end": 361.20001220703125,
+        "start": 360.94000244140625,
+        "word": "art"
+      },
+      {
+        "end": 361.67999267578125,
+        "start": 361.20001220703125,
+        "word": "lives"
+      },
+      {
+        "end": 361.94000244140625,
+        "start": 361.67999267578125,
+        "word": "but"
+      },
+      {
+        "end": 362.17999267578125,
+        "start": 361.94000244140625,
+        "word": "for"
+      },
+      {
+        "end": 362.3999938964844,
+        "start": 362.17999267578125,
+        "word": "the"
+      },
+      {
+        "end": 362.4599914550781,
+        "start": 362.3999938964844,
+        "word": "low"
+      },
+      {
+        "end": 362.5400085449219,
+        "start": 362.4599914550781,
+        "word": "end"
+      },
+      {
+        "end": 362.8999938964844,
+        "start": 362.5400085449219,
+        "word": "for"
+      },
+      {
+        "end": 363.29998779296875,
+        "start": 362.8999938964844,
+        "word": "the"
+      },
+      {
+        "end": 363.5799865722656,
+        "start": 363.29998779296875,
+        "word": "foundation"
+      },
+      {
+        "end": 364.0,
+        "start": 363.5799865722656,
+        "word": "that"
+      },
+      {
+        "end": 364.4200134277344,
+        "start": 364.0,
+        "word": "is"
+      },
+      {
+        "end": 364.8800048828125,
+        "start": 364.4200134277344,
+        "word": "engineering"
+      },
+      {
+        "end": 365.5,
+        "start": 364.8800048828125,
+        "word": "and"
+      },
+      {
+        "end": 365.79998779296875,
+        "start": 365.5,
+        "word": "in"
+      },
+      {
+        "end": 366.17999267578125,
+        "start": 365.79998779296875,
+        "word": "engineering"
+      },
+      {
+        "end": 366.70001220703125,
+        "start": 366.17999267578125,
+        "word": "we"
+      },
+      {
+        "end": 367.0,
+        "start": 366.70001220703125,
+        "word": "don't"
+      },
+      {
+        "end": 367.2799987792969,
+        "start": 367.0,
+        "word": "guess"
+      },
+      {
+        "end": 367.70001220703125,
+        "start": 367.2799987792969,
+        "word": "we"
+      },
+      {
+        "end": 367.9800109863281,
+        "start": 367.70001220703125,
+        "word": "measure"
+      },
+      {
+        "end": 368.55999755859375,
+        "start": 367.9800109863281,
+        "word": "use"
+      },
+      {
+        "end": 368.9200134277344,
+        "start": 368.55999755859375,
+        "word": "your"
+      },
+      {
+        "end": 369.2799987792969,
+        "start": 368.9200134277344,
+        "word": "eyes"
+      },
+      {
+        "end": 369.55999755859375,
+        "start": 369.2799987792969,
+        "word": "to"
+      },
+      {
+        "end": 369.82000732421875,
+        "start": 369.55999755859375,
+        "word": "build"
+      },
+      {
+        "end": 370.239990234375,
+        "start": 369.82000732421875,
+        "word": "the"
+      },
+      {
+        "end": 370.4200134277344,
+        "start": 370.239990234375,
+        "word": "foundation"
+      },
+      {
+        "end": 370.67999267578125,
+        "start": 370.4200134277344,
+        "word": "of"
+      },
+      {
+        "end": 370.8599853515625,
+        "start": 370.67999267578125,
+        "word": "your"
+      },
+      {
+        "end": 371.20001220703125,
+        "start": 370.8599853515625,
+        "word": "house"
+      },
+      {
+        "end": 371.4800109863281,
+        "start": 371.20001220703125,
+        "word": "and"
+      },
+      {
+        "end": 371.7200012207031,
+        "start": 371.4800109863281,
+        "word": "use"
+      },
+      {
+        "end": 371.94000244140625,
+        "start": 371.7200012207031,
+        "word": "your"
+      },
+      {
+        "end": 372.1199951171875,
+        "start": 371.94000244140625,
+        "word": "ears"
+      },
+      {
+        "end": 372.4599914550781,
+        "start": 372.1199951171875,
+        "word": "to"
+      },
+      {
+        "end": 372.7200012207031,
+        "start": 372.4599914550781,
+        "word": "design"
+      },
+      {
+        "end": 373.1199951171875,
+        "start": 372.7200012207031,
+        "word": "and"
+      },
+      {
+        "end": 373.3800048828125,
+        "start": 373.1199951171875,
+        "word": "decorate"
+      },
+      {
+        "end": 373.8999938964844,
+        "start": 373.3800048828125,
+        "word": "it"
+      },
+      {
+        "end": 373.9200134277344,
+        "start": 373.8999938964844,
+        "word": "if"
+      },
+      {
+        "end": 374.0400085449219,
+        "start": 373.9200134277344,
+        "word": "you"
+      },
+      {
+        "end": 374.17999267578125,
+        "start": 374.0400085449219,
+        "word": "want"
+      },
+      {
+        "end": 374.32000732421875,
+        "start": 374.17999267578125,
+        "word": "to"
+      },
+      {
+        "end": 374.5199890136719,
+        "start": 374.32000732421875,
+        "word": "see"
+      },
+      {
+        "end": 375.0400085449219,
+        "start": 374.5199890136719,
+        "word": "exactly"
+      },
+      {
+        "end": 375.260009765625,
+        "start": 375.0400085449219,
+        "word": "how"
+      },
+      {
+        "end": 375.5,
+        "start": 375.260009765625,
+        "word": "i"
+      },
+      {
+        "end": 375.6400146484375,
+        "start": 375.5,
+        "word": "set"
+      },
+      {
+        "end": 375.739990234375,
+        "start": 375.6400146484375,
+        "word": "up"
+      },
+      {
+        "end": 376.1199951171875,
+        "start": 375.739990234375,
+        "word": "my"
+      },
+      {
+        "end": 376.4200134277344,
+        "start": 376.1199951171875,
+        "word": "monitoring"
+      },
+      {
+        "end": 376.8999938964844,
+        "start": 376.4200134277344,
+        "word": "tools"
+      },
+      {
+        "end": 377.44000244140625,
+        "start": 376.8999938964844,
+        "word": "and"
+      },
+      {
+        "end": 378.0,
+        "start": 377.44000244140625,
+        "word": "reference"
+      },
+      {
+        "end": 378.3999938964844,
+        "start": 378.0,
+        "word": "my"
+      },
+      {
+        "end": 378.5400085449219,
+        "start": 378.3999938964844,
+        "word": "low"
+      },
+      {
+        "end": 378.67999267578125,
+        "start": 378.5400085449219,
+        "word": "end"
+      },
+      {
+        "end": 379.0199890136719,
+        "start": 378.67999267578125,
+        "word": "take"
+      },
+      {
+        "end": 379.1600036621094,
+        "start": 379.0199890136719,
+        "word": "a"
+      },
+      {
+        "end": 379.2200012207031,
+        "start": 379.1600036621094,
+        "word": "look"
+      },
+      {
+        "end": 379.3599853515625,
+        "start": 379.2200012207031,
+        "word": "at"
+      },
+      {
+        "end": 379.5400085449219,
+        "start": 379.3599853515625,
+        "word": "this"
+      },
+      {
+        "end": 379.739990234375,
+        "start": 379.5400085449219,
+        "word": "video"
+      },
+      {
+        "end": 380.1000061035156,
+        "start": 379.739990234375,
+        "word": "i"
+      },
+      {
+        "end": 380.32000732421875,
+        "start": 380.1000061035156,
+        "word": "go"
+      },
+      {
+        "end": 380.82000732421875,
+        "start": 380.32000732421875,
+        "word": "super"
+      },
+      {
+        "end": 381.0400085449219,
+        "start": 380.82000732421875,
+        "word": "deep"
+      },
+      {
+        "end": 381.2200012207031,
+        "start": 381.0400085449219,
+        "word": "into"
+      },
+      {
+        "end": 381.32000732421875,
+        "start": 381.2200012207031,
+        "word": "the"
+      },
+      {
+        "end": 381.8999938964844,
+        "start": 381.32000732421875,
+        "word": "concept"
+      },
+      {
+        "end": 382.2799987792969,
+        "start": 381.8999938964844,
+        "word": "will"
+      },
+      {
+        "end": 382.4800109863281,
+        "start": 382.2799987792969,
+        "word": "you"
+      },
+      {
+        "end": 382.760009765625,
+        "start": 382.4800109863281,
+        "word": "speech"
+      },
+      {
+        "end": 383.2799987792969,
+        "start": 382.760009765625,
+        "word": "perfect"
+      },
+      {
+        "end": 384.0799865722656,
+        "start": 383.2799987792969,
+        "word": "oh"
+      },
+      {
+        "end": 384.2200012207031,
+        "start": 384.0799865722656,
+        "word": "my"
+      },
+      {
+        "end": 384.79998779296875,
+        "start": 384.2200012207031,
+        "word": "god"
+      },
+      {
+        "end": 385.0400085449219,
+        "start": 384.79998779296875,
+        "word": "human"
+      },
+      {
+        "end": 385.5,
+        "start": 385.0400085449219,
+        "word": "evolution"
+      },
+      {
+        "end": 386.0199890136719,
+        "start": 385.5,
+        "word": "design"
+      },
+      {
+        "end": 386.3399963378906,
+        "start": 386.0199890136719,
+        "word": "or"
+      },
+      {
+        "end": 386.6199951171875,
+        "start": 386.3399963378906,
+        "word": "ears"
+      },
+      {
+        "end": 386.8599853515625,
+        "start": 386.6199951171875,
+        "word": "to"
+      },
+      {
+        "end": 387.1400146484375,
+        "start": 386.8599853515625,
+        "word": "hem"
+      }
+    ]
+  }
+}

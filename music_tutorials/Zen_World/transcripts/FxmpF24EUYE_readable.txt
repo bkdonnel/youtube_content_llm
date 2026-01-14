@@ -1,0 +1,703 @@
+Video: Complete Guide To Master Serum 2- EP 8: The Matrix (The “Pro” Section Everyone Skips)
+URL: https://www.youtube.com/watch?v=FxmpF24EUYE
+Duration: 24.5 minutes
+================================================================================
+
+[00:00] Alright ninjas, welcome to the complete guide to Master Serum 2.
+
+[00:04] If you're still here with me, I want to give you a hug because you're killing it.
+
+[00:08] You're going through it all and I'm very proud of you.
+
+[00:11] You're going to notice here at the bottom left of Ableton, we can change the velocity.
+
+[00:14] When you're inputting MIDI, you will also be able to play with the velocity.
+
+[00:17] And if you're playing on a MIDI keyboard, the harder you press a note, the higher the
+
+[00:21] velocity value and the softer you play, the lower the velocity value.
+
+[00:25] Velocity is going to change a knob depending on how hard or how high the value is or how
+
+[00:29] low.
+
+[00:30] Okay, so some good examples of where you might set your velocity, and we're going to go into
+
+[00:34] the matrix here real quick, is routing it to your amp.
+
+[00:37] Now at the top right of this matrix, you can see there's this little arrow we can click
+
+[00:40] and there by default is create fellow amp assignment.
+
+[00:43] So if you click that, you're going to notice, okay, now we have this and you can see here
+
+[00:46] the amount, the range of how much it's going to alter the volume.
+
+[00:51] And you can see how velocity, and you can also see where it's at here, it's affecting the
+
+[00:57] volume of the sound.
+
+[00:57] So now if I programmed a velocity parameter in a patch, it wouldn't be this drastic.
+
+[01:03] I would actually have it a lot more lower just to have a sense of movement in the sound,
+
+[01:09] right?
+
+[01:10] But also velocity can be applied to multiple other things.
+
+[01:13] Just to give you a couple of ideas, the filter cutoff is another really cool one that we
+
+[01:17] can add velocity to.
+
+[01:18] I'm going to put a high one, low, so as you're playing a sound, you can increase the velocity.
+
+[01:27] If we grab an envelope like so, we can also do this, or we're opening like so, and now
+
+[01:40] higher velocity opens up more and it opens up more.
+
+[01:45] Now with this graph, what you're going to be able to do is create your own custom curves.
+
+[01:49] So that way the velocity reacts the way you want it.
+
+[01:51] It's scaled differently here.
+
+[01:52] So by default, you know, this is very gradual.
+
+[01:54] I think the term for that would be considered linear.
+
+[01:57] The way I like to use it personally is, you know, for instance, acid type sounds in Serum
+
+[02:01] 2, if I wanted to mimic like an accent, I might go for a squared look.
+
+[02:05] So that way below a certain value, this is very low, above a certain value, you get like
+
+[02:11] a full openness of the sound and it doesn't have to be that drastic.
+
+[02:13] It could be simple like, and this velocity can be routed to multiple things, like for
+
+[02:18] instance, a decay, whatever your heart desires.
+
+[02:20] But here I would do it to the decay because watch, I'm going to do this.
+
+[02:29] OK, and I can create that movement like so, I believe.
+
+[02:32] Yeah, you right click here, legato portamento time, you have the portamento to be applied
+
+[02:37] to the velocity curve when a note is triggered and another is already held.
+
+[02:41] So we'll get that into a sec.
+
+[02:42] But at the bottom here, we have our voicing section.
+
+[02:44] So I'm going to set up a mono legato and bring this up.
+
+[02:46] So now I'm increasing my velocity here.
+
+[02:59] Lastly, we can also right click to access the initialization of a grab.
+
+[03:02] Let's say you do something, you can initialize it.
+
+[03:05] Let's say you like the curve of one preset.
+
+[03:07] You can lock the module.
+
+[03:09] So that way, as you move through presets, the velocity module you've set stays from
+
+[03:15] there. You can also have legato portamento time, which, according to the manual, is in
+
+[03:21] the context where you have portamento applied to the velocity curve when a note is
+
+[03:24] triggered and another is already held under to the right.
+
+[03:27] We have a note and this note.
+
+[03:29] The way I like to think about it is like the key track feature we used in the filter
+
+[03:33] section, the higher you play, the higher the value, the more change you're going to get
+
+[03:36] and the lower you play, the lower the change will be.
+
+[03:40] So, for example, if I play my note to the level and I play low, you can see here the
+
+[03:44] notes down there and you can see it here as I go up.
+
+[03:48] What might that be useful for?
+
+[03:51] Well, a lot of times it just depends for me.
+
+[03:53] Like if there's a certain sound where I feel like the producer using it might go up on
+
+[03:57] it, I want to definitely change some values.
+
+[03:59] And again, for that one, I might also play with the curve in order to optimize for the
+
+[04:03] producer to have success using the sound.
+
+[04:05] In this scenario, if you're making sounds for your music, you might be like wanting
+
+[04:08] something to happen as you play higher up and you will use this to move the knob that
+
+[04:13] will allow that idea in your head to be heard through the sound as you move from a
+
+[04:17] bottom note to a high note.
+
+[04:19] Right. So we already know, again, the filter will have that by default.
+
+[04:23] But if you ever wanted your own like, like curve to it, like for instance, like this
+
+[04:29] where you're playing the bass and then when you go above a certain note, just opens up
+
+[04:37] a lot, then you can set it up like that.
+
+[04:40] OK. OK, and from there, I believe, again, same parameters as your Velo here.
+
+[04:44] You can also have legato and knit it and lock it as well.
+
+[04:47] Below that, we have the voicing section of Serum and this section.
+
+[04:52] I like to pay a lot of attention to it.
+
+[04:55] The main reason is that, you know, a lot of synths, analog synths, and I keep going back
+
+[05:00] to them, but it's because I learned a lot from them and the limitations they said just
+
+[05:04] kind of taught me, OK, there's certain reasons why certain synths sound a certain way.
+
+[05:08] First off, here we have the poly count.
+
+[05:10] Right. So what this means is that depending on how many voices you have, this is how
+
+[05:14] many notes are allowed to play.
+
+[05:16] So, for example, let's say I have a long release sound and I have my poly set to 25
+
+[05:19] and I just play a bunch of notes right now.
+
+[05:21] Like I'm just going to.
+
+[05:24] Let's put it to the right one.
+
+[05:31] I'll lower the volume.
+
+[05:34] Here I have 20 playing right now, and as the release fades on each voice, it's
+
+[05:38] eventually going to start going down in value.
+
+[05:41] However, let's say I'm making a sound like this and I want to limit the amount of
+
+[05:43] voices, because as you heard, it can get really hectic and I can set two.
+
+[05:49] And I don't get the effect anymore because there's only two voices being allowed.
+
+[05:54] So I'm only allowed to play two notes at a time.
+
+[05:56] If I increase that polyphony to around eight voices.
+
+[06:05] As I play this, right, I'm borrowing notes, so I'm cancelling out some of the notes.
+
+[06:11] They don't even go through the end of the release, which leads to a sound that's
+
+[06:14] more not as lush and as full as some people might say, but at higher values.
+
+[06:20] You can get that full lushness if that's what you want, or you can see it in the way
+
+[06:24] that I can limit that so that way I don't get too much.
+
+[06:26] OK, I had from there to the left, we have a mono, which will just make it one voice.
+
+[06:32] Right. So again, you can still have multiple voices inside a
+
+[06:37] sound, but you can only have one.
+
+[06:39] Now for the legato, what this does is let's say that I make like a really nice
+
+[06:43] saw bass right now that envelopes triggering.
+
+[06:46] Now, if I glide my notes,
+
+[06:49] I'm getting a portamento, but also I want you to notice how that envelope is still
+
+[06:53] triggering. If I set legato,
+
+[06:57] when I glide my notes, the envelope doesn't retrigger anymore.
+
+[07:00] So that's what legato does.
+
+[07:03] From there, the portamento time works for mono legato.
+
+[07:05] And what this is doing is as I overlap notes,
+
+[07:09] it's controlling how long it takes for me to go from one note
+
+[07:14] to the note that I'm gliding to.
+
+[07:17] So at high values, you can sound kind of cool like that.
+
+[07:21] But then we have this always knob, which makes it so that I'm playing.
+
+[07:26] It will always get that portamento, that change.
+
+[07:32] Really cool for dirty Dutch leads, I would say, or you wanted to do that pitbull
+
+[07:36] lead I did.
+
+[07:42] It's you're going to do it with the always on.
+
+[07:44] There we have the scale, which is just going to make the portamento time slower
+
+[07:48] on how far.
+
+[07:51] 
+
+[07:54] Slow.
+
+[07:57] And below that, we have the curve, this is going to just control how the
+
+[08:00] portamento is applied, usually if I'm doing something like acid sounds and I
+
+[08:04] want to mimic a three or three, this is where I might play with this or if I'm
+
+[08:07] gliding between notes.
+
+[08:10] And I don't like the way it sounds and I can play with the curvature of it.
+
+[08:16] You can see that one.
+
+[08:19] Right. Versus in the middle.
+
+[08:25] Limit same note to Polly, the one you can voice deal, which again, the voice
+
+[08:29] deal thing is, remember when we have, let's say, like release
+
+[08:33] and we're just like playing the.
+
+[08:41] You can decide where is it feeling, is it the newest note, the oldest
+
+[08:45] note, the highest note, the lowest note, the velocity.
+
+[08:48] So, for instance, if I wanted to keep, let's say, the lowest note, I can
+
+[08:50] choose to make the low ones a priority.
+
+[08:55] The low one stays there no matter what, until it fades out.
+
+[08:58] That's the idea of that.
+
+[09:00] And OK, so we've covered these two from there to the left.
+
+[09:02] We have macros here.
+
+[09:03] Now, macros are pretty much knobs
+
+[09:07] that aren't doing anything until you assign it and you can assign it to
+
+[09:11] multiple knobs, similar to LFOs and envelopes.
+
+[09:13] But the difference is with this, you control it with this knob from the left
+
+[09:16] to the right. And these can also be bipolar or unipolar.
+
+[09:18] For instance, let's say I have here, like.
+
+[09:22] Let's say I want to make an uplifter, right, so I can route that to the pitch.
+
+[09:27] I can create an EQ, I can route this to the frequency,
+
+[09:31] I can increase the quality on it a bit like so.
+
+[09:37] And then, yeah, like that, I want to cut, there we go.
+
+[09:41] I want to add some reverb.
+
+[09:42] Let's use one of those gnarly ones we talked about last time.
+
+[09:51] All right, let's go higher up, put it in front.
+
+[10:03] And you put it all on this one knob, and then all you have to do now
+
+[10:06] is just modulate this one knob through your DAW.
+
+[10:08] I want a vibrato effect, but I don't want it to always be there.
+
+[10:15] Then I can go into the matrix, route a macro here to the aux source.
+
+[10:20] And now when I put the macro up.
+
+[10:28] It will play the vibrato.
+
+[10:30] So now this auxiliary source is going to determine and tell the LFO
+
+[10:34] how much it's allowed to open that up by.
+
+[10:36] OK, so we'll talk about that in a sec.
+
+[10:38] But that's what macros are for.
+
+[10:40] In Serum 2, you're going to have a total of eight.
+
+[10:41] And you can also route macros to macros, like you can say,
+
+[10:45] oh, I want to modulate this and this, and then you can have that as well.
+
+[10:48] OK, from there, if you right click,
+
+[10:51] you can remove all this tenacious and play and delete the macro.
+
+[10:53] It doesn't seem like you can lock it.
+
+[10:55] You can copy and paste it, of course, as well.
+
+[10:57] And I believe you should be able to copy and paste
+
+[11:00] between different presets on macros as well.
+
+[11:02] Bottom part here, we have a mod wheel and we have our pitch bend wheel.
+
+[11:06] Pitch bend wheel.
+
+[11:06] If you have a MIDI keyboard, you know you can move that in order to move it.
+
+[11:10] So usually it's like
+
+[11:13] one thing is to the right.
+
+[11:15] You have your numbers for the bend up.
+
+[11:16] This is going to be your your range.
+
+[11:18] So, for instance, if I'm making an uplifter, I want to use the pitch bend wheel
+
+[11:24] and then
+
+[11:26] other things, cool things to do with it.
+
+[11:27] Let's say you want to pitch up from a fifth, let's say.
+
+[11:32] So you can put the fifth there.
+
+[11:37] OK, so that's how we would use that.
+
+[11:39] It's just the bend range.
+
+[11:40] Really useful for when you're creating certain patches
+
+[11:43] and you want to lead to a certain sound, then you can do it that way as well.
+
+[11:47] OK, from there, we go into the matrix section and the matrix.
+
+[11:52] You know, you're the one by now.
+
+[11:53] This is where you're going to find all your modulations.
+
+[11:56] So I'm actually going to go into one of the presets here from Minimal Nights.
+
+[12:06] In the matrix, I can see all the modulations of this preset,
+
+[12:10] and the way you're going to use this is one you can reorganize your macros like so.
+
+[12:14] It doesn't alter anything.
+
+[12:15] It's just in case you want certain macros on top.
+
+[12:16] You can have them on top here.
+
+[12:18] You can also have the LFO and the envelope section move out the way
+
+[12:22] so that way you can look at your overall macros.
+
+[12:25] I believe you can have a total of 64 inside of Serum 2.
+
+[12:29] OK, and the modulation section is just where you're going to find again,
+
+[12:33] just like what's being routed to what you can deactivated by clicking on this guy.
+
+[12:38] You can delete it by clicking on the X.
+
+[12:40] Here you're going to have your amount for each modulation.
+
+[12:43] So, for example, right now there's this gnarly
+
+[12:46] movement on the on this low pass filter, which is adding the
+
+[12:52] you know, that effect.
+
+[12:55] So I LFO 2, so now if I go matrix,
+
+[12:58] I should be able to find it LFO 2, look for the name LFO 2.
+
+[13:03] It's right here.
+
+[13:03] And you can see it's being routed here to filter one frequency.
+
+[13:06] I can control the amount here.
+
+[13:09] How much is it bipolar, unipolar?
+
+[13:13] This is the destination.
+
+[13:15] From there, we have this out here, which shows you a visual of the modulation.
+
+[13:21] Next, we have the auxiliary sources, which you guys already know how to use.
+
+[13:24] You can route multiple things there.
+
+[13:26] The most popular things I would route there are velocity.
+
+[13:29] For instance, the velocity now controls.
+
+[13:33] I'm going to play a low velocity right now.
+
+[13:36] No change, but as I increase the velocity,
+
+[13:38] you can see that the LFO is not allowed to go higher and higher up.
+
+[13:43] You know, we have max velocity and we get that.
+
+[13:46] Multiple different things you can route stuff to.
+
+[13:48] There is going to be some things that you won't be able to route stuff to.
+
+[13:52] According to the Serum 2 manual.
+
+[13:56] There's three modulations that are only available to set
+
+[13:58] using like through this method, and I'll name a few active voices.
+
+[14:02] Note on all one half, which is between zero and one to each note
+
+[14:05] on the state of note all two.
+
+[14:06] Again, this is all stuff like, am I OK?
+
+[14:09] You can't really add like just by drag and dropping.
+
+[14:12] So those are just a few to name.
+
+[14:13] And again, you can resort to the Serum manual if it's something important
+
+[14:16] that you think you need to know.
+
+[14:18] For me personally, I was OK not knowing that those existed.
+
+[14:21] Polarity again, left, right.
+
+[14:22] We have the amount which we can right click and reset.
+
+[14:24] We can also invert the auxiliary signal.
+
+[14:27] So, for example, if let's say I were to put a let's see on the envelopes,
+
+[14:31] I were to put an auxiliary with a mod.
+
+[14:34] So let's click here to bring that back.
+
+[14:35] It's going to be allowed to work and it's just reversed.
+
+[14:42] Then again, we're inversing it.
+
+[14:51] Similar to what we were doing with the portamento and all that,
+
+[14:53] this curve is going to be more for your auxiliary source
+
+[14:56] on how it's going to react as you bring it in.
+
+[14:59] For example, here we have.
+
+[15:01] As we bring it up,
+
+[15:04] how is it reacting at really high?
+
+[15:06] You can see that the values I don't need to go as high to have it open up
+
+[15:11] versus when I have it all the way down.
+
+[15:14] I got to be a little bit more heavy handed to the right of that.
+
+[15:17] We have the output.
+
+[15:18] It's kind of like the last line of where you might, oh, you know,
+
+[15:22] maybe a little less open on the filter and then you just do it here.
+
+[15:25] And I guess you guys saw already here.
+
+[15:27] We do have this sort by source or by destination.
+
+[15:29] We can lock it so that as we change presets.
+
+[15:32] All right. So we've gone through a lot.
+
+[15:34] So now it's time to make some really dope sounds.
+
+[15:36] So why don't we get into it, guys?
+
+[15:39] So one thing that is going to come to life now is if we create the seven sound
+
+[15:43] we've been creating, I love doing this one.
+
+[15:45] We can make it matter more by putting a velocity on this guy.
+
+[15:50] But usually what I like to do more is I like to use an envelope like so.
+
+[15:54] Open the filter up as usual.
+
+[15:55] I'll put it at max value.
+
+[16:01] And then I'll right click aux source here, so now we can do that.
+
+[16:05] And instead of going into the matrix, I'll just go here, go note velocity like so.
+
+[16:10] And now I can move that.
+
+[16:15] So now I'm going to, let's say, create a cool little pattern with some changes here.
+
+[16:20] So let's just play something.
+
+[16:34] So.
+
+[16:52] So at the release.
+
+[16:59] As you can see, too much
+
+[17:02] change, it's a little bad, right?
+
+[17:04] So why don't we go into the matrix,
+
+[17:06] into the auxiliary source here and change the curve?
+
+[17:22] I'm going to be clean about it.
+
+[17:52] But some reverb.
+
+[18:02] Go vintage.
+
+[18:08] Steve, change that.
+
+[18:13] OK, cool.
+
+[18:14] And we got a dope sound and now macros being added here.
+
+[18:21] Let's play with the velocity.
+
+[18:22] We're going to have everything low for now.
+
+[18:24] So now we're going to set the low velocity.
+
+[18:26] I'm going to set this down like so and maybe have it go straight up here.
+
+[18:32] OK, and then I'm going to add an envelope.
+
+[18:37] I residence.
+
+[18:42] Now I want to create the accent, so when there's an accident,
+
+[18:45] that means that the velocity is going to go up.
+
+[18:47] Accent is just going to emphasize.
+
+[18:48] So we're going to add it to the cutoff here.
+
+[18:51] So now the high notes, I'm actually going to have them go up.
+
+[18:54] There you go.
+
+[18:57] And then we'll do this.
+
+[19:10] So I'm going to add mono legato.
+
+[19:11] I want to I'm going to create the iconic light that the acid sounds have.
+
+[19:16] And I'm going to set a curve.
+
+[19:16] I'm going to set the curve like this for now.
+
+[19:18] And I'm going to overlap the notes where I want to create a slide
+
+[19:23] like that and then put them in.
+
+[19:31] So.
+
+[19:32] Oh, oh, oh.
+
+[19:39] There is a change that occurs.
+
+[19:41] Keep that in mind. I am testing that out.
+
+[19:44] The velocity higher up.
+
+[19:47] I'm also going to increase the decay a bit, so it stays up longer.
+
+[19:53] It's that some distortion now.
+
+[19:56] Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh.
+
+[20:00] So she's a pre and remove low end.
+
+[20:08] So.
+
+[20:08] This is a piece of volume a bit
+
+[20:10] and also at the.
+
+[20:12] Velocity.
+
+[20:17] Now, let's tighten this up.
+
+[20:25] Velocity on the decay if needed.
+
+[20:32] So.
+
+[20:39] We make this sound so much better, just got to put in the work like let's make
+
+[20:45] and I'm also going to let's see.
+
+[20:47] So we got three and maybe goes higher.
+
+[20:51] I'll try making them all three.
+
+[20:54] The decay of it, the velocity dependent as well.
+
+[20:58] Let's play with the curve a bit.
+
+[21:04] And now we've got to start a little higher up.
+
+[21:08] That was a bad idea because now there's way too much control.
+
+[21:20] That's a little shorter.
+
+[21:31] Let's play around with other forms of distortion.
+
+[21:43] The delay was cool, but it was way too much.
+
+[22:04] It's getting there.
+
+[22:07] Let's see the decay value, maybe more.
+
+[22:14] Again, velocity is running a lot of stuff, so let's maybe ease up a bit on it.
+
+[23:07] Remember, the tonality is also very important.
+
+[23:13] Let's try maybe like we got this.
+
+[23:30] Slow.
+
+[23:36] Put the delay before distortion.
+
+[23:49] I'll play with the velocity.
+
+[23:56] Energy transfer.
+
+[24:05] Let's get rid of the legato.
+
+[24:13] So now you know what to do with your velocity, your note, your matrix,
+
+[24:17] how to grab presets and add that touch to them so that you can create movement to the sound
+
+[24:21] and make your tracks feel less static.
+
+[24:23] With that being said, you guys take care.
+
+[24:25] And if you guys are enjoying the series, make sure to subscribe
+
+[24:27] and I'll catch you guys next time for another video.
+
