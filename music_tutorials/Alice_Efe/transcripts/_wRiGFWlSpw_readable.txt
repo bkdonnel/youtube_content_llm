@@ -1,0 +1,143 @@
+Video: The "Glue" Your Mix Has Been Missing.
+URL: https://www.youtube.com/watch?v=_wRiGFWlSpw
+Duration: 7.2 minutes
+================================================================================
+
+[00:00] What is this one technique that you will literally find in every pro producers project
+
+[00:04] files? Is it some secret thousand dollar plugin or a complex mastering chain that they don't talk
+
+[00:10] about? What if I told you it's a simple feature that has been in your DAW for entire time and
+
+[00:15] it is the real key for creating space, cohesion and effortless control over your mix. To help
+
+[00:21] you understand what is going under the hood, I created these bouncy balls so you can clearly see
+
+[00:26] by it. Let's go! In most DAWs you will see these. These are called return channels. If you put a
+
+[00:34] simple way, you have an audio track, direct signal output of that track goes to your master channel
+
+[00:38] but you can also send a percentage of that sound into another processing track, we call it return
+
+[00:44] track and process that and send it to the master channel as well. But why is that important? Balls
+
+[00:56] return channels and process them together. Let's start! This is our return channel. You can send
+
+[01:01] bass, you can send drums, you can send synth, you can send your effects. This becomes especially
+
+[01:08] important when you are using reverbs and delays, spatial effects. That means now all these different
+
+[01:15] type of instruments and sounds, they start to live in same space. This is the number one reason that
+
+[01:21] will immediately glue your mixes. Reason number two, this gives you immediate control over the
+
+[01:28] balance of your return channel, balance of the effects. Do you want drums to be less wet? You
+
+[01:33] can decrease it immediately by controlling the send. You don't want bass in your reverb? Remove
+
+[01:38] it. You want more synths and less effects? You have it. You can test many different variations
+
+[01:43] in your send levels extremely fast. Think if you have 10 different reverbs, 10 different delays
+
+[01:48] in different channels, you are no way able to do it as efficient like you will do other way. Reason
+
+[01:53] number three, you can control the frequency response of your returns, of your spatial effects by EQing
+
+[02:00] your return channel. Meaning that let's say I don't want the muddiness on the low, I can low pass. I
+
+[02:05] want to let give the hi-hat to pass, I can high pass. Now I immediately by using single EQ the
+
+[02:11] control where I focus with my effects where it matters. Reason number four, you can color
+
+[02:17] differently each of these with effects inside your channel. Reason number five, this is really
+
+[02:23] important for modern mixes. You can create spaces for your dry signals in your wet return extremely
+
+[02:30] easily. If you have let's say I have vocals here, I need space in my reverbs and delay. You can
+
+[02:37] something like a belly cue, cut a little bit there, maybe a bit wider, something like this.
+
+[02:42] Now I cut out the space on my reverbs delays and my dry signals can pop in my mix much better.
+
+[02:50] There is even a way to do it more actively. I will show you in a second. So let's jump to the
+
+[02:54] project file and I can show you in audio form too. Enjoying the video, please consider like
+
+[02:59] and I promise I will give you more videos like this. Listen to this.
+
+[03:11] Apart from the vocal and lips, everything is dry and using returns doesn't mean that you
+
+[03:17] always have to have returns. For color meaning for this vocal, we definitely using on the channel.
+
+[03:23] But the rest, the rest goes to the return. Let's start with creating a tight room. For our
+
+[03:29] and synths. Tight room means small reverb. Return channel, tight room. Use anything that you like.
+
+[03:35] It doesn't matter. 100% wet, right? Let's send drums, percussions, synths over there
+
+[03:42] to create the ambience. Solo this, hats, very small room, clap. Let's add a little bit synth.
+
+[03:56] First focus. Do you hear how everything sits inside the room? This immediately glues everything.
+
+[04:07] Then I wanna curve this sound.
+
+[04:13] Warm it up a bit. But I want it also a bit stereo. So let's create a side to the sides
+
+[04:19] and boost those highs. Open up the reverb a little bit.
+
+[04:21] That space.
+
+[04:27] Now listen.
+
+[04:33] Immediate glue between elements. But this was the first effects. Let's create a hole and send
+
+[04:38] stuff there as well. The same idea. This time we have a bigger reverb. First thing here,
+
+[04:44] the levels are different now. Now the synths are in the beginning. Drums are really on the back.
+
+[04:48] The whole feel is elevated for the main elements.
+
+[04:56] Now process them together. Saturate it.
+
+[05:02] Contain it.
+
+[05:05] Make the low mids more focused. Decrease the stereo width below like 300 hertz.
+
+[05:12] Do you remember that I talked to you about creating a space
+
+[05:16] for your elements in your return channel? For me, this melody.
+
+[05:22] Extremely important. So I'm gonna create a dynamic spacing option. Which means that I
+
+[05:27] can take something like suit, sidechain to the synth itself and start ducking
+
+[05:34] those frequencies from the effects.
+
+[05:37] And final, because it's a long effects, I wanna feel the groove. I can sidechain it to kick.
+
+[05:47] Now all is applied to my whole mix. Listen. Without the effects.
+
+[06:00] It is warm. It's just like it glues everything together.
+
+[06:03] Makes you feel the ambience. We can create a slap delay for our percussions.
+
+[06:10] EQ out.
+
+[06:19] Really cool. And maybe one final delay to our melody. And maybe our chords.
+
+[06:31] And hear how whole song comes together. Glued together. We created depth and cohesion.
+
+[06:46] And remember, for me, controlling these different spaces is
+
+[06:49] easy as moving this fader down. Too much hold.
+
+[06:53] Bring it down.
+
+[06:55] Too little room. Bring it up.
+
+[07:00] That simple. If you want to go deeper in the mixing, mastering or music production itself,
+
+[07:05] check out my courses on Choruses, MercuryTones.com.
+
+[07:08] But if you want to stay here, learn more about pro music production, check here.
+

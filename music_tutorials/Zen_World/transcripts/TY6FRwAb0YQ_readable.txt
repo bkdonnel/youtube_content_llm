@@ -23,13 +23,13 @@ Duration: 22.0 minutes
 
 [00:26] For example, here we have one called the Busta, which is going to have this clip set.
 
-[00:40] OK, now a couple of things to note here with your clip mode,
+[00:40] OK, now, a couple of things to note here with your clip mode,
 
 [00:45] you can access the clip section bottom left here by right clicking.
 
 [00:49] You can lock it in case you wanted to lock it, but also MIDI input trigger octave.
 
-[00:53] Essentially what these things are doing here, the ARP and the clip
+[00:53] Essentially, what these things are doing here, the ARP and the clip
 
 [00:56] and why there's a keyboard down there is because after a certain octave range,
 
@@ -91,7 +91,7 @@ Duration: 22.0 minutes
 
 [02:29] But if I said poly.
 
-[02:35] And they can all play at the same time, and maybe there's some magic there.
+[02:35] And they can all play at the same time and maybe there's some magic there.
 
 [02:39] Maybe there's not.
 
@@ -121,17 +121,21 @@ Duration: 22.0 minutes
 
 [03:14] which is just going to pertain to essentially.
 
-[03:18] If I play, let's see a clip.
+[03:18] If I played, let's see a clip.
 
-[03:26] I can pretty much transpose the clip play.
+[03:26] I can pretty much transpose the clip.
 
-[03:31] Again, on the keyboard, God damn, my ears are bleeding, man.
+[03:30] I get on the keyboard.
+
+[03:32] God damn, my ears are bleeding, man.
 
 [03:33] Hopefully you guys are OK.
 
-[03:36] Essentially, I can transpose it, so I have two options for that,
+[03:36] Essentially, I can transpose it.
 
-[03:39] and then I can also offset it, offset it.
+[03:38] So I have two options for that.
+
+[03:39] And then I can also offset it, offset it.
 
 [03:41] Each note that I play is going to make it start at a different section.
 
@@ -157,15 +161,17 @@ Duration: 22.0 minutes
 
 [04:10] OK, from here, we can transpose it by one or two.
 
-[04:13] And you're going to notice this number is changing because I have edit all.
+[04:13] And you're going to notice this number is changing because I have it all.
 
 [04:16] You can see they're all changing.
 
 [04:17] But if I just lower that down, you can see that now only the individual
 
-[04:21] one is changing. So if I said edit all and I reset the controls,
+[04:21] one is changing.
 
-[04:24] hopefully they all change with that boom, like so. OK.
+[04:21] So if I said edit all and I reset the controls, hopefully
+
+[04:25] they all change with that boom, like so. OK.
 
 [04:28] From there, below that, we have what I would call one of the more
 
@@ -389,7 +395,7 @@ Duration: 22.0 minutes
 
 [10:56] We create these sounds, which back then you probably heard going like,
 
-[11:00] how the hell are they guys, these guys doing that?
+[11:00] how the hell are these guys doing that?
 
 [11:02] Because we're so used to hearing arps playing like this,
 
@@ -399,9 +405,9 @@ Duration: 22.0 minutes
 
 [11:11] where it's just.
 
-[11:16] Add a bit of release
+[11:16] Add a bit of release.
 
-[11:18] and you can see how that just sounds way more interesting, way more complex,
+[11:19] And you can see how that just sounds way more interesting, way more complex,
 
 [11:23] way more like what the fuck is this making you feel a little insecure.
 
@@ -467,11 +473,13 @@ Duration: 22.0 minutes
 
 [12:50] We have we trigger for that, which is going to deal with when you play a new note.
 
-[12:53] Is it going to re-trigger your rate and then your note first, etc.
+[12:53] Is it going to re-trigger your rate and then your note first, et cetera.
 
 [12:58] So velocity one is weird because it comes down.
 
-[13:00] So, for example, right, I'm going to have my arp and I can target, let's say here.
+[13:00] So, for example, right.
+
+[13:01] I'm going to have my arp and I can target, let's say here.
 
 [13:05] Boom. I'm going to set my velocity to this.
 
@@ -483,23 +491,21 @@ Duration: 22.0 minutes
 
 [13:20] since there's a decay, it's working its way down to the targeted velocity.
 
-[13:24] So if I'm hitting at 127 on this guy up here, it's going to work its way down.
+[13:24] So if I'm hitting at one twenty seven on this guy up here, it's going to work its way down.
 
 [13:30] And you can see it works its way down to the targeted and it stays there.
 
-[13:39] OK, and then.
+[13:39] And. And you're going to have a bank,
 
-[13:46] And then you're going to have a bank.
+[13:47] but now I want to show you guys probably one of the most hidden sections
 
-[13:47] But now I want to show you guys probably one of the most hidden sections
-
-[13:53] that is insane in Serum 2, and I think it's worth its money.
+[13:53] that is insane in Serum 2 and I think it's worth its money.
 
 [13:57] It was free after all.
 
 [13:58] So if we go here, we can go into pattern mode and in pattern mode,
 
-[14:02] I'm going to set the rate, which is the speed of the pattern to 1x.
+[14:02] I'm going to set the rate, which is the speed of the pattern to one X.
 
 [14:06] But if I click here now, this opens up, which is insane
 
@@ -507,11 +513,11 @@ Duration: 22.0 minutes
 
 [14:11] usually it's we're playing more than one note.
 
-[14:12] Usually it's chords, right?
+[14:12] Usually it's chords. Right.
 
 [14:14] So how many notes are in a chord?
 
-[14:16] Why we can say three to five notes, right?
+[14:16] Why we can say three to five notes. Right.
 
 [14:18] So the number you see here is going to pertain to the notes that you have.
 
@@ -527,9 +533,9 @@ Duration: 22.0 minutes
 
 [14:39] so it doesn't sound that repetitive.
 
-[14:42] And now you can get crazy with it because you don't even know
+[14:42] And now you can get crazy with it because you don't even know what notes
 
-[14:44] what notes you're going to play, you just play random notes.
+[14:45] you're going to play. You just play random notes.
 
 [14:47] So then you have something like this, let's say.
 
@@ -537,17 +543,21 @@ Duration: 22.0 minutes
 
 [14:58] Again, and they change
 
-[15:00] depending on the notes that I'm collecting.
+[15:00] and on the notes that I'm selecting.
 
 [15:04] So right now I'm holding down like a lot.
 
-[15:07] So the cool thing is now below that we have these accents, which gives us access
+[15:07] So the cool thing is now below that we have these accents,
 
-[15:10] to essentially like acid style patterns that we can create.
+[15:09] which gives us access to essentially like acid style
+
+[15:14] patterns that we can create.
 
 [15:15] So the action, what it's going to do, it's going to make the velocity
 
-[15:17] and we're going to turn this off as they make the velocity jump.
+[15:17] and we're going to turn this off.
+
+[15:19] They make the velocity jump.
 
 [15:20] So right now I'm going to play low.
 
@@ -555,7 +565,7 @@ Duration: 22.0 minutes
 
 [15:23] When it accents, it's going to jump up.
 
-[15:28] So it's going to happen now with accents, right?
+[15:28] So it's going to happen now with the accents, right?
 
 [15:31] I can program the velocity to certain things that will make it jump.
 
@@ -565,13 +575,13 @@ Duration: 22.0 minutes
 
 [15:44] And then the settings are going to be very similar.
 
-[15:46] The rap is just going to be determining how notes, when you have more than
+[15:46] The rap is just going to be determining how notes,
 
-[15:51] the intended that you have, how many notes, how is it going to pertain
+[15:50] when you have more than the intended that you have, how many notes,
 
-[15:55] to that when it's below or above it?
+[15:53] how is it going to pertain to that when it's below or above it?
 
-[15:57] So.
+[15:57] 
 
 [15:59] So I'm going to play.
 
@@ -579,17 +589,15 @@ Duration: 22.0 minutes
 
 [16:08] So now it's just going to keep going.
 
-[16:11] It also offset this.
+[16:12] You can also offset this.
 
 [16:14] So now the notes change.
 
-[16:16] They should land.
-
-[16:18] Slow it down.
+[16:16] They should land and slow it down.
 
 [16:23] I'm going to increase the speed now.
 
-[16:29] At the velocity to other stuff like decay.
+[16:28] And the velocity to other stuff like decay.
 
 [16:37] Same thing here.
 
@@ -597,15 +605,15 @@ Duration: 22.0 minutes
 
 [16:55] Chord mode again.
 
-[16:57] I like it for that.
+[16:58] I like it for that.
 
-[17:13] Now, if you're wondering what's happening, that's where this bottom
+[17:13] Now, if you're wondering what's happening,
 
-[17:16] right midi out comes into play because I can turn it on now.
+[17:15] that's where this bottom right MIDI out comes into play because I can turn it on.
 
-[17:19] If I set clip player on, it's only going to play the stuff from the clip and
+[17:19] Now, if I set clip player on, it's only going to play the stuff from the clip
 
-[17:22] it won't incorporate the ARP into it.
+[17:22] and it won't incorporate the ARP into it.
 
 [17:23] But if I set it on, it's going to incorporate the ARP.
 
@@ -619,35 +627,35 @@ Duration: 22.0 minutes
 
 [17:35] So if you want.
 
-[17:41] So you can see that I can play the three notes, which I'm playing just
+[17:41] So you can see that I can play the three notes,
 
-[17:45] the standard chord here, which is the C, D sharp G, but then it gets transposed up.
+[17:44] which I'm playing just the standard chord here, which is the C, D sharp, G.
+
+[17:49] But then it gets transposed up.
 
 [17:51] So pretty much grabbing that C up to the G like this.
 
 [17:54] And it looks like now the G is at the bottom and then you have this at the top.
 
-[17:58] So it looks like the G is going up and it's inverting the
-
-[18:02] chord, which is very interesting.
+[17:58] So it looks like the G is going up and it's inverting the chord, which is very interesting.
 
 [18:04] So we can use that to kind of see what is happening with this.
 
-[18:08] Finally, at the bottom, we're going to have the keyboard option, which is going
+[18:08] Finally, at the bottom, we're going to have the keyboard option,
 
-[18:12] to allow us to pretty much limit our keyboard.
+[18:11] which is going to allow us to pretty much limit our keyboard.
 
 [18:14] So here we have a MIDI keyboard that I'm playing the standard.
 
-[18:17] However, if I set this to, let's say D minor, this is going to shift all the
+[18:17] However, if I set this to, let's say, D minor,
 
-[18:21] notes that I'm playing that aren't part of that scale into the scale.
+[18:20] this is going to shift all the notes that I'm playing that aren't part of that scale into the scale.
 
-[18:24] So for example, I'm going to be playing here this D sharp and I can't play it
+[18:24] So, for example, I'm going to be playing here this
 
-[18:30] because it's not part of the D minor scale.
+[18:27] D sharp and I can't play it because it's not part of the D minor scale.
 
-[18:32] And then we can also use swing on this to add swing to some of the ARPs.
+[18:31] And then we can also use swing on this to add swing to some of the ARPs.
 
 [18:36] Like for instance.
 
@@ -655,97 +663,75 @@ Duration: 22.0 minutes
 
 [18:42] So if you have something in the clip, you can add swing that way.
 
-[18:45] Notice that as I switch the key, you can also see the octave
+[18:45] Notice that as I switch the key, you can also see the octave intervals for that key and the clip.
 
-[18:49] intervals for that key and the clip.
+[18:53] You can transpose, for example, if I play an F and I transpose up by one or two,
 
-[18:53] You can transpose.
+[18:58] it's going to put me up at the next note, up a semitone.
 
-[18:54] For example, if I play an F and I transpose up by one or two, it's going
-
-[18:58] to put me up at the next note, up a semitone and then from there we have this.
+[19:01] And then from there we have this.
 
 [19:03] But the interesting thing to me is this oscillator mapping.
 
-[19:06] The way you would use this is let's say that, you know, you kind of know what
+[19:06] The way you would use this is, let's say that, you know,
 
-[19:10] kind of music you want to make, or you want to create a patch that someone
+[19:09] you kind of know what kind of music you want to make or you want to create a patch that
 
-[19:13] with a long keyboard can use, or they can create essentially a bass and a
+[19:13] someone with a long keyboard can use or they can create essentially a bass and a lead at the same time,
 
-[19:17] lead at the same time, giving them like two options, then you can do that.
+[19:18] giving them like two options, then you can do that.
 
 [19:21] For example, I'm going to make a re-space here.
 
 [19:26] And I'm going to filter it.
 
-[19:28] Okay.
+[19:28] OK, now oscillator A is this guy.
 
-[19:28] Now oscillator A is this guy.
+[19:31] So what I'm going to do is I'm going to make it so that I can only play this between C0 to C2.
 
-[19:31] So what I'm going to do is I'm going to make it so that I can only play
-
-[19:33] this between C0 to C2, but if I play above that, nothing happens.
+[19:39] But if I play above that, nothing happens.
 
 [19:43] So oscillator B, I'm going to make it so that it plays above that.
 
-[19:49] Okay.
+[19:49] OK, so now the cool thing about that is I can have something like a re-space playing down here.
 
-[19:50] So now the cool thing about that is I can have something like
+[19:58] And I can create a sound on top here, like a nice little pluck or like a super solid kind of pluck sound that's going to play there.
 
-[19:53] a re-space playing down here.
+[20:09] And I'm going to make it so this one goes to just filter 2.
 
-[19:58] And I can create a sound on top here, like a nice little pluck or like a
-
-[20:03] super solid kind of pluck sound that's going to play there, and I'm going to
-
-[20:10] make it so this one goes to just filter two, and I'm going to route it like this.
+[20:14] And I'm going to route it like this.
 
 [20:17] I'm going to set some release to it.
 
-[20:26] So then from there, I can do stuff like play, not play a full out track, so.
+[20:26] So then from there.
 
-[20:46] The other thing too, is let's say I decide to FM from this guy over here.
+[20:33] I can do stuff like play, not play a full track, so.
 
-[20:53] You're not going to hear it do anything because this guy's not playing at all
+[20:46] The other thing too is let's say I decide to FM from this guy over here.
 
-[20:57] until it hits the top one, right?
+[20:53] You're not going to hear it do anything because this guy is not playing at all until it hits the top one, right?
 
-[20:59] So if you set warp on, it will make it so that no matter if it's playing or not,
-
-[21:04] you're still applying the FM, the warp from any of the ones where you need,
-
-[21:09] essentially, where you need a modulator, right?
+[20:59] So if you set warp on, it will make it so that no matter if it's playing or not, you're still applying the FM, the warp from any of the ones where you need essentially where you need a modulator, right?
 
 [21:11] So which would be that one.
 
 [21:12] So that's how that one works there.
 
-[21:16] Okay.
+[21:16] OK, so these are all the settings and clip and arp.
 
-[21:16] So these are all the settings and clip and ARP.
-
-[21:20] Last thing to note is that if you just want to kind of make something for
-
-[21:24] yourself on how something should be played, maybe you make a cool little
-
-[21:27] sound like this one, and you just want to know how it's being played.
+[21:20] Last thing to note is that if you just want to kind of make something for yourself on how something should be played, maybe you make a cool little sound like this one and you just want to know how it's being played.
 
 [21:30] All you have to do is right click on this guy and set as preview clip.
 
-[21:33] So now when you go here and you click on this little play button, it's going to
+[21:33] So now when you go here and you click on this little play button.
 
-[21:41] show you the example of how or what you recorded in there.
+[21:40] It's going to show you the example of how or what you recorded in there.
 
-[21:50] Okay.
-
-[21:51] So have fun with it, guys.
-
-[21:52] As I told you guys, the ARP section is insane.
+[21:51] OK, so have fun with it, guys, as I told you guys, the arp section is insane.
 
 [21:54] It's one of the hidden gems no one's really talking about.
 
 [21:57] So we'll see what's up with that.
 
-[21:58] But other than that, you guys take care and you guys have a great rest of your day.
+[21:58] But other than that, you guys take care and just have a great rest of your day.
 

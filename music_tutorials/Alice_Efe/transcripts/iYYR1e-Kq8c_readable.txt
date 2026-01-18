@@ -1,0 +1,165 @@
+Video: STOP Compressing Your Drums. Do THIS First (in 3 mins)
+URL: https://www.youtube.com/watch?v=iYYR1e-Kq8c
+Duration: 3.8 minutes
+================================================================================
+
+[00:00] This shape and this sound is the reason why most of the beginner and intermediate producers
+
+[00:06] fail with their drums.
+
+[00:08] I have created a whole interactive visualization to demonstrate the problem, showing you why
+
+[00:13] and how it happens, and I will reveal where you can find this interactive tool for free
+
+[00:18] later in the video.
+
+[00:19] I'm Elis and welcome to my series, if you can learn one trick today, learn this.
+
+[00:23] Hop in.
+
+[00:24] Drums means compression, and compression can be very confusing or surprising for beginner
+
+[00:29] and intermediate producers, and the first rule of compression with drums is controlling
+
+[00:34] the transcends.
+
+[00:35] Let's take a look at this, we have a transcend drum sound, and we will try to control this
+
+[00:39] with a compressor.
+
+[00:40] What beginners and intermediate producers do, they will bring the threshold down, begin
+
+[00:44] to compress this, ratio, classic, 4-5, something like this, very short attack and very short
+
+[00:50] decay, but didn't change much, did it?
+
+[00:52] And they will just decrease the threshold, increase the ratio, but what is going on right?
+
+[00:57] The transcend is still there.
+
+[00:59] Most of the compressors, even they will tell you like 0.5, 0.1 or 1 ms, 1 ms, the way they
+
+[01:06] react, they won't be able to catch the very fast transcends, which drums often times have.
+
+[01:12] And you will end up this with shape, and this, believe it or not, actually will sound worse
+
+[01:18] than the original sound.
+
+[01:19] Go back to your projects, check the sounds that you applied to similar compressor settings,
+
+[01:23] print them and look what you are seeing.
+
+[01:26] I assure you, this shape will come back and back again.
+
+[01:29] If you have couple of them stacked on top of each other, you will have really hard time
+
+[01:33] in the mastering due to the strange peaks.
+
+[01:36] After you solve this, this is a very simple method.
+
+[01:38] Before compressing your signals, add a clipper.
+
+[01:41] Clipper just shade the sound if it goes above a threshold.
+
+[01:45] Trim that transcend, and clipping actually will lead a crunchier sound due to clipping
+
+[01:50] distortion.
+
+[01:50] And then, I can actually use much gentle attack and decay settings.
+
+[01:55] Now we are compressing with slower decay.
+
+[01:58] Look how beautiful it looks.
+
+[02:00] This will sound much better than any of the other shapes that we are seeing here.
+
+[02:04] It will sound fatter, it will sound fuller, it will sound crispier.
+
+[02:08] If this video is interesting, please consider like and subscribe.
+
+[02:11] And I promise I will give you more like this.
+
+[02:13] Now let me prove it to you.
+
+[02:14] This sound over here.
+
+[02:16] Let's use a compressor very fast, like this.
+
+[02:19] Faster is fast attack 4 ratio, like this.
+
+[02:22] Let's bounce this.
+
+[02:24] Do you see that?
+
+[02:26] We created that shape we are talking.
+
+[02:28] That's like initial boom, and then everything is clamped down.
+
+[02:31] If you gain compensate this, it will look worse than the original sound.
+
+[02:35] This explosive transcend in the beginning.
+
+[02:37] There will be worse than this.
+
+[02:38] What is the solution?
+
+[02:39] Let's clip first now.
+
+[02:41] Clip that transcend.
+
+[02:45] And a gentle compression afterwards.
+
+[02:51] Slight gain.
+
+[02:52] Let's bounce this.
+
+[02:54] And look at this.
+
+[02:56] This is beautiful.
+
+[02:57] That initial transient is still there.
+
+[03:00] Even stronger, but the balance is much better too.
+
+[03:02] This was a single sound.
+
+[03:03] Let's apply this in a loop.
+
+[03:09] This transcend actually kind of bothers me quite a bit in this loop.
+
+[03:12] So I'm gonna use the same tactic.
+
+[03:14] Clip.
+
+[03:16] Soft glue compression.
+
+[03:18] Let's bounce this.
+
+[03:19] Do you see what we have done?
+
+[03:20] Look at the shapes.
+
+[03:21] They look immediately fatter.
+
+[03:22] And look, it is quieter on the peaks.
+
+[03:25] So this will actually hit your limiter much less.
+
+[03:28] But it will still sound fatter than original.
+
+[03:30] Cool, isn't it?
+
+[03:30] The pro's trick.
+
+[03:32] Okay, back to the premise.
+
+[03:33] This is a free tool I created for you.
+
+[03:35] You can find it on mercurialtones.com
+
+[03:37] Drum Transient Shaping.
+
+[03:38] I'll put the link below if you like to play around and learn more about clipping and drum compressing.
+
+[03:43] Or stay here, learn more stuff.
+

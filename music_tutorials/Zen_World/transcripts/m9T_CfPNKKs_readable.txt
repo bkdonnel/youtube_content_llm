@@ -3,21 +3,21 @@ URL: https://www.youtube.com/watch?v=m9T_CfPNKKs
 Duration: 30.1 minutes
 ================================================================================
 
-[00:00] Yo what's up ninjas? We've been making some sick sounds but we've been
+[00:00] yo what's up ninjas we've been making some sick sounds but we've been lacking
 
-[00:05] lacking a bit of dynamics and a bit of change. Well today that's gonna change
+[00:05] a bit of dynamics and a bit of change well today that's gonna change because
 
-[00:09] because we're gonna be learning about envelopes which is gonna allow us to
+[00:09] we're gonna be learning about envelopes which is gonna allow us to make punchy
 
-[00:11] make punchy basses, pads, lush leads and sounds that move that change over time.
+[00:12] basses, pads, lush leads and sounds that move that change over time. In Serum 2
 
-[00:18] In Serum 2, envelope 1 is routed to the volume by default and I think volume is
+[00:20] envelope 1 is routed to the volume by default and I think volume is one of
 
-[00:23] one of the best ways to learn the ADSR system that most envelopes are gonna use.
+[00:23] the best ways to learn the ADSR system that most envelopes are gonna use so my
 
-[00:29] So max volume is gonna be decided by the main volume and the levels inside
+[00:29] next volume is gonna be decided by the main volume and the levels inside each
 
-[00:34] each oscillator. They're all gonna be controlled by this envelope 1. So for
+[00:34] oscillator they're all gonna be controlled by this envelope 1 so for
 
 [00:38] example at the moment if we increase the attack of the sound the sound will
 
@@ -25,11 +25,11 @@ Duration: 30.1 minutes
 
 [00:50] envelope which is how long it takes for us to reach the max value which with
 
-[00:56] this envelope we can't really move or change okay. So that's gonna be decided
+[00:56] this envelope we can't really move or change okay so that's gonna be decided
 
-[00:59] by wherever everything your levels are set. Something to note here is that I can
+[01:00] by wherever everything your levels are set. Something to note here is that I can
 
-[01:04] also play with the slope of this. Very important because if I want to dial in
+[01:04] also play with the slope of this very important because if I want to dial in
 
 [01:09] the sound more and with how I envision it slope is gonna allow us to gradually
 
@@ -39,117 +39,117 @@ Duration: 30.1 minutes
 
 [01:26] we're gonna come back to after we go through decay sustain and release. Now
 
-[01:30] decay is gonna control once the attack phase is over we're at the max amplitude.
+[01:30] decay is gonna control once the attack phase is over we're at the max amplitude
 
-[01:35] Decay controls how long it takes for us to go from that max amplitude to our
+[01:35] decay controls how long it takes for us to go from that max amplitude to our
 
-[01:39] sustain. Okay and our sustain is the value in this instance the volume. What
+[01:39] sustain okay and our sustain is the value in this instance the volume what
 
-[01:44] we're gonna stay at as the MIDI note is held after the attack and decay phase
+[01:44] we're gonna stay at as a MIDI note is held after the attack and decay phase
 
-[01:49] have passed. And then I move it down. Volume is coming down. I'm still holding the note you
+[01:49] have passed and then I move it down volumes coming down I'm still holding
 
-[01:54] can see that here. I go up mid. With sustain I can lower it down to around
+[01:54] the note you can see that here I go up mid but sustain I can lower it down to
 
-[01:59] let's say 75% of the way down. And now decay when we move it you're gonna hear
+[01:59] around let's say 75% of the way down and now decay when we move it you're gonna
 
-[02:06] what it does. Okay so decay controls value coming from that max amplitude to
+[02:05] hear what it does okay so decay controls value coming from that max amplitude to
 
-[02:15] the sustain. However decay is also very useful for pretty much adding perceived
+[02:15] the sustain however decay is also very useful for pretty much I'm adding
 
-[02:21] punch to a sound. Okay from there we have our release which is gonna control
+[02:20] perceived punch to a sound okay from there we have our release which is gonna
 
-[02:27] the fade out of the sound after I let go of the note. So right now I'm stuck in
+[02:27] control the fade out of the sound after I let go of the note so right now I'm
 
-[02:32] sustain because I'm holding down the note but once I let go the release kicks
+[02:31] stuck in sustain because I'm holding down the note but once I let go the
 
-[02:36] in and that release decides how long the sound lingers for before it reaches back
+[02:36] release kicks in and that release decides how long the sound lingers for
 
-[02:41] to quiet no sound or a value of zero change. Hold what it's gonna do is it's
+[02:39] before it reaches back to quiet no sound or a value of zero change hold what it's
 
-[02:46] gonna hold after the attack phase it's gonna hold max amplitude for however
+[02:45] gonna do is it's gonna hold after the attack phase it's gonna hold max
 
-[02:51] much time you set. Now the way this is useful is let's say that I have a sound
+[02:50] amplitude for however much time you set now the way this is useful is let's say
 
-[02:56] or I'm creating a sound for future rave or melodic techno where I want a lead
+[02:55] that I have a sound or I'm creating a sound for future rave or melodic techno
 
-[03:00] that's gonna be very staccato. Okay now I can definitely program a lead that's
+[02:59] where I want to lead that's gonna be very staccato okay now I can definitely
 
-[03:06] staccato without the hold with a high sustain. The problem with that is as a
+[03:05] program a lead that's staccato without the hold with a high sustain the problem
 
-[03:10] sound designer I've noticed some people need a bit of guidance and I need to
+[03:10] with that is as a sound designer I've noticed some people need a bit of
 
-[03:13] make it easy for them to use the sound as intended. Okay so with the hold I can
+[03:12] guidance and I need to make it easy for them to use the sound as intended okay
 
-[03:18] have it be so that when someone presses the note even for a long time
+[03:17] so with the hold I can have it be so that when someone presses the note even
 
-[03:26] the hold limits that. So now when they play and I make it super punchy now there's a
+[03:21] for a long time the hold limits that so now play and I make it super punchy now
 
-[03:36] couple of things that we can do here. Number one we can change the value or
+[03:36] there's a couple of things that we can do here number one we can change the
 
-[03:40] the time right sec milliseconds to 1 eighths, 1 fourths, sixteenths if you like that
+[03:39] value or the the time right sec milliseconds to 1 8th 1 4th 16th if you
 
-[03:48] system a lot better which I can find use for that whenever I'm trying to create
+[03:47] like that system a lot better which I can find use for that whenever I'm
 
-[03:51] an effect let's say I want the effect to come up for a bar and then I want it to
+[03:50] trying to create an effect let's say I want the effect to come up for a bar and
 
-[03:56] go down for two bars which might be useful for something like creating a
+[03:55] then I want it to go down for two bars which might be useful for something like
 
-[04:00] noise swell. And there we go you know goes up a bar and goes down for two bars
+[04:00] creating a noise swell and there we go you know goes up a bar and goes down for
 
-[04:07] so that's where it might be useful. The other thing too is if you notice here if
+[04:07] two bars so that's where it might be useful the other thing too is if you
 
-[04:11] I increase the decay I cannot see what's happening after that so here I have by
+[04:10] notice here if I increase the decay I cannot see what's happening after that
 
-[04:15] pulling up a zoom out feature and by pulling down I zoom in okay and I also
+[04:14] so here I have by pulling up a zoom out feature and by pulling down I zoom in
 
-[04:19] have a lock feature which locked itself automatically zoom in for me which is
+[04:18] okay and I also have a lock feature which locked itself automatically zoom
 
-[04:23] good and bad. The reason I say good and bad is because sometimes I'll do this
+[04:22] in for me which is good and bad the reason I say good and bad is because
 
-[04:26] and I'm like yep that that definitely looks like how a pad should be shaped
+[04:25] sometimes I'll do this and I'm like yep that that definitely looks like how a
 
-[04:30] and then I'll play it and the sound doesn't last how it should so that's the
+[04:29] pad should be shaped and then I'll play it and the sound doesn't last how it
 
-[04:34] drawback of that so sometimes I just like to zoom out like this and then do
+[04:33] should so that's the only drawback of that so sometimes I just like to zoom
 
-[04:39] this. Envelope one is routed to the volume so what else can you route
+[04:37] out like this and then do this envelope one is routed to the volume so what else
 
-[04:43] envelopes to? The most common common common common things that they would add
+[04:42] can you route envelopes to the most common common common common things that
 
-[04:48] envelopes to are the filter cutoff to create plucks so here I'm gonna use
+[04:47] they would add envelopes to are the filter cutoff to create plucks so here
 
-[04:54] envelope two and open up the cutoff and I'll lower down the sustain and use
+[04:54] I'm going to use envelope 2 and open up the cutoff and lower down the sustain
 
-[05:00] decay to get the punch. Now let's talk a little bit about what's going on here so
+[04:59] and use the decay to get the punch now let's talk a little bit about what's
 
-[05:03] you can understand and now you know not in the volume but more about value of
+[05:03] going on here so you can understand and now you know not in the volume but more
 
-[05:07] moving knobs so by clicking here and dragging I can drag this to any knob you
+[05:06] about value of moving knobs so by clicking here and dragging I can drag
 
-[05:11] can see there's a plus wherever I can drag it somewhere okay now from there
+[05:10] this to any knob you can see there's a plus wherever I can drag it somewhere
 
-[05:16] this blue line appears and this blue line is gonna tell us the modulation
+[05:15] okay now from there this blue line appears and this blue line is gonna tell
 
-[05:20] amount how much do we want to change whatever knob we're on in this scenario
+[05:19] us the modulation amount how much do we want to change whatever knob we're on in
 
-[05:24] how much do we want to open up the cutoff by okay so that's what that blue
+[05:24] this scenario how much do we want to open up the cutoff by okay so that's
 
-[05:28] line does now in terms of the envelope the way you want to see it is change if
+[05:28] what that blue line does now in terms of the envelope the way you want to see it
 
-[05:32] we increase the attack by an envelope one that is deciding how long it
+[05:31] is change if we increase the attack right an envelope one that that is
 
-[05:36] takes for us to increase the volume to max volume max amplitude in this
+[05:35] deciding how long it takes for us to increase the volume to max volume max
 
-[05:41] scenario it's how long it takes for us to go from this side of the knob to the
+[05:40] amplitude in this scenario it's how long it takes for us to go from this side of
 
-[05:44] at the end of the blue line so if I wanted to create a wub I would add attack
+[05:43] the knob to the at the end of the blue line so if I wanted to create a wub I
 
-[05:49] play low then I will use a square
+[05:48] would add attack play low then I will use a square
 
-[05:59] kind of there right if you know you know and if you don't enjoy your youth
+[06:00] kind of there right if you know you know and if you don't enjoy your youth
 
-[06:03] okay so from there a little bit of resonance right we can create sounds like
+[06:03] okay so from there a little bit of resonant right we can create sounds like
 
 [06:09] this the other thing is lower the attack back down you know we have this you know
 
@@ -191,13 +191,13 @@ Duration: 30.1 minutes
 
 [07:38] in common is the pitch and there's a lot of techniques here to deal with the
 
-[07:43] pitch okay the first thing is if I go to a sign I can use an envelope and route it
+[07:43] pitch okay the first thing is if I go to a sign I can use an envelope and route
 
-[07:47] here and then I can lower down the sustain to create lasers okay now notice
+[07:46] it here and then I can lower down the sustain to create lasers okay now notice
 
 [07:55] that when I put this on there this line is going left and right it's not going
 
-[08:02] in one direction well that's because we are in bipolar mode now and Serum's
+[08:02] in one direction well that's because we are in bipolar mode now and Serum is
 
 [08:06] gonna decide whether it's in bipolar mode or unipolar mode depending on what
 
@@ -215,17 +215,17 @@ Duration: 30.1 minutes
 
 [08:35] now this pitch knob the cool thing about it is one we can create essentially
 
-[08:39] downlifters like so let's put some detunement
+[08:39] downlifters like so let's put some detunement okay we can create effects
 
-[08:48] okay we can create effects like this add a bit of attack this is gonna make it so
+[08:49] like this add a bit of attack this is gonna make it so that the pitch slowly
 
-[08:52] that the pitch slowly goes up again and then it comes down
+[08:53] goes up again and then it comes down
 
-[08:57] very iconic the other thing too is if we go to the right really fast lower the
+[08:57] like very iconic the other thing too is if we go to the right really fast lower
 
-[09:02] decay we can add like a like almost like a snap on top of the sound use a
+[09:02] the decay we can add like a like almost like a snap on top of the sound use a
 
-[09:11] triangle sounds fucking great I like for creating these kind of and create 808 or
+[09:11] triangle sounds fucking great I like for creating these kind of create 808 or
 
 [09:20] knocky bass lines this way add a bit of release let's use the distortion here
 
@@ -237,321 +237,527 @@ Duration: 30.1 minutes
 
 [09:52] right we could do a lot of really cool stuff we can add that to wubs and and
 
-[09:58] and so forth okay the other thing we can do this for is check it we can add
+[09:57] so forth okay the other thing we can do this for is check it we can add it to
 
-[10:01] it to the octave range here and you get that and then the cool thing about serum
+[10:01] the octave range here and you get that and then the cool thing about serum 2
 
-[10:13] 2 now is that when you highlight and move it now it tells you where you're
+[10:13] now is that when you highlight and move it now it tells you where you're going
 
-[10:16] going from to what and I love that because back then it wouldn't tell you
+[10:17] from to what and I love that because back then it wouldn't tell you so you
 
-[10:20] so you would have to just dial it in by ear and by eye now from there with
+[10:20] would have to just dial it in by ear and by eye now from there with envelopes the
 
-[10:25] envelopes the best way to learn them and the best way to learn anything when
+[10:26] best way to learn them and the best way to learn anything when you learn is to
 
-[10:29] you learn is to make some sounds so why don't we make a couple of sounds so that
+[10:30] make some sounds so why don't we make a couple of sounds so that you guys can
 
-[10:33] you guys can see the workflow on how to use them okay so the first one we can
+[10:34] see the workflow on how to use them okay so the first one we can make is a bass
 
-[10:37] make is a bass so let's make a very really nice stack bass okay so what
+[10:39] so let's make a very really nice stack bass okay so what we're gonna do is go
 
-[10:43] we're gonna do is go minus 2 on this first oscillator which is gonna be our
+[10:44] minus 2 on this first oscillator which is gonna be our sub layer or our lower
 
-[10:46] sub layer or our lower layer for the bass we're gonna go with a square a very
+[10:48] layer for the bass we're gonna go with a square a very common sub oscillator to
 
-[10:50] common sub oscillator to use for more moggy and aggressive bass lines on the
+[10:52] use for more moggy and aggressive bass lines on the top I'm gonna add a saw
 
-[10:56] top I'm gonna add a saw minus 1 1 octave above this one we're gonna random phase
+[10:58] minus 1 one octave above this one we're gonna random phase it for now and now
 
-[11:03] it for now and now we're gonna use a filter out both for them and pull the
+[11:05] we're gonna use a filter out both for them and pull the cutoff back now if you
 
-[11:07] cutoff back now if you want some tips here from experience to make a good bass
+[11:09] want some tips here from experience to make a good bass that's gonna sound good
 
-[11:12] that's gonna sound good what I like to do is I'll play this and I'll set the
+[11:14] what I like to do is I'll play this and I'll set the cutoff point by ear where I
 
-[11:17] cutoff point by ear where I still hear the bass how I would want it heard when
+[11:19] still hear the bass how I would want it heard when sustained and then I'm gonna
 
-[11:22] sustained and then I'm gonna use an envelope now to open it up to a certain
+[11:24] use an envelope now to open it up to a certain amount I'm gonna lower down the
 
-[11:28] amount I'm gonna lower down the sustain and there we go a little higher up now
+[11:30] sustain and there we go a little higher up now the level matters I want where
 
-[11:38] the level matters I want where the saw is influencing the bass more than the
+[11:41] the saw is influencing the bass more than the square but the square is still
 
-[11:43] but the square is still providing that low-end body the identity of this bass
+[11:44] providing that low-end body the identity of this bass will come from how much you
 
-[11:51] will come from how much you open up by the decay you set sustain the resonance
+[11:52] open up by the decay you set, sustain, the resonance
 
-[12:14] and there we go let's add a bit of key track pull it back more and I'll set the
+[12:14] and there we go
 
-[12:29] envelope to the resonance if you wanted to now we can make that saw be a seventh
+[12:21] let's add a bit of key track pull it back more and also add the envelope to the
 
-[12:39] let's lower the DB pull we already know what all that does let's change the
+[12:30] resonance if you wanted to now we can make that saw be a seventh let's lower
 
-[12:44] square to a saw
+[12:40] the DB pull we already know what all that does let's change the square to a
 
-[12:55] let's get our values right here because you're gonna see the values will really
+[12:55] saw let's get our values right here because you're gonna see the values will
 
-[13:00] dictate how a live punchy this bass is let's also make sure we have saws that
+[13:00] really dictate how alive punchy this bass is let's also make sure we have
 
-[13:06] match well together we're gonna use the same one so they don't phase out
+[13:06] saws that match well together we're gonna use the same one so they don't
 
-[13:13] that's a breather from Ableton
+[13:10] phase out
 
-[13:35] and notice that the bass I'm doing it but you don't really feel too much of
+[13:13] is that some reverb from Ableton?
 
-[13:41] a punch even though we have stuff going on and that's because we also have to
+[13:35] And notice that the bass, I'm doing it but you don't really feel too much of the punch
 
-[13:45] optimize the volume right the envelope can shape the sound with the frequency
+[13:41] even though we have stuff going on.
 
-[13:49] removal in addition bringing it back with an envelope but we also want to
+[13:43] And that's because we also have to optimize the volume, right?
 
-[13:52] play with the volume a bit now a key thing here is don't do this because you
+[13:46] The envelope can shape the sound with the frequency removal in addition, bringing it
 
-[13:56] didn't it out too much but you do want some form of reducement in volume but
+[13:50] back with an envelope, but we also want to play with the volume a bit.
 
-[14:00] not too much I'm gonna add a hint of release just to help whenever I play too
+[13:54] Now a key thing here is don't do this because you thin it out too much, but you do want
 
-[14:06] Now the other type of bass I can make is also keep it simple
+[13:58] some form of reducement in volume, but not too much.
 
-[14:34] here I can increase the resonance to create a very housey bass make it a wub
+[14:02] I'm going to add a hint of release just to help whenever I play too staccato-ish.
 
-[14:45] by increasing the attack I'm gonna increase the sustain here on this guy
+[14:29] Okay, now the other type of bass I can make is also keep it simple.
 
-[14:54] now let's get creative let's add a saw an octave up with detunement so again
+[14:35] Here I can increase the resonance to create a very housey bass.
 
-[15:08] you can do all of that with the basic shapes in fact I would make a case that
+[14:44] Make it a wub by increasing the attack, I'm going to increase the sustain here on this
 
-[15:12] with the basic shapes if you're making a rolling bass for instance you know the
+[14:47] guy.
 
-[15:16] important thing is that envelope super important because it's gonna dictate how
+[14:55] Now let's get creative, let's add a saw, an octave up with detunement.
 
-[15:19] your bass sounds so I'm just gonna put an ARP here so that it rolls I'm gonna
+[15:08] So again, you can do all of that with the basic shapes, in fact, I would make a case
 
-[15:24] put this at 128 BPM
+[15:11] that with the basic shapes, if you're making a rolling bass for instance, you know, the
 
-[15:29] okay I'm gonna play to create a rolling bass I'm gonna also do a shift 12 we'll
+[15:16] important thing is that envelope.
 
-[15:36] talk about this once we get to this section but I'm just doing it to kind of
+[15:17] Super important because it's going to dictate how your bass sounds.
 
-[15:39] show you a little bit more on the envelope side of stuff
+[15:20] So I'm just going to put an arp here so that it rolls.
 
-[15:44] okay very important that you set this right your volume to now watch if I make
+[15:24] I'm going to put this at 128 BPM.
 
-[15:49] this too long bass is fine right it's but it's a little muffled here you feel
+[15:30] Okay, now I'm going to play to create a rolling bass.
 
-[15:54] it more switch it to a square by this one maybe you might want a little bit
+[15:35] I'm going to also do a shift 12, we'll talk about this once we get to this section, but
 
-[16:01] more maybe this goes more down so that the bass doesn't sound too fat okay
+[15:38] I'm just doing it to kind of show you a little bit more on the envelope side of stuff.
 
-[16:18] super cool like we can make that and then from there at another saw here I'm
+[15:44] Okay, very important that you set this right, your volume too.
 
-[16:30] gonna use a high pass here on this guy like this okay from there let's make a
+[15:48] Now watch, if I make this too long, bass is fine, right, but it's a little muffled.
 
-[16:41] super solid that's very trancy flowy so we're just gonna use eight sauce we're
+[15:53] Here, you feel it more.
 
-[16:46] gonna switch the algorithm to the super and let's include that right now we play
+[15:55] Switch it to a square.
 
-[16:50] this kind of boring so now I'm gonna add some release
+[15:59] Right, this one maybe you might want a little bit more decay.
 
-[17:00] right so then if I play some nice some chords like let's say here real quick
+[16:03] There you go.
 
-[17:13] come more to life by adding a filter that's gonna add character remember
+[16:06] Increase this.
 
-[17:16] filters add character let's use maybe a low 28 this time not the mg low one and
+[16:10] Maybe this goes more down, so that the bass doesn't sound too fat and muffled.
 
-[17:22] now if we play let's use an envelope to open it up we're gonna use a very long
+[16:18] Okay, super cool.
 
-[17:31] decay and release and let's just dial this in we're not gonna make this punchy
+[16:19] We can make that and then from there add another saw here.
 
-[17:37] right now and now let's play more like it doesn't sound dope because as I let
+[16:25] I'm going to retrig this.
 
-[17:50] go of the note it doesn't linger enough so now I can add more release here let's
+[16:30] I'm going to use a high pass here on this guy, like this.
 
-[17:53] make the super sauce matter more by optimizing the volume of the super saw
+[16:39] Okay, from there let's make a super saw lead that's very trancey flowy.
 
-[18:00] so that it has movement maybe a bit more attack to make it more flowy less and
+[16:43] So we're just going to use eight saws.
 
-[18:04] now let's see how it sounds still need more release there we go
+[16:45] We're going to switch the algorithm to the super and let's include that.
 
-[18:25] that sounds nicer and as I do that right maybe more decay let's try even more
+[16:50] Right now we play this.
 
-[18:31] attack we'll round it out we'll add more resonance in fact let's add another
+[16:55] Kind of boring, so now I'm going to add some release.
 
-[18:35] envelope that increases the resonance and brings it down and then let's see
+[17:01] Right, so then if I play some nice, some chords, like let's say here real quick.
 
-[18:43] how that sounds
+[17:13] Come more to life by adding a filter that's going to add character.
 
-[18:56] let's add another saw but this saw I want more of a on top so now we can add
+[17:16] Remember filters add character.
 
-[19:02] a band pass to layer this be saw saw more detuned and we're gonna put it more
+[17:18] Let's use maybe a low 28 this time, not the MG low one.
 
-[19:09] up here and on this guy we're also gonna add maybe one of these guys here but not
+[17:22] And now if we play.
 
-[19:14] a lot just a little bit to help it move
+[17:27] Let's use an envelope to open it up.
 
-[19:30] almost sounds like there's there's some form of reaver right and that's because
+[17:29] We're going to use a very long decay and release.
 
-[19:36] of this guy it was way too detuned let's put this up an octave let's try one more
+[17:34] And let's just dial this in.
 
-[19:39] time here let's play
+[17:36] We're not going to make it too fat.
 
-[19:56] right that was a nice super saw sound from there let's make
+[17:36] Let's make this punchy right now.
 
-[20:00] growl. Step one we're gonna find a nice spectral wavetable because we don't
+[17:38] And now let's play.
 
-[20:04] have access to FM and all that so we can't really do a lot to make growls but
+[17:41] More up.
 
-[20:08] again we can get creative with it. So let's find a good wavetable that's gonna
+[17:47] Like it doesn't sound dope because as I let go of the note, it doesn't linger enough.
 
-[20:11] give us some good movement. Let's put it at a bass range.
+[17:51] So now I can add more release here.
 
-[20:21] Alright so I got to find a pocket. Once I found it I can use envelope 2. I'm gonna
+[17:53] Let's make the super saws matter more by optimizing the volume of the super saw.
 
-[20:24] add it at some attack. I'm gonna use this to round it out and I'm gonna add
+[18:00] So that it has movement, maybe a bit more attack to make it more flowy, less.
 
-[20:29] something like this to shape it a bit better and we're gonna route this to
+[18:05] And now let's see how it sounds.
 
-[20:34] wavetable position. Okay and now let's find a pocket. Something that's inspiring.
+[18:08] Still need more release.
 
-[20:44] That's cool. Let's add some unison. Okay now we're kind of getting something cool
+[18:12] There we go.
 
-[20:49] but from here what makes a growl a growl is a manipulation of frequency which we
+[18:25] That sounds nicer.
 
-[20:53] can do with filters and also the manipulation of the wave. The wave isn't
+[18:27] And as I do that, right, maybe more decay.
 
-[20:57] doing enough to get a growl. We can use some of these alt warps in order to add
+[18:30] Let's try even more attack.
 
-[21:00] even more movement. Let's try adding a PWM see how that sounds. That doesn't
+[18:31] We'll round it out.
 
-[21:07] sound growly. That sounds way too like. There we go.
+[18:32] We'll add more resonance.
+
+[18:34] In fact, let's add another envelope that increases the resonance and brings it down.
+
+[18:39] And then let's see how that sounds.
+
+[18:56] Let's add another saw.
+
+[18:58] But this saw, I want more of a on top.
+
+[19:02] So now we can add a band pass to layer this B saw more detuned.
+
+[19:08] And we're going to put it more up here.
+
+[19:10] And on this guy, we're also going to add maybe one of these guys here, but not a lot.
+
+[19:14] Just a little bit to help it move.
+
+[19:30] Almost sounds like there's there's some form of reverb, right?
+
+[19:35] And that's because of this guy.
+
+[19:36] It was way too detuned.
+
+[19:37] Let's put this up an octave.
+
+[19:38] Let's try one more time here.
+
+[19:40] Let's play.
+
+[19:56] Right.
+
+[19:57] That was a nice superstar sound.
+
+[19:59] From there, let's make a growl.
+
+[20:01] Step one, we're going to find a nice spectral wavetable because we don't have access to FM and all that.
+
+[20:06] So we can't really do a lot to make growls.
+
+[20:08] But again, we can get creative with it.
+
+[20:10] So let's find a good wavetable that's going to give us some good movement.
+
+[20:14] Let's put it at a bass range.
+
+[20:21] All right. So I got to find a pocket.
+
+[20:22] Once I found that I can use Envelope 2, I'm going to add it at some attack.
+
+[20:26] I'm going to use this to round it out.
+
+[20:28] And I'm going to add something like this to shape it a bit better.
+
+[20:32] And we're going to route this to wavetable position.
+
+[20:39] Okay. And now let's find a pocket.
+
+[20:42] Something that's inspiring.
+
+[20:44] That's cool. Let's add some unison.
+
+[20:47] Okay.
+
+[20:48] Now we're kind of getting something cool, but from here, what makes a growl a growl is manipulation of frequency,
+
+[20:53] which we can do with filters and also the manipulation of the wave.
+
+[20:56] The wave isn't doing enough to get a growl.
+
+[20:58] Now we can use some of these alt warps in order to add even more movement.
+
+[21:02] Let's try adding a PWM, see how that sounds.
+
+[21:06] That doesn't sound growly. That sounds way too like.
+
+[21:11] There we go.
 
 [21:15] Let's play with this.
 
-[21:20] Well let's see maybe we can add another layer. Let's keep this bottom. We're gonna
+[21:20] Well, let's see if maybe we can add another layer.
 
-[21:25] make this one wide and find maybe another growl wavetable that maybe might
+[21:24] Let's keep this bottom.
 
-[21:29] help us there a bit better. Get something dope on the sides and we'll use the same
+[21:25] We're going to make this one wide and find maybe another growl wavetable that maybe might help us there a bit better.
 
-[21:33] envelope. And let's use the filter to remove some of the lows. There we go.
+[21:30] Get something dope on the sides.
 
-[21:47] Alright cool and then from there let's use a filter one of the multi ones to
+[21:32] And we'll use the same envelope.
 
-[21:50] give this growl a bit more movement. So let's see what we can do here. I want
+[21:37] And let's use the filter to remove some of the lows.
 
-[21:55] something like if I can get like a low pass high pass together or like some
+[21:42] There we go.
 
-[21:59] peaks I'd be sick. Yeah like these might be cool if we can get a peak in a notch.
+[21:47] All right, cool.
 
-[22:04] There we go. So now I can move this one way and the notch another way. Let's see
+[21:48] And then from there, let's use a filter.
 
-[22:10] how it sounds. There we go and now move this. And there we go. If I want to get
+[21:49] One of the multi ones to give this growl a bit more movement.
 
-[22:19] crazier with the growl we don't have access to the effects but again you know
+[21:53] So let's see what we can do here.
 
-[22:23] it's like a practice sesh right. Use what you know that you've learned in the
+[21:54] I want something like I can get like a low pass high pass together or like some peaks.
 
-[22:27] series so far. So we know those filters are crazy good. So in the filter episode
+[22:00] I'd be sick.
 
-[22:32] we learned how we can have filter one go to filter two instead of going straight
+[22:01] Yeah, like these might be cool if we can get a peak in a notch.
 
-[22:36] out. So now they're in serial. Sounds go to filter one and then they go to filter
+[22:04] There we go.
 
-[22:40] two. And filter two I want to add one of those crazy filters that's probably
+[22:05] So now I can move this one way and the notch another way.
 
-[22:43] going to add a lot to the sound. So let's try an all pass real quick.
+[22:10] Let's see how it sounds.
+
+[22:12] There we go.
+
+[22:13] And now move this.
+
+[22:16] And there we go.
+
+[22:18] If I want to get crazier with the growl, we don't have access to the effects.
+
+[22:21] But again, you know, it's like a practice sesh, right?
+
+[22:25] Use what you know that you've learned in the series so far.
+
+[22:28] So we know those filters are crazy good.
+
+[22:31] So in the filter episode, we learned how we can have filter one go to filter two instead of going straight out.
+
+[22:36] So now they're in serial.
+
+[22:38] Sounds go to filter one and then they go to filter two and filter two.
+
+[22:41] I want to add one of those crazy filters.
+
+[22:43] That's probably going to add a lot to the sound.
+
+[22:45] So let's try an all pass real quick.
 
 [22:52] And let's route it to the cutoff.
 
-[23:02] There we go. This is making the sound a little too like it's using high-end so
+[22:59] Try this.
 
-[23:09] let's use the mix. Color on top. Okay let's see. Let's see if we can distort
+[23:02] There we go.
 
-[23:28] these guys in their individual channels with the distort feature. Let's try a
+[23:05] This is making the sound a little too like it's losing high end.
 
-[23:44] cool resonance here. Let's put it down. Well I like this but I don't like the
+[23:09] So let's use the mix.
 
-[23:50] shape. I'm looking for something particular. This is the best we get with
+[23:14] Color on top.
 
-[23:57] this. It's fine. It's fine. Cool. Let's see season two filters. Maybe there's
+[23:21] Okay, let's see.
 
-[24:06] something missing there we can use. Comb two. Let's try that. I heard that one's really crazy.
+[23:27] Let's see if we can distort these guys in their individual channels with the distort feature.
 
-[24:13] There we go. There's one more thing I want to try and I want to resample this
+[23:31] Let's try a sine fold.
 
-[24:17] sound by holding C. And then I'm gonna go here. Click. Drag out. And I'm gonna put
+[23:35] And then here too on this guy and see what happens there.
 
-[24:24] it into a spectral to see what happens. This is gonna be like the interesting
+[23:43] Cool.
 
-[24:29] layer. We're gonna do that. Can we do anything here? I know there's some
+[23:45] Resonance here.
 
-[24:36] presets we can use. Maybe we can find like a nice something cool. That sounds
+[23:45] Let's put it down.
 
-[24:44] kind of cool futuristic. Let's go now to the matrix. I'm gonna show you guys a
+[23:48] Cool.
 
-[24:51] cool trick. We can use envelope 3 there and then we can do a global master
+[23:48] I like this, but I don't like the shape.
 
-[24:55] tuning. This is something I saw in some webs where I was like oh shit. Like why
+[23:52] I'm looking for something particular.
 
-[24:59] didn't I think of that? We're gonna go from the bottom up. Unipolar one
+[23:56] If this is the best we get with this, it's fine.
 
-[25:02] direction. There we go.
+[23:59] It's fine.
 
-[25:10] Okay let's see maybe some attack. Go up a step. Let's make a re-space.
+[24:04] Cool.
 
-[25:27] We're gonna now use an envelope to give it more of a hit. Lower it down to this.
+[24:04] Let's see season two filters.
 
-[25:35] Long decay.
+[24:06] Maybe there's something missing there we can use.
 
-[25:38] Maybe one up an octave here.
+[24:08] Come to let's try that.
 
-[25:55] We go with one voice one voice and then fine-tune it a bit.
+[24:09] I heard that one's really crazy.
 
-[26:07] There we go. Now we can maybe add this another spectral sound wide.
+[24:13] There we go.
 
-[26:26] Let's route an envelope to the wavetable position. This is like getting
+[24:14] There's one more thing I want to try and I want to resample this sound by holding C.
 
-[26:30] experimental as heck but you never know.
+[24:20] And then I'm going to go here, click, drag out.
 
-[26:45] Let me show you guys some other nice sounds that I've been making. I've been
+[24:23] And I'm going to put it into a spectral to see what happens.
 
-[26:50] making Minimal Nights volume 3 for you guys. So I'm gonna create something very
+[24:27] This is going to be like the interesting layer.
 
-[26:54] flowy. I'm gonna be using a flute sound from the multi-sample and I'm gonna
+[24:30] We're going to do that.
 
-[26:59] teach you guys something cool. Let's go multi-sample or sample actually. I think
+[24:34] Can we do anything here?
 
-[27:04] we need like a pan flute. Let's see if they have it. Yep it's right here.
+[24:35] I know there's some presets we can use.
 
-[27:15] So what I like to do I'm gonna grab this guy bring it over here and then I'm
+[24:37] Maybe we can find like a nice.
 
-[27:20] gonna go here and we can turn it into a wavetable. I believe I switch to wavetable
+[24:40] Something cool.
 
-[27:27] and in here let's use 1024. Find a nice spot detune it. Let's use a filter on
+[24:44] That sounds kind of cool.
 
-[27:36] that wave to create a wide layer for this flute. Right-click or go here we're
+[24:45] Futuristic.
 
-[27:43] gonna normalize it just to get it loud. Now we create these type of sounds and
+[24:49] Let's go now to the matrix.
 
-[28:02] okay so nice nice nice to use with the facts it comes to life like you'll play
+[24:51] I'm going to show you guys a cool trick.
 
-[28:08] it's the delay reverb. Let me show you guys another sick sound we can use a
+[24:52] We can use Envelope 3 there and then we can do a global master tuning.
 
-[28:24] sine distortion and sine fold it and then just have it come from up down like
+[24:56] This is something I saw in some webs where I was like, oh, shit.
 
-[28:34] this. And of course acid sounds. So if we go here we can create acid sounds now
+[24:58] Like, why didn't I think of that?
 
-[28:55] high-resonance pull back saw to begin with envelope 2 and
+[25:00] We're going to go from the bottom up.
 
-[29:45] I guess so now you saw how envelopes can help us make pads leads wubs even growls
+[25:01] Unipolar one direction.
 
-[29:51] but in the next episode we're gonna get into LFOs which will help us bring these
+[25:05] There we go.
 
-[29:55] sounds to closer to that finish finish level. It's gonna allow us to do a lot of
+[25:10] OK, let's see.
 
-[29:59] really crazy stuff so make sure to tune in for that but with that being said you
+[25:11] Maybe some attack.
 
-[30:02] guys take care and I'll see you guys next time for another video you guys
+[25:13] Go up instead.
 
-[30:05] take care and have a great rest of your day!
+[25:16] There you go.
+
+[25:18] Let's make a re-space.
+
+[25:24] Play it.
+
+[25:28] We're going to now use an envelope to give it more of a hit.
+
+[25:32] Lower it down to this.
+
+[25:33] Long decay.
+
+[25:36] Let's add more saws.
+
+[25:39] Maybe one up an octave here.
+
+[25:55] We go with one voice, one voice.
+
+[25:57] And then fine tune it a bit.
+
+[26:07] There we go.
+
+[26:08] Now we can maybe add another spectral sound wide.
+
+[26:13] 
+
+[26:26] Let's route an envelope to the wavetable position.
+
+[26:29] This is like getting experimental as heck, but you never know.
+
+[26:45] Let me show you guys some other nice sounds that I've been making.
+
+[26:49] I've been practicing because I've been making Minimal Nights Volume 3 for you guys.
+
+[26:52] So I'm going to create something very flowy.
+
+[26:55] I'm going to be using a flute sound from the multi-sample.
+
+[26:59] I'm going to teach you guys something cool.
+
+[27:01] Let's go multi-sample or sample.
+
+[27:03] Actually, I think we need like a pan flute.
+
+[27:07] Let's see if they have it.
+
+[27:08] Yep, it's right here.
+
+[27:15] So what I like to do, I'm going to grab this guy, bring it over here.
+
+[27:19] And then I'm going to go here and we can turn it into a wavetable.
+
+[27:25] I believe by switch to wavetable and in here, let's use 1024.
+
+[27:30] Find a nice spot, detune it.
+
+[27:35] Let's use a filter on that wave to create a wide layer for this flute.
+
+[27:42] Right click or go here.
+
+[27:43] We're going to normalize it.
+
+[27:46] Just to get it loud.
+
+[27:49] Now we create these type of sounds.
+
+[28:02] Okay, so nice to use.
+
+[28:04] With effects, it comes to life like you'll play.
+
+[28:08] It's delay, reverb.
+
+[28:14] It's quiet.
+
+[28:21] Let me show you guys another sick sound.
+
+[28:23] We can use a sine distortion and sine fold it.
+
+[28:31] And then just have it come from up down like this.
+
+[28:35] Slow, slow.
+
+[28:39] And let's omit out the low end.
+
+[28:50] And of course, acid sounds.
+
+[28:52] So if we go here, we can create acid sounds now.
+
+[28:55] High resonance, pull back.
+
+[28:58] Saw to begin with, envelope 2.
+
+[29:00] And.
+
+[29:45] All right.
+
+[29:46] So now you saw how envelopes can help us make pads, leads, wubs, even growls.
+
+[29:51] But in the next episode, we're going to get into LFOs, which will help us bring these sounds to closer to that finish, finish level.
+
+[29:58] It's going to allow us to do a lot of really crazy stuff, so make sure to tune in for that.
+
+[30:01] But with that being said, you guys take care and I'll see you guys next time for another video.
+
+[30:04] You guys take care and have a great rest of your day.
 

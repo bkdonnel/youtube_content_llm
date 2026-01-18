@@ -553,151 +553,119 @@ Duration: 24.5 minutes
 
 [16:20] So let's just play something.
 
-[16:34] So.
+[16:28] Let's play something.
 
-[16:52] So at the release.
+[16:52] Slower the release.
 
 [16:59] As you can see, too much
 
-[17:02] change, it's a little bad, right?
+[17:02] change. It's a little bad, right? So why don't we go into the matrix,
 
-[17:04] So why don't we go into the matrix,
+[17:06] into the auxiliary source here and change the curve.
 
-[17:06] into the auxiliary source here and change the curve?
+[17:31] Cue it up a bit.
 
-[17:22] I'm going to be clean about it.
+[17:37] And lower.
 
-[17:52] But some reverb.
+[17:47] I'm gonna be clean about it.
+
+[17:57] Put some reverb.
 
 [18:02] Go vintage.
 
-[18:08] Steve, change that.
+[18:07] Lower the depth. Steve, change that.
 
-[18:13] OK, cool.
+[18:13] Okay, cool. We got a dope sound and now macros being added here.
 
-[18:14] And we got a dope sound and now macros being added here.
+[18:21] Let's play with the velocity. We're gonna have everything low for now.
 
-[18:21] Let's play with the velocity.
+[18:24] So now we're gonna set the low velocity. I'm gonna set this down like so
 
-[18:22] We're going to have everything low for now.
+[18:28] and maybe have it go straight up here.
 
-[18:24] So now we're going to set the low velocity.
+[18:32] Okay, and then I'm gonna add an envelope.
 
-[18:26] I'm going to set this down like so and maybe have it go straight up here.
+[18:37] Okay, high resonance.
 
-[18:32] OK, and then I'm going to add an envelope.
+[18:42] Now I want to create the accent. So when there's an accent, that means that the velocity is going
 
-[18:37] I residence.
+[18:46] to go up. Accent is just going to emphasize. So we're going to add it to the cutoff here.
 
-[18:42] Now I want to create the accent, so when there's an accident,
+[18:51] So now the high notes, I'm actually going to have them go up. There you go.
 
-[18:45] that means that the velocity is going to go up.
+[18:57] And then we'll do these.
 
-[18:47] Accent is just going to emphasize.
+[19:09] So I'm gonna add mono legato. I'm gonna create the iconic light that the acid sounds have.
 
-[18:48] So we're going to add it to the cutoff here.
+[19:15] I'm gonna set a curve. I'm gonna set the curve like this for now.
 
-[18:51] So now the high notes, I'm actually going to have them go up.
+[19:18] And I'm gonna overlap the notes where I want to create a slide.
 
-[18:54] There you go.
+[19:23] Like that and then portamento.
 
-[18:57] And then we'll do this.
+[19:31] Like so.
 
-[19:10] So I'm going to add mono legato.
-
-[19:11] I want to I'm going to create the iconic light that the acid sounds have.
-
-[19:16] And I'm going to set a curve.
-
-[19:16] I'm going to set the curve like this for now.
-
-[19:18] And I'm going to overlap the notes where I want to create a slide
-
-[19:23] like that and then put them in.
-
-[19:31] So.
-
-[19:32] Oh, oh, oh.
-
-[19:39] There is a change that occurs.
-
-[19:41] Keep that in mind. I am testing that out.
+[19:38] There is a change that occurs. Keep that in mind. I am testing that out.
 
 [19:44] The velocity higher up.
 
-[19:47] I'm also going to increase the decay a bit, so it stays up longer.
+[19:47] I'm also going to increase the decay a bit so it stays up longer.
 
-[19:53] It's that some distortion now.
+[19:53] Let's add some distortion now.
 
-[19:56] Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh.
+[20:00] Let's use the pre and remove low end.
 
-[20:00] So she's a pre and remove low end.
+[20:08] Let's increase the volume a bit and also add the velocity.
 
-[20:08] So.
+[20:17] Now let's tighten this up more.
 
-[20:08] This is a piece of volume a bit
+[20:27] We can make the sound so much better.
 
-[20:10] and also at the.
+[20:41] Just gotta put in the work.
 
-[20:12] Velocity.
-
-[20:17] Now, let's tighten this up.
-
-[20:25] Velocity on the decay if needed.
-
-[20:32] So.
-
-[20:39] We make this sound so much better, just got to put in the work like let's make
-
-[20:45] and I'm also going to let's see.
-
-[20:47] So we got three and maybe goes higher.
-
-[20:51] I'll try making them all three.
-
-[20:54] The decay of it, the velocity dependent as well.
+[20:42] Let's make the decay of it be velocity dependent as well.
 
 [20:58] Let's play with the curve a bit.
 
-[21:04] And now we've got to start a little higher up.
+[21:04] But now we gotta start a little higher up.
 
 [21:08] That was a bad idea because now there's way too much control.
 
-[21:20] That's a little shorter.
+[21:13] Let's give it a bit.
 
-[21:31] Let's play around with other forms of distortion.
+[21:20] That's in the way.
 
-[21:43] The delay was cool, but it was way too much.
+[21:24] Cue. That's a little shorter.
+
+[21:31] Play around with other parts of the distortion.
+
+[21:43] The delay was cool but it was way too much.
 
 [22:04] It's getting there.
 
-[22:07] Let's see the decay value, maybe more.
+[22:07] Let's see the decay value maybe more.
 
-[22:14] Again, velocity is running a lot of stuff, so let's maybe ease up a bit on it.
+[22:14] Again, velocity is riding a lot of stuff so let's maybe ease up a bit on it.
 
-[23:07] Remember, the tonality is also very important.
+[22:44] Let's use the saw shape too because remember the tonality is also very important.
 
 [23:13] Let's try maybe like we got this.
 
-[23:30] Slow.
+[23:28] Put delay before distortion.
 
-[23:36] Put the delay before distortion.
+[23:47] I'll play with the velocity.
 
-[23:49] I'll play with the velocity.
+[23:55] Energy transfer.
 
-[23:56] Energy transfer.
+[24:03] Click. Here let's get rid of the legato.
 
-[24:05] Let's get rid of the legato.
+[24:13] So now you know what to do with your velocity, your note, your matrix, how to grab presets
 
-[24:13] So now you know what to do with your velocity, your note, your matrix,
+[24:18] and add that touch to them so that you can create movement to the sound and make your
 
-[24:17] how to grab presets and add that touch to them so that you can create movement to the sound
+[24:22] tracks feel less static.
 
-[24:21] and make your tracks feel less static.
+[24:23] With that being said, you guys take care and if you guys are enjoying the series, make
 
-[24:23] With that being said, you guys take care.
-
-[24:25] And if you guys are enjoying the series, make sure to subscribe
-
-[24:27] and I'll catch you guys next time for another video.
+[24:26] sure to subscribe and I'll catch you guys next time for another video.
 

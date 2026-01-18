@@ -1,0 +1,95 @@
+Video: If you can learn 1 MIXING trick today, Learn this! (phantom loudness)
+URL: https://www.youtube.com/watch?v=bPtZ_4ZpEL0
+Duration: 5.0 minutes
+================================================================================
+
+[00:00] You are here for a ride today. One of these is louder than other. Can you hear it?
+
+[00:16] So how can you make something clearly louder without turning it up? If you are looking at
+
+[00:21] compressors or the volume faders, don't. This is what I call phantom loudness. It is created by
+
+[00:26] adding something your ears can hear, but your meters barely can see. You are watching my series
+
+[00:31] if you can learn one music production trick today, learn this. And today we learn phantom loudness.
+
+[00:37] This is a visualization that I built for you. This illustrates really nice. This is the amount
+
+[00:42] of extra colors that you add with saturation. These are bass, body and lead. The good thing
+
+[00:48] about saturation is you can decide how much you can add. How many extra bubbles there will be
+
+[00:52] inside your jars and instrument. And this add a little bit saturation. Bubbles, extras inside those jars.
+
+[01:00] So what happens? These bubbles, saturation add up. Leading to this much more colorful,
+
+[01:06] fuller jar. Hence the phantom loudness. Listen to this.
+
+[01:16] Gorgeous right? But it lacks a bit of loudness, a bit fullness, a bit depth. And all this can be
+
+[01:21] achieved with single trick. And this is the targeted saturation to achieve the phantom loudness.
+
+[01:27] I'm gonna copy exactly the same loop here. And we're gonna attack each element to create
+
+[01:32] certain enhancement. First, long end. I want to glue bass and kick, but also a bit oomph by adding saturation.
+
+[01:40] I know some people complain that I use a lot of different audio effects plugins, but the reason
+
+[01:43] for this, I really want to show you my own workflow. The things that I use every day. So you don't feel
+
+[01:48] I am hiding information from you okay? For this one, we're gonna go low. Pentode sounds a bit
+
+[01:54] too dirty for low end. So we're gonna bring down the pentode and try out, but keep saturation.
+
+[02:02] Without. With. If you think you're gonna try this, please consider like and subscribe. And I promise
+
+[02:09] I will make more videos like this. And we can always check our peaks. So we keep the same peaks okay?
+
+[02:15] Without. With. If anything, we are actually a bit below the previous peak level. You hear how subtle
+
+[02:23] it is. It doesn't matter. You will see how much difference it will make later. Then we have
+
+[02:27] percussion group. Sounds like this. Now for this one, I'm gonna use roar. So that I can use stereo
+
+[02:34] saturation. Stage one. Stage two. Compress a bit. Let's adjust the levels by output here.
+
+[02:49] For the hats, I really liked this sizzle feel of exciter from Ozone. I'm gonna oversample.
+
+[02:55] This is another reason I use actually on this one on the hats. Retro.
+
+[03:03] And the rest tried.
+
+[03:08] Adjust the peaks.
+
+[03:14] And you have these pads.
+
+[03:19] Only thing that I can think is tape. This wobbly tape sound on top.
+
+[03:30] Without tape. With tape.
+
+[03:33] Yep. Same. Now there is also high bells, but high bells already has a bit pedals on them.
+
+[03:39] So they are quite distortions. Again, we only add the saturation at the places we think it will make
+
+[03:44] difference. Even though it is subtle. And my final take is adding glue saturation on top of everything.
+
+[03:52] We are on the flat saturation. Time to tone down a little bit. Try it. And bring the mix to
+
+[04:01] something like this. So it's a parallel saturation. Adjust the peaks one more time.
+
+[04:07] Without. With.
+
+[04:11] Again, our peaks are actually less than before. Moment of truth.
+
+[04:15] Let's do an A B. And to make sure that we are in the same saturation levels. Original.
+
+[04:23] Saturated. So we see. Saturated. Original. Here how not only the loudness changed,
+
+[04:31] but perceived depth of the track also changed. And things started sound cleaner. And less A B now.
+
+[04:49] The old version almost sounds like claustrophobic, isn't it? If you learn more about mixing,
+
+[04:54] check out my mixing and mastering masterclass. Or if you want to stay here and learn more about
+
+[04:58] pro production, check out here.
+

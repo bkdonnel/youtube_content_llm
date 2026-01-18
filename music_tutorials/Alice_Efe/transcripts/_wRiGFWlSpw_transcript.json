@@ -1,0 +1,7217 @@
+{
+  "video_id": "_wRiGFWlSpw",
+  "title": "The \"Glue\" Your Mix Has Been Missing.",
+  "url": "https://www.youtube.com/watch?v=_wRiGFWlSpw",
+  "duration": 432,
+  "upload_date": "20250925",
+  "transcript": {
+    "text": "What is this one technique that you will literally find in every pro producers project files? Is it some secret thousand dollar plugin or a complex mastering chain that they don't talk about? What if I told you it's a simple feature that has been in your DAW for entire time and it is the real key for creating space, cohesion and effortless control over your mix. To help you understand what is going under the hood, I created these bouncy balls so you can clearly see by it. Let's go! In most DAWs you will see these. These are called return channels. If you put a simple way, you have an audio track, direct signal output of that track goes to your master channel but you can also send a percentage of that sound into another processing track, we call it return track and process that and send it to the master channel as well. But why is that important? Balls return channels and process them together. Let's start! This is our return channel. You can send bass, you can send drums, you can send synth, you can send your effects. This becomes especially important when you are using reverbs and delays, spatial effects. That means now all these different type of instruments and sounds, they start to live in same space. This is the number one reason that will immediately glue your mixes. Reason number two, this gives you immediate control over the balance of your return channel, balance of the effects. Do you want drums to be less wet? You can decrease it immediately by controlling the send. You don't want bass in your reverb? Remove it. You want more synths and less effects? You have it. You can test many different variations in your send levels extremely fast. Think if you have 10 different reverbs, 10 different delays in different channels, you are no way able to do it as efficient like you will do other way. Reason number three, you can control the frequency response of your returns, of your spatial effects by EQing your return channel. Meaning that let's say I don't want the muddiness on the low, I can low pass. I want to let give the hi-hat to pass, I can high pass. Now I immediately by using single EQ the control where I focus with my effects where it matters. Reason number four, you can color differently each of these with effects inside your channel. Reason number five, this is really important for modern mixes. You can create spaces for your dry signals in your wet return extremely easily. If you have let's say I have vocals here, I need space in my reverbs and delay. You can something like a belly cue, cut a little bit there, maybe a bit wider, something like this. Now I cut out the space on my reverbs delays and my dry signals can pop in my mix much better. There is even a way to do it more actively. I will show you in a second. So let's jump to the project file and I can show you in audio form too. Enjoying the video, please consider like and I promise I will give you more videos like this. Listen to this. Apart from the vocal and lips, everything is dry and using returns doesn't mean that you always have to have returns. For color meaning for this vocal, we definitely using on the channel. But the rest, the rest goes to the return. Let's start with creating a tight room. For our and synths. Tight room means small reverb. Return channel, tight room. Use anything that you like. It doesn't matter. 100% wet, right? Let's send drums, percussions, synths over there to create the ambience. Solo this, hats, very small room, clap. Let's add a little bit synth. First focus. Do you hear how everything sits inside the room? This immediately glues everything. Then I wanna curve this sound. Warm it up a bit. But I want it also a bit stereo. So let's create a side to the sides and boost those highs. Open up the reverb a little bit. That space. Now listen. Immediate glue between elements. But this was the first effects. Let's create a hole and send stuff there as well. The same idea. This time we have a bigger reverb. First thing here, the levels are different now. Now the synths are in the beginning. Drums are really on the back. The whole feel is elevated for the main elements. Now process them together. Saturate it. Contain it. Make the low mids more focused. Decrease the stereo width below like 300 hertz. Do you remember that I talked to you about creating a space for your elements in your return channel? For me, this melody. Extremely important. So I'm gonna create a dynamic spacing option. Which means that I can take something like suit, sidechain to the synth itself and start ducking those frequencies from the effects. And final, because it's a long effects, I wanna feel the groove. I can sidechain it to kick. Now all is applied to my whole mix. Listen. Without the effects. It is warm. It's just like it glues everything together. Makes you feel the ambience. We can create a slap delay for our percussions. EQ out. Really cool. And maybe one final delay to our melody. And maybe our chords. And hear how whole song comes together. Glued together. We created depth and cohesion. And remember, for me, controlling these different spaces is easy as moving this fader down. Too much hold. Bring it down. Too little room. Bring it up. That simple. If you want to go deeper in the mixing, mastering or music production itself, check out my courses on Choruses, MercuryTones.com. But if you want to stay here, learn more about pro music production, check here.",
+    "language": "english",
+    "duration": 432.4200134277344,
+    "segments": [
+      {
+        "id": 0,
+        "avg_logprob": -0.26266226172447205,
+        "compression_ratio": 1.6228374242782593,
+        "end": 4.480000019073486,
+        "no_speech_prob": 0.001685282331891358,
+        "seek": 0,
+        "start": 0.0,
+        "temperature": 0.0,
+        "text": " What is this one technique that you will literally find in every pro producers project",
+        "tokens": [
+          50364,
+          708,
+          307,
+          341,
+          472,
+          6532,
+          300,
+          291,
+          486,
+          3736,
+          915,
+          294,
+          633,
+          447,
+          16080,
+          1716,
+          50584
+        ]
+      },
+      {
+        "id": 1,
+        "avg_logprob": -0.26266226172447205,
+        "compression_ratio": 1.6228374242782593,
+        "end": 10.020000457763672,
+        "no_speech_prob": 0.001685282331891358,
+        "seek": 0,
+        "start": 4.480000019073486,
+        "temperature": 0.0,
+        "text": " files? Is it some secret thousand dollar plugin or a complex mastering chain that they don't talk",
+        "tokens": [
+          50584,
+          7098,
+          30,
+          1119,
+          309,
+          512,
+          4054,
+          4714,
+          7241,
+          23407,
+          420,
+          257,
+          3997,
+          49382,
+          5021,
+          300,
+          436,
+          500,
+          380,
+          751,
+          50860
+        ]
+      },
+      {
+        "id": 2,
+        "avg_logprob": -0.26266226172447205,
+        "compression_ratio": 1.6228374242782593,
+        "end": 15.140000343322754,
+        "no_speech_prob": 0.001685282331891358,
+        "seek": 0,
+        "start": 10.020000457763672,
+        "temperature": 0.0,
+        "text": " about? What if I told you it's a simple feature that has been in your DAW for entire time and",
+        "tokens": [
+          50860,
+          466,
+          30,
+          708,
+          498,
+          286,
+          1907,
+          291,
+          309,
+          311,
+          257,
+          2199,
+          4111,
+          300,
+          575,
+          668,
+          294,
+          428,
+          9578,
+          54,
+          337,
+          2302,
+          565,
+          293,
+          51120
+        ]
+      },
+      {
+        "id": 3,
+        "avg_logprob": -0.26266226172447205,
+        "compression_ratio": 1.6228374242782593,
+        "end": 21.399999618530273,
+        "no_speech_prob": 0.001685282331891358,
+        "seek": 0,
+        "start": 15.140000343322754,
+        "temperature": 0.0,
+        "text": " it is the real key for creating space, cohesion and effortless control over your mix. To help",
+        "tokens": [
+          51120,
+          309,
+          307,
+          264,
+          957,
+          2141,
+          337,
+          4084,
+          1901,
+          11,
+          598,
+          38571,
+          293,
+          4630,
+          1832,
+          1969,
+          670,
+          428,
+          2890,
+          13,
+          1407,
+          854,
+          51424
+        ]
+      },
+      {
+        "id": 4,
+        "avg_logprob": -0.26266226172447205,
+        "compression_ratio": 1.6228374242782593,
+        "end": 26.68000030517578,
+        "no_speech_prob": 0.001685282331891358,
+        "seek": 0,
+        "start": 21.399999618530273,
+        "temperature": 0.0,
+        "text": " you understand what is going under the hood, I created these bouncy balls so you can clearly see",
+        "tokens": [
+          51424,
+          291,
+          1223,
+          437,
+          307,
+          516,
+          833,
+          264,
+          13376,
+          11,
+          286,
+          2942,
+          613,
+          49704,
+          9803,
+          370,
+          291,
+          393,
+          4448,
+          536,
+          51692
+        ]
+      },
+      {
+        "id": 5,
+        "avg_logprob": -0.260354608297348,
+        "compression_ratio": 1.651260495185852,
+        "end": 34.0,
+        "no_speech_prob": 0.046572472900152206,
+        "seek": 2668,
+        "start": 26.68000030517578,
+        "temperature": 0.0,
+        "text": " by it. Let's go! In most DAWs you will see these. These are called return channels. If you put a",
+        "tokens": [
+          50412,
+          538,
+          309,
+          13,
+          961,
+          311,
+          352,
+          0,
+          682,
+          881,
+          9578,
+          54,
+          82,
+          291,
+          486,
+          536,
+          613,
+          13,
+          1981,
+          366,
+          1219,
+          2736,
+          9235,
+          13,
+          759,
+          291,
+          829,
+          257,
+          50724
+        ]
+      },
+      {
+        "id": 6,
+        "avg_logprob": -0.260354608297348,
+        "compression_ratio": 1.651260495185852,
+        "end": 38.70000076293945,
+        "no_speech_prob": 0.046572472900152206,
+        "seek": 2668,
+        "start": 34.0,
+        "temperature": 0.0,
+        "text": " simple way, you have an audio track, direct signal output of that track goes to your master channel",
+        "tokens": [
+          50724,
+          2199,
+          636,
+          11,
+          291,
+          362,
+          364,
+          6278,
+          2837,
+          11,
+          2047,
+          6358,
+          5598,
+          295,
+          300,
+          2837,
+          1709,
+          281,
+          428,
+          4505,
+          2269,
+          50964
+        ]
+      },
+      {
+        "id": 7,
+        "avg_logprob": -0.260354608297348,
+        "compression_ratio": 1.651260495185852,
+        "end": 44.52000045776367,
+        "no_speech_prob": 0.046572472900152206,
+        "seek": 2668,
+        "start": 38.70000076293945,
+        "temperature": 0.0,
+        "text": " but you can also send a percentage of that sound into another processing track, we call it return",
+        "tokens": [
+          50964,
+          457,
+          291,
+          393,
+          611,
+          2845,
+          257,
+          9668,
+          295,
+          300,
+          1626,
+          666,
+          1071,
+          9007,
+          2837,
+          11,
+          321,
+          818,
+          309,
+          2736,
+          51252
+        ]
+      },
+      {
+        "id": 8,
+        "avg_logprob": -0.260354608297348,
+        "compression_ratio": 1.651260495185852,
+        "end": 56.65999984741211,
+        "no_speech_prob": 0.046572472900152206,
+        "seek": 2668,
+        "start": 44.52000045776367,
+        "temperature": 0.0,
+        "text": " track and process that and send it to the master channel as well. But why is that important? Balls",
+        "tokens": [
+          51252,
+          2837,
+          293,
+          1399,
+          300,
+          293,
+          2845,
+          309,
+          281,
+          264,
+          4505,
+          2269,
+          382,
+          731,
+          13,
+          583,
+          983,
+          307,
+          300,
+          1021,
+          30,
+          10744,
+          82,
+          51552
+        ]
+      },
+      {
+        "id": 9,
+        "avg_logprob": -0.2634618878364563,
+        "compression_ratio": 1.755555510520935,
+        "end": 61.47999954223633,
+        "no_speech_prob": 0.24774818122386932,
+        "seek": 5666,
+        "start": 56.65999984741211,
+        "temperature": 0.0,
+        "text": " return channels and process them together. Let's start! This is our return channel. You can send",
+        "tokens": [
+          50364,
+          2736,
+          9235,
+          293,
+          1399,
+          552,
+          1214,
+          13,
+          961,
+          311,
+          722,
+          0,
+          639,
+          307,
+          527,
+          2736,
+          2269,
+          13,
+          509,
+          393,
+          2845,
+          50608
+        ]
+      },
+      {
+        "id": 10,
+        "avg_logprob": -0.2634618878364563,
+        "compression_ratio": 1.755555510520935,
+        "end": 68.0199966430664,
+        "no_speech_prob": 0.24774818122386932,
+        "seek": 5666,
+        "start": 61.47999954223633,
+        "temperature": 0.0,
+        "text": " bass, you can send drums, you can send synth, you can send your effects. This becomes especially",
+        "tokens": [
+          50608,
+          10136,
+          11,
+          291,
+          393,
+          2845,
+          20420,
+          11,
+          291,
+          393,
+          2845,
+          10657,
+          11,
+          291,
+          393,
+          2845,
+          428,
+          5065,
+          13,
+          639,
+          3643,
+          2318,
+          50932
+        ]
+      },
+      {
+        "id": 11,
+        "avg_logprob": -0.2634618878364563,
+        "compression_ratio": 1.755555510520935,
+        "end": 75.22000122070312,
+        "no_speech_prob": 0.24774818122386932,
+        "seek": 5666,
+        "start": 68.08000183105469,
+        "temperature": 0.0,
+        "text": " important when you are using reverbs and delays, spatial effects. That means now all these different",
+        "tokens": [
+          50932,
+          1021,
+          562,
+          291,
+          366,
+          1228,
+          18438,
+          929,
+          293,
+          28610,
+          11,
+          637,
+          6908,
+          304,
+          5065,
+          13,
+          663,
+          1355,
+          586,
+          439,
+          613,
+          819,
+          51288
+        ]
+      },
+      {
+        "id": 12,
+        "avg_logprob": -0.2634618878364563,
+        "compression_ratio": 1.755555510520935,
+        "end": 81.19999694824219,
+        "no_speech_prob": 0.24774818122386932,
+        "seek": 5666,
+        "start": 75.22000122070312,
+        "temperature": 0.0,
+        "text": " type of instruments and sounds, they start to live in same space. This is the number one reason that",
+        "tokens": [
+          51288,
+          2010,
+          295,
+          12190,
+          293,
+          3263,
+          11,
+          436,
+          722,
+          281,
+          1621,
+          294,
+          912,
+          1901,
+          13,
+          639,
+          307,
+          264,
+          1230,
+          472,
+          1778,
+          300,
+          51588
+        ]
+      },
+      {
+        "id": 13,
+        "avg_logprob": -0.19681766629219055,
+        "compression_ratio": 1.826923131942749,
+        "end": 88.44000244140625,
+        "no_speech_prob": 0.025132639333605766,
+        "seek": 8120,
+        "start": 81.19999694824219,
+        "temperature": 0.0,
+        "text": " will immediately glue your mixes. Reason number two, this gives you immediate control over the",
+        "tokens": [
+          50364,
+          486,
+          4258,
+          8998,
+          428,
+          37121,
+          13,
+          39693,
+          1230,
+          732,
+          11,
+          341,
+          2709,
+          291,
+          11629,
+          1969,
+          670,
+          264,
+          50720
+        ]
+      },
+      {
+        "id": 14,
+        "avg_logprob": -0.19681766629219055,
+        "compression_ratio": 1.826923131942749,
+        "end": 93.94000244140625,
+        "no_speech_prob": 0.025132639333605766,
+        "seek": 8120,
+        "start": 88.5999984741211,
+        "temperature": 0.0,
+        "text": " balance of your return channel, balance of the effects. Do you want drums to be less wet? You",
+        "tokens": [
+          50720,
+          4772,
+          295,
+          428,
+          2736,
+          2269,
+          11,
+          4772,
+          295,
+          264,
+          5065,
+          13,
+          1144,
+          291,
+          528,
+          20420,
+          281,
+          312,
+          1570,
+          6630,
+          30,
+          509,
+          50996
+        ]
+      },
+      {
+        "id": 15,
+        "avg_logprob": -0.19681766629219055,
+        "compression_ratio": 1.826923131942749,
+        "end": 98.05999755859375,
+        "no_speech_prob": 0.025132639333605766,
+        "seek": 8120,
+        "start": 93.94000244140625,
+        "temperature": 0.0,
+        "text": " can decrease it immediately by controlling the send. You don't want bass in your reverb? Remove",
+        "tokens": [
+          50996,
+          393,
+          11514,
+          309,
+          4258,
+          538,
+          14905,
+          264,
+          2845,
+          13,
+          509,
+          500,
+          380,
+          528,
+          10136,
+          294,
+          428,
+          41829,
+          30,
+          18831,
+          51204
+        ]
+      },
+      {
+        "id": 16,
+        "avg_logprob": -0.19681766629219055,
+        "compression_ratio": 1.826923131942749,
+        "end": 103.5199966430664,
+        "no_speech_prob": 0.025132639333605766,
+        "seek": 8120,
+        "start": 98.05999755859375,
+        "temperature": 0.0,
+        "text": " it. You want more synths and less effects? You have it. You can test many different variations",
+        "tokens": [
+          51204,
+          309,
+          13,
+          509,
+          528,
+          544,
+          10657,
+          82,
+          293,
+          1570,
+          5065,
+          30,
+          509,
+          362,
+          309,
+          13,
+          509,
+          393,
+          1500,
+          867,
+          819,
+          17840,
+          51492
+        ]
+      },
+      {
+        "id": 17,
+        "avg_logprob": -0.19681766629219055,
+        "compression_ratio": 1.826923131942749,
+        "end": 108.5199966430664,
+        "no_speech_prob": 0.025132639333605766,
+        "seek": 8120,
+        "start": 103.54000091552734,
+        "temperature": 0.0,
+        "text": " in your send levels extremely fast. Think if you have 10 different reverbs, 10 different delays",
+        "tokens": [
+          51492,
+          294,
+          428,
+          2845,
+          4358,
+          4664,
+          2370,
+          13,
+          6557,
+          498,
+          291,
+          362,
+          1266,
+          819,
+          18438,
+          929,
+          11,
+          1266,
+          819,
+          28610,
+          51728
+        ]
+      },
+      {
+        "id": 18,
+        "avg_logprob": -0.25043249130249023,
+        "compression_ratio": 1.6311475038528442,
+        "end": 113.83999633789062,
+        "no_speech_prob": 0.01131991297006607,
+        "seek": 10852,
+        "start": 108.5199966430664,
+        "temperature": 0.0,
+        "text": " in different channels, you are no way able to do it as efficient like you will do other way. Reason",
+        "tokens": [
+          50364,
+          294,
+          819,
+          9235,
+          11,
+          291,
+          366,
+          572,
+          636,
+          1075,
+          281,
+          360,
+          309,
+          382,
+          7148,
+          411,
+          291,
+          486,
+          360,
+          661,
+          636,
+          13,
+          39693,
+          50624
+        ]
+      },
+      {
+        "id": 19,
+        "avg_logprob": -0.25043249130249023,
+        "compression_ratio": 1.6311475038528442,
+        "end": 120.4000015258789,
+        "no_speech_prob": 0.01131991297006607,
+        "seek": 10852,
+        "start": 113.83999633789062,
+        "temperature": 0.0,
+        "text": " number three, you can control the frequency response of your returns, of your spatial effects by EQing",
+        "tokens": [
+          50624,
+          1230,
+          1045,
+          11,
+          291,
+          393,
+          1969,
+          264,
+          7893,
+          4134,
+          295,
+          428,
+          11247,
+          11,
+          295,
+          428,
+          637,
+          6908,
+          304,
+          5065,
+          538,
+          33580,
+          278,
+          50952
+        ]
+      },
+      {
+        "id": 20,
+        "avg_logprob": -0.25043249130249023,
+        "compression_ratio": 1.6311475038528442,
+        "end": 125.41999816894531,
+        "no_speech_prob": 0.01131991297006607,
+        "seek": 10852,
+        "start": 120.4000015258789,
+        "temperature": 0.0,
+        "text": " your return channel. Meaning that let's say I don't want the muddiness on the low, I can low pass. I",
+        "tokens": [
+          50952,
+          428,
+          2736,
+          2269,
+          13,
+          19948,
+          300,
+          718,
+          311,
+          584,
+          286,
+          500,
+          380,
+          528,
+          264,
+          8933,
+          67,
+          1324,
+          322,
+          264,
+          2295,
+          11,
+          286,
+          393,
+          2295,
+          1320,
+          13,
+          286,
+          51200
+        ]
+      },
+      {
+        "id": 21,
+        "avg_logprob": -0.25043249130249023,
+        "compression_ratio": 1.6311475038528442,
+        "end": 131.24000549316406,
+        "no_speech_prob": 0.01131991297006607,
+        "seek": 10852,
+        "start": 125.41999816894531,
+        "temperature": 0.0,
+        "text": " want to let give the hi-hat to pass, I can high pass. Now I immediately by using single EQ the",
+        "tokens": [
+          51200,
+          528,
+          281,
+          718,
+          976,
+          264,
+          4879,
+          12,
+          15178,
+          281,
+          1320,
+          11,
+          286,
+          393,
+          1090,
+          1320,
+          13,
+          823,
+          286,
+          4258,
+          538,
+          1228,
+          2167,
+          33580,
+          264,
+          51500
+        ]
+      },
+      {
+        "id": 22,
+        "avg_logprob": -0.1976931095123291,
+        "compression_ratio": 1.674008846282959,
+        "end": 137.72000122070312,
+        "no_speech_prob": 0.3200489282608032,
+        "seek": 13128,
+        "start": 131.27999877929688,
+        "temperature": 0.0,
+        "text": " control where I focus with my effects where it matters. Reason number four, you can color",
+        "tokens": [
+          50364,
+          1969,
+          689,
+          286,
+          1879,
+          365,
+          452,
+          5065,
+          689,
+          309,
+          7001,
+          13,
+          39693,
+          1230,
+          1451,
+          11,
+          291,
+          393,
+          2017,
+          50688
+        ]
+      },
+      {
+        "id": 23,
+        "avg_logprob": -0.1976931095123291,
+        "compression_ratio": 1.674008846282959,
+        "end": 143.63999938964844,
+        "no_speech_prob": 0.3200489282608032,
+        "seek": 13128,
+        "start": 137.8800048828125,
+        "temperature": 0.0,
+        "text": " differently each of these with effects inside your channel. Reason number five, this is really",
+        "tokens": [
+          50688,
+          7614,
+          1184,
+          295,
+          613,
+          365,
+          5065,
+          1854,
+          428,
+          2269,
+          13,
+          39693,
+          1230,
+          1732,
+          11,
+          341,
+          307,
+          534,
+          50984
+        ]
+      },
+      {
+        "id": 24,
+        "avg_logprob": -0.1976931095123291,
+        "compression_ratio": 1.674008846282959,
+        "end": 150.33999633789062,
+        "no_speech_prob": 0.3200489282608032,
+        "seek": 13128,
+        "start": 143.63999938964844,
+        "temperature": 0.0,
+        "text": " important for modern mixes. You can create spaces for your dry signals in your wet return extremely",
+        "tokens": [
+          50984,
+          1021,
+          337,
+          4363,
+          37121,
+          13,
+          509,
+          393,
+          1884,
+          7673,
+          337,
+          428,
+          4016,
+          12354,
+          294,
+          428,
+          6630,
+          2736,
+          4664,
+          51316
+        ]
+      },
+      {
+        "id": 25,
+        "avg_logprob": -0.1976931095123291,
+        "compression_ratio": 1.674008846282959,
+        "end": 156.47999572753906,
+        "no_speech_prob": 0.3200489282608032,
+        "seek": 13128,
+        "start": 150.33999633789062,
+        "temperature": 0.0,
+        "text": " easily. If you have let's say I have vocals here, I need space in my reverbs and delay. You can",
+        "tokens": [
+          51316,
+          3612,
+          13,
+          759,
+          291,
+          362,
+          718,
+          311,
+          584,
+          286,
+          362,
+          28441,
+          510,
+          11,
+          286,
+          643,
+          1901,
+          294,
+          452,
+          18438,
+          929,
+          293,
+          8577,
+          13,
+          509,
+          393,
+          51624
+        ]
+      },
+      {
+        "id": 26,
+        "avg_logprob": -0.22265028953552246,
+        "compression_ratio": 1.5897436141967773,
+        "end": 161.75999450683594,
+        "no_speech_prob": 0.14365504682064056,
+        "seek": 15672,
+        "start": 157.27999877929688,
+        "temperature": 0.0,
+        "text": " something like a belly cue, cut a little bit there, maybe a bit wider, something like this.",
+        "tokens": [
+          50392,
+          746,
+          411,
+          257,
+          11696,
+          22656,
+          11,
+          1723,
+          257,
+          707,
+          857,
+          456,
+          11,
+          1310,
+          257,
+          857,
+          11842,
+          11,
+          746,
+          411,
+          341,
+          13,
+          50624
+        ]
+      },
+      {
+        "id": 27,
+        "avg_logprob": -0.22265028953552246,
+        "compression_ratio": 1.5897436141967773,
+        "end": 169.9600067138672,
+        "no_speech_prob": 0.14365504682064056,
+        "seek": 15672,
+        "start": 162.0399932861328,
+        "temperature": 0.0,
+        "text": " Now I cut out the space on my reverbs delays and my dry signals can pop in my mix much better.",
+        "tokens": [
+          50624,
+          823,
+          286,
+          1723,
+          484,
+          264,
+          1901,
+          322,
+          452,
+          18438,
+          929,
+          28610,
+          293,
+          452,
+          4016,
+          12354,
+          393,
+          1665,
+          294,
+          452,
+          2890,
+          709,
+          1101,
+          13,
+          51024
+        ]
+      },
+      {
+        "id": 28,
+        "avg_logprob": -0.22265028953552246,
+        "compression_ratio": 1.5897436141967773,
+        "end": 174.4199981689453,
+        "no_speech_prob": 0.14365504682064056,
+        "seek": 15672,
+        "start": 170.0399932861328,
+        "temperature": 0.0,
+        "text": " There is even a way to do it more actively. I will show you in a second. So let's jump to the",
+        "tokens": [
+          51024,
+          821,
+          307,
+          754,
+          257,
+          636,
+          281,
+          360,
+          309,
+          544,
+          13022,
+          13,
+          286,
+          486,
+          855,
+          291,
+          294,
+          257,
+          1150,
+          13,
+          407,
+          718,
+          311,
+          3012,
+          281,
+          264,
+          51236
+        ]
+      },
+      {
+        "id": 29,
+        "avg_logprob": -0.22265028953552246,
+        "compression_ratio": 1.5897436141967773,
+        "end": 179.97999572753906,
+        "no_speech_prob": 0.14365504682064056,
+        "seek": 15672,
+        "start": 174.4199981689453,
+        "temperature": 0.0,
+        "text": " project file and I can show you in audio form too. Enjoying the video, please consider like",
+        "tokens": [
+          51236,
+          1716,
+          3991,
+          293,
+          286,
+          393,
+          855,
+          291,
+          294,
+          6278,
+          1254,
+          886,
+          13,
+          15411,
+          278,
+          264,
+          960,
+          11,
+          1767,
+          1949,
+          411,
+          51520
+        ]
+      },
+      {
+        "id": 30,
+        "avg_logprob": -0.25835755467414856,
+        "compression_ratio": 1.62910795211792,
+        "end": 183.89999389648438,
+        "no_speech_prob": 0.15758070349693298,
+        "seek": 17998,
+        "start": 179.97999572753906,
+        "temperature": 0.0,
+        "text": " and I promise I will give you more videos like this. Listen to this.",
+        "tokens": [
+          50392,
+          293,
+          286,
+          6228,
+          286,
+          486,
+          976,
+          291,
+          544,
+          2145,
+          411,
+          341,
+          13,
+          7501,
+          281,
+          341,
+          13,
+          50560
+        ]
+      },
+      {
+        "id": 31,
+        "avg_logprob": -0.25835755467414856,
+        "compression_ratio": 1.62910795211792,
+        "end": 197.3000030517578,
+        "no_speech_prob": 0.15758070349693298,
+        "seek": 17998,
+        "start": 191.6999969482422,
+        "temperature": 0.0,
+        "text": " Apart from the vocal and lips, everything is dry and using returns doesn't mean that you",
+        "tokens": [
+          50956,
+          24111,
+          490,
+          264,
+          11657,
+          293,
+          10118,
+          11,
+          1203,
+          307,
+          4016,
+          293,
+          1228,
+          11247,
+          1177,
+          380,
+          914,
+          300,
+          291,
+          51224
+        ]
+      },
+      {
+        "id": 32,
+        "avg_logprob": -0.25835755467414856,
+        "compression_ratio": 1.62910795211792,
+        "end": 202.8000030517578,
+        "no_speech_prob": 0.15758070349693298,
+        "seek": 17998,
+        "start": 197.3000030517578,
+        "temperature": 0.0,
+        "text": " always have to have returns. For color meaning for this vocal, we definitely using on the channel.",
+        "tokens": [
+          51224,
+          1009,
+          362,
+          281,
+          362,
+          11247,
+          13,
+          1171,
+          2017,
+          3620,
+          337,
+          341,
+          11657,
+          11,
+          321,
+          2138,
+          1228,
+          322,
+          264,
+          2269,
+          13,
+          51500
+        ]
+      },
+      {
+        "id": 33,
+        "avg_logprob": -0.25835755467414856,
+        "compression_ratio": 1.62910795211792,
+        "end": 209.32000732421875,
+        "no_speech_prob": 0.15758070349693298,
+        "seek": 17998,
+        "start": 203.9199981689453,
+        "temperature": 0.0,
+        "text": " But the rest, the rest goes to the return. Let's start with creating a tight room. For our",
+        "tokens": [
+          51568,
+          583,
+          264,
+          1472,
+          11,
+          264,
+          1472,
+          1709,
+          281,
+          264,
+          2736,
+          13,
+          961,
+          311,
+          722,
+          365,
+          4084,
+          257,
+          4524,
+          1808,
+          13,
+          1171,
+          527,
+          51820
+        ]
+      },
+      {
+        "id": 34,
+        "avg_logprob": -0.29794833064079285,
+        "compression_ratio": 1.4278351068496704,
+        "end": 215.5399932861328,
+        "no_speech_prob": 0.013493143953382969,
+        "seek": 20932,
+        "start": 209.32000732421875,
+        "temperature": 0.0,
+        "text": " and synths. Tight room means small reverb. Return channel, tight room. Use anything that you like.",
+        "tokens": [
+          50392,
+          293,
+          10657,
+          82,
+          13,
+          47967,
+          1808,
+          1355,
+          1359,
+          41829,
+          13,
+          24350,
+          2269,
+          11,
+          4524,
+          1808,
+          13,
+          8278,
+          1340,
+          300,
+          291,
+          411,
+          13,
+          50672
+        ]
+      },
+      {
+        "id": 35,
+        "avg_logprob": -0.29794833064079285,
+        "compression_ratio": 1.4278351068496704,
+        "end": 222.1199951171875,
+        "no_speech_prob": 0.013493143953382969,
+        "seek": 20932,
+        "start": 215.75999450683594,
+        "temperature": 0.0,
+        "text": " It doesn't matter. 100% wet, right? Let's send drums, percussions, synths over there",
+        "tokens": [
+          50672,
+          467,
+          1177,
+          380,
+          1871,
+          13,
+          2319,
+          4,
+          6630,
+          11,
+          558,
+          30,
+          961,
+          311,
+          2845,
+          20420,
+          11,
+          680,
+          38899,
+          11,
+          10657,
+          82,
+          670,
+          456,
+          51004
+        ]
+      },
+      {
+        "id": 36,
+        "avg_logprob": -0.29794833064079285,
+        "compression_ratio": 1.4278351068496704,
+        "end": 231.47999572753906,
+        "no_speech_prob": 0.013493143953382969,
+        "seek": 20932,
+        "start": 222.1199951171875,
+        "temperature": 0.0,
+        "text": " to create the ambience. Solo this, hats, very small room, clap. Let's add a little bit synth.",
+        "tokens": [
+          51004,
+          281,
+          1884,
+          264,
+          3913,
+          1182,
+          13,
+          26452,
+          341,
+          11,
+          20549,
+          11,
+          588,
+          1359,
+          1808,
+          11,
+          20760,
+          13,
+          961,
+          311,
+          909,
+          257,
+          707,
+          857,
+          10657,
+          13,
+          51468
+        ]
+      },
+      {
+        "id": 37,
+        "avg_logprob": -0.5546088814735413,
+        "compression_ratio": 1.4673912525177002,
+        "end": 243.05999755859375,
+        "no_speech_prob": 0.0015389933250844479,
+        "seek": 23148,
+        "start": 236.4600067138672,
+        "temperature": 0.0,
+        "text": " First focus. Do you hear how everything sits inside the room? This immediately glues everything.",
+        "tokens": [
+          50396,
+          2386,
+          1879,
+          13,
+          1144,
+          291,
+          1568,
+          577,
+          1203,
+          12696,
+          1854,
+          264,
+          1808,
+          30,
+          639,
+          4258,
+          1563,
+          1247,
+          1203,
+          13,
+          50668
+        ]
+      },
+      {
+        "id": 38,
+        "avg_logprob": -0.5546088814735413,
+        "compression_ratio": 1.4673912525177002,
+        "end": 251.3800048828125,
+        "no_speech_prob": 0.0015389933250844479,
+        "seek": 23148,
+        "start": 247.89999389648438,
+        "temperature": 0.0,
+        "text": " Then I wanna curve this sound.",
+        "tokens": [
+          50968,
+          1396,
+          286,
+          1948,
+          7605,
+          341,
+          1626,
+          13,
+          51096
+        ]
+      },
+      {
+        "id": 39,
+        "avg_logprob": -0.5546088814735413,
+        "compression_ratio": 1.4673912525177002,
+        "end": 259.4800109863281,
+        "no_speech_prob": 0.0015389933250844479,
+        "seek": 23148,
+        "start": 253.05999755859375,
+        "temperature": 0.0,
+        "text": " Warm it up a bit. But I want it also a bit stereo. So let's create a side to the sides",
+        "tokens": [
+          51208,
+          40353,
+          309,
+          493,
+          257,
+          857,
+          13,
+          583,
+          286,
+          528,
+          309,
+          611,
+          257,
+          857,
+          29029,
+          13,
+          407,
+          718,
+          311,
+          1884,
+          257,
+          1252,
+          281,
+          264,
+          4881,
+          51516
+        ]
+      },
+      {
+        "id": 40,
+        "avg_logprob": -0.5546088814735413,
+        "compression_ratio": 1.4673912525177002,
+        "end": 261.4599914550781,
+        "no_speech_prob": 0.0015389933250844479,
+        "seek": 23148,
+        "start": 259.4800109863281,
+        "temperature": 0.0,
+        "text": " and boost those highs. Open up the reverb a little bit.",
+        "tokens": [
+          51516,
+          293,
+          9194,
+          729,
+          29687,
+          13,
+          7238,
+          493,
+          264,
+          41829,
+          257,
+          707,
+          857,
+          13,
+          51684
+        ]
+      },
+      {
+        "id": 41,
+        "avg_logprob": -0.26602399349212646,
+        "compression_ratio": 1.4926108121871948,
+        "end": 262.20001220703125,
+        "no_speech_prob": 0.0014957236126065254,
+        "seek": 26146,
+        "start": 261.4599914550781,
+        "temperature": 0.0,
+        "text": " That space.",
+        "tokens": [
+          50364,
+          663,
+          1901,
+          13,
+          50392
+        ]
+      },
+      {
+        "id": 42,
+        "avg_logprob": -0.26602399349212646,
+        "compression_ratio": 1.4926108121871948,
+        "end": 268.239990234375,
+        "no_speech_prob": 0.0014957236126065254,
+        "seek": 26146,
+        "start": 267.20001220703125,
+        "temperature": 0.0,
+        "text": " Now listen.",
+        "tokens": [
+          50624,
+          823,
+          2140,
+          13,
+          50688
+        ]
+      },
+      {
+        "id": 43,
+        "avg_logprob": -0.26602399349212646,
+        "compression_ratio": 1.4926108121871948,
+        "end": 278.9800109863281,
+        "no_speech_prob": 0.0014957236126065254,
+        "seek": 26146,
+        "start": 273.1400146484375,
+        "temperature": 0.0,
+        "text": " Immediate glue between elements. But this was the first effects. Let's create a hole and send",
+        "tokens": [
+          50932,
+          32157,
+          473,
+          8998,
+          1296,
+          4959,
+          13,
+          583,
+          341,
+          390,
+          264,
+          700,
+          5065,
+          13,
+          961,
+          311,
+          1884,
+          257,
+          5458,
+          293,
+          2845,
+          51236
+        ]
+      },
+      {
+        "id": 44,
+        "avg_logprob": -0.26602399349212646,
+        "compression_ratio": 1.4926108121871948,
+        "end": 284.0,
+        "no_speech_prob": 0.0014957236126065254,
+        "seek": 26146,
+        "start": 278.9800109863281,
+        "temperature": 0.0,
+        "text": " stuff there as well. The same idea. This time we have a bigger reverb. First thing here,",
+        "tokens": [
+          51236,
+          1507,
+          456,
+          382,
+          731,
+          13,
+          440,
+          912,
+          1558,
+          13,
+          639,
+          565,
+          321,
+          362,
+          257,
+          3801,
+          41829,
+          13,
+          2386,
+          551,
+          510,
+          11,
+          51488
+        ]
+      },
+      {
+        "id": 45,
+        "avg_logprob": -0.26602399349212646,
+        "compression_ratio": 1.4926108121871948,
+        "end": 288.67999267578125,
+        "no_speech_prob": 0.0014957236126065254,
+        "seek": 26146,
+        "start": 284.05999755859375,
+        "temperature": 0.0,
+        "text": " the levels are different now. Now the synths are in the beginning. Drums are really on the back.",
+        "tokens": [
+          51488,
+          264,
+          4358,
+          366,
+          819,
+          586,
+          13,
+          823,
+          264,
+          10657,
+          82,
+          366,
+          294,
+          264,
+          2863,
+          13,
+          2491,
+          8099,
+          366,
+          534,
+          322,
+          264,
+          646,
+          13,
+          51728
+        ]
+      },
+      {
+        "id": 46,
+        "avg_logprob": -0.24499967694282532,
+        "compression_ratio": 1.4176470041275024,
+        "end": 292.3599853515625,
+        "no_speech_prob": 0.0015121252508834004,
+        "seek": 28868,
+        "start": 288.67999267578125,
+        "temperature": 0.0,
+        "text": " The whole feel is elevated for the main elements.",
+        "tokens": [
+          50364,
+          440,
+          1379,
+          841,
+          307,
+          23457,
+          337,
+          264,
+          2135,
+          4959,
+          13,
+          50544
+        ]
+      },
+      {
+        "id": 47,
+        "avg_logprob": -0.24499967694282532,
+        "compression_ratio": 1.4176470041275024,
+        "end": 299.0,
+        "no_speech_prob": 0.0015121252508834004,
+        "seek": 28868,
+        "start": 296.79998779296875,
+        "temperature": 0.0,
+        "text": " Now process them together. Saturate it.",
+        "tokens": [
+          50780,
+          823,
+          1399,
+          552,
+          1214,
+          13,
+          5344,
+          33144,
+          309,
+          13,
+          50880
+        ]
+      },
+      {
+        "id": 48,
+        "avg_logprob": -0.24499967694282532,
+        "compression_ratio": 1.4176470041275024,
+        "end": 303.3599853515625,
+        "no_speech_prob": 0.0015121252508834004,
+        "seek": 28868,
+        "start": 302.0,
+        "temperature": 0.0,
+        "text": " Contain it.",
+        "tokens": [
+          51004,
+          43732,
+          309,
+          13,
+          51036
+        ]
+      },
+      {
+        "id": 49,
+        "avg_logprob": -0.24499967694282532,
+        "compression_ratio": 1.4176470041275024,
+        "end": 309.8999938964844,
+        "no_speech_prob": 0.0015121252508834004,
+        "seek": 28868,
+        "start": 305.0,
+        "temperature": 0.0,
+        "text": " Make the low mids more focused. Decrease the stereo width below like 300 hertz.",
+        "tokens": [
+          51196,
+          4387,
+          264,
+          2295,
+          2062,
+          82,
+          544,
+          5178,
+          13,
+          12427,
+          265,
+          651,
+          264,
+          29029,
+          11402,
+          2507,
+          411,
+          6641,
+          45830,
+          13,
+          51424
+        ]
+      },
+      {
+        "id": 50,
+        "avg_logprob": -0.24499967694282532,
+        "compression_ratio": 1.4176470041275024,
+        "end": 316.0799865722656,
+        "no_speech_prob": 0.0015121252508834004,
+        "seek": 28868,
+        "start": 312.5799865722656,
+        "temperature": 0.0,
+        "text": " Do you remember that I talked to you about creating a space",
+        "tokens": [
+          51576,
+          1144,
+          291,
+          1604,
+          300,
+          286,
+          2825,
+          281,
+          291,
+          466,
+          4084,
+          257,
+          1901,
+          51736
+        ]
+      },
+      {
+        "id": 51,
+        "avg_logprob": -0.304328054189682,
+        "compression_ratio": 1.5170940160751343,
+        "end": 320.0400085449219,
+        "no_speech_prob": 0.004409799352288246,
+        "seek": 31608,
+        "start": 316.0799865722656,
+        "temperature": 0.0,
+        "text": " for your elements in your return channel? For me, this melody.",
+        "tokens": [
+          50364,
+          337,
+          428,
+          4959,
+          294,
+          428,
+          2736,
+          2269,
+          30,
+          1171,
+          385,
+          11,
+          341,
+          17997,
+          13,
+          50560
+        ]
+      },
+      {
+        "id": 52,
+        "avg_logprob": -0.304328054189682,
+        "compression_ratio": 1.5170940160751343,
+        "end": 327.4200134277344,
+        "no_speech_prob": 0.004409799352288246,
+        "seek": 31608,
+        "start": 322.44000244140625,
+        "temperature": 0.0,
+        "text": " Extremely important. So I'm gonna create a dynamic spacing option. Which means that I",
+        "tokens": [
+          50652,
+          24921,
+          736,
+          1021,
+          13,
+          407,
+          286,
+          478,
+          799,
+          1884,
+          257,
+          8546,
+          27739,
+          3614,
+          13,
+          3013,
+          1355,
+          300,
+          286,
+          50924
+        ]
+      },
+      {
+        "id": 53,
+        "avg_logprob": -0.304328054189682,
+        "compression_ratio": 1.5170940160751343,
+        "end": 333.1400146484375,
+        "no_speech_prob": 0.004409799352288246,
+        "seek": 31608,
+        "start": 327.4200134277344,
+        "temperature": 0.0,
+        "text": " can take something like suit, sidechain to the synth itself and start ducking",
+        "tokens": [
+          50924,
+          393,
+          747,
+          746,
+          411,
+          5722,
+          11,
+          1252,
+          11509,
+          281,
+          264,
+          10657,
+          2564,
+          293,
+          722,
+          12482,
+          278,
+          51208
+        ]
+      },
+      {
+        "id": 54,
+        "avg_logprob": -0.304328054189682,
+        "compression_ratio": 1.5170940160751343,
+        "end": 336.29998779296875,
+        "no_speech_prob": 0.004409799352288246,
+        "seek": 31608,
+        "start": 334.4200134277344,
+        "temperature": 0.0,
+        "text": " those frequencies from the effects.",
+        "tokens": [
+          51288,
+          729,
+          20250,
+          490,
+          264,
+          5065,
+          13,
+          51372
+        ]
+      },
+      {
+        "id": 55,
+        "avg_logprob": -0.304328054189682,
+        "compression_ratio": 1.5170940160751343,
+        "end": 342.8399963378906,
+        "no_speech_prob": 0.004409799352288246,
+        "seek": 31608,
+        "start": 337.8399963378906,
+        "temperature": 0.0,
+        "text": " And final, because it's a long effects, I wanna feel the groove. I can sidechain it to kick.",
+        "tokens": [
+          51464,
+          400,
+          2572,
+          11,
+          570,
+          309,
+          311,
+          257,
+          938,
+          5065,
+          11,
+          286,
+          1948,
+          841,
+          264,
+          26910,
+          13,
+          286,
+          393,
+          1252,
+          11509,
+          309,
+          281,
+          4437,
+          13,
+          51696
+        ]
+      },
+      {
+        "id": 56,
+        "avg_logprob": -0.3606466054916382,
+        "compression_ratio": 1.3037974834442139,
+        "end": 353.55999755859375,
+        "no_speech_prob": 0.0004797721921931952,
+        "seek": 34608,
+        "start": 347.1600036621094,
+        "temperature": 0.0,
+        "text": " Now all is applied to my whole mix. Listen. Without the effects.",
+        "tokens": [
+          50404,
+          823,
+          439,
+          307,
+          6456,
+          281,
+          452,
+          1379,
+          2890,
+          13,
+          7501,
+          13,
+          9129,
+          264,
+          5065,
+          13,
+          50628
+        ]
+      },
+      {
+        "id": 57,
+        "avg_logprob": -0.3606466054916382,
+        "compression_ratio": 1.3037974834442139,
+        "end": 363.5799865722656,
+        "no_speech_prob": 0.0004797721921931952,
+        "seek": 34608,
+        "start": 360.1400146484375,
+        "temperature": 0.0,
+        "text": " It is warm. It's just like it glues everything together.",
+        "tokens": [
+          51088,
+          467,
+          307,
+          4561,
+          13,
+          467,
+          311,
+          445,
+          411,
+          309,
+          1563,
+          1247,
+          1203,
+          1214,
+          13,
+          51240
+        ]
+      },
+      {
+        "id": 58,
+        "avg_logprob": -0.3606466054916382,
+        "compression_ratio": 1.3037974834442139,
+        "end": 367.82000732421875,
+        "no_speech_prob": 0.0004797721921931952,
+        "seek": 34608,
+        "start": 363.94000244140625,
+        "temperature": 0.0,
+        "text": " Makes you feel the ambience. We can create a slap delay for our percussions.",
+        "tokens": [
+          51240,
+          25245,
+          291,
+          841,
+          264,
+          3913,
+          1182,
+          13,
+          492,
+          393,
+          1884,
+          257,
+          21075,
+          8577,
+          337,
+          527,
+          680,
+          38899,
+          13,
+          51452
+        ]
+      },
+      {
+        "id": 59,
+        "avg_logprob": -0.3606466054916382,
+        "compression_ratio": 1.3037974834442139,
+        "end": 370.67999267578125,
+        "no_speech_prob": 0.0004797721921931952,
+        "seek": 34608,
+        "start": 370.20001220703125,
+        "temperature": 0.0,
+        "text": " EQ out.",
+        "tokens": [
+          51556,
+          33580,
+          484,
+          13,
+          51588
+        ]
+      },
+      {
+        "id": 60,
+        "avg_logprob": -0.3933861255645752,
+        "compression_ratio": 1.3728814125061035,
+        "end": 385.3800048828125,
+        "no_speech_prob": 0.000484240212244913,
+        "seek": 37608,
+        "start": 379.0799865722656,
+        "temperature": 0.0,
+        "text": " Really cool. And maybe one final delay to our melody. And maybe our chords.",
+        "tokens": [
+          50412,
+          4083,
+          1627,
+          13,
+          400,
+          1310,
+          472,
+          2572,
+          8577,
+          281,
+          527,
+          17997,
+          13,
+          400,
+          1310,
+          527,
+          21733,
+          13,
+          50824
+        ]
+      },
+      {
+        "id": 61,
+        "avg_logprob": -0.3933861255645752,
+        "compression_ratio": 1.3728814125061035,
+        "end": 397.67999267578125,
+        "no_speech_prob": 0.000484240212244913,
+        "seek": 37608,
+        "start": 391.6199951171875,
+        "temperature": 0.0,
+        "text": " And hear how whole song comes together. Glued together. We created depth and cohesion.",
+        "tokens": [
+          51160,
+          400,
+          1568,
+          577,
+          1379,
+          2153,
+          1487,
+          1214,
+          13,
+          460,
+          2781,
+          292,
+          1214,
+          13,
+          492,
+          2942,
+          7161,
+          293,
+          598,
+          38571,
+          13,
+          51688
+        ]
+      },
+      {
+        "id": 62,
+        "avg_logprob": -0.2690575420856476,
+        "compression_ratio": 1.6304347515106201,
+        "end": 409.6000061035156,
+        "no_speech_prob": 0.001616715220734477,
+        "seek": 40608,
+        "start": 406.0799865722656,
+        "temperature": 0.0,
+        "text": " And remember, for me, controlling these different spaces is",
+        "tokens": [
+          50372,
+          400,
+          1604,
+          11,
+          337,
+          385,
+          11,
+          14905,
+          613,
+          819,
+          7673,
+          307,
+          50540
+        ]
+      },
+      {
+        "id": 63,
+        "avg_logprob": -0.2690575420856476,
+        "compression_ratio": 1.6304347515106201,
+        "end": 412.5400085449219,
+        "no_speech_prob": 0.001616715220734477,
+        "seek": 40608,
+        "start": 409.6199951171875,
+        "temperature": 0.0,
+        "text": " easy as moving this fader down. Too much hold.",
+        "tokens": [
+          50540,
+          1858,
+          382,
+          2684,
+          341,
+          283,
+          8312,
+          760,
+          13,
+          11395,
+          709,
+          1797,
+          13,
+          50676
+        ]
+      },
+      {
+        "id": 64,
+        "avg_logprob": -0.2690575420856476,
+        "compression_ratio": 1.6304347515106201,
+        "end": 413.5199890136719,
+        "no_speech_prob": 0.001616715220734477,
+        "seek": 40608,
+        "start": 413.1400146484375,
+        "temperature": 0.0,
+        "text": " Bring it down.",
+        "tokens": [
+          50704,
+          12842,
+          309,
+          760,
+          13,
+          50736
+        ]
+      },
+      {
+        "id": 65,
+        "avg_logprob": -0.2690575420856476,
+        "compression_ratio": 1.6304347515106201,
+        "end": 417.3999938964844,
+        "no_speech_prob": 0.001616715220734477,
+        "seek": 40608,
+        "start": 415.8800048828125,
+        "temperature": 0.0,
+        "text": " Too little room. Bring it up.",
+        "tokens": [
+          50840,
+          11395,
+          707,
+          1808,
+          13,
+          12842,
+          309,
+          493,
+          13,
+          50916
+        ]
+      },
+      {
+        "id": 66,
+        "avg_logprob": -0.2690575420856476,
+        "compression_ratio": 1.6304347515106201,
+        "end": 425.1000061035156,
+        "no_speech_prob": 0.001616715220734477,
+        "seek": 40608,
+        "start": 420.1000061035156,
+        "temperature": 0.0,
+        "text": " That simple. If you want to go deeper in the mixing, mastering or music production itself,",
+        "tokens": [
+          51068,
+          663,
+          2199,
+          13,
+          759,
+          291,
+          528,
+          281,
+          352,
+          7731,
+          294,
+          264,
+          11983,
+          11,
+          49382,
+          420,
+          1318,
+          4265,
+          2564,
+          11,
+          51316
+        ]
+      },
+      {
+        "id": 67,
+        "avg_logprob": -0.2690575420856476,
+        "compression_ratio": 1.6304347515106201,
+        "end": 428.44000244140625,
+        "no_speech_prob": 0.001616715220734477,
+        "seek": 40608,
+        "start": 425.3599853515625,
+        "temperature": 0.0,
+        "text": " check out my courses on Choruses, MercuryTones.com.",
+        "tokens": [
+          51316,
+          1520,
+          484,
+          452,
+          7712,
+          322,
+          761,
+          284,
+          8355,
+          11,
+          31780,
+          51,
+          2213,
+          13,
+          1112,
+          13,
+          51476
+        ]
+      },
+      {
+        "id": 68,
+        "avg_logprob": -0.2690575420856476,
+        "compression_ratio": 1.6304347515106201,
+        "end": 432.3399963378906,
+        "no_speech_prob": 0.001616715220734477,
+        "seek": 40608,
+        "start": 428.55999755859375,
+        "temperature": 0.0,
+        "text": " But if you want to stay here, learn more about pro music production, check here.",
+        "tokens": [
+          51476,
+          583,
+          498,
+          291,
+          528,
+          281,
+          1754,
+          510,
+          11,
+          1466,
+          544,
+          466,
+          447,
+          1318,
+          4265,
+          11,
+          1520,
+          510,
+          13,
+          51668
+        ]
+      }
+    ],
+    "words": [
+      {
+        "end": 0.30000001192092896,
+        "start": 0.0,
+        "word": "What"
+      },
+      {
+        "end": 0.47999998927116394,
+        "start": 0.30000001192092896,
+        "word": "is"
+      },
+      {
+        "end": 0.6800000071525574,
+        "start": 0.47999998927116394,
+        "word": "this"
+      },
+      {
+        "end": 0.9599999785423279,
+        "start": 0.6800000071525574,
+        "word": "one"
+      },
+      {
+        "end": 1.2200000286102295,
+        "start": 0.9599999785423279,
+        "word": "technique"
+      },
+      {
+        "end": 1.5199999809265137,
+        "start": 1.2200000286102295,
+        "word": "that"
+      },
+      {
+        "end": 1.6799999475479126,
+        "start": 1.5199999809265137,
+        "word": "you"
+      },
+      {
+        "end": 1.8600000143051147,
+        "start": 1.6799999475479126,
+        "word": "will"
+      },
+      {
+        "end": 2.359999895095825,
+        "start": 1.8600000143051147,
+        "word": "literally"
+      },
+      {
+        "end": 2.619999885559082,
+        "start": 2.359999895095825,
+        "word": "find"
+      },
+      {
+        "end": 2.9800000190734863,
+        "start": 2.619999885559082,
+        "word": "in"
+      },
+      {
+        "end": 3.319999933242798,
+        "start": 2.9800000190734863,
+        "word": "every"
+      },
+      {
+        "end": 3.5799999237060547,
+        "start": 3.319999933242798,
+        "word": "pro"
+      },
+      {
+        "end": 4.059999942779541,
+        "start": 3.5799999237060547,
+        "word": "producers"
+      },
+      {
+        "end": 4.480000019073486,
+        "start": 4.059999942779541,
+        "word": "project"
+      },
+      {
+        "end": 4.920000076293945,
+        "start": 4.480000019073486,
+        "word": "files"
+      },
+      {
+        "end": 5.179999828338623,
+        "start": 5.099999904632568,
+        "word": "Is"
+      },
+      {
+        "end": 5.340000152587891,
+        "start": 5.179999828338623,
+        "word": "it"
+      },
+      {
+        "end": 5.619999885559082,
+        "start": 5.340000152587891,
+        "word": "some"
+      },
+      {
+        "end": 5.980000019073486,
+        "start": 5.619999885559082,
+        "word": "secret"
+      },
+      {
+        "end": 6.420000076293945,
+        "start": 5.980000019073486,
+        "word": "thousand"
+      },
+      {
+        "end": 6.760000228881836,
+        "start": 6.420000076293945,
+        "word": "dollar"
+      },
+      {
+        "end": 7.179999828338623,
+        "start": 6.760000228881836,
+        "word": "plugin"
+      },
+      {
+        "end": 7.460000038146973,
+        "start": 7.179999828338623,
+        "word": "or"
+      },
+      {
+        "end": 8.239999771118164,
+        "start": 7.460000038146973,
+        "word": "a"
+      },
+      {
+        "end": 8.239999771118164,
+        "start": 8.239999771118164,
+        "word": "complex"
+      },
+      {
+        "end": 8.680000305175781,
+        "start": 8.239999771118164,
+        "word": "mastering"
+      },
+      {
+        "end": 9.0600004196167,
+        "start": 8.680000305175781,
+        "word": "chain"
+      },
+      {
+        "end": 9.279999732971191,
+        "start": 9.0600004196167,
+        "word": "that"
+      },
+      {
+        "end": 9.520000457763672,
+        "start": 9.279999732971191,
+        "word": "they"
+      },
+      {
+        "end": 9.779999732971191,
+        "start": 9.520000457763672,
+        "word": "don't"
+      },
+      {
+        "end": 10.020000457763672,
+        "start": 9.779999732971191,
+        "word": "talk"
+      },
+      {
+        "end": 10.399999618530273,
+        "start": 10.020000457763672,
+        "word": "about"
+      },
+      {
+        "end": 10.760000228881836,
+        "start": 10.579999923706055,
+        "word": "What"
+      },
+      {
+        "end": 10.819999694824219,
+        "start": 10.760000228881836,
+        "word": "if"
+      },
+      {
+        "end": 11.039999961853027,
+        "start": 10.819999694824219,
+        "word": "I"
+      },
+      {
+        "end": 11.220000267028809,
+        "start": 11.039999961853027,
+        "word": "told"
+      },
+      {
+        "end": 11.420000076293945,
+        "start": 11.220000267028809,
+        "word": "you"
+      },
+      {
+        "end": 11.640000343322754,
+        "start": 11.420000076293945,
+        "word": "it's"
+      },
+      {
+        "end": 11.84000015258789,
+        "start": 11.640000343322754,
+        "word": "a"
+      },
+      {
+        "end": 12.180000305175781,
+        "start": 11.84000015258789,
+        "word": "simple"
+      },
+      {
+        "end": 12.600000381469727,
+        "start": 12.180000305175781,
+        "word": "feature"
+      },
+      {
+        "end": 12.859999656677246,
+        "start": 12.600000381469727,
+        "word": "that"
+      },
+      {
+        "end": 13.100000381469727,
+        "start": 12.859999656677246,
+        "word": "has"
+      },
+      {
+        "end": 13.220000267028809,
+        "start": 13.100000381469727,
+        "word": "been"
+      },
+      {
+        "end": 13.34000015258789,
+        "start": 13.220000267028809,
+        "word": "in"
+      },
+      {
+        "end": 13.680000305175781,
+        "start": 13.34000015258789,
+        "word": "your"
+      },
+      {
+        "end": 13.699999809265137,
+        "start": 13.680000305175781,
+        "word": "DAW"
+      },
+      {
+        "end": 14.0600004196167,
+        "start": 13.699999809265137,
+        "word": "for"
+      },
+      {
+        "end": 14.579999923706055,
+        "start": 14.0600004196167,
+        "word": "entire"
+      },
+      {
+        "end": 14.9399995803833,
+        "start": 14.579999923706055,
+        "word": "time"
+      },
+      {
+        "end": 15.140000343322754,
+        "start": 14.9399995803833,
+        "word": "and"
+      },
+      {
+        "end": 15.5,
+        "start": 15.140000343322754,
+        "word": "it"
+      },
+      {
+        "end": 15.779999732971191,
+        "start": 15.5,
+        "word": "is"
+      },
+      {
+        "end": 16.0,
+        "start": 15.779999732971191,
+        "word": "the"
+      },
+      {
+        "end": 16.360000610351562,
+        "start": 16.0,
+        "word": "real"
+      },
+      {
+        "end": 16.600000381469727,
+        "start": 16.360000610351562,
+        "word": "key"
+      },
+      {
+        "end": 17.020000457763672,
+        "start": 16.600000381469727,
+        "word": "for"
+      },
+      {
+        "end": 17.360000610351562,
+        "start": 17.020000457763672,
+        "word": "creating"
+      },
+      {
+        "end": 18.0,
+        "start": 17.360000610351562,
+        "word": "space"
+      },
+      {
+        "end": 18.520000457763672,
+        "start": 18.18000030517578,
+        "word": "cohesion"
+      },
+      {
+        "end": 19.1200008392334,
+        "start": 18.520000457763672,
+        "word": "and"
+      },
+      {
+        "end": 19.65999984741211,
+        "start": 19.1200008392334,
+        "word": "effortless"
+      },
+      {
+        "end": 20.059999465942383,
+        "start": 19.65999984741211,
+        "word": "control"
+      },
+      {
+        "end": 20.299999237060547,
+        "start": 20.059999465942383,
+        "word": "over"
+      },
+      {
+        "end": 20.700000762939453,
+        "start": 20.299999237060547,
+        "word": "your"
+      },
+      {
+        "end": 20.799999237060547,
+        "start": 20.700000762939453,
+        "word": "mix"
+      },
+      {
+        "end": 21.100000381469727,
+        "start": 20.8799991607666,
+        "word": "To"
+      },
+      {
+        "end": 21.399999618530273,
+        "start": 21.100000381469727,
+        "word": "help"
+      },
+      {
+        "end": 21.639999389648438,
+        "start": 21.399999618530273,
+        "word": "you"
+      },
+      {
+        "end": 22.040000915527344,
+        "start": 21.639999389648438,
+        "word": "understand"
+      },
+      {
+        "end": 22.280000686645508,
+        "start": 22.040000915527344,
+        "word": "what"
+      },
+      {
+        "end": 22.459999084472656,
+        "start": 22.280000686645508,
+        "word": "is"
+      },
+      {
+        "end": 22.579999923706055,
+        "start": 22.459999084472656,
+        "word": "going"
+      },
+      {
+        "end": 22.860000610351562,
+        "start": 22.579999923706055,
+        "word": "under"
+      },
+      {
+        "end": 23.219999313354492,
+        "start": 22.860000610351562,
+        "word": "the"
+      },
+      {
+        "end": 23.219999313354492,
+        "start": 23.219999313354492,
+        "word": "hood"
+      },
+      {
+        "end": 23.65999984741211,
+        "start": 23.3799991607666,
+        "word": "I"
+      },
+      {
+        "end": 23.8799991607666,
+        "start": 23.65999984741211,
+        "word": "created"
+      },
+      {
+        "end": 24.31999969482422,
+        "start": 23.8799991607666,
+        "word": "these"
+      },
+      {
+        "end": 24.700000762939453,
+        "start": 24.31999969482422,
+        "word": "bouncy"
+      },
+      {
+        "end": 24.940000534057617,
+        "start": 24.700000762939453,
+        "word": "balls"
+      },
+      {
+        "end": 25.239999771118164,
+        "start": 24.940000534057617,
+        "word": "so"
+      },
+      {
+        "end": 25.459999084472656,
+        "start": 25.239999771118164,
+        "word": "you"
+      },
+      {
+        "end": 25.760000228881836,
+        "start": 25.459999084472656,
+        "word": "can"
+      },
+      {
+        "end": 26.079999923706055,
+        "start": 25.760000228881836,
+        "word": "clearly"
+      },
+      {
+        "end": 26.68000030517578,
+        "start": 26.079999923706055,
+        "word": "see"
+      },
+      {
+        "end": 26.979999542236328,
+        "start": 26.68000030517578,
+        "word": "by"
+      },
+      {
+        "end": 28.0,
+        "start": 26.979999542236328,
+        "word": "it"
+      },
+      {
+        "end": 29.18000030517578,
+        "start": 28.68000030517578,
+        "word": "Let's"
+      },
+      {
+        "end": 29.639999389648438,
+        "start": 29.18000030517578,
+        "word": "go"
+      },
+      {
+        "end": 30.020000457763672,
+        "start": 30.020000457763672,
+        "word": "In"
+      },
+      {
+        "end": 30.31999969482422,
+        "start": 30.020000457763672,
+        "word": "most"
+      },
+      {
+        "end": 30.700000762939453,
+        "start": 30.31999969482422,
+        "word": "DAWs"
+      },
+      {
+        "end": 30.8799991607666,
+        "start": 30.700000762939453,
+        "word": "you"
+      },
+      {
+        "end": 31.059999465942383,
+        "start": 30.8799991607666,
+        "word": "will"
+      },
+      {
+        "end": 31.200000762939453,
+        "start": 31.059999465942383,
+        "word": "see"
+      },
+      {
+        "end": 31.579999923706055,
+        "start": 31.200000762939453,
+        "word": "these"
+      },
+      {
+        "end": 32.0,
+        "start": 32.0,
+        "word": "These"
+      },
+      {
+        "end": 32.18000030517578,
+        "start": 32.0,
+        "word": "are"
+      },
+      {
+        "end": 32.459999084472656,
+        "start": 32.18000030517578,
+        "word": "called"
+      },
+      {
+        "end": 32.86000061035156,
+        "start": 32.459999084472656,
+        "word": "return"
+      },
+      {
+        "end": 33.220001220703125,
+        "start": 32.86000061035156,
+        "word": "channels"
+      },
+      {
+        "end": 33.65999984741211,
+        "start": 33.560001373291016,
+        "word": "If"
+      },
+      {
+        "end": 33.779998779296875,
+        "start": 33.65999984741211,
+        "word": "you"
+      },
+      {
+        "end": 33.880001068115234,
+        "start": 33.779998779296875,
+        "word": "put"
+      },
+      {
+        "end": 34.0,
+        "start": 33.880001068115234,
+        "word": "a"
+      },
+      {
+        "end": 34.29999923706055,
+        "start": 34.0,
+        "word": "simple"
+      },
+      {
+        "end": 34.619998931884766,
+        "start": 34.29999923706055,
+        "word": "way"
+      },
+      {
+        "end": 34.880001068115234,
+        "start": 34.79999923706055,
+        "word": "you"
+      },
+      {
+        "end": 35.060001373291016,
+        "start": 34.880001068115234,
+        "word": "have"
+      },
+      {
+        "end": 35.29999923706055,
+        "start": 35.060001373291016,
+        "word": "an"
+      },
+      {
+        "end": 35.52000045776367,
+        "start": 35.29999923706055,
+        "word": "audio"
+      },
+      {
+        "end": 35.79999923706055,
+        "start": 35.52000045776367,
+        "word": "track"
+      },
+      {
+        "end": 36.2599983215332,
+        "start": 36.08000183105469,
+        "word": "direct"
+      },
+      {
+        "end": 36.58000183105469,
+        "start": 36.2599983215332,
+        "word": "signal"
+      },
+      {
+        "end": 36.97999954223633,
+        "start": 36.58000183105469,
+        "word": "output"
+      },
+      {
+        "end": 37.18000030517578,
+        "start": 36.97999954223633,
+        "word": "of"
+      },
+      {
+        "end": 37.36000061035156,
+        "start": 37.18000030517578,
+        "word": "that"
+      },
+      {
+        "end": 37.560001373291016,
+        "start": 37.36000061035156,
+        "word": "track"
+      },
+      {
+        "end": 37.779998779296875,
+        "start": 37.560001373291016,
+        "word": "goes"
+      },
+      {
+        "end": 37.91999816894531,
+        "start": 37.779998779296875,
+        "word": "to"
+      },
+      {
+        "end": 38.29999923706055,
+        "start": 37.91999816894531,
+        "word": "your"
+      },
+      {
+        "end": 38.439998626708984,
+        "start": 38.29999923706055,
+        "word": "master"
+      },
+      {
+        "end": 38.70000076293945,
+        "start": 38.439998626708984,
+        "word": "channel"
+      },
+      {
+        "end": 38.959999084472656,
+        "start": 38.70000076293945,
+        "word": "but"
+      },
+      {
+        "end": 39.099998474121094,
+        "start": 38.959999084472656,
+        "word": "you"
+      },
+      {
+        "end": 39.279998779296875,
+        "start": 39.099998474121094,
+        "word": "can"
+      },
+      {
+        "end": 39.540000915527344,
+        "start": 39.279998779296875,
+        "word": "also"
+      },
+      {
+        "end": 39.880001068115234,
+        "start": 39.540000915527344,
+        "word": "send"
+      },
+      {
+        "end": 40.31999969482422,
+        "start": 39.880001068115234,
+        "word": "a"
+      },
+      {
+        "end": 40.47999954223633,
+        "start": 40.31999969482422,
+        "word": "percentage"
+      },
+      {
+        "end": 40.779998779296875,
+        "start": 40.47999954223633,
+        "word": "of"
+      },
+      {
+        "end": 41.060001373291016,
+        "start": 40.779998779296875,
+        "word": "that"
+      },
+      {
+        "end": 41.47999954223633,
+        "start": 41.060001373291016,
+        "word": "sound"
+      },
+      {
+        "end": 41.91999816894531,
+        "start": 41.47999954223633,
+        "word": "into"
+      },
+      {
+        "end": 42.619998931884766,
+        "start": 41.91999816894531,
+        "word": "another"
+      },
+      {
+        "end": 43.060001373291016,
+        "start": 42.619998931884766,
+        "word": "processing"
+      },
+      {
+        "end": 43.65999984741211,
+        "start": 43.060001373291016,
+        "word": "track"
+      },
+      {
+        "end": 44.099998474121094,
+        "start": 43.7599983215332,
+        "word": "we"
+      },
+      {
+        "end": 44.099998474121094,
+        "start": 44.099998474121094,
+        "word": "call"
+      },
+      {
+        "end": 44.36000061035156,
+        "start": 44.099998474121094,
+        "word": "it"
+      },
+      {
+        "end": 44.52000045776367,
+        "start": 44.36000061035156,
+        "word": "return"
+      },
+      {
+        "end": 44.880001068115234,
+        "start": 44.52000045776367,
+        "word": "track"
+      },
+      {
+        "end": 45.20000076293945,
+        "start": 44.880001068115234,
+        "word": "and"
+      },
+      {
+        "end": 45.58000183105469,
+        "start": 45.20000076293945,
+        "word": "process"
+      },
+      {
+        "end": 46.0,
+        "start": 45.58000183105469,
+        "word": "that"
+      },
+      {
+        "end": 46.29999923706055,
+        "start": 46.0,
+        "word": "and"
+      },
+      {
+        "end": 46.79999923706055,
+        "start": 46.29999923706055,
+        "word": "send"
+      },
+      {
+        "end": 46.97999954223633,
+        "start": 46.79999923706055,
+        "word": "it"
+      },
+      {
+        "end": 47.08000183105469,
+        "start": 46.97999954223633,
+        "word": "to"
+      },
+      {
+        "end": 47.29999923706055,
+        "start": 47.08000183105469,
+        "word": "the"
+      },
+      {
+        "end": 47.52000045776367,
+        "start": 47.29999923706055,
+        "word": "master"
+      },
+      {
+        "end": 47.779998779296875,
+        "start": 47.52000045776367,
+        "word": "channel"
+      },
+      {
+        "end": 48.099998474121094,
+        "start": 47.779998779296875,
+        "word": "as"
+      },
+      {
+        "end": 48.2400016784668,
+        "start": 48.099998474121094,
+        "word": "well"
+      },
+      {
+        "end": 48.599998474121094,
+        "start": 48.34000015258789,
+        "word": "But"
+      },
+      {
+        "end": 48.880001068115234,
+        "start": 48.599998474121094,
+        "word": "why"
+      },
+      {
+        "end": 49.02000045776367,
+        "start": 48.880001068115234,
+        "word": "is"
+      },
+      {
+        "end": 49.29999923706055,
+        "start": 49.02000045776367,
+        "word": "that"
+      },
+      {
+        "end": 49.79999923706055,
+        "start": 49.29999923706055,
+        "word": "important"
+      },
+      {
+        "end": 56.65999984741211,
+        "start": 56.099998474121094,
+        "word": "Balls"
+      },
+      {
+        "end": 57.18000030517578,
+        "start": 56.65999984741211,
+        "word": "return"
+      },
+      {
+        "end": 57.52000045776367,
+        "start": 57.18000030517578,
+        "word": "channels"
+      },
+      {
+        "end": 57.86000061035156,
+        "start": 57.52000045776367,
+        "word": "and"
+      },
+      {
+        "end": 58.220001220703125,
+        "start": 57.86000061035156,
+        "word": "process"
+      },
+      {
+        "end": 58.599998474121094,
+        "start": 58.220001220703125,
+        "word": "them"
+      },
+      {
+        "end": 59.040000915527344,
+        "start": 58.599998474121094,
+        "word": "together"
+      },
+      {
+        "end": 59.380001068115234,
+        "start": 59.18000030517578,
+        "word": "Let's"
+      },
+      {
+        "end": 59.65999984741211,
+        "start": 59.380001068115234,
+        "word": "start"
+      },
+      {
+        "end": 59.959999084472656,
+        "start": 59.900001525878906,
+        "word": "This"
+      },
+      {
+        "end": 60.02000045776367,
+        "start": 59.959999084472656,
+        "word": "is"
+      },
+      {
+        "end": 60.2599983215332,
+        "start": 60.02000045776367,
+        "word": "our"
+      },
+      {
+        "end": 60.540000915527344,
+        "start": 60.2599983215332,
+        "word": "return"
+      },
+      {
+        "end": 60.81999969482422,
+        "start": 60.540000915527344,
+        "word": "channel"
+      },
+      {
+        "end": 61.08000183105469,
+        "start": 61.0,
+        "word": "You"
+      },
+      {
+        "end": 61.29999923706055,
+        "start": 61.08000183105469,
+        "word": "can"
+      },
+      {
+        "end": 61.47999954223633,
+        "start": 61.29999923706055,
+        "word": "send"
+      },
+      {
+        "end": 62.040000915527344,
+        "start": 61.47999954223633,
+        "word": "bass"
+      },
+      {
+        "end": 62.36000061035156,
+        "start": 62.2400016784668,
+        "word": "you"
+      },
+      {
+        "end": 62.540000915527344,
+        "start": 62.36000061035156,
+        "word": "can"
+      },
+      {
+        "end": 62.779998779296875,
+        "start": 62.540000915527344,
+        "word": "send"
+      },
+      {
+        "end": 63.47999954223633,
+        "start": 62.779998779296875,
+        "word": "drums"
+      },
+      {
+        "end": 63.81999969482422,
+        "start": 63.68000030517578,
+        "word": "you"
+      },
+      {
+        "end": 63.880001068115234,
+        "start": 63.81999969482422,
+        "word": "can"
+      },
+      {
+        "end": 64.16000366210938,
+        "start": 63.880001068115234,
+        "word": "send"
+      },
+      {
+        "end": 64.81999969482422,
+        "start": 64.16000366210938,
+        "word": "synth"
+      },
+      {
+        "end": 65.13999938964844,
+        "start": 64.95999908447266,
+        "word": "you"
+      },
+      {
+        "end": 65.31999969482422,
+        "start": 65.13999938964844,
+        "word": "can"
+      },
+      {
+        "end": 65.5199966430664,
+        "start": 65.31999969482422,
+        "word": "send"
+      },
+      {
+        "end": 65.94000244140625,
+        "start": 65.5199966430664,
+        "word": "your"
+      },
+      {
+        "end": 66.31999969482422,
+        "start": 65.94000244140625,
+        "word": "effects"
+      },
+      {
+        "end": 66.80000305175781,
+        "start": 66.5199966430664,
+        "word": "This"
+      },
+      {
+        "end": 67.23999786376953,
+        "start": 66.80000305175781,
+        "word": "becomes"
+      },
+      {
+        "end": 68.0199966430664,
+        "start": 67.23999786376953,
+        "word": "especially"
+      },
+      {
+        "end": 68.63999938964844,
+        "start": 68.08000183105469,
+        "word": "important"
+      },
+      {
+        "end": 69.19999694824219,
+        "start": 68.63999938964844,
+        "word": "when"
+      },
+      {
+        "end": 69.41999816894531,
+        "start": 69.19999694824219,
+        "word": "you"
+      },
+      {
+        "end": 69.68000030517578,
+        "start": 69.41999816894531,
+        "word": "are"
+      },
+      {
+        "end": 70.16000366210938,
+        "start": 69.68000030517578,
+        "word": "using"
+      },
+      {
+        "end": 70.87999725341797,
+        "start": 70.16000366210938,
+        "word": "reverbs"
+      },
+      {
+        "end": 71.45999908447266,
+        "start": 70.87999725341797,
+        "word": "and"
+      },
+      {
+        "end": 71.86000061035156,
+        "start": 71.45999908447266,
+        "word": "delays"
+      },
+      {
+        "end": 72.5999984741211,
+        "start": 72.26000213623047,
+        "word": "spatial"
+      },
+      {
+        "end": 73.0199966430664,
+        "start": 72.5999984741211,
+        "word": "effects"
+      },
+      {
+        "end": 73.55999755859375,
+        "start": 73.26000213623047,
+        "word": "That"
+      },
+      {
+        "end": 73.81999969482422,
+        "start": 73.55999755859375,
+        "word": "means"
+      },
+      {
+        "end": 74.18000030517578,
+        "start": 73.81999969482422,
+        "word": "now"
+      },
+      {
+        "end": 74.54000091552734,
+        "start": 74.18000030517578,
+        "word": "all"
+      },
+      {
+        "end": 74.80000305175781,
+        "start": 74.54000091552734,
+        "word": "these"
+      },
+      {
+        "end": 75.22000122070312,
+        "start": 74.80000305175781,
+        "word": "different"
+      },
+      {
+        "end": 75.5199966430664,
+        "start": 75.22000122070312,
+        "word": "type"
+      },
+      {
+        "end": 75.94000244140625,
+        "start": 75.5199966430664,
+        "word": "of"
+      },
+      {
+        "end": 76.26000213623047,
+        "start": 75.94000244140625,
+        "word": "instruments"
+      },
+      {
+        "end": 76.76000213623047,
+        "start": 76.26000213623047,
+        "word": "and"
+      },
+      {
+        "end": 77.19999694824219,
+        "start": 76.76000213623047,
+        "word": "sounds"
+      },
+      {
+        "end": 77.55999755859375,
+        "start": 77.30000305175781,
+        "word": "they"
+      },
+      {
+        "end": 77.9000015258789,
+        "start": 77.55999755859375,
+        "word": "start"
+      },
+      {
+        "end": 78.30000305175781,
+        "start": 77.9000015258789,
+        "word": "to"
+      },
+      {
+        "end": 78.36000061035156,
+        "start": 78.30000305175781,
+        "word": "live"
+      },
+      {
+        "end": 78.81999969482422,
+        "start": 78.36000061035156,
+        "word": "in"
+      },
+      {
+        "end": 79.12000274658203,
+        "start": 78.81999969482422,
+        "word": "same"
+      },
+      {
+        "end": 79.5999984741211,
+        "start": 79.12000274658203,
+        "word": "space"
+      },
+      {
+        "end": 79.86000061035156,
+        "start": 79.66000366210938,
+        "word": "This"
+      },
+      {
+        "end": 79.95999908447266,
+        "start": 79.86000061035156,
+        "word": "is"
+      },
+      {
+        "end": 80.12000274658203,
+        "start": 79.95999908447266,
+        "word": "the"
+      },
+      {
+        "end": 80.36000061035156,
+        "start": 80.12000274658203,
+        "word": "number"
+      },
+      {
+        "end": 80.62000274658203,
+        "start": 80.36000061035156,
+        "word": "one"
+      },
+      {
+        "end": 80.87999725341797,
+        "start": 80.62000274658203,
+        "word": "reason"
+      },
+      {
+        "end": 81.19999694824219,
+        "start": 80.87999725341797,
+        "word": "that"
+      },
+      {
+        "end": 81.4800033569336,
+        "start": 81.19999694824219,
+        "word": "will"
+      },
+      {
+        "end": 82.45999908447266,
+        "start": 81.4800033569336,
+        "word": "immediately"
+      },
+      {
+        "end": 82.94000244140625,
+        "start": 82.45999908447266,
+        "word": "glue"
+      },
+      {
+        "end": 83.9800033569336,
+        "start": 82.94000244140625,
+        "word": "your"
+      },
+      {
+        "end": 83.9800033569336,
+        "start": 83.9800033569336,
+        "word": "mixes"
+      },
+      {
+        "end": 84.4800033569336,
+        "start": 84.45999908447266,
+        "word": "Reason"
+      },
+      {
+        "end": 84.95999908447266,
+        "start": 84.4800033569336,
+        "word": "number"
+      },
+      {
+        "end": 85.18000030517578,
+        "start": 84.95999908447266,
+        "word": "two"
+      },
+      {
+        "end": 85.5199966430664,
+        "start": 85.37999725341797,
+        "word": "this"
+      },
+      {
+        "end": 85.73999786376953,
+        "start": 85.5199966430664,
+        "word": "gives"
+      },
+      {
+        "end": 86.27999877929688,
+        "start": 85.73999786376953,
+        "word": "you"
+      },
+      {
+        "end": 86.66000366210938,
+        "start": 86.27999877929688,
+        "word": "immediate"
+      },
+      {
+        "end": 87.23999786376953,
+        "start": 86.66000366210938,
+        "word": "control"
+      },
+      {
+        "end": 87.95999908447266,
+        "start": 87.23999786376953,
+        "word": "over"
+      },
+      {
+        "end": 88.44000244140625,
+        "start": 87.95999908447266,
+        "word": "the"
+      },
+      {
+        "end": 89.08000183105469,
+        "start": 88.5999984741211,
+        "word": "balance"
+      },
+      {
+        "end": 89.55999755859375,
+        "start": 89.08000183105469,
+        "word": "of"
+      },
+      {
+        "end": 89.77999877929688,
+        "start": 89.55999755859375,
+        "word": "your"
+      },
+      {
+        "end": 90.18000030517578,
+        "start": 89.77999877929688,
+        "word": "return"
+      },
+      {
+        "end": 90.45999908447266,
+        "start": 90.18000030517578,
+        "word": "channel"
+      },
+      {
+        "end": 91.05999755859375,
+        "start": 90.68000030517578,
+        "word": "balance"
+      },
+      {
+        "end": 91.31999969482422,
+        "start": 91.05999755859375,
+        "word": "of"
+      },
+      {
+        "end": 91.5199966430664,
+        "start": 91.31999969482422,
+        "word": "the"
+      },
+      {
+        "end": 91.76000213623047,
+        "start": 91.5199966430664,
+        "word": "effects"
+      },
+      {
+        "end": 91.95999908447266,
+        "start": 91.87999725341797,
+        "word": "Do"
+      },
+      {
+        "end": 92.0999984741211,
+        "start": 91.95999908447266,
+        "word": "you"
+      },
+      {
+        "end": 92.30000305175781,
+        "start": 92.0999984741211,
+        "word": "want"
+      },
+      {
+        "end": 92.5999984741211,
+        "start": 92.30000305175781,
+        "word": "drums"
+      },
+      {
+        "end": 92.81999969482422,
+        "start": 92.5999984741211,
+        "word": "to"
+      },
+      {
+        "end": 93.05999755859375,
+        "start": 92.81999969482422,
+        "word": "be"
+      },
+      {
+        "end": 93.44000244140625,
+        "start": 93.05999755859375,
+        "word": "less"
+      },
+      {
+        "end": 93.68000030517578,
+        "start": 93.44000244140625,
+        "word": "wet"
+      },
+      {
+        "end": 93.94000244140625,
+        "start": 93.81999969482422,
+        "word": "You"
+      },
+      {
+        "end": 94.18000030517578,
+        "start": 93.94000244140625,
+        "word": "can"
+      },
+      {
+        "end": 94.44000244140625,
+        "start": 94.18000030517578,
+        "word": "decrease"
+      },
+      {
+        "end": 94.68000030517578,
+        "start": 94.44000244140625,
+        "word": "it"
+      },
+      {
+        "end": 94.91999816894531,
+        "start": 94.68000030517578,
+        "word": "immediately"
+      },
+      {
+        "end": 95.26000213623047,
+        "start": 94.91999816894531,
+        "word": "by"
+      },
+      {
+        "end": 95.58000183105469,
+        "start": 95.26000213623047,
+        "word": "controlling"
+      },
+      {
+        "end": 96.04000091552734,
+        "start": 95.58000183105469,
+        "word": "the"
+      },
+      {
+        "end": 96.04000091552734,
+        "start": 96.04000091552734,
+        "word": "send"
+      },
+      {
+        "end": 96.4000015258789,
+        "start": 96.18000030517578,
+        "word": "You"
+      },
+      {
+        "end": 96.54000091552734,
+        "start": 96.4000015258789,
+        "word": "don't"
+      },
+      {
+        "end": 96.76000213623047,
+        "start": 96.54000091552734,
+        "word": "want"
+      },
+      {
+        "end": 96.95999908447266,
+        "start": 96.76000213623047,
+        "word": "bass"
+      },
+      {
+        "end": 97.13999938964844,
+        "start": 96.95999908447266,
+        "word": "in"
+      },
+      {
+        "end": 97.58000183105469,
+        "start": 97.13999938964844,
+        "word": "your"
+      },
+      {
+        "end": 97.58000183105469,
+        "start": 97.58000183105469,
+        "word": "reverb"
+      },
+      {
+        "end": 98.05999755859375,
+        "start": 97.83999633789062,
+        "word": "Remove"
+      },
+      {
+        "end": 98.26000213623047,
+        "start": 98.05999755859375,
+        "word": "it"
+      },
+      {
+        "end": 98.5,
+        "start": 98.31999969482422,
+        "word": "You"
+      },
+      {
+        "end": 98.62000274658203,
+        "start": 98.5,
+        "word": "want"
+      },
+      {
+        "end": 98.94000244140625,
+        "start": 98.62000274658203,
+        "word": "more"
+      },
+      {
+        "end": 99.36000061035156,
+        "start": 98.94000244140625,
+        "word": "synths"
+      },
+      {
+        "end": 99.4800033569336,
+        "start": 99.36000061035156,
+        "word": "and"
+      },
+      {
+        "end": 99.63999938964844,
+        "start": 99.4800033569336,
+        "word": "less"
+      },
+      {
+        "end": 99.9800033569336,
+        "start": 99.63999938964844,
+        "word": "effects"
+      },
+      {
+        "end": 100.55999755859375,
+        "start": 100.36000061035156,
+        "word": "You"
+      },
+      {
+        "end": 100.76000213623047,
+        "start": 100.55999755859375,
+        "word": "have"
+      },
+      {
+        "end": 100.91999816894531,
+        "start": 100.76000213623047,
+        "word": "it"
+      },
+      {
+        "end": 101.26000213623047,
+        "start": 100.9800033569336,
+        "word": "You"
+      },
+      {
+        "end": 101.5199966430664,
+        "start": 101.26000213623047,
+        "word": "can"
+      },
+      {
+        "end": 101.81999969482422,
+        "start": 101.5199966430664,
+        "word": "test"
+      },
+      {
+        "end": 102.22000122070312,
+        "start": 101.81999969482422,
+        "word": "many"
+      },
+      {
+        "end": 102.87999725341797,
+        "start": 102.22000122070312,
+        "word": "different"
+      },
+      {
+        "end": 103.5199966430664,
+        "start": 102.87999725341797,
+        "word": "variations"
+      },
+      {
+        "end": 104.0199966430664,
+        "start": 103.54000091552734,
+        "word": "in"
+      },
+      {
+        "end": 104.26000213623047,
+        "start": 104.0199966430664,
+        "word": "your"
+      },
+      {
+        "end": 104.54000091552734,
+        "start": 104.26000213623047,
+        "word": "send"
+      },
+      {
+        "end": 104.9000015258789,
+        "start": 104.54000091552734,
+        "word": "levels"
+      },
+      {
+        "end": 105.55999755859375,
+        "start": 104.9000015258789,
+        "word": "extremely"
+      },
+      {
+        "end": 106.0199966430664,
+        "start": 105.55999755859375,
+        "word": "fast"
+      },
+      {
+        "end": 106.33999633789062,
+        "start": 106.0999984741211,
+        "word": "Think"
+      },
+      {
+        "end": 106.45999908447266,
+        "start": 106.33999633789062,
+        "word": "if"
+      },
+      {
+        "end": 106.5999984741211,
+        "start": 106.45999908447266,
+        "word": "you"
+      },
+      {
+        "end": 106.77999877929688,
+        "start": 106.5999984741211,
+        "word": "have"
+      },
+      {
+        "end": 107.04000091552734,
+        "start": 106.77999877929688,
+        "word": "10"
+      },
+      {
+        "end": 107.4000015258789,
+        "start": 107.04000091552734,
+        "word": "different"
+      },
+      {
+        "end": 107.63999938964844,
+        "start": 107.4000015258789,
+        "word": "reverbs"
+      },
+      {
+        "end": 107.9800033569336,
+        "start": 107.76000213623047,
+        "word": "10"
+      },
+      {
+        "end": 108.23999786376953,
+        "start": 107.9800033569336,
+        "word": "different"
+      },
+      {
+        "end": 108.5199966430664,
+        "start": 108.23999786376953,
+        "word": "delays"
+      },
+      {
+        "end": 108.72000122070312,
+        "start": 108.5199966430664,
+        "word": "in"
+      },
+      {
+        "end": 109.05999755859375,
+        "start": 108.72000122070312,
+        "word": "different"
+      },
+      {
+        "end": 109.31999969482422,
+        "start": 109.05999755859375,
+        "word": "channels"
+      },
+      {
+        "end": 109.63999938964844,
+        "start": 109.45999908447266,
+        "word": "you"
+      },
+      {
+        "end": 110.0999984741211,
+        "start": 109.63999938964844,
+        "word": "are"
+      },
+      {
+        "end": 110.37999725341797,
+        "start": 110.0999984741211,
+        "word": "no"
+      },
+      {
+        "end": 110.5999984741211,
+        "start": 110.37999725341797,
+        "word": "way"
+      },
+      {
+        "end": 110.87999725341797,
+        "start": 110.5999984741211,
+        "word": "able"
+      },
+      {
+        "end": 111.0999984741211,
+        "start": 110.87999725341797,
+        "word": "to"
+      },
+      {
+        "end": 111.19999694824219,
+        "start": 111.0999984741211,
+        "word": "do"
+      },
+      {
+        "end": 111.5199966430664,
+        "start": 111.19999694824219,
+        "word": "it"
+      },
+      {
+        "end": 111.83999633789062,
+        "start": 111.5199966430664,
+        "word": "as"
+      },
+      {
+        "end": 112.16000366210938,
+        "start": 111.83999633789062,
+        "word": "efficient"
+      },
+      {
+        "end": 112.54000091552734,
+        "start": 112.16000366210938,
+        "word": "like"
+      },
+      {
+        "end": 112.68000030517578,
+        "start": 112.54000091552734,
+        "word": "you"
+      },
+      {
+        "end": 112.86000061035156,
+        "start": 112.68000030517578,
+        "word": "will"
+      },
+      {
+        "end": 113.05999755859375,
+        "start": 112.86000061035156,
+        "word": "do"
+      },
+      {
+        "end": 113.33999633789062,
+        "start": 113.05999755859375,
+        "word": "other"
+      },
+      {
+        "end": 113.54000091552734,
+        "start": 113.33999633789062,
+        "word": "way"
+      },
+      {
+        "end": 113.83999633789062,
+        "start": 113.76000213623047,
+        "word": "Reason"
+      },
+      {
+        "end": 114.13999938964844,
+        "start": 113.83999633789062,
+        "word": "number"
+      },
+      {
+        "end": 114.4000015258789,
+        "start": 114.13999938964844,
+        "word": "three"
+      },
+      {
+        "end": 114.5999984741211,
+        "start": 114.5199966430664,
+        "word": "you"
+      },
+      {
+        "end": 114.86000061035156,
+        "start": 114.5999984741211,
+        "word": "can"
+      },
+      {
+        "end": 115.4000015258789,
+        "start": 114.86000061035156,
+        "word": "control"
+      },
+      {
+        "end": 115.73999786376953,
+        "start": 115.4000015258789,
+        "word": "the"
+      },
+      {
+        "end": 116.18000030517578,
+        "start": 115.73999786376953,
+        "word": "frequency"
+      },
+      {
+        "end": 116.91999816894531,
+        "start": 116.18000030517578,
+        "word": "response"
+      },
+      {
+        "end": 117.30000305175781,
+        "start": 116.91999816894531,
+        "word": "of"
+      },
+      {
+        "end": 117.58000183105469,
+        "start": 117.30000305175781,
+        "word": "your"
+      },
+      {
+        "end": 118.0199966430664,
+        "start": 117.58000183105469,
+        "word": "returns"
+      },
+      {
+        "end": 118.27999877929688,
+        "start": 118.19999694824219,
+        "word": "of"
+      },
+      {
+        "end": 118.55999755859375,
+        "start": 118.27999877929688,
+        "word": "your"
+      },
+      {
+        "end": 118.9800033569336,
+        "start": 118.55999755859375,
+        "word": "spatial"
+      },
+      {
+        "end": 119.37999725341797,
+        "start": 118.9800033569336,
+        "word": "effects"
+      },
+      {
+        "end": 119.80000305175781,
+        "start": 119.37999725341797,
+        "word": "by"
+      },
+      {
+        "end": 120.4000015258789,
+        "start": 119.80000305175781,
+        "word": "EQing"
+      },
+      {
+        "end": 120.5999984741211,
+        "start": 120.4000015258789,
+        "word": "your"
+      },
+      {
+        "end": 120.9800033569336,
+        "start": 120.5999984741211,
+        "word": "return"
+      },
+      {
+        "end": 121.30000305175781,
+        "start": 120.9800033569336,
+        "word": "channel"
+      },
+      {
+        "end": 121.66000366210938,
+        "start": 121.4800033569336,
+        "word": "Meaning"
+      },
+      {
+        "end": 122.18000030517578,
+        "start": 121.66000366210938,
+        "word": "that"
+      },
+      {
+        "end": 122.44000244140625,
+        "start": 122.18000030517578,
+        "word": "let's"
+      },
+      {
+        "end": 122.63999938964844,
+        "start": 122.44000244140625,
+        "word": "say"
+      },
+      {
+        "end": 122.86000061035156,
+        "start": 122.63999938964844,
+        "word": "I"
+      },
+      {
+        "end": 123.0,
+        "start": 122.86000061035156,
+        "word": "don't"
+      },
+      {
+        "end": 123.18000030517578,
+        "start": 123.0,
+        "word": "want"
+      },
+      {
+        "end": 123.5,
+        "start": 123.18000030517578,
+        "word": "the"
+      },
+      {
+        "end": 123.5999984741211,
+        "start": 123.5,
+        "word": "muddiness"
+      },
+      {
+        "end": 123.9000015258789,
+        "start": 123.5999984741211,
+        "word": "on"
+      },
+      {
+        "end": 124.19999694824219,
+        "start": 123.9000015258789,
+        "word": "the"
+      },
+      {
+        "end": 124.19999694824219,
+        "start": 124.19999694824219,
+        "word": "low"
+      },
+      {
+        "end": 124.54000091552734,
+        "start": 124.30000305175781,
+        "word": "I"
+      },
+      {
+        "end": 124.73999786376953,
+        "start": 124.54000091552734,
+        "word": "can"
+      },
+      {
+        "end": 124.9800033569336,
+        "start": 124.73999786376953,
+        "word": "low"
+      },
+      {
+        "end": 125.18000030517578,
+        "start": 124.9800033569336,
+        "word": "pass"
+      },
+      {
+        "end": 125.41999816894531,
+        "start": 125.26000213623047,
+        "word": "I"
+      },
+      {
+        "end": 125.58000183105469,
+        "start": 125.41999816894531,
+        "word": "want"
+      },
+      {
+        "end": 125.69999694824219,
+        "start": 125.58000183105469,
+        "word": "to"
+      },
+      {
+        "end": 125.94000244140625,
+        "start": 125.69999694824219,
+        "word": "let"
+      },
+      {
+        "end": 126.13999938964844,
+        "start": 125.94000244140625,
+        "word": "give"
+      },
+      {
+        "end": 126.54000091552734,
+        "start": 126.13999938964844,
+        "word": "the"
+      },
+      {
+        "end": 126.66000366210938,
+        "start": 126.54000091552734,
+        "word": "hi"
+      },
+      {
+        "end": 126.68000030517578,
+        "start": 126.66000366210938,
+        "word": "hat"
+      },
+      {
+        "end": 127.19999694824219,
+        "start": 126.68000030517578,
+        "word": "to"
+      },
+      {
+        "end": 127.23999786376953,
+        "start": 127.19999694824219,
+        "word": "pass"
+      },
+      {
+        "end": 127.5,
+        "start": 127.30000305175781,
+        "word": "I"
+      },
+      {
+        "end": 127.69999694824219,
+        "start": 127.5,
+        "word": "can"
+      },
+      {
+        "end": 127.94000244140625,
+        "start": 127.69999694824219,
+        "word": "high"
+      },
+      {
+        "end": 128.13999938964844,
+        "start": 127.94000244140625,
+        "word": "pass"
+      },
+      {
+        "end": 128.52000427246094,
+        "start": 128.27999877929688,
+        "word": "Now"
+      },
+      {
+        "end": 128.8800048828125,
+        "start": 128.52000427246094,
+        "word": "I"
+      },
+      {
+        "end": 129.47999572753906,
+        "start": 128.8800048828125,
+        "word": "immediately"
+      },
+      {
+        "end": 129.97999572753906,
+        "start": 129.47999572753906,
+        "word": "by"
+      },
+      {
+        "end": 130.16000366210938,
+        "start": 129.97999572753906,
+        "word": "using"
+      },
+      {
+        "end": 130.6199951171875,
+        "start": 130.16000366210938,
+        "word": "single"
+      },
+      {
+        "end": 131.0399932861328,
+        "start": 130.6199951171875,
+        "word": "EQ"
+      },
+      {
+        "end": 131.27999877929688,
+        "start": 131.0399932861328,
+        "word": "the"
+      },
+      {
+        "end": 131.9600067138672,
+        "start": 131.27999877929688,
+        "word": "control"
+      },
+      {
+        "end": 132.36000061035156,
+        "start": 131.9600067138672,
+        "word": "where"
+      },
+      {
+        "end": 132.86000061035156,
+        "start": 132.36000061035156,
+        "word": "I"
+      },
+      {
+        "end": 133.25999450683594,
+        "start": 132.86000061035156,
+        "word": "focus"
+      },
+      {
+        "end": 133.60000610351562,
+        "start": 133.25999450683594,
+        "word": "with"
+      },
+      {
+        "end": 134.05999755859375,
+        "start": 133.60000610351562,
+        "word": "my"
+      },
+      {
+        "end": 134.27999877929688,
+        "start": 134.05999755859375,
+        "word": "effects"
+      },
+      {
+        "end": 134.83999633789062,
+        "start": 134.27999877929688,
+        "word": "where"
+      },
+      {
+        "end": 135.10000610351562,
+        "start": 134.83999633789062,
+        "word": "it"
+      },
+      {
+        "end": 135.44000244140625,
+        "start": 135.10000610351562,
+        "word": "matters"
+      },
+      {
+        "end": 135.9199981689453,
+        "start": 135.9199981689453,
+        "word": "Reason"
+      },
+      {
+        "end": 136.17999267578125,
+        "start": 135.9199981689453,
+        "word": "number"
+      },
+      {
+        "end": 136.5399932861328,
+        "start": 136.17999267578125,
+        "word": "four"
+      },
+      {
+        "end": 136.8800048828125,
+        "start": 136.82000732421875,
+        "word": "you"
+      },
+      {
+        "end": 137.32000732421875,
+        "start": 136.8800048828125,
+        "word": "can"
+      },
+      {
+        "end": 137.72000122070312,
+        "start": 137.32000732421875,
+        "word": "color"
+      },
+      {
+        "end": 138.52000427246094,
+        "start": 137.8800048828125,
+        "word": "differently"
+      },
+      {
+        "end": 139.16000366210938,
+        "start": 138.52000427246094,
+        "word": "each"
+      },
+      {
+        "end": 139.4600067138672,
+        "start": 139.16000366210938,
+        "word": "of"
+      },
+      {
+        "end": 139.6999969482422,
+        "start": 139.4600067138672,
+        "word": "these"
+      },
+      {
+        "end": 140.02000427246094,
+        "start": 139.6999969482422,
+        "word": "with"
+      },
+      {
+        "end": 140.66000366210938,
+        "start": 140.02000427246094,
+        "word": "effects"
+      },
+      {
+        "end": 141.0800018310547,
+        "start": 140.66000366210938,
+        "word": "inside"
+      },
+      {
+        "end": 141.39999389648438,
+        "start": 141.0800018310547,
+        "word": "your"
+      },
+      {
+        "end": 141.6999969482422,
+        "start": 141.39999389648438,
+        "word": "channel"
+      },
+      {
+        "end": 142.1199951171875,
+        "start": 141.9600067138672,
+        "word": "Reason"
+      },
+      {
+        "end": 142.39999389648438,
+        "start": 142.1199951171875,
+        "word": "number"
+      },
+      {
+        "end": 142.77999877929688,
+        "start": 142.39999389648438,
+        "word": "five"
+      },
+      {
+        "end": 143.0399932861328,
+        "start": 142.86000061035156,
+        "word": "this"
+      },
+      {
+        "end": 143.22000122070312,
+        "start": 143.0399932861328,
+        "word": "is"
+      },
+      {
+        "end": 143.63999938964844,
+        "start": 143.22000122070312,
+        "word": "really"
+      },
+      {
+        "end": 144.13999938964844,
+        "start": 143.63999938964844,
+        "word": "important"
+      },
+      {
+        "end": 144.4600067138672,
+        "start": 144.13999938964844,
+        "word": "for"
+      },
+      {
+        "end": 144.75999450683594,
+        "start": 144.4600067138672,
+        "word": "modern"
+      },
+      {
+        "end": 145.05999755859375,
+        "start": 144.75999450683594,
+        "word": "mixes"
+      },
+      {
+        "end": 145.39999389648438,
+        "start": 145.25999450683594,
+        "word": "You"
+      },
+      {
+        "end": 145.75999450683594,
+        "start": 145.39999389648438,
+        "word": "can"
+      },
+      {
+        "end": 146.05999755859375,
+        "start": 145.75999450683594,
+        "word": "create"
+      },
+      {
+        "end": 146.63999938964844,
+        "start": 146.05999755859375,
+        "word": "spaces"
+      },
+      {
+        "end": 147.4199981689453,
+        "start": 146.63999938964844,
+        "word": "for"
+      },
+      {
+        "end": 147.66000366210938,
+        "start": 147.4199981689453,
+        "word": "your"
+      },
+      {
+        "end": 148.02000427246094,
+        "start": 147.66000366210938,
+        "word": "dry"
+      },
+      {
+        "end": 148.3800048828125,
+        "start": 148.02000427246094,
+        "word": "signals"
+      },
+      {
+        "end": 148.6999969482422,
+        "start": 148.3800048828125,
+        "word": "in"
+      },
+      {
+        "end": 149.0,
+        "start": 148.6999969482422,
+        "word": "your"
+      },
+      {
+        "end": 149.27999877929688,
+        "start": 149.0,
+        "word": "wet"
+      },
+      {
+        "end": 149.83999633789062,
+        "start": 149.27999877929688,
+        "word": "return"
+      },
+      {
+        "end": 150.33999633789062,
+        "start": 149.83999633789062,
+        "word": "extremely"
+      },
+      {
+        "end": 150.8000030517578,
+        "start": 150.33999633789062,
+        "word": "easily"
+      },
+      {
+        "end": 151.02000427246094,
+        "start": 150.83999633789062,
+        "word": "If"
+      },
+      {
+        "end": 151.13999938964844,
+        "start": 151.02000427246094,
+        "word": "you"
+      },
+      {
+        "end": 151.47999572753906,
+        "start": 151.13999938964844,
+        "word": "have"
+      },
+      {
+        "end": 151.6999969482422,
+        "start": 151.47999572753906,
+        "word": "let's"
+      },
+      {
+        "end": 151.83999633789062,
+        "start": 151.6999969482422,
+        "word": "say"
+      },
+      {
+        "end": 152.0399932861328,
+        "start": 151.83999633789062,
+        "word": "I"
+      },
+      {
+        "end": 152.25999450683594,
+        "start": 152.0399932861328,
+        "word": "have"
+      },
+      {
+        "end": 152.60000610351562,
+        "start": 152.25999450683594,
+        "word": "vocals"
+      },
+      {
+        "end": 152.94000244140625,
+        "start": 152.60000610351562,
+        "word": "here"
+      },
+      {
+        "end": 153.36000061035156,
+        "start": 152.94000244140625,
+        "word": "I"
+      },
+      {
+        "end": 153.6199951171875,
+        "start": 153.36000061035156,
+        "word": "need"
+      },
+      {
+        "end": 154.22000122070312,
+        "start": 153.6199951171875,
+        "word": "space"
+      },
+      {
+        "end": 154.6199951171875,
+        "start": 154.22000122070312,
+        "word": "in"
+      },
+      {
+        "end": 155.1999969482422,
+        "start": 154.6199951171875,
+        "word": "my"
+      },
+      {
+        "end": 155.4600067138672,
+        "start": 155.1999969482422,
+        "word": "reverbs"
+      },
+      {
+        "end": 155.74000549316406,
+        "start": 155.4600067138672,
+        "word": "and"
+      },
+      {
+        "end": 156.05999755859375,
+        "start": 155.74000549316406,
+        "word": "delay"
+      },
+      {
+        "end": 156.39999389648438,
+        "start": 156.17999267578125,
+        "word": "You"
+      },
+      {
+        "end": 156.72000122070312,
+        "start": 156.39999389648438,
+        "word": "can"
+      },
+      {
+        "end": 157.75999450683594,
+        "start": 157.27999877929688,
+        "word": "something"
+      },
+      {
+        "end": 158.16000366210938,
+        "start": 157.75999450683594,
+        "word": "like"
+      },
+      {
+        "end": 158.4600067138672,
+        "start": 158.16000366210938,
+        "word": "a"
+      },
+      {
+        "end": 158.66000366210938,
+        "start": 158.4600067138672,
+        "word": "belly"
+      },
+      {
+        "end": 158.9199981689453,
+        "start": 158.66000366210938,
+        "word": "cue"
+      },
+      {
+        "end": 159.1999969482422,
+        "start": 159.16000366210938,
+        "word": "cut"
+      },
+      {
+        "end": 159.3000030517578,
+        "start": 159.1999969482422,
+        "word": "a"
+      },
+      {
+        "end": 159.36000061035156,
+        "start": 159.3000030517578,
+        "word": "little"
+      },
+      {
+        "end": 159.5800018310547,
+        "start": 159.36000061035156,
+        "word": "bit"
+      },
+      {
+        "end": 159.9199981689453,
+        "start": 159.5800018310547,
+        "word": "there"
+      },
+      {
+        "end": 160.13999938964844,
+        "start": 160.0,
+        "word": "maybe"
+      },
+      {
+        "end": 160.52000427246094,
+        "start": 160.13999938964844,
+        "word": "a"
+      },
+      {
+        "end": 160.52000427246094,
+        "start": 160.52000427246094,
+        "word": "bit"
+      },
+      {
+        "end": 160.66000366210938,
+        "start": 160.52000427246094,
+        "word": "wider"
+      },
+      {
+        "end": 161.16000366210938,
+        "start": 160.83999633789062,
+        "word": "something"
+      },
+      {
+        "end": 161.4600067138672,
+        "start": 161.16000366210938,
+        "word": "like"
+      },
+      {
+        "end": 161.75999450683594,
+        "start": 161.4600067138672,
+        "word": "this"
+      },
+      {
+        "end": 162.52000427246094,
+        "start": 162.0399932861328,
+        "word": "Now"
+      },
+      {
+        "end": 163.0,
+        "start": 162.52000427246094,
+        "word": "I"
+      },
+      {
+        "end": 163.24000549316406,
+        "start": 163.0,
+        "word": "cut"
+      },
+      {
+        "end": 163.4600067138672,
+        "start": 163.24000549316406,
+        "word": "out"
+      },
+      {
+        "end": 163.75999450683594,
+        "start": 163.4600067138672,
+        "word": "the"
+      },
+      {
+        "end": 164.1199951171875,
+        "start": 163.75999450683594,
+        "word": "space"
+      },
+      {
+        "end": 164.66000366210938,
+        "start": 164.1199951171875,
+        "word": "on"
+      },
+      {
+        "end": 165.17999267578125,
+        "start": 164.66000366210938,
+        "word": "my"
+      },
+      {
+        "end": 165.39999389648438,
+        "start": 165.17999267578125,
+        "word": "reverbs"
+      },
+      {
+        "end": 165.8800048828125,
+        "start": 165.39999389648438,
+        "word": "delays"
+      },
+      {
+        "end": 166.24000549316406,
+        "start": 165.8800048828125,
+        "word": "and"
+      },
+      {
+        "end": 166.77999877929688,
+        "start": 166.24000549316406,
+        "word": "my"
+      },
+      {
+        "end": 167.10000610351562,
+        "start": 166.77999877929688,
+        "word": "dry"
+      },
+      {
+        "end": 167.4199981689453,
+        "start": 167.10000610351562,
+        "word": "signals"
+      },
+      {
+        "end": 167.75999450683594,
+        "start": 167.4199981689453,
+        "word": "can"
+      },
+      {
+        "end": 168.24000549316406,
+        "start": 167.75999450683594,
+        "word": "pop"
+      },
+      {
+        "end": 168.60000610351562,
+        "start": 168.24000549316406,
+        "word": "in"
+      },
+      {
+        "end": 168.9199981689453,
+        "start": 168.60000610351562,
+        "word": "my"
+      },
+      {
+        "end": 169.16000366210938,
+        "start": 168.9199981689453,
+        "word": "mix"
+      },
+      {
+        "end": 169.67999267578125,
+        "start": 169.16000366210938,
+        "word": "much"
+      },
+      {
+        "end": 169.9600067138672,
+        "start": 169.67999267578125,
+        "word": "better"
+      },
+      {
+        "end": 170.27999877929688,
+        "start": 170.0399932861328,
+        "word": "There"
+      },
+      {
+        "end": 170.33999633789062,
+        "start": 170.27999877929688,
+        "word": "is"
+      },
+      {
+        "end": 170.5399932861328,
+        "start": 170.33999633789062,
+        "word": "even"
+      },
+      {
+        "end": 170.77999877929688,
+        "start": 170.5399932861328,
+        "word": "a"
+      },
+      {
+        "end": 171.0,
+        "start": 170.77999877929688,
+        "word": "way"
+      },
+      {
+        "end": 171.13999938964844,
+        "start": 171.0,
+        "word": "to"
+      },
+      {
+        "end": 171.25999450683594,
+        "start": 171.13999938964844,
+        "word": "do"
+      },
+      {
+        "end": 171.47999572753906,
+        "start": 171.25999450683594,
+        "word": "it"
+      },
+      {
+        "end": 171.6999969482422,
+        "start": 171.47999572753906,
+        "word": "more"
+      },
+      {
+        "end": 172.1199951171875,
+        "start": 171.6999969482422,
+        "word": "actively"
+      },
+      {
+        "end": 172.44000244140625,
+        "start": 172.27999877929688,
+        "word": "I"
+      },
+      {
+        "end": 172.5800018310547,
+        "start": 172.44000244140625,
+        "word": "will"
+      },
+      {
+        "end": 172.75999450683594,
+        "start": 172.5800018310547,
+        "word": "show"
+      },
+      {
+        "end": 172.86000061035156,
+        "start": 172.75999450683594,
+        "word": "you"
+      },
+      {
+        "end": 172.97999572753906,
+        "start": 172.86000061035156,
+        "word": "in"
+      },
+      {
+        "end": 173.3800048828125,
+        "start": 172.97999572753906,
+        "word": "a"
+      },
+      {
+        "end": 173.3800048828125,
+        "start": 173.3800048828125,
+        "word": "second"
+      },
+      {
+        "end": 173.72000122070312,
+        "start": 173.5,
+        "word": "So"
+      },
+      {
+        "end": 173.9199981689453,
+        "start": 173.72000122070312,
+        "word": "let's"
+      },
+      {
+        "end": 174.13999938964844,
+        "start": 173.9199981689453,
+        "word": "jump"
+      },
+      {
+        "end": 174.25999450683594,
+        "start": 174.13999938964844,
+        "word": "to"
+      },
+      {
+        "end": 174.4199981689453,
+        "start": 174.25999450683594,
+        "word": "the"
+      },
+      {
+        "end": 174.60000610351562,
+        "start": 174.4199981689453,
+        "word": "project"
+      },
+      {
+        "end": 174.94000244140625,
+        "start": 174.60000610351562,
+        "word": "file"
+      },
+      {
+        "end": 175.24000549316406,
+        "start": 174.94000244140625,
+        "word": "and"
+      },
+      {
+        "end": 175.60000610351562,
+        "start": 175.24000549316406,
+        "word": "I"
+      },
+      {
+        "end": 175.83999633789062,
+        "start": 175.60000610351562,
+        "word": "can"
+      },
+      {
+        "end": 176.16000366210938,
+        "start": 175.83999633789062,
+        "word": "show"
+      },
+      {
+        "end": 176.36000061035156,
+        "start": 176.16000366210938,
+        "word": "you"
+      },
+      {
+        "end": 176.89999389648438,
+        "start": 176.36000061035156,
+        "word": "in"
+      },
+      {
+        "end": 177.24000549316406,
+        "start": 176.89999389648438,
+        "word": "audio"
+      },
+      {
+        "end": 177.52000427246094,
+        "start": 177.24000549316406,
+        "word": "form"
+      },
+      {
+        "end": 177.94000244140625,
+        "start": 177.52000427246094,
+        "word": "too"
+      },
+      {
+        "end": 178.4199981689453,
+        "start": 178.0,
+        "word": "Enjoying"
+      },
+      {
+        "end": 178.8000030517578,
+        "start": 178.4199981689453,
+        "word": "the"
+      },
+      {
+        "end": 178.8000030517578,
+        "start": 178.8000030517578,
+        "word": "video"
+      },
+      {
+        "end": 179.24000549316406,
+        "start": 179.02000427246094,
+        "word": "please"
+      },
+      {
+        "end": 179.67999267578125,
+        "start": 179.24000549316406,
+        "word": "consider"
+      },
+      {
+        "end": 179.97999572753906,
+        "start": 179.67999267578125,
+        "word": "like"
+      },
+      {
+        "end": 180.22000122070312,
+        "start": 179.97999572753906,
+        "word": "and"
+      },
+      {
+        "end": 180.9199981689453,
+        "start": 180.22000122070312,
+        "word": "I"
+      },
+      {
+        "end": 181.32000732421875,
+        "start": 180.9199981689453,
+        "word": "promise"
+      },
+      {
+        "end": 181.6999969482422,
+        "start": 181.32000732421875,
+        "word": "I"
+      },
+      {
+        "end": 181.86000061035156,
+        "start": 181.6999969482422,
+        "word": "will"
+      },
+      {
+        "end": 182.0,
+        "start": 181.86000061035156,
+        "word": "give"
+      },
+      {
+        "end": 182.17999267578125,
+        "start": 182.0,
+        "word": "you"
+      },
+      {
+        "end": 182.3000030517578,
+        "start": 182.17999267578125,
+        "word": "more"
+      },
+      {
+        "end": 182.5399932861328,
+        "start": 182.3000030517578,
+        "word": "videos"
+      },
+      {
+        "end": 182.8000030517578,
+        "start": 182.5399932861328,
+        "word": "like"
+      },
+      {
+        "end": 183.16000366210938,
+        "start": 182.8000030517578,
+        "word": "this"
+      },
+      {
+        "end": 183.5399932861328,
+        "start": 183.27999877929688,
+        "word": "Listen"
+      },
+      {
+        "end": 183.74000549316406,
+        "start": 183.5399932861328,
+        "word": "to"
+      },
+      {
+        "end": 184.00999450683594,
+        "start": 183.74000549316406,
+        "word": "this"
+      },
+      {
+        "end": 192.24000549316406,
+        "start": 191.6999969482422,
+        "word": "Apart"
+      },
+      {
+        "end": 192.5800018310547,
+        "start": 192.24000549316406,
+        "word": "from"
+      },
+      {
+        "end": 193.24000549316406,
+        "start": 192.5800018310547,
+        "word": "the"
+      },
+      {
+        "end": 193.6199951171875,
+        "start": 193.24000549316406,
+        "word": "vocal"
+      },
+      {
+        "end": 194.17999267578125,
+        "start": 193.6199951171875,
+        "word": "and"
+      },
+      {
+        "end": 194.3800048828125,
+        "start": 194.17999267578125,
+        "word": "lips"
+      },
+      {
+        "end": 194.9199981689453,
+        "start": 194.74000549316406,
+        "word": "everything"
+      },
+      {
+        "end": 195.1999969482422,
+        "start": 194.9199981689453,
+        "word": "is"
+      },
+      {
+        "end": 195.39999389648438,
+        "start": 195.1999969482422,
+        "word": "dry"
+      },
+      {
+        "end": 195.6999969482422,
+        "start": 195.39999389648438,
+        "word": "and"
+      },
+      {
+        "end": 195.97999572753906,
+        "start": 195.6999969482422,
+        "word": "using"
+      },
+      {
+        "end": 196.33999633789062,
+        "start": 195.97999572753906,
+        "word": "returns"
+      },
+      {
+        "end": 196.67999267578125,
+        "start": 196.33999633789062,
+        "word": "doesn't"
+      },
+      {
+        "end": 196.86000061035156,
+        "start": 196.67999267578125,
+        "word": "mean"
+      },
+      {
+        "end": 197.0399932861328,
+        "start": 196.86000061035156,
+        "word": "that"
+      },
+      {
+        "end": 197.3000030517578,
+        "start": 197.0399932861328,
+        "word": "you"
+      },
+      {
+        "end": 197.72000122070312,
+        "start": 197.3000030517578,
+        "word": "always"
+      },
+      {
+        "end": 197.97999572753906,
+        "start": 197.72000122070312,
+        "word": "have"
+      },
+      {
+        "end": 198.13999938964844,
+        "start": 197.97999572753906,
+        "word": "to"
+      },
+      {
+        "end": 198.44000244140625,
+        "start": 198.13999938964844,
+        "word": "have"
+      },
+      {
+        "end": 198.89999389648438,
+        "start": 198.44000244140625,
+        "word": "returns"
+      },
+      {
+        "end": 199.4600067138672,
+        "start": 199.32000732421875,
+        "word": "For"
+      },
+      {
+        "end": 199.77999877929688,
+        "start": 199.4600067138672,
+        "word": "color"
+      },
+      {
+        "end": 200.13999938964844,
+        "start": 199.77999877929688,
+        "word": "meaning"
+      },
+      {
+        "end": 200.33999633789062,
+        "start": 200.13999938964844,
+        "word": "for"
+      },
+      {
+        "end": 200.60000610351562,
+        "start": 200.33999633789062,
+        "word": "this"
+      },
+      {
+        "end": 200.82000732421875,
+        "start": 200.60000610351562,
+        "word": "vocal"
+      },
+      {
+        "end": 201.17999267578125,
+        "start": 200.97999572753906,
+        "word": "we"
+      },
+      {
+        "end": 201.5399932861328,
+        "start": 201.17999267578125,
+        "word": "definitely"
+      },
+      {
+        "end": 202.02000427246094,
+        "start": 201.5399932861328,
+        "word": "using"
+      },
+      {
+        "end": 202.33999633789062,
+        "start": 202.02000427246094,
+        "word": "on"
+      },
+      {
+        "end": 202.5,
+        "start": 202.33999633789062,
+        "word": "the"
+      },
+      {
+        "end": 202.8000030517578,
+        "start": 202.5,
+        "word": "channel"
+      },
+      {
+        "end": 204.4600067138672,
+        "start": 203.9199981689453,
+        "word": "But"
+      },
+      {
+        "end": 204.74000549316406,
+        "start": 204.4600067138672,
+        "word": "the"
+      },
+      {
+        "end": 205.10000610351562,
+        "start": 204.74000549316406,
+        "word": "rest"
+      },
+      {
+        "end": 205.5800018310547,
+        "start": 205.4600067138672,
+        "word": "the"
+      },
+      {
+        "end": 205.9199981689453,
+        "start": 205.5800018310547,
+        "word": "rest"
+      },
+      {
+        "end": 206.24000549316406,
+        "start": 205.9199981689453,
+        "word": "goes"
+      },
+      {
+        "end": 206.4199981689453,
+        "start": 206.24000549316406,
+        "word": "to"
+      },
+      {
+        "end": 206.6999969482422,
+        "start": 206.4199981689453,
+        "word": "the"
+      },
+      {
+        "end": 206.9199981689453,
+        "start": 206.6999969482422,
+        "word": "return"
+      },
+      {
+        "end": 207.3800048828125,
+        "start": 207.0399932861328,
+        "word": "Let's"
+      },
+      {
+        "end": 207.60000610351562,
+        "start": 207.3800048828125,
+        "word": "start"
+      },
+      {
+        "end": 207.9199981689453,
+        "start": 207.60000610351562,
+        "word": "with"
+      },
+      {
+        "end": 208.22000122070312,
+        "start": 207.9199981689453,
+        "word": "creating"
+      },
+      {
+        "end": 208.63999938964844,
+        "start": 208.22000122070312,
+        "word": "a"
+      },
+      {
+        "end": 208.74000549316406,
+        "start": 208.63999938964844,
+        "word": "tight"
+      },
+      {
+        "end": 208.8800048828125,
+        "start": 208.74000549316406,
+        "word": "room"
+      },
+      {
+        "end": 209.10000610351562,
+        "start": 208.9600067138672,
+        "word": "For"
+      },
+      {
+        "end": 209.32000732421875,
+        "start": 209.10000610351562,
+        "word": "our"
+      },
+      {
+        "end": 209.83999633789062,
+        "start": 209.32000732421875,
+        "word": "and"
+      },
+      {
+        "end": 210.77999877929688,
+        "start": 209.83999633789062,
+        "word": "synths"
+      },
+      {
+        "end": 210.9600067138672,
+        "start": 210.9600067138672,
+        "word": "Tight"
+      },
+      {
+        "end": 211.0399932861328,
+        "start": 210.9600067138672,
+        "word": "room"
+      },
+      {
+        "end": 211.3800048828125,
+        "start": 211.0399932861328,
+        "word": "means"
+      },
+      {
+        "end": 212.10000610351562,
+        "start": 211.3800048828125,
+        "word": "small"
+      },
+      {
+        "end": 212.5,
+        "start": 212.10000610351562,
+        "word": "reverb"
+      },
+      {
+        "end": 212.9199981689453,
+        "start": 212.6999969482422,
+        "word": "Return"
+      },
+      {
+        "end": 213.27999877929688,
+        "start": 212.9199981689453,
+        "word": "channel"
+      },
+      {
+        "end": 213.6999969482422,
+        "start": 213.39999389648438,
+        "word": "tight"
+      },
+      {
+        "end": 213.86000061035156,
+        "start": 213.6999969482422,
+        "word": "room"
+      },
+      {
+        "end": 214.25999450683594,
+        "start": 214.22000122070312,
+        "word": "Use"
+      },
+      {
+        "end": 214.89999389648438,
+        "start": 214.25999450683594,
+        "word": "anything"
+      },
+      {
+        "end": 215.16000366210938,
+        "start": 214.89999389648438,
+        "word": "that"
+      },
+      {
+        "end": 215.32000732421875,
+        "start": 215.16000366210938,
+        "word": "you"
+      },
+      {
+        "end": 215.5399932861328,
+        "start": 215.32000732421875,
+        "word": "like"
+      },
+      {
+        "end": 215.82000732421875,
+        "start": 215.75999450683594,
+        "word": "It"
+      },
+      {
+        "end": 216.0399932861328,
+        "start": 215.82000732421875,
+        "word": "doesn't"
+      },
+      {
+        "end": 216.32000732421875,
+        "start": 216.0399932861328,
+        "word": "matter"
+      },
+      {
+        "end": 216.89999389648438,
+        "start": 216.6199951171875,
+        "word": "100"
+      },
+      {
+        "end": 217.3000030517578,
+        "start": 216.89999389648438,
+        "word": ""
+      },
+      {
+        "end": 217.60000610351562,
+        "start": 217.3000030517578,
+        "word": "wet"
+      },
+      {
+        "end": 218.0399932861328,
+        "start": 217.72000122070312,
+        "word": "right"
+      },
+      {
+        "end": 218.55999755859375,
+        "start": 218.24000549316406,
+        "word": "Let's"
+      },
+      {
+        "end": 219.27999877929688,
+        "start": 218.55999755859375,
+        "word": "send"
+      },
+      {
+        "end": 220.1999969482422,
+        "start": 219.27999877929688,
+        "word": "drums"
+      },
+      {
+        "end": 220.9199981689453,
+        "start": 220.9199981689453,
+        "word": "percussions"
+      },
+      {
+        "end": 221.6199951171875,
+        "start": 221.4600067138672,
+        "word": "synths"
+      },
+      {
+        "end": 221.8000030517578,
+        "start": 221.6199951171875,
+        "word": "over"
+      },
+      {
+        "end": 222.1199951171875,
+        "start": 221.8000030517578,
+        "word": "there"
+      },
+      {
+        "end": 222.4199981689453,
+        "start": 222.1199951171875,
+        "word": "to"
+      },
+      {
+        "end": 222.72000122070312,
+        "start": 222.4199981689453,
+        "word": "create"
+      },
+      {
+        "end": 223.3800048828125,
+        "start": 222.72000122070312,
+        "word": "the"
+      },
+      {
+        "end": 223.3800048828125,
+        "start": 223.3800048828125,
+        "word": "ambience"
+      },
+      {
+        "end": 224.0800018310547,
+        "start": 224.05999755859375,
+        "word": "Solo"
+      },
+      {
+        "end": 224.52000427246094,
+        "start": 224.0800018310547,
+        "word": "this"
+      },
+      {
+        "end": 224.94000244140625,
+        "start": 224.66000366210938,
+        "word": "hats"
+      },
+      {
+        "end": 225.4199981689453,
+        "start": 225.25999450683594,
+        "word": "very"
+      },
+      {
+        "end": 225.63999938964844,
+        "start": 225.4199981689453,
+        "word": "small"
+      },
+      {
+        "end": 225.8800048828125,
+        "start": 225.63999938964844,
+        "word": "room"
+      },
+      {
+        "end": 226.75999450683594,
+        "start": 226.4600067138672,
+        "word": "clap"
+      },
+      {
+        "end": 230.5,
+        "start": 230.0,
+        "word": "Let's"
+      },
+      {
+        "end": 230.75999450683594,
+        "start": 230.5,
+        "word": "add"
+      },
+      {
+        "end": 230.8800048828125,
+        "start": 230.75999450683594,
+        "word": "a"
+      },
+      {
+        "end": 231.10000610351562,
+        "start": 230.8800048828125,
+        "word": "little"
+      },
+      {
+        "end": 231.4600067138672,
+        "start": 231.10000610351562,
+        "word": "bit"
+      },
+      {
+        "end": 231.47999572753906,
+        "start": 231.4600067138672,
+        "word": "synth"
+      },
+      {
+        "end": 237.13999938964844,
+        "start": 236.4600067138672,
+        "word": "First"
+      },
+      {
+        "end": 237.52000427246094,
+        "start": 237.13999938964844,
+        "word": "focus"
+      },
+      {
+        "end": 238.24000549316406,
+        "start": 238.24000549316406,
+        "word": "Do"
+      },
+      {
+        "end": 238.24000549316406,
+        "start": 238.24000549316406,
+        "word": "you"
+      },
+      {
+        "end": 238.52000427246094,
+        "start": 238.24000549316406,
+        "word": "hear"
+      },
+      {
+        "end": 238.86000061035156,
+        "start": 238.52000427246094,
+        "word": "how"
+      },
+      {
+        "end": 239.3800048828125,
+        "start": 238.86000061035156,
+        "word": "everything"
+      },
+      {
+        "end": 239.83999633789062,
+        "start": 239.3800048828125,
+        "word": "sits"
+      },
+      {
+        "end": 240.36000061035156,
+        "start": 239.83999633789062,
+        "word": "inside"
+      },
+      {
+        "end": 240.5800018310547,
+        "start": 240.36000061035156,
+        "word": "the"
+      },
+      {
+        "end": 240.63999938964844,
+        "start": 240.5800018310547,
+        "word": "room"
+      },
+      {
+        "end": 241.13999938964844,
+        "start": 241.13999938964844,
+        "word": "This"
+      },
+      {
+        "end": 241.82000732421875,
+        "start": 241.13999938964844,
+        "word": "immediately"
+      },
+      {
+        "end": 242.24000549316406,
+        "start": 241.82000732421875,
+        "word": "glues"
+      },
+      {
+        "end": 243.05999755859375,
+        "start": 242.24000549316406,
+        "word": "everything"
+      },
+      {
+        "end": 248.4600067138672,
+        "start": 247.89999389648438,
+        "word": "Then"
+      },
+      {
+        "end": 248.9199981689453,
+        "start": 248.4600067138672,
+        "word": "I"
+      },
+      {
+        "end": 249.32000732421875,
+        "start": 248.9199981689453,
+        "word": "wanna"
+      },
+      {
+        "end": 249.89999389648438,
+        "start": 249.32000732421875,
+        "word": "curve"
+      },
+      {
+        "end": 250.24000549316406,
+        "start": 249.89999389648438,
+        "word": "this"
+      },
+      {
+        "end": 251.3800048828125,
+        "start": 250.24000549316406,
+        "word": "sound"
+      },
+      {
+        "end": 253.27999877929688,
+        "start": 253.05999755859375,
+        "word": "Warm"
+      },
+      {
+        "end": 253.39999389648438,
+        "start": 253.27999877929688,
+        "word": "it"
+      },
+      {
+        "end": 253.5399932861328,
+        "start": 253.39999389648438,
+        "word": "up"
+      },
+      {
+        "end": 254.17999267578125,
+        "start": 253.5399932861328,
+        "word": "a"
+      },
+      {
+        "end": 254.17999267578125,
+        "start": 254.17999267578125,
+        "word": "bit"
+      },
+      {
+        "end": 255.5399932861328,
+        "start": 254.94000244140625,
+        "word": "But"
+      },
+      {
+        "end": 255.67999267578125,
+        "start": 255.5399932861328,
+        "word": "I"
+      },
+      {
+        "end": 255.86000061035156,
+        "start": 255.67999267578125,
+        "word": "want"
+      },
+      {
+        "end": 256.05999755859375,
+        "start": 255.86000061035156,
+        "word": "it"
+      },
+      {
+        "end": 256.17999267578125,
+        "start": 256.05999755859375,
+        "word": "also"
+      },
+      {
+        "end": 256.4599914550781,
+        "start": 256.17999267578125,
+        "word": "a"
+      },
+      {
+        "end": 256.4599914550781,
+        "start": 256.4599914550781,
+        "word": "bit"
+      },
+      {
+        "end": 256.7200012207031,
+        "start": 256.4599914550781,
+        "word": "stereo"
+      },
+      {
+        "end": 257.17999267578125,
+        "start": 256.9599914550781,
+        "word": "So"
+      },
+      {
+        "end": 257.3599853515625,
+        "start": 257.17999267578125,
+        "word": "let's"
+      },
+      {
+        "end": 257.6199951171875,
+        "start": 257.3599853515625,
+        "word": "create"
+      },
+      {
+        "end": 258.239990234375,
+        "start": 257.6199951171875,
+        "word": "a"
+      },
+      {
+        "end": 258.6600036621094,
+        "start": 258.239990234375,
+        "word": "side"
+      },
+      {
+        "end": 259.0400085449219,
+        "start": 258.6600036621094,
+        "word": "to"
+      },
+      {
+        "end": 259.20001220703125,
+        "start": 259.0400085449219,
+        "word": "the"
+      },
+      {
+        "end": 259.4800109863281,
+        "start": 259.20001220703125,
+        "word": "sides"
+      },
+      {
+        "end": 259.82000732421875,
+        "start": 259.4800109863281,
+        "word": "and"
+      },
+      {
+        "end": 260.1400146484375,
+        "start": 259.82000732421875,
+        "word": "boost"
+      },
+      {
+        "end": 260.5799865722656,
+        "start": 260.1400146484375,
+        "word": "those"
+      },
+      {
+        "end": 260.82000732421875,
+        "start": 260.5799865722656,
+        "word": "highs"
+      },
+      {
+        "end": 261.3599853515625,
+        "start": 261.0799865722656,
+        "word": "Open"
+      },
+      {
+        "end": 261.4599914550781,
+        "start": 261.3599853515625,
+        "word": "up"
+      },
+      {
+        "end": 261.4599914550781,
+        "start": 261.4599914550781,
+        "word": "the"
+      },
+      {
+        "end": 261.4599914550781,
+        "start": 261.4599914550781,
+        "word": "reverb"
+      },
+      {
+        "end": 261.4599914550781,
+        "start": 261.4599914550781,
+        "word": "a"
+      },
+      {
+        "end": 261.4599914550781,
+        "start": 261.4599914550781,
+        "word": "little"
+      },
+      {
+        "end": 261.4599914550781,
+        "start": 261.4599914550781,
+        "word": "bit"
+      },
+      {
+        "end": 261.6600036621094,
+        "start": 261.4599914550781,
+        "word": "That"
+      },
+      {
+        "end": 262.20001220703125,
+        "start": 261.6600036621094,
+        "word": "space"
+      },
+      {
+        "end": 267.7200012207031,
+        "start": 267.20001220703125,
+        "word": "Now"
+      },
+      {
+        "end": 268.239990234375,
+        "start": 267.7200012207031,
+        "word": "listen"
+      },
+      {
+        "end": 273.6600036621094,
+        "start": 273.1400146484375,
+        "word": "Immediate"
+      },
+      {
+        "end": 274.1600036621094,
+        "start": 273.6600036621094,
+        "word": "glue"
+      },
+      {
+        "end": 274.6400146484375,
+        "start": 274.1600036621094,
+        "word": "between"
+      },
+      {
+        "end": 275.0199890136719,
+        "start": 274.6400146484375,
+        "word": "elements"
+      },
+      {
+        "end": 275.3399963378906,
+        "start": 275.29998779296875,
+        "word": "But"
+      },
+      {
+        "end": 275.6000061035156,
+        "start": 275.3399963378906,
+        "word": "this"
+      },
+      {
+        "end": 275.79998779296875,
+        "start": 275.6000061035156,
+        "word": "was"
+      },
+      {
+        "end": 276.0,
+        "start": 275.79998779296875,
+        "word": "the"
+      },
+      {
+        "end": 276.5799865722656,
+        "start": 276.0,
+        "word": "first"
+      },
+      {
+        "end": 277.0400085449219,
+        "start": 276.5799865722656,
+        "word": "effects"
+      },
+      {
+        "end": 277.3599853515625,
+        "start": 277.239990234375,
+        "word": "Let's"
+      },
+      {
+        "end": 277.6199951171875,
+        "start": 277.3599853515625,
+        "word": "create"
+      },
+      {
+        "end": 278.1199951171875,
+        "start": 277.6199951171875,
+        "word": "a"
+      },
+      {
+        "end": 278.17999267578125,
+        "start": 278.1199951171875,
+        "word": "hole"
+      },
+      {
+        "end": 278.5,
+        "start": 278.17999267578125,
+        "word": "and"
+      },
+      {
+        "end": 278.9800109863281,
+        "start": 278.5,
+        "word": "send"
+      },
+      {
+        "end": 279.2799987792969,
+        "start": 278.9800109863281,
+        "word": "stuff"
+      },
+      {
+        "end": 279.6600036621094,
+        "start": 279.2799987792969,
+        "word": "there"
+      },
+      {
+        "end": 279.9200134277344,
+        "start": 279.6600036621094,
+        "word": "as"
+      },
+      {
+        "end": 280.1000061035156,
+        "start": 279.9200134277344,
+        "word": "well"
+      },
+      {
+        "end": 280.4800109863281,
+        "start": 280.260009765625,
+        "word": "The"
+      },
+      {
+        "end": 280.6000061035156,
+        "start": 280.4800109863281,
+        "word": "same"
+      },
+      {
+        "end": 281.0,
+        "start": 280.6000061035156,
+        "word": "idea"
+      },
+      {
+        "end": 281.29998779296875,
+        "start": 281.1199951171875,
+        "word": "This"
+      },
+      {
+        "end": 281.5,
+        "start": 281.29998779296875,
+        "word": "time"
+      },
+      {
+        "end": 281.67999267578125,
+        "start": 281.5,
+        "word": "we"
+      },
+      {
+        "end": 281.8399963378906,
+        "start": 281.67999267578125,
+        "word": "have"
+      },
+      {
+        "end": 282.1199951171875,
+        "start": 281.8399963378906,
+        "word": "a"
+      },
+      {
+        "end": 282.3399963378906,
+        "start": 282.1199951171875,
+        "word": "bigger"
+      },
+      {
+        "end": 282.82000732421875,
+        "start": 282.3399963378906,
+        "word": "reverb"
+      },
+      {
+        "end": 283.3399963378906,
+        "start": 283.1400146484375,
+        "word": "First"
+      },
+      {
+        "end": 283.6600036621094,
+        "start": 283.3399963378906,
+        "word": "thing"
+      },
+      {
+        "end": 284.0,
+        "start": 283.6600036621094,
+        "word": "here"
+      },
+      {
+        "end": 284.3800048828125,
+        "start": 284.05999755859375,
+        "word": "the"
+      },
+      {
+        "end": 284.70001220703125,
+        "start": 284.3800048828125,
+        "word": "levels"
+      },
+      {
+        "end": 284.9599914550781,
+        "start": 284.70001220703125,
+        "word": "are"
+      },
+      {
+        "end": 285.29998779296875,
+        "start": 284.9599914550781,
+        "word": "different"
+      },
+      {
+        "end": 285.5799865722656,
+        "start": 285.29998779296875,
+        "word": "now"
+      },
+      {
+        "end": 285.8399963378906,
+        "start": 285.6400146484375,
+        "word": "Now"
+      },
+      {
+        "end": 286.05999755859375,
+        "start": 285.8399963378906,
+        "word": "the"
+      },
+      {
+        "end": 286.3599853515625,
+        "start": 286.05999755859375,
+        "word": "synths"
+      },
+      {
+        "end": 286.5400085449219,
+        "start": 286.3599853515625,
+        "word": "are"
+      },
+      {
+        "end": 286.6199951171875,
+        "start": 286.5400085449219,
+        "word": "in"
+      },
+      {
+        "end": 286.82000732421875,
+        "start": 286.6199951171875,
+        "word": "the"
+      },
+      {
+        "end": 287.0400085449219,
+        "start": 286.82000732421875,
+        "word": "beginning"
+      },
+      {
+        "end": 287.3800048828125,
+        "start": 287.3800048828125,
+        "word": "Drums"
+      },
+      {
+        "end": 287.7200012207031,
+        "start": 287.3800048828125,
+        "word": "are"
+      },
+      {
+        "end": 288.1000061035156,
+        "start": 287.7200012207031,
+        "word": "really"
+      },
+      {
+        "end": 288.32000732421875,
+        "start": 288.1000061035156,
+        "word": "on"
+      },
+      {
+        "end": 288.44000244140625,
+        "start": 288.32000732421875,
+        "word": "the"
+      },
+      {
+        "end": 288.67999267578125,
+        "start": 288.44000244140625,
+        "word": "back"
+      },
+      {
+        "end": 288.9200134277344,
+        "start": 288.67999267578125,
+        "word": "The"
+      },
+      {
+        "end": 289.3999938964844,
+        "start": 288.9200134277344,
+        "word": "whole"
+      },
+      {
+        "end": 289.8999938964844,
+        "start": 289.3999938964844,
+        "word": "feel"
+      },
+      {
+        "end": 290.3399963378906,
+        "start": 289.8999938964844,
+        "word": "is"
+      },
+      {
+        "end": 290.6400146484375,
+        "start": 290.3399963378906,
+        "word": "elevated"
+      },
+      {
+        "end": 291.05999755859375,
+        "start": 290.6400146484375,
+        "word": "for"
+      },
+      {
+        "end": 291.6000061035156,
+        "start": 291.05999755859375,
+        "word": "the"
+      },
+      {
+        "end": 291.8399963378906,
+        "start": 291.6000061035156,
+        "word": "main"
+      },
+      {
+        "end": 292.3599853515625,
+        "start": 291.8399963378906,
+        "word": "elements"
+      },
+      {
+        "end": 297.4800109863281,
+        "start": 296.79998779296875,
+        "word": "Now"
+      },
+      {
+        "end": 297.739990234375,
+        "start": 297.4800109863281,
+        "word": "process"
+      },
+      {
+        "end": 298.05999755859375,
+        "start": 297.739990234375,
+        "word": "them"
+      },
+      {
+        "end": 298.3999938964844,
+        "start": 298.05999755859375,
+        "word": "together"
+      },
+      {
+        "end": 298.8399963378906,
+        "start": 298.6400146484375,
+        "word": "Saturate"
+      },
+      {
+        "end": 299.17999267578125,
+        "start": 298.8399963378906,
+        "word": "it"
+      },
+      {
+        "end": 302.67999267578125,
+        "start": 302.0,
+        "word": "Contain"
+      },
+      {
+        "end": 303.3599853515625,
+        "start": 302.67999267578125,
+        "word": "it"
+      },
+      {
+        "end": 305.67999267578125,
+        "start": 305.0,
+        "word": "Make"
+      },
+      {
+        "end": 306.0400085449219,
+        "start": 305.67999267578125,
+        "word": "the"
+      },
+      {
+        "end": 306.17999267578125,
+        "start": 306.0400085449219,
+        "word": "low"
+      },
+      {
+        "end": 306.44000244140625,
+        "start": 306.17999267578125,
+        "word": "mids"
+      },
+      {
+        "end": 306.82000732421875,
+        "start": 306.44000244140625,
+        "word": "more"
+      },
+      {
+        "end": 307.260009765625,
+        "start": 306.82000732421875,
+        "word": "focused"
+      },
+      {
+        "end": 307.79998779296875,
+        "start": 307.6000061035156,
+        "word": "Decrease"
+      },
+      {
+        "end": 308.1600036621094,
+        "start": 307.79998779296875,
+        "word": "the"
+      },
+      {
+        "end": 308.29998779296875,
+        "start": 308.1600036621094,
+        "word": "stereo"
+      },
+      {
+        "end": 308.6000061035156,
+        "start": 308.29998779296875,
+        "word": "width"
+      },
+      {
+        "end": 308.8800048828125,
+        "start": 308.6000061035156,
+        "word": "below"
+      },
+      {
+        "end": 309.239990234375,
+        "start": 308.8800048828125,
+        "word": "like"
+      },
+      {
+        "end": 309.6199951171875,
+        "start": 309.239990234375,
+        "word": "300"
+      },
+      {
+        "end": 309.8999938964844,
+        "start": 309.6199951171875,
+        "word": "hertz"
+      },
+      {
+        "end": 313.260009765625,
+        "start": 312.5799865722656,
+        "word": "Do"
+      },
+      {
+        "end": 313.44000244140625,
+        "start": 313.260009765625,
+        "word": "you"
+      },
+      {
+        "end": 313.67999267578125,
+        "start": 313.44000244140625,
+        "word": "remember"
+      },
+      {
+        "end": 313.94000244140625,
+        "start": 313.67999267578125,
+        "word": "that"
+      },
+      {
+        "end": 314.1199951171875,
+        "start": 313.94000244140625,
+        "word": "I"
+      },
+      {
+        "end": 314.3800048828125,
+        "start": 314.1199951171875,
+        "word": "talked"
+      },
+      {
+        "end": 314.6199951171875,
+        "start": 314.3800048828125,
+        "word": "to"
+      },
+      {
+        "end": 314.739990234375,
+        "start": 314.6199951171875,
+        "word": "you"
+      },
+      {
+        "end": 315.0799865722656,
+        "start": 314.739990234375,
+        "word": "about"
+      },
+      {
+        "end": 315.44000244140625,
+        "start": 315.0799865722656,
+        "word": "creating"
+      },
+      {
+        "end": 315.79998779296875,
+        "start": 315.44000244140625,
+        "word": "a"
+      },
+      {
+        "end": 316.0799865722656,
+        "start": 315.79998779296875,
+        "word": "space"
+      },
+      {
+        "end": 316.44000244140625,
+        "start": 316.0799865722656,
+        "word": "for"
+      },
+      {
+        "end": 316.82000732421875,
+        "start": 316.44000244140625,
+        "word": "your"
+      },
+      {
+        "end": 317.17999267578125,
+        "start": 316.82000732421875,
+        "word": "elements"
+      },
+      {
+        "end": 317.55999755859375,
+        "start": 317.17999267578125,
+        "word": "in"
+      },
+      {
+        "end": 317.79998779296875,
+        "start": 317.55999755859375,
+        "word": "your"
+      },
+      {
+        "end": 318.239990234375,
+        "start": 317.79998779296875,
+        "word": "return"
+      },
+      {
+        "end": 318.5400085449219,
+        "start": 318.239990234375,
+        "word": "channel"
+      },
+      {
+        "end": 318.9599914550781,
+        "start": 318.70001220703125,
+        "word": "For"
+      },
+      {
+        "end": 319.3599853515625,
+        "start": 318.9599914550781,
+        "word": "me"
+      },
+      {
+        "end": 319.760009765625,
+        "start": 319.3599853515625,
+        "word": "this"
+      },
+      {
+        "end": 320.0400085449219,
+        "start": 319.760009765625,
+        "word": "melody"
+      },
+      {
+        "end": 322.55999755859375,
+        "start": 322.44000244140625,
+        "word": "Extremely"
+      },
+      {
+        "end": 323.0799865722656,
+        "start": 322.55999755859375,
+        "word": "important"
+      },
+      {
+        "end": 323.3800048828125,
+        "start": 323.20001220703125,
+        "word": "So"
+      },
+      {
+        "end": 323.6400146484375,
+        "start": 323.3800048828125,
+        "word": "I'm"
+      },
+      {
+        "end": 323.760009765625,
+        "start": 323.6400146484375,
+        "word": "gonna"
+      },
+      {
+        "end": 324.3800048828125,
+        "start": 323.760009765625,
+        "word": "create"
+      },
+      {
+        "end": 325.3599853515625,
+        "start": 324.3800048828125,
+        "word": "a"
+      },
+      {
+        "end": 325.3599853515625,
+        "start": 325.3599853515625,
+        "word": "dynamic"
+      },
+      {
+        "end": 325.9599914550781,
+        "start": 325.3599853515625,
+        "word": "spacing"
+      },
+      {
+        "end": 326.3999938964844,
+        "start": 325.9599914550781,
+        "word": "option"
+      },
+      {
+        "end": 326.70001220703125,
+        "start": 326.5,
+        "word": "Which"
+      },
+      {
+        "end": 326.9800109863281,
+        "start": 326.70001220703125,
+        "word": "means"
+      },
+      {
+        "end": 327.260009765625,
+        "start": 326.9800109863281,
+        "word": "that"
+      },
+      {
+        "end": 327.4200134277344,
+        "start": 327.260009765625,
+        "word": "I"
+      },
+      {
+        "end": 327.6400146484375,
+        "start": 327.4200134277344,
+        "word": "can"
+      },
+      {
+        "end": 327.8999938964844,
+        "start": 327.6400146484375,
+        "word": "take"
+      },
+      {
+        "end": 328.20001220703125,
+        "start": 327.8999938964844,
+        "word": "something"
+      },
+      {
+        "end": 328.739990234375,
+        "start": 328.20001220703125,
+        "word": "like"
+      },
+      {
+        "end": 328.8999938964844,
+        "start": 328.739990234375,
+        "word": "suit"
+      },
+      {
+        "end": 329.7200012207031,
+        "start": 329.55999755859375,
+        "word": "sidechain"
+      },
+      {
+        "end": 329.8800048828125,
+        "start": 329.7200012207031,
+        "word": "to"
+      },
+      {
+        "end": 330.1400146484375,
+        "start": 329.8800048828125,
+        "word": "the"
+      },
+      {
+        "end": 330.17999267578125,
+        "start": 330.1400146484375,
+        "word": "synth"
+      },
+      {
+        "end": 330.70001220703125,
+        "start": 330.17999267578125,
+        "word": "itself"
+      },
+      {
+        "end": 332.1600036621094,
+        "start": 330.70001220703125,
+        "word": "and"
+      },
+      {
+        "end": 332.6199951171875,
+        "start": 332.1600036621094,
+        "word": "start"
+      },
+      {
+        "end": 333.1400146484375,
+        "start": 332.6199951171875,
+        "word": "ducking"
+      },
+      {
+        "end": 334.9800109863281,
+        "start": 334.4200134277344,
+        "word": "those"
+      },
+      {
+        "end": 335.4200134277344,
+        "start": 334.9800109863281,
+        "word": "frequencies"
+      },
+      {
+        "end": 335.7799987792969,
+        "start": 335.4200134277344,
+        "word": "from"
+      },
+      {
+        "end": 336.29998779296875,
+        "start": 335.7799987792969,
+        "word": "the"
+      },
+      {
+        "end": 336.29998779296875,
+        "start": 336.29998779296875,
+        "word": "effects"
+      },
+      {
+        "end": 338.3999938964844,
+        "start": 337.8399963378906,
+        "word": "And"
+      },
+      {
+        "end": 338.8599853515625,
+        "start": 338.3999938964844,
+        "word": "final"
+      },
+      {
+        "end": 339.1600036621094,
+        "start": 338.94000244140625,
+        "word": "because"
+      },
+      {
+        "end": 339.3399963378906,
+        "start": 339.1600036621094,
+        "word": "it's"
+      },
+      {
+        "end": 339.6000061035156,
+        "start": 339.3399963378906,
+        "word": "a"
+      },
+      {
+        "end": 339.8599853515625,
+        "start": 339.6000061035156,
+        "word": "long"
+      },
+      {
+        "end": 340.20001220703125,
+        "start": 339.8599853515625,
+        "word": "effects"
+      },
+      {
+        "end": 340.5400085449219,
+        "start": 340.260009765625,
+        "word": "I"
+      },
+      {
+        "end": 340.67999267578125,
+        "start": 340.5400085449219,
+        "word": "wanna"
+      },
+      {
+        "end": 341.0199890136719,
+        "start": 340.67999267578125,
+        "word": "feel"
+      },
+      {
+        "end": 341.4599914550781,
+        "start": 341.0199890136719,
+        "word": "the"
+      },
+      {
+        "end": 341.4599914550781,
+        "start": 341.4599914550781,
+        "word": "groove"
+      },
+      {
+        "end": 341.82000732421875,
+        "start": 341.6000061035156,
+        "word": "I"
+      },
+      {
+        "end": 342.0199890136719,
+        "start": 341.82000732421875,
+        "word": "can"
+      },
+      {
+        "end": 342.32000732421875,
+        "start": 342.0199890136719,
+        "word": "sidechain"
+      },
+      {
+        "end": 342.4800109863281,
+        "start": 342.32000732421875,
+        "word": "it"
+      },
+      {
+        "end": 342.79998779296875,
+        "start": 342.4800109863281,
+        "word": "to"
+      },
+      {
+        "end": 342.8399963378906,
+        "start": 342.79998779296875,
+        "word": "kick"
+      },
+      {
+        "end": 347.79998779296875,
+        "start": 347.1600036621094,
+        "word": "Now"
+      },
+      {
+        "end": 348.1199951171875,
+        "start": 347.79998779296875,
+        "word": "all"
+      },
+      {
+        "end": 348.3399963378906,
+        "start": 348.1199951171875,
+        "word": "is"
+      },
+      {
+        "end": 348.7200012207031,
+        "start": 348.3399963378906,
+        "word": "applied"
+      },
+      {
+        "end": 348.9200134277344,
+        "start": 348.7200012207031,
+        "word": "to"
+      },
+      {
+        "end": 349.1400146484375,
+        "start": 348.9200134277344,
+        "word": "my"
+      },
+      {
+        "end": 349.5199890136719,
+        "start": 349.1400146484375,
+        "word": "whole"
+      },
+      {
+        "end": 349.739990234375,
+        "start": 349.5199890136719,
+        "word": "mix"
+      },
+      {
+        "end": 350.29998779296875,
+        "start": 350.29998779296875,
+        "word": "Listen"
+      },
+      {
+        "end": 350.79998779296875,
+        "start": 350.79998779296875,
+        "word": "Without"
+      },
+      {
+        "end": 353.55999755859375,
+        "start": 350.79998779296875,
+        "word": "the"
+      },
+      {
+        "end": 353.55999755859375,
+        "start": 353.55999755859375,
+        "word": "effects"
+      },
+      {
+        "end": 360.7799987792969,
+        "start": 360.1400146484375,
+        "word": "It"
+      },
+      {
+        "end": 361.0400085449219,
+        "start": 360.7799987792969,
+        "word": "is"
+      },
+      {
+        "end": 361.3999938964844,
+        "start": 361.0400085449219,
+        "word": "warm"
+      },
+      {
+        "end": 361.6000061035156,
+        "start": 361.6000061035156,
+        "word": "It's"
+      },
+      {
+        "end": 361.8399963378906,
+        "start": 361.6000061035156,
+        "word": "just"
+      },
+      {
+        "end": 362.1400146484375,
+        "start": 361.8399963378906,
+        "word": "like"
+      },
+      {
+        "end": 362.5799865722656,
+        "start": 362.1400146484375,
+        "word": "it"
+      },
+      {
+        "end": 362.5799865722656,
+        "start": 362.5799865722656,
+        "word": "glues"
+      },
+      {
+        "end": 363.0799865722656,
+        "start": 362.5799865722656,
+        "word": "everything"
+      },
+      {
+        "end": 363.5799865722656,
+        "start": 363.0799865722656,
+        "word": "together"
+      },
+      {
+        "end": 363.9599914550781,
+        "start": 363.94000244140625,
+        "word": "Makes"
+      },
+      {
+        "end": 364.17999267578125,
+        "start": 363.9599914550781,
+        "word": "you"
+      },
+      {
+        "end": 364.44000244140625,
+        "start": 364.17999267578125,
+        "word": "feel"
+      },
+      {
+        "end": 364.82000732421875,
+        "start": 364.44000244140625,
+        "word": "the"
+      },
+      {
+        "end": 365.2799987792969,
+        "start": 364.82000732421875,
+        "word": "ambience"
+      },
+      {
+        "end": 365.55999755859375,
+        "start": 365.4200134277344,
+        "word": "We"
+      },
+      {
+        "end": 365.8399963378906,
+        "start": 365.55999755859375,
+        "word": "can"
+      },
+      {
+        "end": 366.239990234375,
+        "start": 365.8399963378906,
+        "word": "create"
+      },
+      {
+        "end": 366.55999755859375,
+        "start": 366.239990234375,
+        "word": "a"
+      },
+      {
+        "end": 366.70001220703125,
+        "start": 366.55999755859375,
+        "word": "slap"
+      },
+      {
+        "end": 366.94000244140625,
+        "start": 366.70001220703125,
+        "word": "delay"
+      },
+      {
+        "end": 367.1600036621094,
+        "start": 366.94000244140625,
+        "word": "for"
+      },
+      {
+        "end": 367.3800048828125,
+        "start": 367.1600036621094,
+        "word": "our"
+      },
+      {
+        "end": 367.82000732421875,
+        "start": 367.3800048828125,
+        "word": "percussions"
+      },
+      {
+        "end": 370.32000732421875,
+        "start": 370.20001220703125,
+        "word": "EQ"
+      },
+      {
+        "end": 370.67999267578125,
+        "start": 370.32000732421875,
+        "word": "out"
+      },
+      {
+        "end": 379.760009765625,
+        "start": 379.0799865722656,
+        "word": "Really"
+      },
+      {
+        "end": 380.05999755859375,
+        "start": 379.760009765625,
+        "word": "cool"
+      },
+      {
+        "end": 380.4200134277344,
+        "start": 380.260009765625,
+        "word": "And"
+      },
+      {
+        "end": 380.6199951171875,
+        "start": 380.4200134277344,
+        "word": "maybe"
+      },
+      {
+        "end": 381.05999755859375,
+        "start": 380.6199951171875,
+        "word": "one"
+      },
+      {
+        "end": 381.32000732421875,
+        "start": 381.05999755859375,
+        "word": "final"
+      },
+      {
+        "end": 381.8999938964844,
+        "start": 381.32000732421875,
+        "word": "delay"
+      },
+      {
+        "end": 382.20001220703125,
+        "start": 381.8999938964844,
+        "word": "to"
+      },
+      {
+        "end": 382.67999267578125,
+        "start": 382.20001220703125,
+        "word": "our"
+      },
+      {
+        "end": 382.9599914550781,
+        "start": 382.67999267578125,
+        "word": "melody"
+      },
+      {
+        "end": 384.4800109863281,
+        "start": 384.260009765625,
+        "word": "And"
+      },
+      {
+        "end": 384.70001220703125,
+        "start": 384.4800109863281,
+        "word": "maybe"
+      },
+      {
+        "end": 385.0199890136719,
+        "start": 384.70001220703125,
+        "word": "our"
+      },
+      {
+        "end": 385.3800048828125,
+        "start": 385.0199890136719,
+        "word": "chords"
+      },
+      {
+        "end": 392.29998779296875,
+        "start": 391.6199951171875,
+        "word": "And"
+      },
+      {
+        "end": 392.70001220703125,
+        "start": 392.29998779296875,
+        "word": "hear"
+      },
+      {
+        "end": 393.0199890136719,
+        "start": 392.70001220703125,
+        "word": "how"
+      },
+      {
+        "end": 393.3999938964844,
+        "start": 393.0199890136719,
+        "word": "whole"
+      },
+      {
+        "end": 393.6400146484375,
+        "start": 393.3999938964844,
+        "word": "song"
+      },
+      {
+        "end": 394.29998779296875,
+        "start": 393.6400146484375,
+        "word": "comes"
+      },
+      {
+        "end": 394.760009765625,
+        "start": 394.29998779296875,
+        "word": "together"
+      },
+      {
+        "end": 395.260009765625,
+        "start": 394.94000244140625,
+        "word": "Glued"
+      },
+      {
+        "end": 395.739990234375,
+        "start": 395.260009765625,
+        "word": "together"
+      },
+      {
+        "end": 396.05999755859375,
+        "start": 395.9200134277344,
+        "word": "We"
+      },
+      {
+        "end": 396.3800048828125,
+        "start": 396.05999755859375,
+        "word": "created"
+      },
+      {
+        "end": 396.8399963378906,
+        "start": 396.3800048828125,
+        "word": "depth"
+      },
+      {
+        "end": 397.29998779296875,
+        "start": 396.8399963378906,
+        "word": "and"
+      },
+      {
+        "end": 397.67999267578125,
+        "start": 397.29998779296875,
+        "word": "cohesion"
+      },
+      {
+        "end": 406.6000061035156,
+        "start": 406.0799865722656,
+        "word": "And"
+      },
+      {
+        "end": 407.1199951171875,
+        "start": 406.6000061035156,
+        "word": "remember"
+      },
+      {
+        "end": 407.5,
+        "start": 407.3399963378906,
+        "word": "for"
+      },
+      {
+        "end": 407.82000732421875,
+        "start": 407.5,
+        "word": "me"
+      },
+      {
+        "end": 408.2200012207031,
+        "start": 407.82000732421875,
+        "word": "controlling"
+      },
+      {
+        "end": 408.5,
+        "start": 408.2200012207031,
+        "word": "these"
+      },
+      {
+        "end": 408.8999938964844,
+        "start": 408.5,
+        "word": "different"
+      },
+      {
+        "end": 409.239990234375,
+        "start": 408.8999938964844,
+        "word": "spaces"
+      },
+      {
+        "end": 409.6000061035156,
+        "start": 409.239990234375,
+        "word": "is"
+      },
+      {
+        "end": 410.1400146484375,
+        "start": 409.6199951171875,
+        "word": "easy"
+      },
+      {
+        "end": 410.3999938964844,
+        "start": 410.1400146484375,
+        "word": "as"
+      },
+      {
+        "end": 410.6400146484375,
+        "start": 410.3999938964844,
+        "word": "moving"
+      },
+      {
+        "end": 411.1400146484375,
+        "start": 410.6400146484375,
+        "word": "this"
+      },
+      {
+        "end": 411.1400146484375,
+        "start": 411.1400146484375,
+        "word": "fader"
+      },
+      {
+        "end": 411.5199890136719,
+        "start": 411.1400146484375,
+        "word": "down"
+      },
+      {
+        "end": 411.94000244140625,
+        "start": 411.8800048828125,
+        "word": "Too"
+      },
+      {
+        "end": 412.17999267578125,
+        "start": 411.94000244140625,
+        "word": "much"
+      },
+      {
+        "end": 412.5400085449219,
+        "start": 412.17999267578125,
+        "word": "hold"
+      },
+      {
+        "end": 413.260009765625,
+        "start": 413.1400146484375,
+        "word": "Bring"
+      },
+      {
+        "end": 413.3999938964844,
+        "start": 413.260009765625,
+        "word": "it"
+      },
+      {
+        "end": 413.6600036621094,
+        "start": 413.3999938964844,
+        "word": "down"
+      },
+      {
+        "end": 416.0199890136719,
+        "start": 415.8800048828125,
+        "word": "Too"
+      },
+      {
+        "end": 416.2200012207031,
+        "start": 416.0199890136719,
+        "word": "little"
+      },
+      {
+        "end": 416.4800109863281,
+        "start": 416.2200012207031,
+        "word": "room"
+      },
+      {
+        "end": 416.739990234375,
+        "start": 416.7200012207031,
+        "word": "Bring"
+      },
+      {
+        "end": 416.9800109863281,
+        "start": 416.739990234375,
+        "word": "it"
+      },
+      {
+        "end": 417.3999938964844,
+        "start": 416.9800109863281,
+        "word": "up"
+      },
+      {
+        "end": 420.6199951171875,
+        "start": 420.1000061035156,
+        "word": "That"
+      },
+      {
+        "end": 421.05999755859375,
+        "start": 420.6199951171875,
+        "word": "simple"
+      },
+      {
+        "end": 421.32000732421875,
+        "start": 421.2200012207031,
+        "word": "If"
+      },
+      {
+        "end": 421.4800109863281,
+        "start": 421.32000732421875,
+        "word": "you"
+      },
+      {
+        "end": 421.55999755859375,
+        "start": 421.4800109863281,
+        "word": "want"
+      },
+      {
+        "end": 421.7200012207031,
+        "start": 421.55999755859375,
+        "word": "to"
+      },
+      {
+        "end": 422.0799865722656,
+        "start": 421.7200012207031,
+        "word": "go"
+      },
+      {
+        "end": 422.3999938964844,
+        "start": 422.0799865722656,
+        "word": "deeper"
+      },
+      {
+        "end": 422.6000061035156,
+        "start": 422.3999938964844,
+        "word": "in"
+      },
+      {
+        "end": 423.05999755859375,
+        "start": 422.6000061035156,
+        "word": "the"
+      },
+      {
+        "end": 423.05999755859375,
+        "start": 423.05999755859375,
+        "word": "mixing"
+      },
+      {
+        "end": 423.67999267578125,
+        "start": 423.67999267578125,
+        "word": "mastering"
+      },
+      {
+        "end": 423.9200134277344,
+        "start": 423.67999267578125,
+        "word": "or"
+      },
+      {
+        "end": 424.1600036621094,
+        "start": 423.9200134277344,
+        "word": "music"
+      },
+      {
+        "end": 424.5,
+        "start": 424.1600036621094,
+        "word": "production"
+      },
+      {
+        "end": 425.1000061035156,
+        "start": 424.5,
+        "word": "itself"
+      },
+      {
+        "end": 425.5199890136719,
+        "start": 425.3599853515625,
+        "word": "check"
+      },
+      {
+        "end": 425.70001220703125,
+        "start": 425.5199890136719,
+        "word": "out"
+      },
+      {
+        "end": 425.9800109863281,
+        "start": 425.70001220703125,
+        "word": "my"
+      },
+      {
+        "end": 426.239990234375,
+        "start": 425.9800109863281,
+        "word": "courses"
+      },
+      {
+        "end": 426.6400146484375,
+        "start": 426.239990234375,
+        "word": "on"
+      },
+      {
+        "end": 427.0799865722656,
+        "start": 426.6400146484375,
+        "word": "Choruses"
+      },
+      {
+        "end": 427.8599853515625,
+        "start": 427.2799987792969,
+        "word": "MercuryTones"
+      },
+      {
+        "end": 428.44000244140625,
+        "start": 427.8599853515625,
+        "word": "com"
+      },
+      {
+        "end": 428.67999267578125,
+        "start": 428.55999755859375,
+        "word": "But"
+      },
+      {
+        "end": 428.79998779296875,
+        "start": 428.67999267578125,
+        "word": "if"
+      },
+      {
+        "end": 428.8999938964844,
+        "start": 428.79998779296875,
+        "word": "you"
+      },
+      {
+        "end": 429.0400085449219,
+        "start": 428.8999938964844,
+        "word": "want"
+      },
+      {
+        "end": 429.260009765625,
+        "start": 429.0400085449219,
+        "word": "to"
+      },
+      {
+        "end": 429.3399963378906,
+        "start": 429.260009765625,
+        "word": "stay"
+      },
+      {
+        "end": 429.70001220703125,
+        "start": 429.3399963378906,
+        "word": "here"
+      },
+      {
+        "end": 430.1199951171875,
+        "start": 429.9800109863281,
+        "word": "learn"
+      },
+      {
+        "end": 430.4200134277344,
+        "start": 430.1199951171875,
+        "word": "more"
+      },
+      {
+        "end": 430.8399963378906,
+        "start": 430.4200134277344,
+        "word": "about"
+      },
+      {
+        "end": 431.05999755859375,
+        "start": 430.8399963378906,
+        "word": "pro"
+      },
+      {
+        "end": 431.2200012207031,
+        "start": 431.05999755859375,
+        "word": "music"
+      },
+      {
+        "end": 431.6400146484375,
+        "start": 431.2200012207031,
+        "word": "production"
+      },
+      {
+        "end": 432.1400146484375,
+        "start": 431.79998779296875,
+        "word": "check"
+      },
+      {
+        "end": 432.3399963378906,
+        "start": 432.1400146484375,
+        "word": "here"
+      }
+    ]
+  }
+}

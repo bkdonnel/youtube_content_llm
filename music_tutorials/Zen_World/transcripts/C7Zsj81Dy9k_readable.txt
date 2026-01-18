@@ -35,15 +35,15 @@ Duration: 9.2 minutes
 
 [01:11] Here's one by Riordan that I really like.
 
-[01:20] The key thing for me is, yes, we can sample a lot of these baselines because this genre
+[01:20] The key thing for me is, yes, we can sample a lot of these baselines because it's John
 
 [01:24] is very sampled.
 
 [01:25] But for me, it's like paying homage, right?
 
-[01:27] You learn from the past that you don't peak in the past.
+[01:27] You learn from the past that you don't peek in the past.
 
-[01:30] You don't peak in high school.
+[01:30] You don't peek in high school.
 
 [01:31] You use that to kind of move forward and innovate on what they've done.
 
@@ -59,13 +59,13 @@ Duration: 9.2 minutes
 
 [02:16] again, access to a different tone.
 
-[02:17] It's the same proven to work sound that Josh Baker uses, but now it has its own flavor.
+[02:17] It's the same proven to work sound that Josh Baker uses, but now it has its own flavor
 
-[02:22] Because if people ask, yo man, it sounds kind of like Josh Baker, you go, yeah, you know,
+[02:22] because if people ask, yo, man, it sounds kind of like Josh Baker.
 
-[02:26] but I kind of reworked it a bit and made it my own, man.
+[02:24] You go, yeah, you know, but I kind of reworked it a bit and made it my own, man.
 
-[02:37] Now Minimal Nights Volume 3 is going to contain basslines, chords, stabs, leads, plucks, all
+[02:38] Now Minimal Nights Volume 3 is going to contain basslines, chords, stabs, leads, plucks, all
 
 [02:42] in the style of the UK guys.
 
@@ -85,6 +85,12 @@ Duration: 9.2 minutes
 
 [03:44] For example, we're going to bring this mod up, which activates this.
 
+[03:52] Oh, fuck.
+
+[04:00] Relax your...
+
+[04:23] It's getting housey, bro.
+
 [05:00] And I had to add this one.
 
 [05:13] The good thing is there was a bunch of guys online debating about how that sound is made,
@@ -93,17 +99,21 @@ Duration: 9.2 minutes
 
 [05:20] So that was fun.
 
-[05:38] Very spacey sounds, very nasty basslines that are a little bit more defined, because in
+[05:33] Back, back, back to the beat.
 
-[05:42] my mind, when I make these sounds, my hope is that you grab them and you infuse it with
+[05:38] Very spacey sounds.
 
-[05:46] what you already do best.
+[05:40] Very nasty bass lines that are a little bit more defined.
 
-[05:48] Maybe the sounds can work in a break, you can infuse it with your drop elements that
+[05:42] Because in my mind, when I make these sounds, my hope is that you grab them and you infuse
 
-[05:52] you usually go for.
+[05:46] it with what you already do best.
 
-[05:53] At the end of the day, that's the beauty of music, is that you can mix and match different
+[05:48] Maybe the sounds can work in a break.
+
+[05:49] You can infuse it with your drop elements that you usually go for.
+
+[05:53] At the end of the day, that's the beauty of music is that you can mix and match different
 
 [05:56] sounds, different genres to create new things that are still familiar, but fresh to your
 
@@ -115,15 +125,15 @@ Duration: 9.2 minutes
 
 [06:03] I'm no hater, man.
 
-[06:05] Goddamn, they're fucking good.
+[06:05] But god damn, they're fucking good.
 
 [06:06] You can't get me out of your mind.
 
-[06:11] Oh, you got me going insane.
+[06:11] Oh no, you got me going insane.
 
 [06:16] A really nice acid bass sound.
 
-[06:28] Now, Chris Duzzi has been on a little bit of a hiatus, but it's all good.
+[06:28] Now Chris Duzzi has been on a little bit of a hiatus, but it's all good.
 
 [06:31] I'm pretty sure he's making bangers.
 
@@ -139,39 +149,43 @@ Duration: 9.2 minutes
 
 [07:17] It adds a nice mystical flow to the sound, and that's the power of it.
 
-[07:20] I wanted to remake this one because this track went viral on TikTok, which I believe is inspired
+[07:20] I wanted to remake this one because this sound, this track went viral on TikTok, which I believe
 
-[07:27] by one of Donna Summer's tracks, which was produced by Giorgio Moroder, but it's a really
+[07:27] it's inspired by one of Donna Summer's tracks, which was produced by Giorgio Moroder.
 
-[07:31] cool sound with just a nice 80s flavor to it.
+[07:31] But it's a really cool sound with just a nice 80s flavor to it.
 
-[07:34] The cool thing about presets, right, is if you use the sound, it's kind of like, OK,
+[07:34] The cool thing about presets, right, is if you use the sound, it's kind of like, okay,
 
 [07:36] it sounds exactly like Jam Back.
 
-[07:39] However, having the programming, what you can do is start to switch maybe some of the
+[07:39] However, having the programming, what you can do is start to switch maybe some other
 
-[07:43] way to change the tone of the sound or use the sound as a starting point because presets
+[07:43] way to change the tone of the sound.
 
-[07:51] while, yeah, you can use them as they are, a lot of the times the really good starting
+[07:49] Or use the sound as a starting point, because presets, while yeah, you can use them as they
 
-[07:55] points that you can take further in order to create something that feels more yours.
+[07:52] are, a lot of the times they're really good starting points that you can take further
 
-[07:59] You guys already know this.
+[07:56] in order to create something that feels more yours.
 
-[08:01] Well, I made it using Serum 2 and now you guys can learn from it and see how I programmed
+[07:59] If you guys already know this sound, well, I made it using Serum 2, and now you guys
 
-[08:05] it in order to get it to sound that way.
+[08:04] can learn from it and see how I programmed it in order to get it to sound that way.
 
 [08:28] I've been working on this pack for a while, guys, and it's finally done and you guys can
 
-[08:31] check it out at EvilSounds.com It's going to be a total of 100 and Serum 2 presets all
+[08:31] check it out at evilsounds.com.
 
-[08:36] in the style of Chris Stussie, Josh Baker, Max Dean, Luke Dean, MK.
+[08:33] It's going to be a total of 100 and Serum 2 presets, all in the style of Chris Stussie,
+
+[08:38] Josh Baker, Max Dean, Luke Dean, MK.
 
 [08:42] It took a lot of inspiration from them to make sounds that I know will work for your
 
-[08:45] music. Proven to work sounds from proven to work track.
+[08:45] music.
+
+[08:46] Proven to work sounds from proven to work track.
 
 [08:48] My goal is all about making music writing for you have less friction so that when you
 
@@ -179,15 +193,17 @@ Duration: 9.2 minutes
 
 [08:56] sounds to get inspired.
 
-[08:57] By the time you watch this video, it's already the new year.
+[08:57] By the time you watch this video, it's already the new year, so I hope that you guys enjoyed
 
-[08:59] So I hope that you guys enjoyed it with loved ones.
+[09:00] it with loved ones.
 
 [09:01] And I want to thank you guys for the support these past 10 years.
 
-[09:04] So with that being said, use me, guys, use me in any way or form you want.
+[09:04] So with that being said, use me, guys.
+
+[09:06] Use me in any way or form you want.
 
 [09:07] See you guys for another one.
 
-[09:09] Take care. And you guys have a great rest of your day.
+[09:09] Take care and you guys have a great rest of your day.
 

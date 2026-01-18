@@ -53,9 +53,9 @@ Duration: 34.5 minutes
 
 [01:10] OK, so we can do that with that.
 
-[01:12] Now, with the sine wave, which we've talked about as a purest waveform,
+[01:12] Now, with the sine wave, which we've talked about is a purest waveform.
 
-[01:14] if I were to play a note, let's say here like the A at a very low octave
+[01:14] If I were to play a note, let's say here like the A at a very low octave
 
 [01:19] where it's bass, you can see that I'm hitting fifty four point nine hertz.
 
@@ -137,13 +137,13 @@ Duration: 34.5 minutes
 
 [03:12] You're going to be able to randomize or create a saw or a clear
 
-[03:16] the band, so pretty much a low like you can remove all the high harmonics clear.
+[03:16] the band, so pretty much a low, like you can remove all the high harmonics clear.
 
 [03:22] So it's like a high. Right.
 
 [03:24] And then if I have all the low ones, let's say, and I just want to make it less
 
-[03:28] subby, if I'm playing low.
+[03:28] savvy if I'm playing low.
 
 [03:33] So so we have those there.
 
@@ -167,11 +167,11 @@ Duration: 34.5 minutes
 
 [04:05] OK.
 
-[04:09] Can always go back to the trusty saw if you find you make a poopoo
+[04:09] Can always go back to the trusty saw.
 
-[04:13] type of wave tables, and then we can repeat the bin group.
+[04:11] If you find you make a poo poo type of wave tables and then we can repeat the bin group.
 
-[04:18] So pretty much from from from
+[04:17] So pretty much from from from
 
 [04:21] at the very bottom, we have these sections draw even harmonics only.
 
@@ -181,29 +181,25 @@ Duration: 34.5 minutes
 
 [04:33] something tasty.
 
-[04:35] OK, and we can draw odd harmonics as well, which is going to be more of a square
+[04:34] And we can draw odd harmonics as well, which is going to be more of a square type of sound.
 
-[04:38] type of sound.
-
-[04:41] So let's say go down like this.
+[04:41] Let's go down like this.
 
 [04:45] It's more of a square, almost like a guy making a synth
 
 [04:48] and you want to provide very strong harmonics.
 
-[04:51] We can right click and scale frequency values by bin index,
+[04:51] We can right click and scale frequency values by bin index, which I prefer,
 
-[04:54] which I prefer, to be fair, because it doesn't make it look so tiny.
+[04:55] to be fair, because it doesn't make it look so tiny.
 
-[04:59] So I'm going to turn that on one more time.
+[04:58] So I'm going to turn that on one more time.
 
 [05:02] Boom. Now I can see a lot better.
 
 [05:05] Like there is a ceiling to it at the very top.
 
-[05:08] A hundred. Boom.
-
-[05:11] If we do random boom.
+[05:08] A hundred boom, if we do random boom.
 
 [05:17] OK, I have that scale frequency on.
 
@@ -211,15 +207,15 @@ Duration: 34.5 minutes
 
 [05:21] When we randomize, you make a lot of these
 
-[05:24] very like buzzy like sounds, which sound very electric.
+[05:23] very like buzzy like sounds, which sound very electric
 
-[05:28] Can also work for dubstep, I would say, because, for example, here,
+[05:27] can also work for dubstep, I would say, because, for example, here,
 
 [05:31] if I can randomize this one as well and I go from this to this,
 
-[05:35] I can create a morph by going now into processes and morph
+[05:35] I can create a morph by going now into processes
 
-[05:41] and then do a crossfade between these two here.
+[05:40] and morph and then do a crossfade between these two here.
 
 [05:53] Now, the way I use the top in the most for my sound design work,
 
@@ -233,15 +229,17 @@ Duration: 34.5 minutes
 
 [06:20] From there, at the bottom, we can also draw in our wave tables.
 
-[06:23] For example, here we're going to have our brush settings and here
+[06:23] For example, here, we're going to have our brush settings
 
-[06:25] we're going to have our wave table.
+[06:25] and here we're going to have our wave table.
 
 [06:27] OK, so we can have a sign, for example.
 
-[06:29] So each note here can turn into a sign like so, you know, it's almost like there.
+[06:29] So each note here can turn into a wave.
 
-[06:34] I wouldn't like this guy being my barber, just saying, OK,
+[06:30] Turn into a sign like so, you know, it's almost like there.
+
+[06:34] I wouldn't like this guy being my barber just saying, OK,
 
 [06:37] we're going to have this little ramp up.
 
@@ -255,13 +253,13 @@ Duration: 34.5 minutes
 
 [06:58] One to one like this, boom, made us all like that easy.
 
-[07:03] OK, then I can start to use the other ones at the bottom,
+[07:03] Concave, then I can start to use the other ones at the bottom,
 
 [07:06] which will work on what you have.
 
 [07:09] And essentially make the shape less stiff.
 
-[07:15] Or give it a certain.
+[07:14] Or give it a certain.
 
 [07:17] Move and we can also nudge and we can add the noise.
 
@@ -273,9 +271,9 @@ Duration: 34.5 minutes
 
 [07:29] OK, so now as you're creating your wave table,
 
-[07:32] your sub tables here, as we were talking about that in the beginning,
+[07:32] your sub tables here, as we were talking about that in the beginning.
 
-[07:36] right, they don't have to do this by.
+[07:36] Right. They don't have to do this by.
 
 [07:42] Default, right, you can have a select color palette,
 
@@ -307,15 +305,13 @@ Duration: 34.5 minutes
 
 [08:29] In vertical or horizontal, we can shift the horizontal zero crossing
 
-[08:33] so we can make it essentially smoother as it transitions from this side
+[08:33] so we can make it essentially smoother as it transitions from this side to that side.
 
-[08:36] to that side, we can knit it,
+[08:38] We can knit it, which is what I was looking for last time.
 
-[08:40] which is what I was looking for last time.
+[08:42] We can fade in the edges.
 
-[08:42] We can fade in the edges, boom, slight.
-
-[08:47] And let's see here.
+[08:45] Boom, slight and let's see here.
 
 [08:48] X-fade edges similar to the one, just a different option.
 
@@ -331,15 +327,15 @@ Duration: 34.5 minutes
 
 [09:04] So, for instance, if I go 20 like that crazy and then we sample Redux,
 
-[09:08] we can essentially square it, make it sound like almost like it's
+[09:08] we can essentially square it, make it sound like almost like it's getting
 
-[09:12] getting lower in quality or crunching it a lot.
+[09:12] lower in quality or crunching it a lot.
 
 [09:15] And then we can send to the noise oscillator,
 
 [09:17] which I didn't know you could do that. And it's here.
 
-[09:25] So we can key track that as well by I believe
+[09:23] So we go, we can key track that as well by I believe
 
 [09:30] there is somewhere to key track boom.
 
@@ -377,9 +373,9 @@ Duration: 34.5 minutes
 
 [10:27] So it reaches it here.
 
-[10:28] It reaches the top here.
+[10:28] It reaches the top here again.
 
-[10:30] Again, it can also hit the bottom first here, right here.
+[10:31] It can also hit the bottom first here, right here.
 
 [10:35] We can undo that by, I believe, just hitting the undo here.
 
@@ -387,9 +383,9 @@ Duration: 34.5 minutes
 
 [10:42] And then the bottom one is between all of them.
 
-[10:46] So whichever hits first, even if some of them don't reach their max amplitude.
+[10:46] So whichever hits first, even if some of them don't reach their max amplitude
 
-[10:51] Again, it's going to be based on all of them as a whole and then all.
+[10:51] again, it's going to be based on all of them as a whole and then all.
 
 [10:57] So, again, these are going to affect most of them.
 
@@ -421,7 +417,7 @@ Duration: 34.5 minutes
 
 [11:41] Boom. So we have these three right now, three sub tables.
 
-[11:45] We can first off filter them all
+[11:45] We can first off, filter them all
 
 [11:48] to make them more subby.
 
@@ -435,9 +431,7 @@ Duration: 34.5 minutes
 
 [12:04] So if you're layering multiple bass tones together, you can use that
 
-[12:08] so that you don't have a low end that's fluctuating in volume, beating,
-
-[12:12] 
+[12:08] so that you don't have a low end that's fluctuating in volume, beating, detuning.
 
 [12:13] So that's where that becomes useful.
 
@@ -459,7 +453,7 @@ Duration: 34.5 minutes
 
 [12:39] You know, harmonic that we're adding.
 
-[12:43] OK, below that, we can sample redux
+[12:43] OK, below that, we can sample redox
 
 [12:46] all of them, so we create that crunch effect on them all.
 
@@ -467,9 +461,9 @@ Duration: 34.5 minutes
 
 [12:55] So one more time, as you can see, we multiplied it to two.
 
-[12:59] Instead of one up, I think we have an undo
+[12:59] Instead of one, oh, good thing we have an undo.
 
-[13:04] one more time, we have we have three, so we're going to boom
+[13:04] One more time, we have we have three, so we're going to boom,
 
 [13:08] half each one and create.
 
@@ -479,13 +473,13 @@ Duration: 34.5 minutes
 
 [13:19] Super cool, you make the most out of each one.
 
-[13:21] I read and do that one more time.
+[13:21] We're going to do that one more time.
 
 [13:23] We keep going.
 
-[13:25] We can also resize half,
+[13:25] We can also resize half.
 
-[13:27] so it's going to make it to one or two, as you can see.
+[13:27] So it's going to make it to one or two, as you can see.
 
 [13:30] And we hear this one, we end.
 
@@ -493,7 +487,7 @@ Duration: 34.5 minutes
 
 [13:36] and allows you to create more from what you have, which I think is pretty cool.
 
-[13:40] From there, we can create a PWM pulse with modulation out of the one
+[13:39] From there, we can create a PWM pulse with modulation out of the one
 
 [13:43] we've selected.
 
@@ -503,47 +497,49 @@ Duration: 34.5 minutes
 
 [13:49] to the left, which sounds super cool.
 
-[13:52] It's more fratty movement, and you also have the PWM,
+[13:52] It's more fratty movement.
 
-[13:54] which we talked about in one of the earlier episodes, similar to it.
+[13:53] And you also have the PWM, which we talked about in one of the earlier episodes.
+
+[13:58] Similar to it.
 
 [14:01] In order to add more movement to a sound, sounds very futuristic.
 
-[14:06] OK, here we have set spectra, this frame to all.
+[14:05] OK, here we have set spectra, this frame in all.
 
-[14:11] So, boom, you can see that the top part there.
+[14:12] Boom, you can see that the top part there.
 
-[14:16] Boom is changing to this.
+[14:16] Boom, it's changing to this,
 
-[14:18] So we're turning like that frequency to all of them,
+[14:18] so we're turning like that frequency to all of them,
 
 [14:22] but the phase below stays the same.
 
-[14:29] We can set the phases, this frame to all,
+[14:30] We can set the phases, this frame in all,
 
 [14:32] and we can do the other oscillators as well.
 
 [14:34] We can subtract spectra from the other oscillators,
 
-[14:36] so that's going to pertain to the other one.
+[14:37] so that's going to pertain to the other one.
 
 [14:38] So pretty cool.
 
 [14:39] From there, we can blur.
 
-[14:46] From there, at the bottom, we have the morph section,
+[14:46] Them from there at the bottom, we have the more section,
 
-[14:49] which is the more important section I would feel.
+[14:49] which is the more important section I would feel if you must know anything,
 
-[14:52] If you must know anything, it would definitely be that section
+[14:53] it would definitely be that section, because this section is what's going
 
-[14:54] because this section is what's going to allow you to morph these three
+[14:56] to allow you to morph these three to create a full out wavetable
 
-[14:57] to create a full out wave table with 256, essentially, images to it.
+[14:59] with 256 essentially images to it.
 
-[15:03] So if I morph a crossfade, you can see now I'm at 256, which is the max.
+[15:03] So if I'm more crossfade, you can see now I'm at 256, which is the max.
 
-[15:10] And we've created a wave table, a wob style of table, right?
+[15:10] And we've created a wavetable, a wub style of table, right?
 
 [15:15] Very easily.
 
@@ -565,49 +561,47 @@ Duration: 34.5 minutes
 
 [15:45] and then we can also zero all the phases.
 
-[15:48] I'm going back here.
+[15:47] So I'm going back here.
 
-[15:49] So all the faces boom.
+[15:49] So all the faces, boom, as you can see here,
 
-[15:51] As you can see here, we lose all of these that we've added before,
+[15:52] we lose all of these that we've added before,
 
-[15:55] which creates like a thinner sound.
+[15:55] which creates like a dinner sound.
 
-[15:58] So personally, me, spectral.
+[15:58] Personally, spectral first one is the best one.
 
-[15:59] The first one is zero fun phase.
+[16:02] And the crossfade
 
-[16:00] It's the best one and the crossfade.
-
-[16:04] With that in mind, let's make some wave tables.
+[16:03] with that in mind, let's make some wavetables.
 
 [16:08] And as we make them, I'll explain the rest of the stuff that pertains to them.
 
-[16:13] So I'm going to remove all the wave tables by clicking here.
+[16:12] So I'm going to remove all the wavetables by clicking here.
 
-[16:19] Clicking there, OK, I am going to put a sign,
+[16:19] Clicking there.
 
-[16:23] which I believe if we go to a certain section, we can input down here
+[16:21] OK, I am going to put a sign,
 
-[16:28] a formula where we can just get the sign and then we have all these.
+[16:24] which I believe if we go to a certain section, we can put down here a formula
 
-[16:32] And this is the part where I'm talking about.
+[16:29] where we can just get the sign and then we have all these.
 
-[16:33] Like you can get into the math stuff.
+[16:32] And this is the part where I'm talking about, like you can get into the math stuff.
 
-[16:36] Like, for instance, here, there's one called Michelangelo waves.
+[16:35] Like, for instance, here, there's one called Michelangelo waves.
 
-[16:38] Like, what is that, bro?
+[16:38] Like, what is that?
 
 [16:40] I mean, if someone understands all that, that's great.
 
 [16:45] I don't understand.
 
-[16:47] I recognize the term.
+[16:47] I recognize the terms.
 
-[16:48] I just don't know how it all makes sense together, but it's there.
+[16:48] I just don't know how it all makes sense together.
 
-[16:51] The Fibonacci.
+[16:50] But it's there, the Fibonacci.
 
 [16:58] Yeah, just math, math, math, bro.
 
@@ -633,53 +627,53 @@ Duration: 34.5 minutes
 
 [17:32] So here you're going to be able to remove and you have various different ways to do it.
 
-[17:35] You can select multiple and remove.
+[17:36] You can select multiple and remove.
 
-[17:37] You can remove everything from beginning to the selected,
+[17:37] You can remove everything from beginning to the selected
 
 [17:41] from the selected to the end and vice versa.
 
 [17:44] And then we can also reduce the way from there.
 
-[17:47] So from here, we start with a sign.
+[17:46] So from here, we start with a sign.
 
 [17:50] Let's see what we can make.
 
 [17:52] So I'm just going to start putting stuff in.
 
-[17:57] I'm going to set us frequency by index,
+[17:57] When a set frequency by index, it's a lot easier for me to make something
 
-[18:00] so it's a lot easier for me to make something that doesn't sound too fucked up.
+[18:01] that doesn't sound too fucked up.
 
 [18:05] Just trying to get a certain tone.
 
 [18:08] I think it sounds pretty cool.
 
-[18:13] I want more low end. There we go.
+[18:13] I want more low end.
 
-[18:16] We can add some more phase change here.
+[18:14] There we go.
+
+[18:16] See if we can add some more phase changes here.
 
 [18:21] When I click, let's see if we can boom.
 
-[18:41] OK, we'll make another one.
+[18:41] OK, make another one.
 
 [18:44] Maybe this one gets fuzzier.
 
 [18:51] Just to draw it in.
 
-[19:05] Sure.
-
-[19:07] Let's make it a little square.
+[19:06] Sure. Let's make a little square.
 
 [19:20] It's a hell of a morph.
 
-[19:32] Trying to shape it better.
+[19:33] Trying to shape it better.
 
-[19:44] Just undo those.
+[19:43] Just undo those.
 
-[19:46] It's this one.
+[19:45] It's this one.
 
-[19:53] A little bit of the fuzziness.
+[19:53] Lost a bit of the fuzziness.
 
 [20:01] I'm gonna set this like a wave there we go let's try applying like a flange see what
 
@@ -733,13 +727,13 @@ Duration: 34.5 minutes
 
 [24:38] because I don't like where it went but I'm still gonna follow it because again with creativity you
 
-[24:42] can't overthink again I don't know what I'm gonna get out of this but my goal is to create something
+[24:42] can't overthink them again I don't know what I'm gonna get out of this but my goal is to create
 
-[24:47] cool smooth creating wavetables is an art in its own as you can see so now the bend is in the
+[24:47] something cool smooth creating wavetables is an art in its own as you can see so now the bend
 
-[24:56] wavetable right so then if I wanted to copy that copy it somewhere interesting see boom
+[24:54] is in the wavetable right so then if I wanted to have that boom copy that copy it somewhere
 
-[25:09] last
+[25:05] interesting see boom Oh lost
 
 [25:19] okay it decided to ruin I think I fucked up but it's okay we can follow that maybe it's a gift
 
@@ -763,89 +757,87 @@ Duration: 34.5 minutes
 
 [26:51] now let's undo that though because I'm not a fan of that sound we could try the this one I mean I
 
-[27:00] like the these guys I don't like these so I could just have that be dope but nope how about we make
+[27:00] like the these guys I don't like these so I could just have that I'd be dope but nope how about we
 
-[27:08] six out of the ones we have there we go okay still not happy with that so we're just gonna
+[27:08] make six out of the ones we have there we go okay still not happy with that so we're just gonna morph
 
-[27:18] morph crossfade so that's cool so now it's like we're going from this very bassy strong harmonic
+[27:22] crossfade so that's cool so now it's like we're going from this very bassy harmonic sound to that
 
-[27:32] sound to that and we find the pocket right so that first wave table I would say could use a
+[27:34] and we find a pocket right so that first wave table I would say could use a bit of filtering
 
-[27:47] bit of filtering so I'm gonna actually gonna single and filter it a bit fade edges filter
+[27:47] so I'm gonna actually gonna single and filter it a bit fade edges filter and also the middle one
 
-[27:54] and also the middle one we're gonna do that as well now let's use some alts here and make
+[27:57] we're gonna do that as well
 
-[28:24] there we go I want to go slower got a good tone let's see if some distortion will help
+[28:07] now well let's use some alts here and make something we'll see what we come up with
 
-[28:37] add maybe some more but I want to be careful because if I add too much distortion it becomes
+[28:23] there we go I want to go slower
 
-[28:43] more of those buzzy ones that we were I need something it's gonna give us life but not too
+[28:33] got a good tone let's see if some distortion will help add maybe some more but I want to
 
-[29:13] but I'm gonna go matrix bipolar
+[28:39] be careful because if I add too much distortion it becomes more of those buzzy ones that we were
 
-[29:31] once and get something cool
+[28:55] let's try I need something it's gonna give us life but not too much okay let's put a
 
-[29:52] I really don't know what I want here
+[29:07] 
 
-[30:00] I'm thinking because I'm already at a point with the sound where it's cool
+[29:16] I'm gonna go matrix bipolar
 
-[30:05] but it's missing that wow factor
+[29:31] just once I get something cool
+
+[29:53] I really don't know what I want here I'm thinking because I'm already at a point
+
+[30:03] with the sound where it's cool but it's missing that wow factor
 
 [30:13] definitely need a sub maybe we need more dynamic movement better maybe we go
 
 [30:28] flange comb could possibly work there we go it's a little funky I always like
 
-[30:51] these type of sounds I don't know why lower the resonance we got distortion we
+[30:51] these type of sounds I don't know why slower the resonance okay we got distortion we need
 
-[31:02] need more low end less yeah and we're gonna OTT it I always like looking at my
+[31:03] more low end less yeah and we're gonna OTT it I always like looking at my span it helps
 
-[31:13] fan put some more voices
+[31:22] put some more voices I have femming because I feel like I want more upper harmonics on
 
-[31:31] I have femming because I feel like I want more upper harmonics on it so
+[31:34] it so that's what I'm gonna do it let's try doing it might be too much movement but I
 
-[31:34] I'm gonna do it try doing it might be too much movement but I need mids bro I
+[31:54] need mids bro I don't need more highs that's what it's saying oh man it's gonna be one
 
-[31:55] need more highs that's what it's saying man it's gonna be one of those sounds
+[32:03] of those sounds that yeah just kind of like just went too crazy with it but it's all good
 
-[32:05] that yeah just kind of like just went too crazy with it but it's all good
+[32:10] we're gonna finish it I'm gonna add some mid-lows maybe we try some form of movement here remove
 
-[32:10] we're gonna finish it I'm gonna add some mid-lows maybe we try some form of
+[32:22] this let's add some reverb put some makeup on this I'm gonna add a saw usually that works
 
-[32:18] movement here remove this add some reverb put some makeup on this I'm gonna
+[32:42] 
 
-[32:36] add a saw usually that works
-
-[32:52] PDA
+[32:49] PDA
 
 [32:59] that's a lot better
 
-[33:05] up up move that that's the thing man
+[33:07] move that
 
-[33:17] more OTTs maybe distort more here
+[33:08] that's a thing man
+
+[33:17] more OTTs, maybe distort more here
 
 [33:26] let's move this guy slight
 
 [33:32] some echo might be dope
 
-[33:37] nevermind nevermind
+[33:36] nevermind, nevermind
 
-[33:38] trying out different stuff or restart the sound if i don't like where i'm headed with
-
-[33:42] it
+[33:38] trying out different stuff or restart the sound if i don't like where i'm headed with it
 
 [33:50] mechanical
 
-[34:05] alright guys i hope you guys have been enjoying the complete guide to master
+[34:05] fun all right guys i hope you guys have been enjoying the complete guide to master's serum
 
-[34:08] serum next video i believe we're going to be finishing up serum 2
+[34:08] next video i believe we're gonna be finishing up serum 2 from a standpoint of view of mastering
 
-[34:12] from a standpoint of view of mastering maybe the wavetable editor not so much
+[34:14] maybe the wavetable editor not so much but like i said before wavetable editor it's a whole art in
 
-[34:16] but like i said before wavetable editor it's a whole lot in its own
+[34:19] its own something definitely to get into if it intrigues you i i say go for it uh but with that
 
-[34:19] something definitely to get into if it intrigues you i i say go for it
-
-[34:23] but with that being said i'll catch you guys next time for another video you
-
-[34:25] guys take care and much love
+[34:23] being said i'll catch you guys next time for another video you guys take care and much love
 

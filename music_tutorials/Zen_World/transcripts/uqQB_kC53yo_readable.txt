@@ -663,7 +663,7 @@ Duration: 43.0 minutes
 
 [19:59] So.
 
-[20:00] Strong saw could be a good bass one day but this makes it sound smeared, almost
+[20:00] Strong saw could be a good bass one day, but this makes it sound smeared almost
 
 [20:06] like someone put a very low size reverb on it at a hundred percent and you're
 
@@ -729,19 +729,19 @@ Duration: 43.0 minutes
 
 [23:13] increase the drive. At low volumes they sound bomb. At higher values and then here we
 
-[23:24] have this formant of filter 1 variation which the way I see it it alters where
+[23:24] have this formant of filter one variation which the way I see it it
 
-[23:28] the frequencies of formants are at. Okay so for instance in 2 we shift it to the right
+[23:28] alters where the frequencies of formants are at. Okay so for instance in two we
 
-[23:35] more and I believe in 1 it's the same thing. We add a different flavor.
+[23:34] shift it to the right more and I believe in one it's the same thing. We add a different flavor.
 
-[23:43] Okay from there we have a band reject filter which is the opposite of a band pass. Pretty
+[23:43] From there we have a band reject filter which is the opposite of a band pass. Pretty much
 
-[23:50] much yeah we're getting this new flavor because of the way we're manipulating the
+[23:50] yeah we're getting this new flavor because of the way we're manipulating the
 
 [23:55] frequency in a way where you wouldn't even think to do right because it's like
 
-[23:59] what we would want to chop off the mids out of a sound but it's the opposite of
+[23:59] what who would want to chop off the mids out of a sound but it's the opposite of
 
 [24:03] a band pass and with the width you control the width of the reducement and
 
@@ -749,249 +749,257 @@ Duration: 43.0 minutes
 
 [24:10] devil's horns. The next frequency set we have are the comb low pass band pass and
 
-[24:17] comb 2. So comb 1 is gonna be a positive comb filter so think of the phase just
+[24:17] comb two. So comb one is gonna be a positive comb filter so think of the
 
-[24:21] being different when the negative it's low or a positive it's gonna be more up
+[24:20] phase just being different when the negative it's low or a positive it's
 
-[24:25] right above. So with this one you have a low pass you have a drive and then you
+[24:24] gonna be more up right above. So with this one you have a low pass you have a
 
-[24:32] have the resonance and then you have where the comb filter frequencies are
+[24:29] drive and then you have the resonance and then you have where the comb filter
 
-[24:39] gonna be applied and the difference between the LP and BP obviously is
+[24:38] frequencies are going to be applied and the difference between the LP and BP
 
-[24:48] instead of a low pass we're using a band pass and then the 2 is just an inverted
+[24:47] obviously is instead of a low pass we're using a band pass and then the two is
 
-[25:00] negative comb which just changes the tonality of it. That's the best way to put it.
+[24:59] just an inverted negative comb which just changes the tonality of it that's
 
-[25:08] You know screen filters for me are sick whenever I'm trying to create heavily
+[25:05] the best way to put it. You know screen filters for me are sick whenever I'm
 
-[25:14] distorted sounds with this screech like quality to it. So cutoff it's just a low
+[25:11] trying to create heavily distorted sounds with this screech like quality to
 
-[25:22] pass, resonance up but the magic of this filter happens when the drive starts
+[25:19] it so cut off it's just a low pass resonance up but the magic of this
 
-[25:29] going above a certain amount and you set your scream to alter the tone very
+[25:27] happens when the drive starts going above a certain amount and you set your
 
-[25:40] prodigy like I would say. So high resonance high drive I'm gonna have it
+[25:33] scream to alter the tone very prodigy like I would say so high resonance high
 
-[25:56] key track. If I want this to also move I can add this note which is similar to
+[25:55] I'm gonna have it key track if I want this to also move I can add this note
 
-[26:01] the key track which is gonna again move this depending on where I'm playing.
+[26:01] which is similar to the key track which is gonna again move this depending on
 
-[26:09] Season 2 filters and I say like fortnight but just serum to the new
+[26:04] where I'm playing season two filters and I say like fortnight but just serum
 
-[26:13] serum 2 filters. These ones we have the wasps which WSP I think it's the wasps
+[26:12] to the new serum two filters these ones we have the wasps which what WSB I think
 
-[26:20] there's a synth called the wasps which has a very interesting filter which I
+[26:20] it's the wasps there's a synth called the wasps which has a very interesting
 
-[26:24] believe this is trying to mimic. Then we do have a morph where you can morph
+[26:23] filter which I believe this is trying to mimic okay then we do have a morph where
 
-[26:30] between a high pass a notch and that low pass. The way I use that more sometimes
+[26:29] you can morph between a high pass a notch and that low pass the way I use
 
-[26:36] is I'll probably bring in something like this so that way there's always this
+[26:35] that more sometimes is I'll probably bring in something like this so that way
 
-[26:41] high-end to the bass or sound but I still get the feeling of a low pass
+[26:40] there's always this high end to the bass or sound but I still get the feeling of
 
-[26:45] moving left and right or notch. Key thing with this filter the preamp of it
+[26:44] a low pass moving left and right or notch key thing with this filter the
 
-[26:51] notice there there is some reducement on the low end here so let's keep that in
+[26:50] preamp of it notice there there is some reducement on the low end here so let's
 
-[26:54] mind when you use it. But I love the way this one sounds with a good bass square
+[26:54] keep that in mind when you use it but I love the way this one sounds with a good
 
-[27:00] sound. A little bit of this guy up you can hear there's this grittiness on the
+[26:58] bass square sound a little bit of this guy up you can hear there's this
 
-[27:05] top. That's one thing I learned from having one of these synths over here the
+[27:05] grittiness on the top that's one thing I learned from having one of these synths
 
-[27:09] Dave's the OB-6 from Dave Smith and essentially was a collab between these
+[27:08] over here the Dave's the ob6 from Dave Smith and it's and shows a collab
 
-[27:15] two great synth legends. Love the synth and it's where I learned that I can have
+[27:14] between these two great synth legends love the synth and it's where I learned
 
-[27:19] low pass like this but the morph can be a little up so you allow that rainy top
+[27:18] that I can have a low pass like this but the more can be a little up so you allow
 
-[27:27] end to it. We have a DJ mixer which left right low pass high pass I guess it's
+[27:25] that rainy top end to it have a DJ mixer which left right low pass high
 
-[27:34] supposed to sound like a DJM filter. We're gonna have a diffuser. It makes
+[27:32] pass I guess it's supposed to sound like a DJM filter we're gonna have a diffuser
 
-[27:42] stuff sound phasy and kind of blurry, grab our stages. But it has this effect like if
+[27:41] it makes stuff sound phasing kind of blurry
 
-[27:53] you're making the new tech house stuff like the Lectro Tech it has that sound
+[27:44] grab our stages but it has this effect like if you're making the new tech house
 
-[27:58] that you're probably seeking. This one sounds great here. We have an MG ladder
+[27:54] stuff like the electro tech it has that sound that you probably seeking this one
 
-[28:13] filter which I believe it's gonna stand for a Moog filter. This smooth works
+[28:11] we have an mg ladder filter which I believe it's gonna stand for a Moog
 
-[28:19] because when I move this left and right it's smoother it's not as it's not gonna
+[28:17] filter this smooth works because when I move this left and right it's smoother
 
-[28:27] be as bitey when you use an envelope to shape. Acid style ladder filter. Again
+[28:22] it's not as it's not gonna be as bitey when you use an envelope to shape acid
 
-[28:33] it's just the way that resonance is boosted in the way it sounds. You can
+[28:30] stuff ladder filter again it's just the way that resonance is boosted in the way
 
-[28:37] already see the resonance is a lot different. Pain. The next filter we have
+[28:36] it sounds you can already see the rest is a lot different pain the next filter
 
-[28:43] is known as PCSBF which I just want you to think you can draw in your filters
+[28:42] we have is known as PC SPF which I just want you to think you can draw in your
 
-[28:49] okay. Essentially you can create almost like your own filter wavetable. For
+[28:49] filters okay essentially you can create almost like your own filter wavetable
 
-[28:55] remove some lows. So now I can draw the filter but now I can go to two. Let me
+[28:53] for example I want to remove some lows so now I can draw the filter but now I
 
-[29:01] just put in some presets which you can find here. Use a vowel A and then number
+[29:00] can go to two let me just put in some presets which you can find here there's
 
-[29:06] four let's add like I don't know YOY. There we go. Boom. The reason we do that
+[29:04] a and then number four let's add like I don't know your way there we go boom the
 
-[29:14] is because now we can switch between all the different filters we've programmed
+[29:14] reason we do that is because now we can switch between all the different filters
 
-[29:18] or created ourselves. God yeah yeah be careful. Slower the volume because this thing is just not
+[29:17] we've programmed or created ourselves and God yeah yeah be careful
 
-[29:25] it's not optimized. So pretty much you can like move between different filters
+[29:21] or the volume because this thing it's just not it's not optimized so pretty
 
-[29:35] it looks like and also modulate between them. From there we have comb 2. It's just
+[29:32] much you can like move between different filters it looks like and also modulate
 
-[29:41] another variation of the comb filter but in the serum manual it does state it's
+[29:38] between them from there we have come to it's just another variation of the cone
 
-[29:46] crazier. Which sure. It's crazy stuff. There you go. Again boost the notches.
+[29:42] filter but in the serum manual it does state it's crazier which sure
 
-[29:59] Yeah sure. From there we have EXPMM which is gonna I believe go between yeah
+[29:51] crazy stuff there you go again boost the notches
 
-[30:06] filters and just to quote the manual multimode LPF notch HPF output from the
+[29:59] yeah sure from there we have EXP mm which is gonna I believe go between
 
-[30:16] classic synthesizer expander module. Whatever that means. The last thing to
+[30:06] filters and just to quote the manual multi-mode LPF notch HPF output from the
+
+[30:16] classic synthesizer expander module whatever that means the last thing to
 
 [30:22] note is that as you saw me doing right-click here I can right-click
 
-[30:25] between different modes to see what the filter does to the sound. So remember
+[30:25] between different modes to see what the filter does to the sound so remember
 
 [30:30] anytime you cut like this right like people will tell you oh you can't do
 
 [30:36] harsh cuts because the more harsher the cut is the more brick wall the more
 
-[30:40] steep the more it's gonna affect the phases around. So with this you can see
+[30:40] steep the more it's gonna affect the phases around so with this you can see
 
-[30:46] how the phase is affected. Let's see if you highlight this filter grab you can
+[30:46] how the face is affected let's see if you highlight this filter grab but you
 
-[30:53] alt-click to switch between the modes. I rarely use it maybe I'll do something
+[30:52] can all click to switch between the modes I rarely use it maybe I'll do
 
-[30:57] like this to see the frequency how it's altering but other than that just leave
+[30:57] something like this to see the frequency how it's altering but other
 
-[31:02] it here. Okay so we'll make a couple of sounds and I'll teach you guys how
+[31:01] than that just leave it here need it okay okay so we'll make a couple of
 
-[31:08] you can program this okay. So I'm just gonna go into the digital section let's
+[31:06] sounds and I'll teach you guys how you can program this okay so I'm just gonna
 
-[31:12] pick something. Oh my god what was that? Let's go higher up.
+[31:10] go into the digital section let's pick something no oh my god what was that
 
-[31:20] Sure let's do something like this. Okay and now let's say that in filter one I'm
+[31:16] let's go higher up sure let's do something like this okay and now let's
 
-[31:28] gonna route this guy so now I can click here and I can route between them right
+[31:26] say that and filter one I'm gonna route this guy so now I can click here and I
 
-[31:32] so I can do parallel so why don't we do that just for fun. I don't know what
+[31:30] can route between them right so I can do parallel so why don't we do that just
 
-[31:35] we're making here. All I know is we're making a pad so we're gonna follow that.
+[31:34] for fun I don't know what we're making here all I know is we're making a pad
 
-[31:39] Now both filters are working right see they're in parallel which means they're
+[31:37] so we're gonna follow that now both filters are working right see they're in
 
-[31:46] both gonna go directly to the master they're not going into each other which
+[31:46] parallel which means they're both gonna go directly to the master they're not
 
-[31:50] is good you know we don't want no babies. But from there let's say on one
+[31:49] going into each other which is good you know we don't want no babies but from
 
-[31:54] side I want I don't know like a flange so we do that
+[31:53] there let's say I'm one foot on one side I want I don't know like a flange
+
+[31:56] so we do that
 
 [32:01] and then on filter two maybe we'll do like like instead of a flange let's just
 
-[32:07] do a phaser. Now we have that. If I can only run one filter it would sound like
+[32:08] do a phaser
 
-[32:17] this. Two. But now in the middle I get both.
+[32:13] now we have that if I can only run one filter it would sound like this too but
 
-[32:33] Let's say here that I want to remove the low end out of some of the oscillators
+[32:20] now in the middle I get both
+
+[32:33] let's say here that I want to remove the low end out of some of the oscillators
 
 [32:40] but not out of the main one and I don't want to use the system of this guy here
 
-[32:45] because I'm gonna be using my warps or something right. This is how we would do
+[32:45] because I'm gonna be using my warps or something right this is how we would do
 
-[32:49] it. So if you go into the mix the mix is gonna show you the mixer module inside
+[32:49] it so if you go into the mix the mix is gonna show you the mixer module inside
 
-[32:53] of Serum 2. Okay we activate the filters you're gonna see in the mix here you're
+[32:53] of serum 2 okay we activate the filters you're gonna see in the mix here you're
 
-[32:59] gonna have this button here. What this is gonna do is it's gonna pretty much allow
+[33:00] gonna have this button here what this is gonna do is it's gonna pretty much allow
 
-[33:05] you to mess with the signal flow of how stuff works. Right now both of these are
+[33:05] you to mess with the signal flow of how stuff works right now both of these are
 
 [33:08] going to the main that means they're both going here into this effects chain
 
-[33:13] which you find here. Main. Boom. However if I want it to go like into each other
+[33:13] which you find here main boom however if I want it to go like into each other
 
 [33:19] first so serial right there they're gonna be altering each other then I can
 
-[33:23] send either filter 1 or filter 2 to the other filter so I can send this to 2.
+[33:23] send either filter 1 or filter 2 to the other filter so I can send this to 2 so
 
-[33:28] So now if I turn this off you're gonna hear that you know filter 2 is still
+[33:29] now if I turn this off you're gonna hear that
 
-[33:37] removing the highs versus before I send it to the main. Right like you can see
+[33:34] you know filter 2 is still removing the highs versus before I send it to the
 
-[33:46] filter 2 doesn't do anything. So now here I can route it to filter 2 so
+[33:41] main right like you can see filter 2 doesn't do anything don't think so now
 
-[33:52] now the sound this guy only have it going to filter 1 right now it's gonna
+[33:50] here I can route it to filter 2 so now the sound this guy only have it going to
 
-[33:57] go from here to the filter 1 to filter 2. So the way this is useful is let's say
+[33:55] filter 1 right now it's gonna go from here to the filter 1 to filter 2 so the
 
-[34:02] that I'll give you guys a good like practical example of where I would do it.
+[34:00] way this is useful is let's say that I'll give you guys a good like practical
 
-[34:06] A lot of times you know I'm looking at creating unique basses because you know
+[34:05] example of where I would do it a lot of times you know I'm looking at creating
 
-[34:11] I've been doing this professionally now for about 10 to 12 years. I forget if it
+[34:09] unique basses because you know I've been doing this professionally now for
 
-[34:16] was 2014 when I started but but yeah it's it's about I would say 11 years
+[34:13] about 10 to 12 years I forget if it was 2014 when I started but but yeah it's
 
-[34:22] actually. So you know it gets boring to make saw basses and square basses
+[34:19] it's about I would say 11 years actually so you know it gets boring to make saw
 
-[34:26] constantly for people so I've been trying to find ways that I can make more
+[34:25] basses and square basses constantly for people so I've been trying to find ways
 
-[34:30] unique basses but still have the fatness and the reason why the square and saw
+[34:29] that I can make more unique basses but still have the fatness and the reason
 
-[34:36] basses always work. So what I will do is I will go into spectral I will find a
+[34:35] why the square and saw basses always work so what I will do is I will go into
 
-[34:40] good bass a good tone. I'm gonna turn this first filter into a high pass or to
+[34:39] spectral I will find a good bass a good tone so I'm gonna turn this first filter
 
-[34:46] remove the low ends out of this guy. Okay so we have this and then this filter 2
+[34:44] into a high pass or to remove the low ends out of this guy okay so we have
 
-[34:52] is there. So I'm just gonna route this guy to filter 1 to remove some low end.
+[34:50] this and then this filter 2 is there so I'm just gonna route this guy to filter
 
-[34:58] Let's say I like this. I think that's a sick tone very unique for a bass but now
+[34:55] 1 to remove some low end let's say I like this I think that's a sick tone
 
-[35:06] I need to have a low end because this I can let it have low end but the problem
+[35:03] very unique for a bass but now I need to have a low end because this I can
 
-[35:12] with a lot of these bass lines is they're flawed because they sound
+[35:10] let it have low end but the problem with a lot of these bass lines is they're
 
-[35:14] interesting in tone but they lack the low end power. So I'll use the high pass
+[35:13] flawed because they sound interesting in tone but they lack the low end power so
 
-[35:19] here and then it's filter 2. I'll use the low pass like this but now I need to
+[35:18] I'll use the high pass here and then it's filter 2 I'll use the low pass like
 
-[35:28] have a fat sound right so that's where I would use a saw square but now I'm gonna
+[35:26] this but now I need to have a fat sound right so that's where I would use a saw
 
-[35:31] click here filter and I'm gonna route this one to only filter 2 so it doesn't
+[35:30] or square but now I'm gonna click here filter and I'm gonna route this one to
 
-[35:36] get the high end cut like so. Okay so now the saw is going into filter 2 only.
+[35:35] only filter 2 so it doesn't get the high end cut
 
-[35:52] I'm gonna use a low 18 resonance some
+[35:41] so okay so now the saw is going into filter 2 only I'm gonna use a low 18
 
-[36:11] now here I am gonna use this filter because I have no other option I can't
+[36:08] resonance now here I am gonna use this filter because I have no other option I
 
-[36:14] really control the top part of the saw and the reason I'm controlling it is
+[36:14] can't really control the top part of the saw and the reason I'm controlling it
 
-[36:17] because I want the tonality of this guy to control the high end not the saw top.
+[36:17] is because I want the tonality of this guy to control the high end not the soft
 
-[36:22] So the saw will still provide that fatness. I'm gonna use this guy boom. See here we lose
+[36:20] top so the saw will still provide that fatness
 
-[36:40] the effect but now we gain it back and we have the fatness of the saw. If I
+[36:36] I'm gonna use this guy boom see here we lose the effect but now we gain it back
 
-[36:56] wanted to I can bring in another sound into filter 1. I'm gonna move this a
+[36:47] and we have the fatness of the saw if I wanted to I can bring in another sound
 
-[37:00] little to the left and with it I have to bring something new to the table. So
+[36:57] into filter 1 I'm gonna move this a little to the left and with it I have to
 
-[37:06] right now this sound is very monophonic everything's down the center so if I
+[37:04] bring something new to the table so right now this sound is very monophonic
 
-[37:09] wanted to bring in another layer to the sound I would bring in something wide.
+[37:07] everything's down the center so if I wanted to bring in another layer to the
 
-[37:13] I'm gonna use that first filter to remove
+[37:10] sound I would bring in something wide I'm gonna use that first filter to
 
-[37:28] so
+[37:17] remove
+
+[37:34] like so
 
 [37:48] Let's add a bit of reverb.
 
@@ -999,19 +1007,23 @@ Duration: 43.0 minutes
 
 [38:05] That wide one now is adding this really interesting tone.
 
-[38:18] And there we go. So filter two, filter one. The other alternative to this might be that filter
+[38:18] And there we go. So filter 2, filter 1.
 
-[38:23] one, I want to do like a flange or so of sorts, like something interesting, then I can do that.
+[38:21] The other alternative to this might be that filter 1 I want to do like a flange of sorts.
 
-[38:32] And now only the sounds going into filter one get it.
+[38:26] Like something interesting, then I can do that.
 
-[38:48] With that warp, let's see if we can bring in something interesting.
+[38:33] And now only the sounds going into filter 1 get it.
+
+[38:48] Let's add a warp. Let's see if we can bring in something interesting.
 
 [38:59] For this, I'll go with a square because there's a cool sound we can create with filters now.
 
-[39:06] Use just one filter and we're going to use
+[39:06] Use just one filter.
 
-[39:18] put it in the right spot.
+[39:09] And we're going to use...
+
+[39:18] Put it in the right spot.
 
 [39:22] Okay, we got that.
 
@@ -1019,13 +1031,13 @@ Duration: 43.0 minutes
 
 [39:33] You can also switch this to add seconds to make a deep bass.
 
-[39:45] Okay, and then we can go through them all as well.
+[39:45] And then we can go through them all as well.
 
-[39:48] Let's make one more. I feel like I'm copying out here. Let's make it hard. So
+[39:48] Let's make one more. I feel like I'm copping out here.
 
-[39:54] I know a lot of you guys make tech house. So that's why I'm kind of sticking to those sounds.
+[39:51] Let's make it hard.
 
-[39:59] Right.
+[39:54] I know a lot of you guys make tech house, so that's why I'm sticking to those sounds.
 
 [40:00] So let's say filter 1, I have a nice little low pass, we're going to go 6 so that way
 
@@ -1065,15 +1077,15 @@ Duration: 43.0 minutes
 
 [41:46] producers use specific synths, right, for instance if you see a lot of the UK house
 
-[41:50] guys are using more Roland stuff, right, the filters on Roland stuff are a little
+[41:50] guys are using more Roland stuff, right, the filters on Roland stuff are a little bit
 
-[41:54] bit more like bright, have a specific sound which leads the sauce to sound a certain way
+[41:55] more like bright, have a specific sound which leads the sauce to sound a certain way a lot
 
-[42:02] a lot easier than it is to use a Moog because Moog filters tend to be a lot warmer and they
+[42:02] easier than it is to use a Moog because Moog filters tend to be a lot warmer and they have
 
-[42:07] have a different response to the way that squelch sounds, the resonant we were playing
+[42:07] a different response to the way that squelch sounds, the resonant we were playing, so keep
 
-[42:11] so keep that in mind, ok, because it is super important.
+[42:12] that in mind, ok, because it is super important.
 
 [42:15] We went through all the filters, again, if you need just a few to kind of like work on,
 
@@ -1081,7 +1093,7 @@ Duration: 43.0 minutes
 
 [42:27] phase, one flange filter, one comb filter, sample and hold, and the ring mod, those are
 
-[42:32] going to be like the main ones I would say you learn and from there everything else will
+[42:32] going to be like the main ones I would say you learn and from there everything else we'll
 
 [42:36] build on it or just variations to those, but with that being said guys you're ready now,
 

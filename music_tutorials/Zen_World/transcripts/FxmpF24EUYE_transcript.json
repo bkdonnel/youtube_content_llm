@@ -5,7 +5,7 @@
   "duration": 1469,
   "upload_date": "20251223",
   "transcript": {
-    "text": "Alright ninjas, welcome to the complete guide to Master Serum 2. If you're still here with me, I want to give you a hug because you're killing it. You're going through it all and I'm very proud of you. You're going to notice here at the bottom left of Ableton, we can change the velocity. When you're inputting MIDI, you will also be able to play with the velocity. And if you're playing on a MIDI keyboard, the harder you press a note, the higher the velocity value and the softer you play, the lower the velocity value. Velocity is going to change a knob depending on how hard or how high the value is or how low. Okay, so some good examples of where you might set your velocity, and we're going to go into the matrix here real quick, is routing it to your amp. Now at the top right of this matrix, you can see there's this little arrow we can click and there by default is create fellow amp assignment. So if you click that, you're going to notice, okay, now we have this and you can see here the amount, the range of how much it's going to alter the volume. And you can see how velocity, and you can also see where it's at here, it's affecting the volume of the sound. So now if I programmed a velocity parameter in a patch, it wouldn't be this drastic. I would actually have it a lot more lower just to have a sense of movement in the sound, right? But also velocity can be applied to multiple other things. Just to give you a couple of ideas, the filter cutoff is another really cool one that we can add velocity to. I'm going to put a high one, low, so as you're playing a sound, you can increase the velocity. If we grab an envelope like so, we can also do this, or we're opening like so, and now higher velocity opens up more and it opens up more. Now with this graph, what you're going to be able to do is create your own custom curves. So that way the velocity reacts the way you want it. It's scaled differently here. So by default, you know, this is very gradual. I think the term for that would be considered linear. The way I like to use it personally is, you know, for instance, acid type sounds in Serum 2, if I wanted to mimic like an accent, I might go for a squared look. So that way below a certain value, this is very low, above a certain value, you get like a full openness of the sound and it doesn't have to be that drastic. It could be simple like, and this velocity can be routed to multiple things, like for instance, a decay, whatever your heart desires. But here I would do it to the decay because watch, I'm going to do this. OK, and I can create that movement like so, I believe. Yeah, you right click here, legato portamento time, you have the portamento to be applied to the velocity curve when a note is triggered and another is already held. So we'll get that into a sec. But at the bottom here, we have our voicing section. So I'm going to set up a mono legato and bring this up. So now I'm increasing my velocity here. Lastly, we can also right click to access the initialization of a grab. Let's say you do something, you can initialize it. Let's say you like the curve of one preset. You can lock the module. So that way, as you move through presets, the velocity module you've set stays from there. You can also have legato portamento time, which, according to the manual, is in the context where you have portamento applied to the velocity curve when a note is triggered and another is already held under to the right. We have a note and this note. The way I like to think about it is like the key track feature we used in the filter section, the higher you play, the higher the value, the more change you're going to get and the lower you play, the lower the change will be. So, for example, if I play my note to the level and I play low, you can see here the notes down there and you can see it here as I go up. What might that be useful for? Well, a lot of times it just depends for me. Like if there's a certain sound where I feel like the producer using it might go up on it, I want to definitely change some values. And again, for that one, I might also play with the curve in order to optimize for the producer to have success using the sound. In this scenario, if you're making sounds for your music, you might be like wanting something to happen as you play higher up and you will use this to move the knob that will allow that idea in your head to be heard through the sound as you move from a bottom note to a high note. Right. So we already know, again, the filter will have that by default. But if you ever wanted your own like, like curve to it, like for instance, like this where you're playing the bass and then when you go above a certain note, just opens up a lot, then you can set it up like that. OK. OK, and from there, I believe, again, same parameters as your Velo here. You can also have legato and knit it and lock it as well. Below that, we have the voicing section of Serum and this section. I like to pay a lot of attention to it. The main reason is that, you know, a lot of synths, analog synths, and I keep going back to them, but it's because I learned a lot from them and the limitations they said just kind of taught me, OK, there's certain reasons why certain synths sound a certain way. First off, here we have the poly count. Right. So what this means is that depending on how many voices you have, this is how many notes are allowed to play. So, for example, let's say I have a long release sound and I have my poly set to 25 and I just play a bunch of notes right now. Like I'm just going to. Let's put it to the right one. I'll lower the volume. Here I have 20 playing right now, and as the release fades on each voice, it's eventually going to start going down in value. However, let's say I'm making a sound like this and I want to limit the amount of voices, because as you heard, it can get really hectic and I can set two. And I don't get the effect anymore because there's only two voices being allowed. So I'm only allowed to play two notes at a time. If I increase that polyphony to around eight voices. As I play this, right, I'm borrowing notes, so I'm cancelling out some of the notes. They don't even go through the end of the release, which leads to a sound that's more not as lush and as full as some people might say, but at higher values. You can get that full lushness if that's what you want, or you can see it in the way that I can limit that so that way I don't get too much. OK, I had from there to the left, we have a mono, which will just make it one voice. Right. So again, you can still have multiple voices inside a sound, but you can only have one. Now for the legato, what this does is let's say that I make like a really nice saw bass right now that envelopes triggering. Now, if I glide my notes, I'm getting a portamento, but also I want you to notice how that envelope is still triggering. If I set legato, when I glide my notes, the envelope doesn't retrigger anymore. So that's what legato does. From there, the portamento time works for mono legato. And what this is doing is as I overlap notes, it's controlling how long it takes for me to go from one note to the note that I'm gliding to. So at high values, you can sound kind of cool like that. But then we have this always knob, which makes it so that I'm playing. It will always get that portamento, that change. Really cool for dirty Dutch leads, I would say, or you wanted to do that pitbull lead I did. It's you're going to do it with the always on. There we have the scale, which is just going to make the portamento time slower on how far.  Slow. And below that, we have the curve, this is going to just control how the portamento is applied, usually if I'm doing something like acid sounds and I want to mimic a three or three, this is where I might play with this or if I'm gliding between notes. And I don't like the way it sounds and I can play with the curvature of it. You can see that one. Right. Versus in the middle. Limit same note to Polly, the one you can voice deal, which again, the voice deal thing is, remember when we have, let's say, like release and we're just like playing the. You can decide where is it feeling, is it the newest note, the oldest note, the highest note, the lowest note, the velocity. So, for instance, if I wanted to keep, let's say, the lowest note, I can choose to make the low ones a priority. The low one stays there no matter what, until it fades out. That's the idea of that. And OK, so we've covered these two from there to the left. We have macros here. Now, macros are pretty much knobs that aren't doing anything until you assign it and you can assign it to multiple knobs, similar to LFOs and envelopes. But the difference is with this, you control it with this knob from the left to the right. And these can also be bipolar or unipolar. For instance, let's say I have here, like. Let's say I want to make an uplifter, right, so I can route that to the pitch. I can create an EQ, I can route this to the frequency, I can increase the quality on it a bit like so. And then, yeah, like that, I want to cut, there we go. I want to add some reverb. Let's use one of those gnarly ones we talked about last time. All right, let's go higher up, put it in front. And you put it all on this one knob, and then all you have to do now is just modulate this one knob through your DAW. I want a vibrato effect, but I don't want it to always be there. Then I can go into the matrix, route a macro here to the aux source. And now when I put the macro up. It will play the vibrato. So now this auxiliary source is going to determine and tell the LFO how much it's allowed to open that up by. OK, so we'll talk about that in a sec. But that's what macros are for. In Serum 2, you're going to have a total of eight. And you can also route macros to macros, like you can say, oh, I want to modulate this and this, and then you can have that as well. OK, from there, if you right click, you can remove all this tenacious and play and delete the macro. It doesn't seem like you can lock it. You can copy and paste it, of course, as well. And I believe you should be able to copy and paste between different presets on macros as well. Bottom part here, we have a mod wheel and we have our pitch bend wheel. Pitch bend wheel. If you have a MIDI keyboard, you know you can move that in order to move it. So usually it's like one thing is to the right. You have your numbers for the bend up. This is going to be your your range. So, for instance, if I'm making an uplifter, I want to use the pitch bend wheel and then other things, cool things to do with it. Let's say you want to pitch up from a fifth, let's say. So you can put the fifth there. OK, so that's how we would use that. It's just the bend range. Really useful for when you're creating certain patches and you want to lead to a certain sound, then you can do it that way as well. OK, from there, we go into the matrix section and the matrix. You know, you're the one by now. This is where you're going to find all your modulations. So I'm actually going to go into one of the presets here from Minimal Nights. In the matrix, I can see all the modulations of this preset, and the way you're going to use this is one you can reorganize your macros like so. It doesn't alter anything. It's just in case you want certain macros on top. You can have them on top here. You can also have the LFO and the envelope section move out the way so that way you can look at your overall macros. I believe you can have a total of 64 inside of Serum 2. OK, and the modulation section is just where you're going to find again, just like what's being routed to what you can deactivated by clicking on this guy. You can delete it by clicking on the X. Here you're going to have your amount for each modulation. So, for example, right now there's this gnarly movement on the on this low pass filter, which is adding the you know, that effect. So I LFO 2, so now if I go matrix, I should be able to find it LFO 2, look for the name LFO 2. It's right here. And you can see it's being routed here to filter one frequency. I can control the amount here. How much is it bipolar, unipolar? This is the destination. From there, we have this out here, which shows you a visual of the modulation. Next, we have the auxiliary sources, which you guys already know how to use. You can route multiple things there. The most popular things I would route there are velocity. For instance, the velocity now controls. I'm going to play a low velocity right now. No change, but as I increase the velocity, you can see that the LFO is not allowed to go higher and higher up. You know, we have max velocity and we get that. Multiple different things you can route stuff to. There is going to be some things that you won't be able to route stuff to. According to the Serum 2 manual. There's three modulations that are only available to set using like through this method, and I'll name a few active voices. Note on all one half, which is between zero and one to each note on the state of note all two. Again, this is all stuff like, am I OK? You can't really add like just by drag and dropping. So those are just a few to name. And again, you can resort to the Serum manual if it's something important that you think you need to know. For me personally, I was OK not knowing that those existed. Polarity again, left, right. We have the amount which we can right click and reset. We can also invert the auxiliary signal. So, for example, if let's say I were to put a let's see on the envelopes, I were to put an auxiliary with a mod. So let's click here to bring that back. It's going to be allowed to work and it's just reversed. Then again, we're inversing it. Similar to what we were doing with the portamento and all that, this curve is going to be more for your auxiliary source on how it's going to react as you bring it in. For example, here we have. As we bring it up, how is it reacting at really high? You can see that the values I don't need to go as high to have it open up versus when I have it all the way down. I got to be a little bit more heavy handed to the right of that. We have the output. It's kind of like the last line of where you might, oh, you know, maybe a little less open on the filter and then you just do it here. And I guess you guys saw already here. We do have this sort by source or by destination. We can lock it so that as we change presets. All right. So we've gone through a lot. So now it's time to make some really dope sounds. So why don't we get into it, guys? So one thing that is going to come to life now is if we create the seven sound we've been creating, I love doing this one. We can make it matter more by putting a velocity on this guy. But usually what I like to do more is I like to use an envelope like so. Open the filter up as usual. I'll put it at max value. And then I'll right click aux source here, so now we can do that. And instead of going into the matrix, I'll just go here, go note velocity like so. And now I can move that. So now I'm going to, let's say, create a cool little pattern with some changes here. So let's just play something. So. So at the release. As you can see, too much change, it's a little bad, right? So why don't we go into the matrix, into the auxiliary source here and change the curve? I'm going to be clean about it. But some reverb. Go vintage. Steve, change that. OK, cool. And we got a dope sound and now macros being added here. Let's play with the velocity. We're going to have everything low for now. So now we're going to set the low velocity. I'm going to set this down like so and maybe have it go straight up here. OK, and then I'm going to add an envelope. I residence. Now I want to create the accent, so when there's an accident, that means that the velocity is going to go up. Accent is just going to emphasize. So we're going to add it to the cutoff here. So now the high notes, I'm actually going to have them go up. There you go. And then we'll do this. So I'm going to add mono legato. I want to I'm going to create the iconic light that the acid sounds have. And I'm going to set a curve. I'm going to set the curve like this for now. And I'm going to overlap the notes where I want to create a slide like that and then put them in. So. Oh, oh, oh. There is a change that occurs. Keep that in mind. I am testing that out. The velocity higher up. I'm also going to increase the decay a bit, so it stays up longer. It's that some distortion now. Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh. So she's a pre and remove low end. So. This is a piece of volume a bit and also at the. Velocity. Now, let's tighten this up. Velocity on the decay if needed. So. We make this sound so much better, just got to put in the work like let's make and I'm also going to let's see. So we got three and maybe goes higher. I'll try making them all three. The decay of it, the velocity dependent as well. Let's play with the curve a bit. And now we've got to start a little higher up. That was a bad idea because now there's way too much control. That's a little shorter. Let's play around with other forms of distortion. The delay was cool, but it was way too much. It's getting there. Let's see the decay value, maybe more. Again, velocity is running a lot of stuff, so let's maybe ease up a bit on it. Remember, the tonality is also very important. Let's try maybe like we got this. Slow. Put the delay before distortion. I'll play with the velocity. Energy transfer. Let's get rid of the legato. So now you know what to do with your velocity, your note, your matrix, how to grab presets and add that touch to them so that you can create movement to the sound and make your tracks feel less static. With that being said, you guys take care. And if you guys are enjoying the series, make sure to subscribe and I'll catch you guys next time for another video.",
+    "text": "Alright ninjas, welcome to the complete guide to Master Serum 2. If you're still here with me, I want to give you a hug because you're killing it. You're going through it all and I'm very proud of you. You're going to notice here at the bottom left of Ableton, we can change the velocity. When you're inputting MIDI, you will also be able to play with the velocity. And if you're playing on a MIDI keyboard, the harder you press a note, the higher the velocity value and the softer you play, the lower the velocity value. Velocity is going to change a knob depending on how hard or how high the value is or how low. Okay, so some good examples of where you might set your velocity, and we're going to go into the matrix here real quick, is routing it to your amp. Now at the top right of this matrix, you can see there's this little arrow we can click and there by default is create fellow amp assignment. So if you click that, you're going to notice, okay, now we have this and you can see here the amount, the range of how much it's going to alter the volume. And you can see how velocity, and you can also see where it's at here, it's affecting the volume of the sound. So now if I programmed a velocity parameter in a patch, it wouldn't be this drastic. I would actually have it a lot more lower just to have a sense of movement in the sound, right? But also velocity can be applied to multiple other things. Just to give you a couple of ideas, the filter cutoff is another really cool one that we can add velocity to. I'm going to put a high one, low, so as you're playing a sound, you can increase the velocity. If we grab an envelope like so, we can also do this, or we're opening like so, and now higher velocity opens up more and it opens up more. Now with this graph, what you're going to be able to do is create your own custom curves. So that way the velocity reacts the way you want it. It's scaled differently here. So by default, you know, this is very gradual. I think the term for that would be considered linear. The way I like to use it personally is, you know, for instance, acid type sounds in Serum 2, if I wanted to mimic like an accent, I might go for a squared look. So that way below a certain value, this is very low, above a certain value, you get like a full openness of the sound and it doesn't have to be that drastic. It could be simple like, and this velocity can be routed to multiple things, like for instance, a decay, whatever your heart desires. But here I would do it to the decay because watch, I'm going to do this. OK, and I can create that movement like so, I believe. Yeah, you right click here, legato portamento time, you have the portamento to be applied to the velocity curve when a note is triggered and another is already held. So we'll get that into a sec. But at the bottom here, we have our voicing section. So I'm going to set up a mono legato and bring this up. So now I'm increasing my velocity here. Lastly, we can also right click to access the initialization of a grab. Let's say you do something, you can initialize it. Let's say you like the curve of one preset. You can lock the module. So that way, as you move through presets, the velocity module you've set stays from there. You can also have legato portamento time, which, according to the manual, is in the context where you have portamento applied to the velocity curve when a note is triggered and another is already held under to the right. We have a note and this note. The way I like to think about it is like the key track feature we used in the filter section, the higher you play, the higher the value, the more change you're going to get and the lower you play, the lower the change will be. So, for example, if I play my note to the level and I play low, you can see here the notes down there and you can see it here as I go up. What might that be useful for? Well, a lot of times it just depends for me. Like if there's a certain sound where I feel like the producer using it might go up on it, I want to definitely change some values. And again, for that one, I might also play with the curve in order to optimize for the producer to have success using the sound. In this scenario, if you're making sounds for your music, you might be like wanting something to happen as you play higher up and you will use this to move the knob that will allow that idea in your head to be heard through the sound as you move from a bottom note to a high note. Right. So we already know, again, the filter will have that by default. But if you ever wanted your own like, like curve to it, like for instance, like this where you're playing the bass and then when you go above a certain note, just opens up a lot, then you can set it up like that. OK. OK, and from there, I believe, again, same parameters as your Velo here. You can also have legato and knit it and lock it as well. Below that, we have the voicing section of Serum and this section. I like to pay a lot of attention to it. The main reason is that, you know, a lot of synths, analog synths, and I keep going back to them, but it's because I learned a lot from them and the limitations they said just kind of taught me, OK, there's certain reasons why certain synths sound a certain way. First off, here we have the poly count. Right. So what this means is that depending on how many voices you have, this is how many notes are allowed to play. So, for example, let's say I have a long release sound and I have my poly set to 25 and I just play a bunch of notes right now. Like I'm just going to. Let's put it to the right one. I'll lower the volume. Here I have 20 playing right now, and as the release fades on each voice, it's eventually going to start going down in value. However, let's say I'm making a sound like this and I want to limit the amount of voices, because as you heard, it can get really hectic and I can set two. And I don't get the effect anymore because there's only two voices being allowed. So I'm only allowed to play two notes at a time. If I increase that polyphony to around eight voices. As I play this, right, I'm borrowing notes, so I'm cancelling out some of the notes. They don't even go through the end of the release, which leads to a sound that's more not as lush and as full as some people might say, but at higher values. You can get that full lushness if that's what you want, or you can see it in the way that I can limit that so that way I don't get too much. OK, I had from there to the left, we have a mono, which will just make it one voice. Right. So again, you can still have multiple voices inside a sound, but you can only have one. Now for the legato, what this does is let's say that I make like a really nice saw bass right now that envelopes triggering. Now, if I glide my notes, I'm getting a portamento, but also I want you to notice how that envelope is still triggering. If I set legato, when I glide my notes, the envelope doesn't retrigger anymore. So that's what legato does. From there, the portamento time works for mono legato. And what this is doing is as I overlap notes, it's controlling how long it takes for me to go from one note to the note that I'm gliding to. So at high values, you can sound kind of cool like that. But then we have this always knob, which makes it so that I'm playing. It will always get that portamento, that change. Really cool for dirty Dutch leads, I would say, or you wanted to do that pitbull lead I did. It's you're going to do it with the always on. There we have the scale, which is just going to make the portamento time slower on how far.  Slow. And below that, we have the curve, this is going to just control how the portamento is applied, usually if I'm doing something like acid sounds and I want to mimic a three or three, this is where I might play with this or if I'm gliding between notes. And I don't like the way it sounds and I can play with the curvature of it. You can see that one. Right. Versus in the middle. Limit same note to Polly, the one you can voice deal, which again, the voice deal thing is, remember when we have, let's say, like release and we're just like playing the. You can decide where is it feeling, is it the newest note, the oldest note, the highest note, the lowest note, the velocity. So, for instance, if I wanted to keep, let's say, the lowest note, I can choose to make the low ones a priority. The low one stays there no matter what, until it fades out. That's the idea of that. And OK, so we've covered these two from there to the left. We have macros here. Now, macros are pretty much knobs that aren't doing anything until you assign it and you can assign it to multiple knobs, similar to LFOs and envelopes. But the difference is with this, you control it with this knob from the left to the right. And these can also be bipolar or unipolar. For instance, let's say I have here, like. Let's say I want to make an uplifter, right, so I can route that to the pitch. I can create an EQ, I can route this to the frequency, I can increase the quality on it a bit like so. And then, yeah, like that, I want to cut, there we go. I want to add some reverb. Let's use one of those gnarly ones we talked about last time. All right, let's go higher up, put it in front. And you put it all on this one knob, and then all you have to do now is just modulate this one knob through your DAW. I want a vibrato effect, but I don't want it to always be there. Then I can go into the matrix, route a macro here to the aux source. And now when I put the macro up. It will play the vibrato. So now this auxiliary source is going to determine and tell the LFO how much it's allowed to open that up by. OK, so we'll talk about that in a sec. But that's what macros are for. In Serum 2, you're going to have a total of eight. And you can also route macros to macros, like you can say, oh, I want to modulate this and this, and then you can have that as well. OK, from there, if you right click, you can remove all this tenacious and play and delete the macro. It doesn't seem like you can lock it. You can copy and paste it, of course, as well. And I believe you should be able to copy and paste between different presets on macros as well. Bottom part here, we have a mod wheel and we have our pitch bend wheel. Pitch bend wheel. If you have a MIDI keyboard, you know you can move that in order to move it. So usually it's like one thing is to the right. You have your numbers for the bend up. This is going to be your your range. So, for instance, if I'm making an uplifter, I want to use the pitch bend wheel and then other things, cool things to do with it. Let's say you want to pitch up from a fifth, let's say. So you can put the fifth there. OK, so that's how we would use that. It's just the bend range. Really useful for when you're creating certain patches and you want to lead to a certain sound, then you can do it that way as well. OK, from there, we go into the matrix section and the matrix. You know, you're the one by now. This is where you're going to find all your modulations. So I'm actually going to go into one of the presets here from Minimal Nights. In the matrix, I can see all the modulations of this preset, and the way you're going to use this is one you can reorganize your macros like so. It doesn't alter anything. It's just in case you want certain macros on top. You can have them on top here. You can also have the LFO and the envelope section move out the way so that way you can look at your overall macros. I believe you can have a total of 64 inside of Serum 2. OK, and the modulation section is just where you're going to find again, just like what's being routed to what you can deactivated by clicking on this guy. You can delete it by clicking on the X. Here you're going to have your amount for each modulation. So, for example, right now there's this gnarly movement on the on this low pass filter, which is adding the you know, that effect. So I LFO 2, so now if I go matrix, I should be able to find it LFO 2, look for the name LFO 2. It's right here. And you can see it's being routed here to filter one frequency. I can control the amount here. How much is it bipolar, unipolar? This is the destination. From there, we have this out here, which shows you a visual of the modulation. Next, we have the auxiliary sources, which you guys already know how to use. You can route multiple things there. The most popular things I would route there are velocity. For instance, the velocity now controls. I'm going to play a low velocity right now. No change, but as I increase the velocity, you can see that the LFO is not allowed to go higher and higher up. You know, we have max velocity and we get that. Multiple different things you can route stuff to. There is going to be some things that you won't be able to route stuff to. According to the Serum 2 manual. There's three modulations that are only available to set using like through this method, and I'll name a few active voices. Note on all one half, which is between zero and one to each note on the state of note all two. Again, this is all stuff like, am I OK? You can't really add like just by drag and dropping. So those are just a few to name. And again, you can resort to the Serum manual if it's something important that you think you need to know. For me personally, I was OK not knowing that those existed. Polarity again, left, right. We have the amount which we can right click and reset. We can also invert the auxiliary signal. So, for example, if let's say I were to put a let's see on the envelopes, I were to put an auxiliary with a mod. So let's click here to bring that back. It's going to be allowed to work and it's just reversed. Then again, we're inversing it. Similar to what we were doing with the portamento and all that, this curve is going to be more for your auxiliary source on how it's going to react as you bring it in. For example, here we have. As we bring it up, how is it reacting at really high? You can see that the values I don't need to go as high to have it open up versus when I have it all the way down. I got to be a little bit more heavy handed to the right of that. We have the output. It's kind of like the last line of where you might, oh, you know, maybe a little less open on the filter and then you just do it here. And I guess you guys saw already here. We do have this sort by source or by destination. We can lock it so that as we change presets. All right. So we've gone through a lot. So now it's time to make some really dope sounds. So why don't we get into it, guys? So one thing that is going to come to life now is if we create the seven sound we've been creating, I love doing this one. We can make it matter more by putting a velocity on this guy. But usually what I like to do more is I like to use an envelope like so. Open the filter up as usual. I'll put it at max value. And then I'll right click aux source here, so now we can do that. And instead of going into the matrix, I'll just go here, go note velocity like so. And now I can move that. So now I'm going to, let's say, create a cool little pattern with some changes here. So let's just play something. Let's play something. Slower the release. As you can see, too much change. It's a little bad, right? So why don't we go into the matrix, into the auxiliary source here and change the curve. Cue it up a bit. And lower. I'm gonna be clean about it. Put some reverb. Go vintage. Lower the depth. Steve, change that. Okay, cool. We got a dope sound and now macros being added here. Let's play with the velocity. We're gonna have everything low for now. So now we're gonna set the low velocity. I'm gonna set this down like so and maybe have it go straight up here. Okay, and then I'm gonna add an envelope. Okay, high resonance. Now I want to create the accent. So when there's an accent, that means that the velocity is going to go up. Accent is just going to emphasize. So we're going to add it to the cutoff here. So now the high notes, I'm actually going to have them go up. There you go. And then we'll do these. So I'm gonna add mono legato. I'm gonna create the iconic light that the acid sounds have. I'm gonna set a curve. I'm gonna set the curve like this for now. And I'm gonna overlap the notes where I want to create a slide. Like that and then portamento. Like so. There is a change that occurs. Keep that in mind. I am testing that out. The velocity higher up. I'm also going to increase the decay a bit so it stays up longer. Let's add some distortion now. Let's use the pre and remove low end. Let's increase the volume a bit and also add the velocity. Now let's tighten this up more. We can make the sound so much better. Just gotta put in the work. Let's make the decay of it be velocity dependent as well. Let's play with the curve a bit. But now we gotta start a little higher up. That was a bad idea because now there's way too much control. Let's give it a bit. That's in the way. Cue. That's a little shorter. Play around with other parts of the distortion. The delay was cool but it was way too much. It's getting there. Let's see the decay value maybe more. Again, velocity is riding a lot of stuff so let's maybe ease up a bit on it. Let's use the saw shape too because remember the tonality is also very important. Let's try maybe like we got this. Put delay before distortion. I'll play with the velocity. Energy transfer. Click. Here let's get rid of the legato. So now you know what to do with your velocity, your note, your matrix, how to grab presets and add that touch to them so that you can create movement to the sound and make your tracks feel less static. With that being said, you guys take care and if you guys are enjoying the series, make sure to subscribe and I'll catch you guys next time for another video.",
     "language": "english",
     "duration": 1469.3499755859375,
     "segments": [
@@ -7824,53 +7824,56 @@
       },
       {
         "id": 275,
-        "avg_logprob": -1.542944312095642,
-        "compression_ratio": 0.27272728085517883,
-        "end": 995.9400024414062,
+        "avg_logprob": -1.704782485961914,
+        "compression_ratio": 0.7241379022598267,
+        "end": 992.280029296875,
         "no_speech_prob": 0.2786496579647064,
         "seek": 98210,
-        "start": 994.5399780273438,
+        "start": 988.6199951171875,
         "temperature": 1.0,
-        "text": " So.",
+        "text": " Let's play something.",
         "tokens": [
-          50390,
-          407,
+          50364,
+          961,
+          311,
+          862,
+          746,
           13,
           50420
         ]
       },
       {
         "id": 276,
-        "avg_logprob": -0.4637499451637268,
-        "compression_ratio": 1.317460298538208,
-        "end": 1014.0999755859375,
-        "no_speech_prob": 0.04103592410683632,
+        "avg_logprob": -0.4335269033908844,
+        "compression_ratio": 1.3149605989456177,
+        "end": 1014.02001953125,
+        "no_speech_prob": 0.03646128252148628,
         "seek": 101210,
-        "start": 1012.9000244140625,
+        "start": 1012.8599853515625,
         "temperature": 0.0,
-        "text": " So at the release.",
+        "text": " Slower the release.",
         "tokens": [
-          50414,
-          407,
-          412,
+          50412,
+          318,
+          34598,
           264,
           4374,
           13,
-          50514
+          50456
         ]
       },
       {
         "id": 277,
-        "avg_logprob": -0.4637499451637268,
-        "compression_ratio": 1.317460298538208,
+        "avg_logprob": -0.4335269033908844,
+        "compression_ratio": 1.3149605989456177,
         "end": 1020.8800048828125,
-        "no_speech_prob": 0.04103592410683632,
+        "no_speech_prob": 0.03646128252148628,
         "seek": 101210,
-        "start": 1019.280029296875,
+        "start": 1019.1799926757812,
         "temperature": 0.0,
         "text": " As you can see, too much",
         "tokens": [
-          50738,
+          50732,
           1018,
           291,
           393,
@@ -7878,24 +7881,24 @@
           11,
           886,
           709,
-          50878
+          50792
         ]
       },
       {
         "id": 278,
-        "avg_logprob": -0.4637499451637268,
-        "compression_ratio": 1.317460298538208,
-        "end": 1024.199951171875,
-        "no_speech_prob": 0.04103592410683632,
+        "avg_logprob": -0.4335269033908844,
+        "compression_ratio": 1.3149605989456177,
+        "end": 1026.219970703125,
+        "no_speech_prob": 0.03646128252148628,
         "seek": 101210,
-        "start": 1022.4199829101562,
+        "start": 1022.280029296875,
         "temperature": 0.0,
-        "text": " change, it's a little bad, right?",
+        "text": " change. It's a little bad, right? So why don't we go into the matrix,",
         "tokens": [
-          50878,
+          50880,
           1319,
-          11,
-          309,
+          13,
+          467,
           311,
           257,
           707,
@@ -7903,21 +7906,6 @@
           11,
           558,
           30,
-          50964
-        ]
-      },
-      {
-        "id": 279,
-        "avg_logprob": -0.4637499451637268,
-        "compression_ratio": 1.317460298538208,
-        "end": 1026.219970703125,
-        "no_speech_prob": 0.04103592410683632,
-        "seek": 101210,
-        "start": 1024.199951171875,
-        "temperature": 0.0,
-        "text": " So why don't we go into the matrix,",
-        "tokens": [
-          50964,
           407,
           983,
           500,
@@ -7928,19 +7916,19 @@
           264,
           8141,
           11,
-          51080
+          51084
         ]
       },
       {
-        "id": 280,
-        "avg_logprob": -0.4637499451637268,
-        "compression_ratio": 1.317460298538208,
+        "id": 279,
+        "avg_logprob": -0.4335269033908844,
+        "compression_ratio": 1.3149605989456177,
         "end": 1030.0400390625,
-        "no_speech_prob": 0.04103592410683632,
+        "no_speech_prob": 0.03646128252148628,
         "seek": 101210,
-        "start": 1026.56005859375,
+        "start": 1026.6400146484375,
         "temperature": 0.0,
-        "text": " into the auxiliary source here and change the curve?",
+        "text": " into the auxiliary source here and change the curve.",
         "tokens": [
           51084,
           666,
@@ -7952,125 +7940,151 @@
           1319,
           264,
           7605,
-          30,
-          51262
+          13,
+          51256
+        ]
+      },
+      {
+        "id": 280,
+        "avg_logprob": -0.9243121147155762,
+        "compression_ratio": 0.7714285850524902,
+        "end": 1056.0799560546875,
+        "no_speech_prob": 0.14381496608257294,
+        "seek": 104210,
+        "start": 1051.4599609375,
+        "temperature": 0.0,
+        "text": " Cue it up a bit.",
+        "tokens": [
+          50364,
+          383,
+          622,
+          309,
+          493,
+          257,
+          857,
+          13,
+          50916
         ]
       },
       {
         "id": 281,
-        "avg_logprob": -0.9222736954689026,
-        "compression_ratio": 0.7948718070983887,
-        "end": 1071.5799560546875,
-        "no_speech_prob": 0.22240857779979706,
+        "avg_logprob": -0.9243121147155762,
+        "compression_ratio": 0.7714285850524902,
+        "end": 1058.0799560546875,
+        "no_speech_prob": 0.14381496608257294,
         "seek": 104210,
-        "start": 1042.0999755859375,
+        "start": 1057.4599609375,
         "temperature": 0.0,
-        "text": " I'm going to be clean about it.",
+        "text": " And lower.",
+        "tokens": [
+          51132,
+          400,
+          3126,
+          13,
+          51160
+        ]
+      },
+      {
+        "id": 282,
+        "avg_logprob": -0.5135241150856018,
+        "compression_ratio": 0.9047619104385376,
+        "end": 1071.1199951171875,
+        "no_speech_prob": 0.019932661205530167,
+        "seek": 105808,
+        "start": 1067.5799560546875,
+        "temperature": 0.0,
+        "text": " I'm gonna be clean about it.",
         "tokens": [
           50364,
           286,
           478,
-          516,
-          281,
+          799,
           312,
           2541,
           466,
           309,
           13,
-          51816
-        ]
-      },
-      {
-        "id": 282,
-        "avg_logprob": -0.7633211016654968,
-        "compression_ratio": 1.1165049076080322,
-        "end": 1078.3800048828125,
-        "no_speech_prob": 0.020931333303451538,
-        "seek": 107210,
-        "start": 1072.0999755859375,
-        "temperature": 0.0,
-        "text": " But some reverb.",
-        "tokens": [
-          50364,
-          583,
-          512,
-          319,
-          25809,
-          13,
-          50678
+          51016
         ]
       },
       {
         "id": 283,
-        "avg_logprob": -0.7633211016654968,
-        "compression_ratio": 1.1165049076080322,
-        "end": 1084.0400390625,
-        "no_speech_prob": 0.020931333303451538,
-        "seek": 107210,
-        "start": 1082.780029296875,
+        "avg_logprob": -0.5135241150856018,
+        "compression_ratio": 0.9047619104385376,
+        "end": 1078.260009765625,
+        "no_speech_prob": 0.019932661205530167,
+        "seek": 105808,
+        "start": 1077.199951171875,
         "temperature": 0.0,
-        "text": " Go vintage.",
+        "text": " Put some reverb.",
         "tokens": [
-          50920,
-          1037,
-          23050,
+          51320,
+          4935,
+          512,
+          41829,
           13,
-          50960
+          51364
         ]
       },
       {
         "id": 284,
-        "avg_logprob": -0.7633211016654968,
-        "compression_ratio": 1.1165049076080322,
-        "end": 1089.780029296875,
-        "no_speech_prob": 0.020931333303451538,
-        "seek": 107210,
-        "start": 1088.4000244140625,
+        "avg_logprob": -0.5135241150856018,
+        "compression_ratio": 0.9047619104385376,
+        "end": 1083.9200439453125,
+        "no_speech_prob": 0.019932661205530167,
+        "seek": 105808,
+        "start": 1082.760009765625,
         "temperature": 0.0,
-        "text": " Steve, change that.",
+        "text": " Go vintage.",
         "tokens": [
-          51192,
+          51616,
+          1037,
+          23050,
+          13,
+          51652
+        ]
+      },
+      {
+        "id": 285,
+        "avg_logprob": -0.2603570818901062,
+        "compression_ratio": 1.54347825050354,
+        "end": 1089.5999755859375,
+        "no_speech_prob": 0.00011766277020797133,
+        "seek": 108392,
+        "start": 1087.3399658203125,
+        "temperature": 0.0,
+        "text": " Lower the depth. Steve, change that.",
+        "tokens": [
+          50364,
+          25523,
+          264,
+          7161,
+          13,
           7466,
           11,
           1319,
           300,
           13,
-          51248
-        ]
-      },
-      {
-        "id": 285,
-        "avg_logprob": -0.7633211016654968,
-        "compression_ratio": 1.1165049076080322,
-        "end": 1094.43994140625,
-        "no_speech_prob": 0.020931333303451538,
-        "seek": 107210,
-        "start": 1093.5799560546875,
-        "temperature": 0.0,
-        "text": " OK, cool.",
-        "tokens": [
-          51458,
-          2264,
-          11,
-          1627,
-          13,
-          51480
+          50648
         ]
       },
       {
         "id": 286,
-        "avg_logprob": -0.7633211016654968,
-        "compression_ratio": 1.1165049076080322,
-        "end": 1097.0999755859375,
-        "no_speech_prob": 0.020931333303451538,
-        "seek": 107210,
-        "start": 1094.43994140625,
+        "avg_logprob": -0.2603570818901062,
+        "compression_ratio": 1.54347825050354,
+        "end": 1097.1600341796875,
+        "no_speech_prob": 0.00011766277020797133,
+        "seek": 108392,
+        "start": 1093.780029296875,
         "temperature": 0.0,
-        "text": " And we got a dope sound and now macros being added here.",
+        "text": " Okay, cool. We got a dope sound and now macros being added here.",
         "tokens": [
-          51480,
-          400,
-          321,
+          50860,
+          1033,
+          11,
+          1627,
+          13,
+          492,
           658,
           257,
           23383,
@@ -8083,21 +8097,21 @@
           3869,
           510,
           13,
-          51612
+          51016
         ]
       },
       {
         "id": 287,
-        "avg_logprob": -0.4003990888595581,
-        "compression_ratio": 1.6263158321380615,
-        "end": 1102.3599853515625,
-        "no_speech_prob": 0.0005700248293578625,
-        "seek": 109710,
-        "start": 1101.1600341796875,
+        "avg_logprob": -0.2603570818901062,
+        "compression_ratio": 1.54347825050354,
+        "end": 1104.0799560546875,
+        "no_speech_prob": 0.00011766277020797133,
+        "seek": 108392,
+        "start": 1101.1199951171875,
         "temperature": 0.0,
-        "text": " Let's play with the velocity.",
+        "text": " Let's play with the velocity. We're gonna have everything low for now.",
         "tokens": [
-          50364,
+          51228,
           961,
           311,
           862,
@@ -8105,81 +8119,63 @@
           264,
           9269,
           13,
-          50636
-        ]
-      },
-      {
-        "id": 288,
-        "avg_logprob": -0.4003990888595581,
-        "compression_ratio": 1.6263158321380615,
-        "end": 1104.0,
-        "no_speech_prob": 0.0005700248293578625,
-        "seek": 109710,
-        "start": 1102.5999755859375,
-        "temperature": 0.0,
-        "text": " We're going to have everything low for now.",
-        "tokens": [
-          50636,
           492,
           434,
-          516,
-          281,
+          799,
           362,
           1203,
           2295,
           337,
           586,
           13,
-          50700
+          51352
         ]
       },
       {
-        "id": 289,
-        "avg_logprob": -0.4003990888595581,
-        "compression_ratio": 1.6263158321380615,
-        "end": 1106.6400146484375,
-        "no_speech_prob": 0.0005700248293578625,
-        "seek": 109710,
-        "start": 1104.699951171875,
+        "id": 288,
+        "avg_logprob": -0.2603570818901062,
+        "compression_ratio": 1.54347825050354,
+        "end": 1108.4200439453125,
+        "no_speech_prob": 0.00011766277020797133,
+        "seek": 108392,
+        "start": 1104.97998046875,
         "temperature": 0.0,
-        "text": " So now we're going to set the low velocity.",
+        "text": " So now we're gonna set the low velocity. I'm gonna set this down like so",
         "tokens": [
-          50756,
+          51408,
           407,
           586,
           321,
           434,
-          516,
-          281,
+          799,
           992,
           264,
           2295,
           9269,
           13,
-          50848
-        ]
-      },
-      {
-        "id": 290,
-        "avg_logprob": -0.4003990888595581,
-        "compression_ratio": 1.6263158321380615,
-        "end": 1110.800048828125,
-        "no_speech_prob": 0.0005700248293578625,
-        "seek": 109710,
-        "start": 1106.8199462890625,
-        "temperature": 0.0,
-        "text": " I'm going to set this down like so and maybe have it go straight up here.",
-        "tokens": [
-          50848,
           286,
           478,
-          516,
-          281,
+          799,
           992,
           341,
           760,
           411,
           370,
+          51568
+        ]
+      },
+      {
+        "id": 289,
+        "avg_logprob": -0.2603570818901062,
+        "compression_ratio": 1.54347825050354,
+        "end": 1110.760009765625,
+        "no_speech_prob": 0.00011766277020797133,
+        "seek": 108392,
+        "start": 1108.5999755859375,
+        "temperature": 0.0,
+        "text": " and maybe have it go straight up here.",
+        "tokens": [
+          51604,
           293,
           1310,
           362,
@@ -8189,66 +8185,67 @@
           493,
           510,
           13,
-          51042
+          51692
         ]
       },
       {
-        "id": 291,
-        "avg_logprob": -0.4003990888595581,
-        "compression_ratio": 1.6263158321380615,
-        "end": 1114.3199462890625,
-        "no_speech_prob": 0.0005700248293578625,
-        "seek": 109710,
+        "id": 290,
+        "avg_logprob": -0.3246571123600006,
+        "compression_ratio": 1.6349999904632568,
+        "end": 1114.300048828125,
+        "no_speech_prob": 0.0002571144432295114,
+        "seek": 111076,
         "start": 1112.0799560546875,
         "temperature": 0.0,
-        "text": " OK, and then I'm going to add an envelope.",
+        "text": " Okay, and then I'm gonna add an envelope.",
         "tokens": [
-          51118,
-          2264,
+          50412,
+          1033,
           11,
           293,
           550,
           286,
           478,
-          516,
-          281,
+          799,
           909,
           364,
           19989,
           13,
-          51222
+          50512
+        ]
+      },
+      {
+        "id": 291,
+        "avg_logprob": -0.3246571123600006,
+        "compression_ratio": 1.6349999904632568,
+        "end": 1118.56005859375,
+        "no_speech_prob": 0.0002571144432295114,
+        "seek": 111076,
+        "start": 1117.760009765625,
+        "temperature": 0.0,
+        "text": " Okay, high resonance.",
+        "tokens": [
+          50700,
+          1033,
+          11,
+          1090,
+          30944,
+          13,
+          50748
         ]
       },
       {
         "id": 292,
-        "avg_logprob": -0.4003990888595581,
-        "compression_ratio": 1.6263158321380615,
-        "end": 1118.6800537109375,
-        "no_speech_prob": 0.0005700248293578625,
-        "seek": 109710,
-        "start": 1117.800048828125,
+        "avg_logprob": -0.3246571123600006,
+        "compression_ratio": 1.6349999904632568,
+        "end": 1126.5400390625,
+        "no_speech_prob": 0.0002571144432295114,
+        "seek": 111076,
+        "start": 1122.5799560546875,
         "temperature": 0.0,
-        "text": " I residence.",
+        "text": " Now I want to create the accent. So when there's an accent, that means that the velocity is going",
         "tokens": [
-          51410,
-          286,
-          19607,
-          13,
-          51444
-        ]
-      },
-      {
-        "id": 293,
-        "avg_logprob": -0.4003990888595581,
-        "compression_ratio": 1.6263158321380615,
-        "end": 1125.280029296875,
-        "no_speech_prob": 0.0005700248293578625,
-        "seek": 109710,
-        "start": 1122.6199951171875,
-        "temperature": 0.0,
-        "text": " Now I want to create the accent, so when there's an accident,",
-        "tokens": [
-          51648,
+          50956,
           823,
           286,
           528,
@@ -8256,29 +8253,14 @@
           1884,
           264,
           11982,
-          11,
-          370,
+          13,
+          407,
           562,
           456,
           311,
           364,
-          6398,
+          11982,
           11,
-          51776
-        ]
-      },
-      {
-        "id": 294,
-        "avg_logprob": -0.37306952476501465,
-        "compression_ratio": 1.6149067878723145,
-        "end": 1127.1400146484375,
-        "no_speech_prob": 0.0004108025459572673,
-        "seek": 112528,
-        "start": 1125.280029296875,
-        "temperature": 0.0,
-        "text": " that means that the velocity is going to go up.",
-        "tokens": [
-          50364,
           300,
           1355,
           300,
@@ -8286,25 +8268,25 @@
           9269,
           307,
           516,
+          51140
+        ]
+      },
+      {
+        "id": 293,
+        "avg_logprob": -0.3246571123600006,
+        "compression_ratio": 1.6349999904632568,
+        "end": 1130.47998046875,
+        "no_speech_prob": 0.0002571144432295114,
+        "seek": 111076,
+        "start": 1126.5400390625,
+        "temperature": 0.0,
+        "text": " to go up. Accent is just going to emphasize. So we're going to add it to the cutoff here.",
+        "tokens": [
+          51140,
           281,
           352,
           493,
           13,
-          50458
-        ]
-      },
-      {
-        "id": 295,
-        "avg_logprob": -0.37306952476501465,
-        "compression_ratio": 1.6149067878723145,
-        "end": 1128.43994140625,
-        "no_speech_prob": 0.0004108025459572673,
-        "seek": 112528,
-        "start": 1127.52001953125,
-        "temperature": 0.0,
-        "text": " Accent is just going to emphasize.",
-        "tokens": [
-          50458,
           5725,
           317,
           307,
@@ -8313,21 +8295,6 @@
           281,
           16078,
           13,
-          50530
-        ]
-      },
-      {
-        "id": 296,
-        "avg_logprob": -0.37306952476501465,
-        "compression_ratio": 1.6149067878723145,
-        "end": 1130.47998046875,
-        "no_speech_prob": 0.0004108025459572673,
-        "seek": 112528,
-        "start": 1128.739990234375,
-        "temperature": 0.0,
-        "text": " So we're going to add it to the cutoff here.",
-        "tokens": [
-          50530,
           407,
           321,
           434,
@@ -8341,21 +8308,21 @@
           4506,
           510,
           13,
-          50678
+          51328
         ]
       },
       {
-        "id": 297,
-        "avg_logprob": -0.37306952476501465,
-        "compression_ratio": 1.6149067878723145,
-        "end": 1133.6800537109375,
-        "no_speech_prob": 0.0004108025459572673,
-        "seek": 112528,
-        "start": 1131.43994140625,
+        "id": 294,
+        "avg_logprob": -0.3246571123600006,
+        "compression_ratio": 1.6349999904632568,
+        "end": 1135.1600341796875,
+        "no_speech_prob": 0.0002571144432295114,
+        "seek": 111076,
+        "start": 1131.4000244140625,
         "temperature": 0.0,
-        "text": " So now the high notes, I'm actually going to have them go up.",
+        "text": " So now the high notes, I'm actually going to have them go up. There you go.",
         "tokens": [
-          50678,
+          51392,
           407,
           586,
           264,
@@ -8372,94 +8339,59 @@
           352,
           493,
           13,
-          50784
-        ]
-      },
-      {
-        "id": 298,
-        "avg_logprob": -0.37306952476501465,
-        "compression_ratio": 1.6149067878723145,
-        "end": 1135.0,
-        "no_speech_prob": 0.0004108025459572673,
-        "seek": 112528,
-        "start": 1134.6199951171875,
-        "temperature": 0.0,
-        "text": " There you go.",
-        "tokens": [
-          50828,
           821,
           291,
           352,
           13,
-          50850
+          51564
         ]
       },
       {
-        "id": 299,
-        "avg_logprob": -0.37306952476501465,
-        "compression_ratio": 1.6149067878723145,
-        "end": 1138.719970703125,
-        "no_speech_prob": 0.0004108025459572673,
-        "seek": 112528,
-        "start": 1137.760009765625,
+        "id": 295,
+        "avg_logprob": -0.32538411021232605,
+        "compression_ratio": 1.6554054021835327,
+        "end": 1141.1600341796875,
+        "no_speech_prob": 0.0018967986106872559,
+        "seek": 113516,
+        "start": 1137.6199951171875,
         "temperature": 0.0,
-        "text": " And then we'll do this.",
+        "text": " And then we'll do these.",
         "tokens": [
-          50996,
+          50364,
           400,
           550,
           321,
           603,
           360,
-          341,
+          613,
           13,
-          51036
+          50664
         ]
       },
       {
-        "id": 300,
-        "avg_logprob": -0.37306952476501465,
-        "compression_ratio": 1.6149067878723145,
-        "end": 1151.6800537109375,
-        "no_speech_prob": 0.0004108025459572673,
-        "seek": 112528,
-        "start": 1150.0,
+        "id": 296,
+        "avg_logprob": -0.32538411021232605,
+        "compression_ratio": 1.6554054021835327,
+        "end": 1155.52001953125,
+        "no_speech_prob": 0.0018967986106872559,
+        "seek": 113516,
+        "start": 1149.719970703125,
         "temperature": 0.0,
-        "text": " So I'm going to add mono legato.",
+        "text": " So I'm gonna add mono legato. I'm gonna create the iconic light that the acid sounds have.",
         "tokens": [
-          51552,
+          51060,
           407,
           286,
           478,
-          516,
-          281,
+          799,
           909,
           35624,
           1676,
           2513,
           13,
-          51692
-        ]
-      },
-      {
-        "id": 301,
-        "avg_logprob": -0.4227697551250458,
-        "compression_ratio": 1.731034517288208,
-        "end": 1155.6400146484375,
-        "no_speech_prob": 0.04671121761202812,
-        "seek": 115168,
-        "start": 1151.6800537109375,
-        "temperature": 0.0,
-        "text": " I want to I'm going to create the iconic light that the acid sounds have.",
-        "tokens": [
-          50380,
-          286,
-          528,
-          281,
           286,
           478,
-          516,
-          281,
+          799,
           1884,
           264,
           15762,
@@ -8470,49 +8402,31 @@
           3263,
           362,
           13,
-          50556
+          51396
         ]
       },
       {
-        "id": 302,
-        "avg_logprob": -0.4227697551250458,
-        "compression_ratio": 1.731034517288208,
-        "end": 1156.6800537109375,
-        "no_speech_prob": 0.04671121761202812,
-        "seek": 115168,
-        "start": 1156.0,
+        "id": 297,
+        "avg_logprob": -0.32538411021232605,
+        "compression_ratio": 1.6554054021835327,
+        "end": 1158.3399658203125,
+        "no_speech_prob": 0.0018967986106872559,
+        "seek": 113516,
+        "start": 1155.97998046875,
         "temperature": 0.0,
-        "text": " And I'm going to set a curve.",
+        "text": " I'm gonna set a curve. I'm gonna set the curve like this for now.",
         "tokens": [
-          50574,
-          400,
+          51396,
           286,
           478,
-          516,
-          281,
+          799,
           992,
           257,
           7605,
           13,
-          50622
-        ]
-      },
-      {
-        "id": 303,
-        "avg_logprob": -0.4227697551250458,
-        "compression_ratio": 1.731034517288208,
-        "end": 1158.3399658203125,
-        "no_speech_prob": 0.04671121761202812,
-        "seek": 115168,
-        "start": 1156.8800048828125,
-        "temperature": 0.0,
-        "text": " I'm going to set the curve like this for now.",
-        "tokens": [
-          50622,
           286,
           478,
-          516,
-          281,
+          799,
           992,
           264,
           7605,
@@ -8521,26 +8435,25 @@
           337,
           586,
           13,
-          50732
+          51516
         ]
       },
       {
-        "id": 304,
-        "avg_logprob": -0.4227697551250458,
-        "compression_ratio": 1.731034517288208,
+        "id": 298,
+        "avg_logprob": -0.32538411021232605,
+        "compression_ratio": 1.6554054021835327,
         "end": 1162.06005859375,
-        "no_speech_prob": 0.04671121761202812,
-        "seek": 115168,
-        "start": 1158.8800048828125,
+        "no_speech_prob": 0.0018967986106872559,
+        "seek": 113516,
+        "start": 1158.800048828125,
         "temperature": 0.0,
-        "text": " And I'm going to overlap the notes where I want to create a slide",
+        "text": " And I'm gonna overlap the notes where I want to create a slide.",
         "tokens": [
-          50732,
+          51556,
           400,
           286,
           478,
-          516,
-          281,
+          799,
           19959,
           264,
           5570,
@@ -8551,82 +8464,62 @@
           1884,
           257,
           4137,
-          50886
+          13,
+          51708
         ]
       },
       {
-        "id": 305,
-        "avg_logprob": -0.4227697551250458,
-        "compression_ratio": 1.731034517288208,
-        "end": 1164.8800048828125,
-        "no_speech_prob": 0.04671121761202812,
-        "seek": 115168,
-        "start": 1163.4599609375,
+        "id": 299,
+        "avg_logprob": -0.3936973810195923,
+        "compression_ratio": 1.432624101638794,
+        "end": 1164.93994140625,
+        "no_speech_prob": 0.002322930609807372,
+        "seek": 116206,
+        "start": 1163.199951171875,
         "temperature": 0.0,
-        "text": " like that and then put them in.",
+        "text": " Like that and then portamento.",
         "tokens": [
-          50962,
-          411,
+          50412,
+          1743,
           300,
           293,
           550,
-          829,
-          552,
-          294,
+          2436,
+          8824,
           13,
-          51024
+          50512
         ]
       },
       {
-        "id": 306,
-        "avg_logprob": -0.4227697551250458,
-        "compression_ratio": 1.731034517288208,
-        "end": 1172.300048828125,
-        "no_speech_prob": 0.04671121761202812,
-        "seek": 115168,
-        "start": 1171.9000244140625,
+        "id": 300,
+        "avg_logprob": -0.3936973810195923,
+        "compression_ratio": 1.432624101638794,
+        "end": 1172.1400146484375,
+        "no_speech_prob": 0.002322930609807372,
+        "seek": 116206,
+        "start": 1171.6600341796875,
         "temperature": 0.0,
-        "text": " So.",
+        "text": " Like so.",
         "tokens": [
-          51374,
-          407,
+          50844,
+          1743,
+          370,
           13,
-          51392
+          50868
         ]
       },
       {
-        "id": 307,
-        "avg_logprob": -0.606853187084198,
-        "compression_ratio": 1.6875,
-        "end": 1175.9599609375,
-        "no_speech_prob": 0.0004511814913712442,
-        "seek": 117230,
-        "start": 1172.300048828125,
-        "temperature": 0.4000000059604645,
-        "text": " Oh, oh, oh.",
+        "id": 301,
+        "avg_logprob": -0.3936973810195923,
+        "compression_ratio": 1.432624101638794,
+        "end": 1183.3800048828125,
+        "no_speech_prob": 0.002322930609807372,
+        "seek": 116206,
+        "start": 1178.760009765625,
+        "temperature": 0.0,
+        "text": " There is a change that occurs. Keep that in mind. I am testing that out.",
         "tokens": [
-          50364,
-          876,
-          11,
-          1954,
-          11,
-          1954,
-          13,
-          50542
-        ]
-      },
-      {
-        "id": 308,
-        "avg_logprob": -0.606853187084198,
-        "compression_ratio": 1.6875,
-        "end": 1181.280029296875,
-        "no_speech_prob": 0.0004511814913712442,
-        "seek": 117230,
-        "start": 1179.280029296875,
-        "temperature": 0.4000000059604645,
-        "text": " There is a change that occurs.",
-        "tokens": [
-          50728,
+          51236,
           821,
           307,
           257,
@@ -8634,21 +8527,6 @@
           300,
           11843,
           13,
-          50822
-        ]
-      },
-      {
-        "id": 309,
-        "avg_logprob": -0.606853187084198,
-        "compression_ratio": 1.6875,
-        "end": 1183.760009765625,
-        "no_speech_prob": 0.0004511814913712442,
-        "seek": 117230,
-        "start": 1181.280029296875,
-        "temperature": 0.4000000059604645,
-        "text": " Keep that in mind. I am testing that out.",
-        "tokens": [
-          50822,
           5527,
           300,
           294,
@@ -8660,41 +8538,41 @@
           300,
           484,
           13,
-          50912
+          51420
         ]
       },
       {
-        "id": 310,
-        "avg_logprob": -0.606853187084198,
-        "compression_ratio": 1.6875,
-        "end": 1185.8199462890625,
-        "no_speech_prob": 0.0004511814913712442,
-        "seek": 117230,
-        "start": 1184.0799560546875,
-        "temperature": 0.4000000059604645,
+        "id": 302,
+        "avg_logprob": -0.3936973810195923,
+        "compression_ratio": 1.432624101638794,
+        "end": 1185.260009765625,
+        "no_speech_prob": 0.002322930609807372,
+        "seek": 116206,
+        "start": 1184.219970703125,
+        "temperature": 0.0,
         "text": " The velocity higher up.",
         "tokens": [
-          50946,
+          51452,
           440,
           9269,
           2946,
           493,
           13,
-          51106
+          51524
         ]
       },
       {
-        "id": 311,
-        "avg_logprob": -0.606853187084198,
-        "compression_ratio": 1.6875,
-        "end": 1190.8199462890625,
-        "no_speech_prob": 0.0004511814913712442,
-        "seek": 117230,
-        "start": 1187.52001953125,
-        "temperature": 0.4000000059604645,
-        "text": " I'm also going to increase the decay a bit, so it stays up longer.",
+        "id": 303,
+        "avg_logprob": -0.3936973810195923,
+        "compression_ratio": 1.432624101638794,
+        "end": 1190.800048828125,
+        "no_speech_prob": 0.002322930609807372,
+        "seek": 116206,
+        "start": 1187.43994140625,
+        "temperature": 0.0,
+        "text": " I'm also going to increase the decay a bit so it stays up longer.",
         "tokens": [
-          51138,
+          51644,
           286,
           478,
           611,
@@ -8705,402 +8583,199 @@
           21039,
           257,
           857,
-          11,
           370,
           309,
           10834,
           493,
           2854,
           13,
-          51294
+          51800
         ]
       },
       {
-        "id": 312,
-        "avg_logprob": -0.606853187084198,
-        "compression_ratio": 1.6875,
-        "end": 1195.800048828125,
-        "no_speech_prob": 0.0004511814913712442,
-        "seek": 117230,
-        "start": 1193.260009765625,
-        "temperature": 0.4000000059604645,
-        "text": " It's that some distortion now.",
+        "id": 304,
+        "avg_logprob": -0.3430742621421814,
+        "compression_ratio": 1.394736886024475,
+        "end": 1195.02001953125,
+        "no_speech_prob": 8.887866715667769e-05,
+        "seek": 119206,
+        "start": 1193.1199951171875,
+        "temperature": 0.0,
+        "text": " Let's add some distortion now.",
         "tokens": [
-          51424,
-          467,
+          50412,
+          961,
           311,
-          300,
+          909,
           512,
           28426,
           586,
           13,
-          51582
+          50512
         ]
       },
       {
-        "id": 313,
-        "avg_logprob": -0.606853187084198,
-        "compression_ratio": 1.6875,
-        "end": 1200.4000244140625,
-        "no_speech_prob": 0.0004511814913712442,
-        "seek": 117230,
-        "start": 1196.739990234375,
-        "temperature": 0.4000000059604645,
-        "text": " Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh.",
+        "id": 305,
+        "avg_logprob": -0.3430742621421814,
+        "compression_ratio": 1.394736886024475,
+        "end": 1202.06005859375,
+        "no_speech_prob": 8.887866715667769e-05,
+        "seek": 119206,
+        "start": 1200.1400146484375,
+        "temperature": 0.0,
+        "text": " Let's use the pre and remove low end.",
         "tokens": [
-          51582,
-          876,
-          11,
-          1954,
-          11,
-          1954,
-          11,
-          1954,
-          11,
-          1954,
-          11,
-          1954,
-          11,
-          1954,
-          11,
-          1954,
-          11,
-          1954,
-          11,
-          1954,
-          11,
-          1954,
-          11,
-          1954,
-          11,
-          1954,
-          11,
-          1954,
-          13,
-          51772
-        ]
-      },
-      {
-        "id": 314,
-        "avg_logprob": -0.606853187084198,
-        "compression_ratio": 1.6875,
-        "end": 1201.9599609375,
-        "no_speech_prob": 0.0004511814913712442,
-        "seek": 117230,
-        "start": 1200.5400390625,
-        "temperature": 0.4000000059604645,
-        "text": " So she's a pre and remove low end.",
-        "tokens": [
-          51772,
-          407,
-          750,
+          50772,
+          961,
           311,
-          257,
+          764,
+          264,
           659,
           293,
           4159,
           2295,
           917,
           13,
-          51846
+          50852
         ]
       },
       {
-        "id": 315,
-        "avg_logprob": -0.7879678606987,
-        "compression_ratio": 1.2058823108673096,
-        "end": 1208.6800537109375,
-        "no_speech_prob": 0.00019712366338353604,
-        "seek": 120230,
-        "start": 1208.1400146484375,
-        "temperature": 0.4000000059604645,
-        "text": " So.",
+        "id": 306,
+        "avg_logprob": -0.3430742621421814,
+        "compression_ratio": 1.394736886024475,
+        "end": 1213.06005859375,
+        "no_speech_prob": 8.887866715667769e-05,
+        "seek": 119206,
+        "start": 1208.0799560546875,
+        "temperature": 0.0,
+        "text": " Let's increase the volume a bit and also add the velocity.",
         "tokens": [
-          50390,
-          407,
-          13,
-          50396
-        ]
-      },
-      {
-        "id": 316,
-        "avg_logprob": -0.7879678606987,
-        "compression_ratio": 1.2058823108673096,
-        "end": 1210.02001953125,
-        "no_speech_prob": 0.00019712366338353604,
-        "seek": 120230,
-        "start": 1208.6800537109375,
-        "temperature": 0.4000000059604645,
-        "text": " This is a piece of volume a bit",
-        "tokens": [
-          50672,
-          639,
-          307,
-          257,
-          2522,
-          295,
+          51172,
+          961,
+          311,
+          3488,
+          264,
           5523,
           257,
           857,
-          50742
-        ]
-      },
-      {
-        "id": 317,
-        "avg_logprob": -0.7879678606987,
-        "compression_ratio": 1.2058823108673096,
-        "end": 1211.780029296875,
-        "no_speech_prob": 0.00019712366338353604,
-        "seek": 120230,
-        "start": 1210.5999755859375,
-        "temperature": 0.4000000059604645,
-        "text": " and also at the.",
-        "tokens": [
-          50796,
           293,
           611,
-          412,
-          220,
-          3322,
+          909,
+          264,
+          9269,
           13,
-          50838
+          51412
         ]
       },
       {
-        "id": 318,
-        "avg_logprob": -0.7879678606987,
-        "compression_ratio": 1.2058823108673096,
-        "end": 1213.239990234375,
-        "no_speech_prob": 0.00019712366338353604,
-        "seek": 120230,
-        "start": 1212.97998046875,
-        "temperature": 0.4000000059604645,
-        "text": " Velocity.",
+        "id": 307,
+        "avg_logprob": -0.3430742621421814,
+        "compression_ratio": 1.394736886024475,
+        "end": 1219.3399658203125,
+        "no_speech_prob": 8.887866715667769e-05,
+        "seek": 119206,
+        "start": 1217.0799560546875,
+        "temperature": 0.0,
+        "text": " Now let's tighten this up more.",
         "tokens": [
-          50878,
-          17814,
-          905,
-          507,
-          13,
-          50906
-        ]
-      },
-      {
-        "id": 319,
-        "avg_logprob": -0.7879678606987,
-        "compression_ratio": 1.2058823108673096,
-        "end": 1218.93994140625,
-        "no_speech_prob": 0.00019712366338353604,
-        "seek": 120230,
-        "start": 1217.1400146484375,
-        "temperature": 0.4000000059604645,
-        "text": " Now, let's tighten this up.",
-        "tokens": [
-          51118,
+          51624,
           823,
-          11,
           718,
           311,
           17041,
           341,
           493,
+          544,
           13,
-          51176
+          51716
         ]
       },
       {
-        "id": 320,
-        "avg_logprob": -0.7879678606987,
-        "compression_ratio": 1.2058823108673096,
-        "end": 1227.4200439453125,
-        "no_speech_prob": 0.00019712366338353604,
-        "seek": 120230,
-        "start": 1225.3599853515625,
-        "temperature": 0.4000000059604645,
-        "text": " Velocity on the decay if needed.",
+        "id": 308,
+        "avg_logprob": -0.7386693954467773,
+        "compression_ratio": 0.9558823704719543,
+        "end": 1241.02001953125,
+        "no_speech_prob": 0.000636118114925921,
+        "seek": 122206,
+        "start": 1227.3399658203125,
+        "temperature": 0.0,
+        "text": " We can make the sound so much better.",
         "tokens": [
-          51518,
-          17814,
-          905,
-          507,
-          322,
-          264,
-          21039,
-          498,
-          2978,
-          13,
-          51622
-        ]
-      },
-      {
-        "id": 321,
-        "avg_logprob": -0.7944115996360779,
-        "compression_ratio": 1.497206687927246,
-        "end": 1232.3199462890625,
-        "no_speech_prob": 0.0008691653492860496,
-        "seek": 123230,
-        "start": 1232.300048828125,
-        "temperature": 0.800000011920929,
-        "text": " So.",
-        "tokens": [
-          50384,
-          407,
-          13,
-          50392
-        ]
-      },
-      {
-        "id": 322,
-        "avg_logprob": -0.7944115996360779,
-        "compression_ratio": 1.497206687927246,
-        "end": 1243.780029296875,
-        "no_speech_prob": 0.0008691653492860496,
-        "seek": 123230,
-        "start": 1239.4599609375,
-        "temperature": 0.800000011920929,
-        "text": " We make this sound so much better, just got to put in the work like let's make",
-        "tokens": [
-          50730,
+          50404,
           492,
+          393,
           652,
-          341,
+          264,
           1626,
           370,
           709,
           1101,
-          11,
-          445,
-          658,
-          281,
+          13,
+          51308
+        ]
+      },
+      {
+        "id": 309,
+        "avg_logprob": -0.7386693954467773,
+        "compression_ratio": 0.9558823704719543,
+        "end": 1242.6199951171875,
+        "no_speech_prob": 0.000636118114925921,
+        "seek": 122206,
+        "start": 1241.1199951171875,
+        "temperature": 0.0,
+        "text": " Just gotta put in the work.",
+        "tokens": [
+          51308,
+          1449,
+          3428,
           829,
           294,
-          220,
-          392,
-          68,
+          264,
           589,
-          411,
-          718,
+          13,
+          51368
+        ]
+      },
+      {
+        "id": 310,
+        "avg_logprob": -0.32084330916404724,
+        "compression_ratio": 1.3636363744735718,
+        "end": 1257.3800048828125,
+        "no_speech_prob": 0.007694360334426165,
+        "seek": 124262,
+        "start": 1242.6199951171875,
+        "temperature": 0.0,
+        "text": " Let's make the decay of it be velocity dependent as well.",
+        "tokens": [
+          50368,
+          961,
           311,
           652,
-          50936
-        ]
-      },
-      {
-        "id": 323,
-        "avg_logprob": -0.7944115996360779,
-        "compression_ratio": 1.497206687927246,
-        "end": 1247.1600341796875,
-        "no_speech_prob": 0.0008691653492860496,
-        "seek": 123230,
-        "start": 1245.3199462890625,
-        "temperature": 0.800000011920929,
-        "text": " and I'm also going to let's see.",
-        "tokens": [
-          51016,
-          293,
-          286,
-          478,
-          611,
-          516,
-          281,
-          718,
-          311,
-          536,
-          13,
-          51108
-        ]
-      },
-      {
-        "id": 324,
-        "avg_logprob": -0.7944115996360779,
-        "compression_ratio": 1.497206687927246,
-        "end": 1248.8599853515625,
-        "no_speech_prob": 0.0008691653492860496,
-        "seek": 123230,
-        "start": 1247.3800048828125,
-        "temperature": 0.800000011920929,
-        "text": " So we got three and maybe goes higher.",
-        "tokens": [
-          51108,
-          407,
-          321,
-          658,
-          1045,
-          293,
-          1310,
-          290,
-          78,
-          279,
-          2946,
-          13,
-          51192
-        ]
-      },
-      {
-        "id": 325,
-        "avg_logprob": -0.7944115996360779,
-        "compression_ratio": 1.497206687927246,
-        "end": 1253.5799560546875,
-        "no_speech_prob": 0.0008691653492860496,
-        "seek": 123230,
-        "start": 1251.47998046875,
-        "temperature": 0.800000011920929,
-        "text": " I'll try making them all three.",
-        "tokens": [
-          51318,
-          286,
-          603,
-          853,
-          1455,
-          220,
-          47959,
-          439,
-          1045,
-          13,
-          51428
-        ]
-      },
-      {
-        "id": 326,
-        "avg_logprob": -0.7944115996360779,
-        "compression_ratio": 1.497206687927246,
-        "end": 1257.4200439453125,
-        "no_speech_prob": 0.0008691653492860496,
-        "seek": 123230,
-        "start": 1254.8399658203125,
-        "temperature": 0.800000011920929,
-        "text": " The decay of it, the velocity dependent as well.",
-        "tokens": [
-          51502,
-          440,
+          264,
           21039,
           295,
           309,
-          11,
-          264,
-          371,
-          338,
-          905,
-          507,
+          312,
+          9269,
           12334,
           382,
           731,
           13,
-          51616
+          51092
         ]
       },
       {
-        "id": 327,
-        "avg_logprob": -0.7944115996360779,
-        "compression_ratio": 1.497206687927246,
-        "end": 1259.300048828125,
-        "no_speech_prob": 0.0008691653492860496,
-        "seek": 123230,
-        "start": 1258.02001953125,
-        "temperature": 0.800000011920929,
+        "id": 311,
+        "avg_logprob": -0.32084330916404724,
+        "compression_ratio": 1.3636363744735718,
+        "end": 1259.719970703125,
+        "no_speech_prob": 0.007694360334426165,
+        "seek": 124262,
+        "start": 1258.239990234375,
+        "temperature": 0.0,
         "text": " Let's play with the curve a bit.",
         "tokens": [
-          51658,
+          51132,
           961,
           311,
           862,
@@ -9110,48 +8785,46 @@
           257,
           857,
           13,
-          51714
+          51188
         ]
       },
       {
-        "id": 328,
-        "avg_logprob": -0.5133423805236816,
-        "compression_ratio": 1.2547169923782349,
-        "end": 1267.4200439453125,
-        "no_speech_prob": 0.010471774265170097,
-        "seek": 126230,
-        "start": 1264.93994140625,
+        "id": 312,
+        "avg_logprob": -0.32084330916404724,
+        "compression_ratio": 1.3636363744735718,
+        "end": 1267.6600341796875,
+        "no_speech_prob": 0.007694360334426165,
+        "seek": 124262,
+        "start": 1264.97998046875,
         "temperature": 0.0,
-        "text": " And now we've got to start a little higher up.",
+        "text": " But now we gotta start a little higher up.",
         "tokens": [
-          50364,
-          400,
+          51492,
+          583,
           586,
           321,
-          600,
-          658,
-          281,
+          3428,
           722,
           257,
           707,
           2946,
           493,
           13,
-          50620
+          51600
         ]
       },
       {
-        "id": 329,
-        "avg_logprob": -0.5133423805236816,
-        "compression_ratio": 1.2547169923782349,
-        "end": 1271.8399658203125,
-        "no_speech_prob": 0.010471774265170097,
-        "seek": 126230,
+        "id": 313,
+        "avg_logprob": -0.32084330916404724,
+        "compression_ratio": 1.3636363744735718,
+        "end": 1271.52001953125,
+        "no_speech_prob": 0.007694360334426165,
+        "seek": 124262,
         "start": 1268.300048828125,
         "temperature": 0.0,
         "text": " That was a bad idea because now there's way too much control.",
         "tokens": [
-          50672,
+          51648,
           663,
           390,
           257,
@@ -9166,72 +8839,116 @@
           709,
           1969,
           13,
-          50826
+          51804
         ]
       },
       {
-        "id": 330,
-        "avg_logprob": -0.5133423805236816,
-        "compression_ratio": 1.2547169923782349,
-        "end": 1286.699951171875,
-        "no_speech_prob": 0.010471774265170097,
-        "seek": 126230,
-        "start": 1280.5999755859375,
+        "id": 314,
+        "avg_logprob": -0.5964716672897339,
+        "compression_ratio": 1.1818181276321411,
+        "end": 1275.5799560546875,
+        "no_speech_prob": 0.0029793158173561096,
+        "seek": 127262,
+        "start": 1273.3599853515625,
         "temperature": 0.0,
-        "text": " That's a little shorter.",
+        "text": " Let's give it a bit.",
         "tokens": [
-          51524,
+          50412,
+          961,
+          311,
+          976,
+          309,
+          257,
+          857,
+          13,
+          50512
+        ]
+      },
+      {
+        "id": 315,
+        "avg_logprob": -0.5964716672897339,
+        "compression_ratio": 1.1818181276321411,
+        "end": 1281.9200439453125,
+        "no_speech_prob": 0.0029793158173561096,
+        "seek": 127262,
+        "start": 1280.6199951171875,
+        "temperature": 0.0,
+        "text": " That's in the way.",
+        "tokens": [
+          50764,
+          663,
+          311,
+          294,
+          264,
+          636,
+          13,
+          50812
+        ]
+      },
+      {
+        "id": 316,
+        "avg_logprob": -0.5964716672897339,
+        "compression_ratio": 1.1818181276321411,
+        "end": 1286.780029296875,
+        "no_speech_prob": 0.0029793158173561096,
+        "seek": 127262,
+        "start": 1284.3399658203125,
+        "temperature": 0.0,
+        "text": " Cue. That's a little shorter.",
+        "tokens": [
+          50972,
+          383,
+          622,
+          13,
           663,
           311,
           257,
           707,
           11639,
           13,
-          51588
+          51068
         ]
       },
       {
-        "id": 331,
-        "avg_logprob": -0.6002675294876099,
-        "compression_ratio": 1.080459713935852,
-        "end": 1297.300048828125,
-        "no_speech_prob": 0.05489689111709595,
-        "seek": 128670,
-        "start": 1291.800048828125,
+        "id": 317,
+        "avg_logprob": -0.5964716672897339,
+        "compression_ratio": 1.1818181276321411,
+        "end": 1294.0400390625,
+        "no_speech_prob": 0.0029793158173561096,
+        "seek": 127262,
+        "start": 1291.5799560546875,
         "temperature": 0.0,
-        "text": " Let's play around with other forms of distortion.",
+        "text": " Play around with other parts of the distortion.",
         "tokens": [
-          50364,
-          961,
-          311,
-          862,
+          51336,
+          5506,
           926,
           365,
           661,
-          6422,
+          3166,
           295,
+          264,
           28426,
           13,
-          50736
+          51432
         ]
       },
       {
-        "id": 332,
-        "avg_logprob": -0.6002675294876099,
-        "compression_ratio": 1.080459713935852,
-        "end": 1305.43994140625,
-        "no_speech_prob": 0.05489689111709595,
-        "seek": 128670,
+        "id": 318,
+        "avg_logprob": -0.360843688249588,
+        "compression_ratio": 1.1222221851348877,
+        "end": 1319.0999755859375,
+        "no_speech_prob": 0.024045854806900024,
+        "seek": 130262,
         "start": 1303.06005859375,
         "temperature": 0.0,
-        "text": " The delay was cool, but it was way too much.",
+        "text": " The delay was cool but it was way too much.",
         "tokens": [
-          51202,
+          50396,
           440,
           8577,
           390,
           1627,
-          11,
           457,
           309,
           390,
@@ -9239,76 +8956,74 @@
           886,
           709,
           13,
-          51300
+          50492
         ]
       },
       {
-        "id": 333,
-        "avg_logprob": -0.515385091304779,
-        "compression_ratio": 1.2454545497894287,
-        "end": 1325.699951171875,
-        "no_speech_prob": 0.006094412878155708,
-        "seek": 131670,
+        "id": 319,
+        "avg_logprob": -0.360843688249588,
+        "compression_ratio": 1.1222221851348877,
+        "end": 1325.8399658203125,
+        "no_speech_prob": 0.024045854806900024,
+        "seek": 130262,
         "start": 1324.56005859375,
         "temperature": 0.0,
         "text": " It's getting there.",
         "tokens": [
-          50364,
+          51476,
           467,
           311,
           1242,
           456,
           13,
-          50814
+          51512
         ]
       },
       {
-        "id": 334,
-        "avg_logprob": -0.515385091304779,
-        "compression_ratio": 1.2454545497894287,
-        "end": 1329.699951171875,
-        "no_speech_prob": 0.006094412878155708,
-        "seek": 131670,
-        "start": 1327.4200439453125,
+        "id": 320,
+        "avg_logprob": -0.360843688249588,
+        "compression_ratio": 1.1222221851348877,
+        "end": 1329.780029296875,
+        "no_speech_prob": 0.024045854806900024,
+        "seek": 130262,
+        "start": 1327.4599609375,
         "temperature": 0.0,
-        "text": " Let's see the decay value, maybe more.",
+        "text": " Let's see the decay value maybe more.",
         "tokens": [
-          50916,
+          51612,
           961,
           311,
           536,
           264,
           21039,
           2158,
-          11,
           1310,
           544,
           13,
-          51014
+          51712
         ]
       },
       {
-        "id": 335,
-        "avg_logprob": -0.515385091304779,
-        "compression_ratio": 1.2454545497894287,
-        "end": 1338.219970703125,
-        "no_speech_prob": 0.006094412878155708,
-        "seek": 131670,
-        "start": 1334.6600341796875,
+        "id": 321,
+        "avg_logprob": -0.5160320401191711,
+        "compression_ratio": 1.0133333206176758,
+        "end": 1337.97998046875,
+        "no_speech_prob": 0.010978467762470245,
+        "seek": 133262,
+        "start": 1334.5999755859375,
         "temperature": 0.0,
-        "text": " Again, velocity is running a lot of stuff, so let's maybe ease up a bit on it.",
+        "text": " Again, velocity is riding a lot of stuff so let's maybe ease up a bit on it.",
         "tokens": [
-          51268,
+          50380,
           3764,
           11,
           9269,
           307,
-          2614,
+          9546,
           257,
           688,
           295,
           1507,
-          11,
           370,
           718,
           311,
@@ -9320,23 +9035,30 @@
           322,
           309,
           13,
-          51436
+          50632
         ]
       },
       {
-        "id": 336,
-        "avg_logprob": -0.5743783712387085,
-        "compression_ratio": 1.0,
-        "end": 1389.56005859375,
-        "no_speech_prob": 0.002980281366035342,
-        "seek": 137670,
-        "start": 1387.0,
+        "id": 322,
+        "avg_logprob": -0.5864360928535461,
+        "compression_ratio": 1.0657894611358643,
+        "end": 1389.43994140625,
+        "no_speech_prob": 0.11250568926334381,
+        "seek": 136262,
+        "start": 1364.1400146484375,
         "temperature": 0.0,
-        "text": " Remember, the tonality is also very important.",
+        "text": " Let's use the saw shape too because remember the tonality is also very important.",
         "tokens": [
           50364,
-          5459,
-          11,
+          961,
+          311,
+          764,
+          264,
+          1866,
+          3909,
+          886,
+          570,
+          1604,
           264,
           2952,
           1860,
@@ -9345,21 +9067,21 @@
           588,
           1021,
           13,
-          51008
+          51708
         ]
       },
       {
-        "id": 337,
-        "avg_logprob": -0.5743783712387085,
-        "compression_ratio": 1.0,
-        "end": 1395.97998046875,
-        "no_speech_prob": 0.002980281366035342,
-        "seek": 137670,
-        "start": 1393.56005859375,
+        "id": 323,
+        "avg_logprob": -0.5363737940788269,
+        "compression_ratio": 0.9253731369972229,
+        "end": 1399.8399658203125,
+        "no_speech_prob": 0.005552000366151333,
+        "seek": 139262,
+        "start": 1393.1800537109375,
         "temperature": 0.0,
         "text": " Let's try maybe like we got this.",
         "tokens": [
-          51194,
+          50392,
           961,
           311,
           853,
@@ -9369,59 +9091,41 @@
           658,
           341,
           13,
-          51328
+          50708
         ]
       },
       {
-        "id": 338,
-        "avg_logprob": -0.7652757167816162,
-        "compression_ratio": 0.9852941036224365,
-        "end": 1410.739990234375,
-        "no_speech_prob": 0.004822285380214453,
-        "seek": 140670,
-        "start": 1410.199951171875,
+        "id": 324,
+        "avg_logprob": -0.5363737940788269,
+        "compression_ratio": 0.9253731369972229,
+        "end": 1417.3199462890625,
+        "no_speech_prob": 0.005552000366151333,
+        "seek": 139262,
+        "start": 1408.4599609375,
         "temperature": 0.0,
-        "text": " Slow.",
+        "text": " Put delay before distortion.",
         "tokens": [
-          50414,
-          17703,
-          13,
-          50464
-        ]
-      },
-      {
-        "id": 339,
-        "avg_logprob": -0.7652757167816162,
-        "compression_ratio": 0.9852941036224365,
-        "end": 1417.4200439453125,
-        "no_speech_prob": 0.004822285380214453,
-        "seek": 140670,
-        "start": 1416.260009765625,
-        "temperature": 0.0,
-        "text": " Put the delay before distortion.",
-        "tokens": [
-          50814,
+          51540,
           4935,
-          264,
           8577,
           949,
           28426,
           13,
-          50914
+          51604
         ]
       },
       {
-        "id": 340,
-        "avg_logprob": -0.7652757167816162,
-        "compression_ratio": 0.9852941036224365,
-        "end": 1430.47998046875,
-        "no_speech_prob": 0.004822285380214453,
-        "seek": 140670,
-        "start": 1429.3399658203125,
+        "id": 325,
+        "avg_logprob": -0.5376385450363159,
+        "compression_ratio": 1.0487804412841797,
+        "end": 1432.3199462890625,
+        "no_speech_prob": 0.0013248079922050238,
+        "seek": 142262,
+        "start": 1427.1800537109375,
         "temperature": 0.0,
         "text": " I'll play with the velocity.",
         "tokens": [
-          51464,
+          50364,
           286,
           603,
           862,
@@ -9429,40 +9133,43 @@
           264,
           9269,
           13,
-          51564
+          50908
         ]
       },
       {
-        "id": 341,
-        "avg_logprob": -0.4527290463447571,
-        "compression_ratio": 1.1836735010147095,
-        "end": 1437.1199951171875,
-        "no_speech_prob": 0.00017129749176092446,
-        "seek": 143048,
-        "start": 1436.1600341796875,
+        "id": 326,
+        "avg_logprob": -0.5376385450363159,
+        "compression_ratio": 1.0487804412841797,
+        "end": 1437.0999755859375,
+        "no_speech_prob": 0.0013248079922050238,
+        "seek": 142262,
+        "start": 1435.6600341796875,
         "temperature": 0.0,
         "text": " Energy transfer.",
         "tokens": [
-          50364,
+          51016,
           14939,
           5003,
           13,
-          50664
+          51076
         ]
       },
       {
-        "id": 342,
-        "avg_logprob": -0.4527290463447571,
-        "compression_ratio": 1.1836735010147095,
-        "end": 1447.8599853515625,
-        "no_speech_prob": 0.00017129749176092446,
-        "seek": 143048,
-        "start": 1445.4200439453125,
+        "id": 327,
+        "avg_logprob": -0.5376385450363159,
+        "compression_ratio": 1.0487804412841797,
+        "end": 1447.4000244140625,
+        "no_speech_prob": 0.0013248079922050238,
+        "seek": 142262,
+        "start": 1443.5799560546875,
         "temperature": 0.0,
-        "text": " Let's get rid of the legato.",
+        "text": " Click. Here let's get rid of the legato.",
         "tokens": [
-          51114,
-          961,
+          51412,
+          8230,
+          13,
+          1692,
+          718,
           311,
           483,
           3973,
@@ -9471,21 +9178,21 @@
           1676,
           2513,
           13,
-          51214
+          51608
         ]
       },
       {
-        "id": 343,
-        "avg_logprob": -0.4527290463447571,
-        "compression_ratio": 1.1836735010147095,
-        "end": 1457.02001953125,
-        "no_speech_prob": 0.00017129749176092446,
-        "seek": 143048,
-        "start": 1453.780029296875,
+        "id": 328,
+        "avg_logprob": -0.29237091541290283,
+        "compression_ratio": 1.6543779373168945,
+        "end": 1457.9200439453125,
+        "no_speech_prob": 0.0007910022977739573,
+        "seek": 145262,
+        "start": 1453.9000244140625,
         "temperature": 0.0,
-        "text": " So now you know what to do with your velocity, your note, your matrix,",
+        "text": " So now you know what to do with your velocity, your note, your matrix, how to grab presets",
         "tokens": [
-          51514,
+          50408,
           407,
           586,
           291,
@@ -9503,25 +9210,25 @@
           428,
           8141,
           11,
-          51664
-        ]
-      },
-      {
-        "id": 344,
-        "avg_logprob": -0.23875652253627777,
-        "compression_ratio": 1.545454502105713,
-        "end": 1461.6400146484375,
-        "no_speech_prob": 0.006889541167765856,
-        "seek": 145702,
-        "start": 1457.02001953125,
-        "temperature": 0.0,
-        "text": " how to grab presets and add that touch to them so that you can create movement to the sound",
-        "tokens": [
-          50364,
           577,
           281,
           4444,
           41865,
+          50608
+        ]
+      },
+      {
+        "id": 329,
+        "avg_logprob": -0.29237091541290283,
+        "compression_ratio": 1.6543779373168945,
+        "end": 1462.1600341796875,
+        "no_speech_prob": 0.0007910022977739573,
+        "seek": 145262,
+        "start": 1458.0,
+        "temperature": 0.0,
+        "text": " and add that touch to them so that you can create movement to the sound and make your",
+        "tokens": [
+          50608,
           293,
           909,
           300,
@@ -9537,44 +9244,44 @@
           281,
           264,
           1626,
-          50564
-        ]
-      },
-      {
-        "id": 345,
-        "avg_logprob": -0.23875652253627777,
-        "compression_ratio": 1.545454502105713,
-        "end": 1463.43994140625,
-        "no_speech_prob": 0.006889541167765856,
-        "seek": 145702,
-        "start": 1461.6400146484375,
-        "temperature": 0.0,
-        "text": " and make your tracks feel less static.",
-        "tokens": [
-          50564,
           293,
           652,
           428,
+          50808
+        ]
+      },
+      {
+        "id": 330,
+        "avg_logprob": -0.29237091541290283,
+        "compression_ratio": 1.6543779373168945,
+        "end": 1463.43994140625,
+        "no_speech_prob": 0.0007910022977739573,
+        "seek": 145262,
+        "start": 1462.1600341796875,
+        "temperature": 0.0,
+        "text": " tracks feel less static.",
+        "tokens": [
+          50808,
           10218,
           841,
           1570,
           13437,
           13,
-          50664
+          50892
         ]
       },
       {
-        "id": 346,
-        "avg_logprob": -0.23875652253627777,
-        "compression_ratio": 1.545454502105713,
-        "end": 1464.97998046875,
-        "no_speech_prob": 0.006889541167765856,
-        "seek": 145702,
-        "start": 1463.8800048828125,
+        "id": 331,
+        "avg_logprob": -0.29237091541290283,
+        "compression_ratio": 1.6543779373168945,
+        "end": 1466.3399658203125,
+        "no_speech_prob": 0.0007910022977739573,
+        "seek": 145262,
+        "start": 1463.8599853515625,
         "temperature": 0.0,
-        "text": " With that being said, you guys take care.",
+        "text": " With that being said, you guys take care and if you guys are enjoying the series, make",
         "tokens": [
-          50664,
+          50892,
           2022,
           300,
           885,
@@ -9584,23 +9291,7 @@
           1074,
           747,
           1127,
-          13,
-          50764
-        ]
-      },
-      {
-        "id": 347,
-        "avg_logprob": -0.23875652253627777,
-        "compression_ratio": 1.545454502105713,
-        "end": 1467.0400390625,
-        "no_speech_prob": 0.006889541167765856,
-        "seek": 145702,
-        "start": 1465.02001953125,
-        "temperature": 0.0,
-        "text": " And if you guys are enjoying the series, make sure to subscribe",
-        "tokens": [
-          50764,
-          400,
+          293,
           498,
           291,
           1074,
@@ -9610,24 +9301,24 @@
           2638,
           11,
           652,
-          988,
-          281,
-          3022,
-          50864
+          51016
         ]
       },
       {
-        "id": 348,
-        "avg_logprob": -0.23875652253627777,
-        "compression_ratio": 1.545454502105713,
+        "id": 332,
+        "avg_logprob": -0.29237091541290283,
+        "compression_ratio": 1.6543779373168945,
         "end": 1469.1400146484375,
-        "no_speech_prob": 0.006889541167765856,
-        "seek": 145702,
-        "start": 1467.1400146484375,
+        "no_speech_prob": 0.0007910022977739573,
+        "seek": 145262,
+        "start": 1466.3399658203125,
         "temperature": 0.0,
-        "text": " and I'll catch you guys next time for another video.",
+        "text": " sure to subscribe and I'll catch you guys next time for another video.",
         "tokens": [
-          50864,
+          51016,
+          988,
+          281,
+          3022,
           293,
           286,
           603,
@@ -9640,7 +9331,7 @@
           1071,
           960,
           13,
-          50964
+          51168
         ]
       }
     ],
@@ -24816,78 +24507,83 @@
         "word": "something"
       },
       {
-        "end": 995.9400024414062,
-        "start": 994.5399780273438,
-        "word": "So"
+        "end": 990.02001953125,
+        "start": 988.6199951171875,
+        "word": "Let's"
       },
       {
-        "end": 1013.3800048828125,
-        "start": 1012.9000244140625,
-        "word": "So"
+        "end": 990.02001953125,
+        "start": 990.02001953125,
+        "word": "play"
       },
       {
-        "end": 1013.5,
-        "start": 1013.3800048828125,
-        "word": "at"
+        "end": 992.280029296875,
+        "start": 990.02001953125,
+        "word": "something"
       },
       {
-        "end": 1013.6599731445312,
-        "start": 1013.5,
+        "end": 1013.4600219726562,
+        "start": 1012.8599853515625,
+        "word": "Slower"
+      },
+      {
+        "end": 1013.760009765625,
+        "start": 1013.4600219726562,
         "word": "the"
       },
       {
-        "end": 1014.0999755859375,
-        "start": 1013.6599731445312,
+        "end": 1014.02001953125,
+        "start": 1013.760009765625,
         "word": "release"
       },
       {
-        "end": 1019.760009765625,
-        "start": 1019.280029296875,
+        "end": 1019.780029296875,
+        "start": 1019.1799926757812,
         "word": "As"
       },
       {
-        "end": 1019.8800048828125,
-        "start": 1019.760009765625,
+        "end": 1019.8599853515625,
+        "start": 1019.780029296875,
         "word": "you"
       },
       {
-        "end": 1020.0999755859375,
-        "start": 1019.8800048828125,
+        "end": 1020.0800170898438,
+        "start": 1019.8599853515625,
         "word": "can"
       },
       {
         "end": 1020.280029296875,
-        "start": 1020.0999755859375,
+        "start": 1020.0800170898438,
         "word": "see"
       },
       {
-        "end": 1020.4600219726562,
-        "start": 1020.2999877929688,
+        "end": 1020.4400024414062,
+        "start": 1020.3400268554688,
         "word": "too"
       },
       {
         "end": 1020.8800048828125,
-        "start": 1020.4600219726562,
+        "start": 1020.4400024414062,
         "word": "much"
       },
       {
-        "end": 1022.9000244140625,
-        "start": 1022.4199829101562,
+        "end": 1022.8800048828125,
+        "start": 1022.280029296875,
         "word": "change"
       },
       {
         "end": 1023.3400268554688,
-        "start": 1023.0399780273438,
-        "word": "it's"
+        "start": 1023.1799926757812,
+        "word": "It's"
       },
       {
-        "end": 1023.52001953125,
+        "end": 1023.5599975585938,
         "start": 1023.3400268554688,
         "word": "a"
       },
       {
         "end": 1023.5599975585938,
-        "start": 1023.52001953125,
+        "start": 1023.5599975585938,
         "word": "little"
       },
       {
@@ -24896,18 +24592,18 @@
         "word": "bad"
       },
       {
-        "end": 1024.199951171875,
-        "start": 1023.9000244140625,
+        "end": 1024.219970703125,
+        "start": 1023.8800048828125,
         "word": "right"
       },
       {
-        "end": 1024.5799560546875,
-        "start": 1024.199951171875,
+        "end": 1024.5999755859375,
+        "start": 1024.219970703125,
         "word": "So"
       },
       {
         "end": 1025.0,
-        "start": 1024.5799560546875,
+        "start": 1024.5999755859375,
         "word": "why"
       },
       {
@@ -24941,13 +24637,13 @@
         "word": "matrix"
       },
       {
-        "end": 1027.0400390625,
-        "start": 1026.56005859375,
+        "end": 1026.9599609375,
+        "start": 1026.6400146484375,
         "word": "into"
       },
       {
         "end": 1027.52001953125,
-        "start": 1027.0400390625,
+        "start": 1026.9599609375,
         "word": "the"
       },
       {
@@ -24976,78 +24672,123 @@
         "word": "change"
       },
       {
-        "end": 1029.9599609375,
+        "end": 1029.97998046875,
         "start": 1029.719970703125,
         "word": "the"
       },
       {
         "end": 1030.0400390625,
-        "start": 1029.9599609375,
+        "start": 1029.97998046875,
         "word": "curve"
       },
       {
-        "end": 1042.47998046875,
-        "start": 1042.0999755859375,
+        "end": 1052.8599853515625,
+        "start": 1051.4599609375,
+        "word": "Cue"
+      },
+      {
+        "end": 1053.02001953125,
+        "start": 1052.8599853515625,
+        "word": "it"
+      },
+      {
+        "end": 1053.1800537109375,
+        "start": 1053.02001953125,
+        "word": "up"
+      },
+      {
+        "end": 1053.5400390625,
+        "start": 1053.1800537109375,
+        "word": "a"
+      },
+      {
+        "end": 1056.0799560546875,
+        "start": 1053.5400390625,
+        "word": "bit"
+      },
+      {
+        "end": 1057.93994140625,
+        "start": 1057.239990234375,
+        "word": "And"
+      },
+      {
+        "end": 1058.0799560546875,
+        "start": 1057.93994140625,
+        "word": "lower"
+      },
+      {
+        "end": 1068.97998046875,
+        "start": 1067.5799560546875,
         "word": "I'm"
       },
       {
-        "end": 1042.5,
-        "start": 1042.47998046875,
-        "word": "going"
+        "end": 1070.3800048828125,
+        "start": 1068.97998046875,
+        "word": "gonna"
       },
       {
-        "end": 1063.1800537109375,
-        "start": 1042.5,
-        "word": "to"
-      },
-      {
-        "end": 1070.5,
-        "start": 1063.1800537109375,
+        "end": 1070.5400390625,
+        "start": 1070.3800048828125,
         "word": "be"
       },
       {
         "end": 1070.780029296875,
-        "start": 1070.5,
+        "start": 1070.5400390625,
         "word": "clean"
       },
       {
-        "end": 1071.06005859375,
+        "end": 1071.0999755859375,
         "start": 1070.780029296875,
         "word": "about"
       },
       {
-        "end": 1071.5799560546875,
-        "start": 1071.06005859375,
+        "end": 1071.800048828125,
+        "start": 1071.0999755859375,
         "word": "it"
       },
       {
-        "end": 1072.280029296875,
-        "start": 1072.0999755859375,
-        "word": "But"
+        "end": 1077.5799560546875,
+        "start": 1076.8800048828125,
+        "word": "Put"
       },
       {
-        "end": 1077.8399658203125,
-        "start": 1072.280029296875,
+        "end": 1077.8800048828125,
+        "start": 1077.5799560546875,
         "word": "some"
       },
       {
-        "end": 1078.3800048828125,
-        "start": 1077.8399658203125,
+        "end": 1078.260009765625,
+        "start": 1077.8800048828125,
         "word": "reverb"
       },
       {
-        "end": 1083.47998046875,
-        "start": 1082.780029296875,
+        "end": 1083.52001953125,
+        "start": 1082.760009765625,
         "word": "Go"
       },
       {
-        "end": 1084.0400390625,
-        "start": 1083.47998046875,
+        "end": 1083.9200439453125,
+        "start": 1083.52001953125,
         "word": "vintage"
       },
       {
-        "end": 1089.0999755859375,
-        "start": 1088.4000244140625,
+        "end": 1087.8199462890625,
+        "start": 1087.3399658203125,
+        "word": "Lower"
+      },
+      {
+        "end": 1087.97998046875,
+        "start": 1087.8199462890625,
+        "word": "the"
+      },
+      {
+        "end": 1088.47998046875,
+        "start": 1087.97998046875,
+        "word": "depth"
+      },
+      {
+        "end": 1089.1400146484375,
+        "start": 1089.1199951171875,
         "word": "Steve"
       },
       {
@@ -25056,43 +24797,38 @@
         "word": "change"
       },
       {
-        "end": 1089.81005859375,
+        "end": 1089.699951171875,
         "start": 1089.4599609375,
         "word": "that"
       },
       {
-        "end": 1094.280029296875,
-        "start": 1093.5799560546875,
-        "word": "OK"
+        "end": 1094.260009765625,
+        "start": 1093.780029296875,
+        "word": "Okay"
       },
       {
         "end": 1094.43994140625,
-        "start": 1094.280029296875,
+        "start": 1094.260009765625,
         "word": "cool"
       },
       {
-        "end": 1094.6199951171875,
-        "start": 1094.43994140625,
-        "word": "And"
-      },
-      {
-        "end": 1094.6199951171875,
-        "start": 1094.6199951171875,
-        "word": "we"
+        "end": 1094.5999755859375,
+        "start": 1094.4599609375,
+        "word": "We"
       },
       {
         "end": 1094.719970703125,
-        "start": 1094.6199951171875,
+        "start": 1094.5999755859375,
         "word": "got"
       },
       {
-        "end": 1094.9000244140625,
+        "end": 1094.8800048828125,
         "start": 1094.719970703125,
         "word": "a"
       },
       {
         "end": 1095.06005859375,
-        "start": 1094.9000244140625,
+        "start": 1094.8800048828125,
         "word": "dope"
       },
       {
@@ -25106,13 +24842,13 @@
         "word": "and"
       },
       {
-        "end": 1095.800048828125,
+        "end": 1095.8199462890625,
         "start": 1095.5,
         "word": "now"
       },
       {
         "end": 1096.1800537109375,
-        "start": 1095.800048828125,
+        "start": 1095.8199462890625,
         "word": "macros"
       },
       {
@@ -25126,13 +24862,13 @@
         "word": "added"
       },
       {
-        "end": 1097.0999755859375,
+        "end": 1097.1600341796875,
         "start": 1096.739990234375,
         "word": "here"
       },
       {
         "end": 1101.5999755859375,
-        "start": 1101.1600341796875,
+        "start": 1101.1199951171875,
         "word": "Let's"
       },
       {
@@ -25156,108 +24892,93 @@
         "word": "velocity"
       },
       {
-        "end": 1102.739990234375,
-        "start": 1102.5999755859375,
+        "end": 1102.760009765625,
+        "start": 1102.6400146484375,
         "word": "We're"
       },
       {
-        "end": 1102.739990234375,
-        "start": 1102.739990234375,
-        "word": "going"
-      },
-      {
-        "end": 1102.8199462890625,
-        "start": 1102.739990234375,
-        "word": "to"
+        "end": 1102.760009765625,
+        "start": 1102.760009765625,
+        "word": "gonna"
       },
       {
         "end": 1102.97998046875,
-        "start": 1102.8199462890625,
+        "start": 1102.760009765625,
         "word": "have"
       },
       {
-        "end": 1103.260009765625,
+        "end": 1103.239990234375,
         "start": 1102.97998046875,
         "word": "everything"
       },
       {
-        "end": 1103.4599609375,
-        "start": 1103.260009765625,
+        "end": 1103.43994140625,
+        "start": 1103.239990234375,
         "word": "low"
       },
       {
-        "end": 1103.6400146484375,
-        "start": 1103.4599609375,
+        "end": 1104.0799560546875,
+        "start": 1103.43994140625,
         "word": "for"
       },
       {
-        "end": 1104.0,
-        "start": 1103.6400146484375,
+        "end": 1104.0799560546875,
+        "start": 1104.0799560546875,
         "word": "now"
       },
       {
-        "end": 1105.1400146484375,
-        "start": 1104.699951171875,
+        "end": 1105.1800537109375,
+        "start": 1104.97998046875,
         "word": "So"
       },
       {
         "end": 1105.3599853515625,
-        "start": 1105.1400146484375,
+        "start": 1105.1800537109375,
         "word": "now"
       },
       {
-        "end": 1105.6600341796875,
+        "end": 1105.719970703125,
         "start": 1105.3599853515625,
         "word": "we're"
       },
       {
-        "end": 1105.6600341796875,
-        "start": 1105.6600341796875,
-        "word": "going"
+        "end": 1105.719970703125,
+        "start": 1105.719970703125,
+        "word": "gonna"
       },
       {
-        "end": 1105.800048828125,
-        "start": 1105.6600341796875,
-        "word": "to"
-      },
-      {
-        "end": 1105.9599609375,
-        "start": 1105.800048828125,
+        "end": 1105.93994140625,
+        "start": 1105.719970703125,
         "word": "set"
       },
       {
-        "end": 1106.0799560546875,
-        "start": 1105.9599609375,
+        "end": 1106.0999755859375,
+        "start": 1105.93994140625,
         "word": "the"
       },
       {
-        "end": 1106.3199462890625,
-        "start": 1106.0799560546875,
+        "end": 1106.300048828125,
+        "start": 1106.0999755859375,
         "word": "low"
       },
       {
         "end": 1106.6400146484375,
-        "start": 1106.3199462890625,
+        "start": 1106.300048828125,
         "word": "velocity"
       },
       {
-        "end": 1107.02001953125,
-        "start": 1106.8199462890625,
+        "end": 1107.06005859375,
+        "start": 1106.800048828125,
         "word": "I'm"
       },
       {
-        "end": 1107.02001953125,
-        "start": 1107.02001953125,
-        "word": "going"
-      },
-      {
-        "end": 1107.1800537109375,
-        "start": 1107.02001953125,
-        "word": "to"
+        "end": 1107.06005859375,
+        "start": 1107.06005859375,
+        "word": "gonna"
       },
       {
         "end": 1107.300048828125,
-        "start": 1107.1800537109375,
+        "start": 1107.06005859375,
         "word": "set"
       },
       {
@@ -25271,23 +24992,23 @@
         "word": "down"
       },
       {
-        "end": 1107.93994140625,
+        "end": 1107.9200439453125,
         "start": 1107.6800537109375,
         "word": "like"
       },
       {
-        "end": 1108.6199951171875,
-        "start": 1107.93994140625,
+        "end": 1108.4200439453125,
+        "start": 1107.9200439453125,
         "word": "so"
       },
       {
-        "end": 1109.06005859375,
-        "start": 1108.6199951171875,
+        "end": 1109.0799560546875,
+        "start": 1108.5999755859375,
         "word": "and"
       },
       {
         "end": 1109.280029296875,
-        "start": 1109.06005859375,
+        "start": 1109.0799560546875,
         "word": "maybe"
       },
       {
@@ -25296,13 +25017,13 @@
         "word": "have"
       },
       {
-        "end": 1109.6400146484375,
+        "end": 1109.6199951171875,
         "start": 1109.52001953125,
         "word": "it"
       },
       {
         "end": 1109.9599609375,
-        "start": 1109.6400146484375,
+        "start": 1109.6199951171875,
         "word": "go"
       },
       {
@@ -25316,18 +25037,18 @@
         "word": "up"
       },
       {
-        "end": 1110.800048828125,
+        "end": 1110.760009765625,
         "start": 1110.4000244140625,
         "word": "here"
       },
       {
-        "end": 1112.52001953125,
+        "end": 1112.47998046875,
         "start": 1112.0799560546875,
-        "word": "OK"
+        "word": "Okay"
       },
       {
         "end": 1112.8599853515625,
-        "start": 1112.52001953125,
+        "start": 1112.6400146484375,
         "word": "and"
       },
       {
@@ -25336,23 +25057,18 @@
         "word": "then"
       },
       {
-        "end": 1113.4000244140625,
+        "end": 1113.3800048828125,
         "start": 1113.1800537109375,
         "word": "I'm"
       },
       {
-        "end": 1113.4000244140625,
-        "start": 1113.4000244140625,
-        "word": "going"
-      },
-      {
-        "end": 1113.5400390625,
-        "start": 1113.4000244140625,
-        "word": "to"
+        "end": 1113.43994140625,
+        "start": 1113.3800048828125,
+        "word": "gonna"
       },
       {
         "end": 1113.6800537109375,
-        "start": 1113.5400390625,
+        "start": 1113.43994140625,
         "word": "add"
       },
       {
@@ -25361,33 +25077,38 @@
         "word": "an"
       },
       {
-        "end": 1114.3199462890625,
+        "end": 1114.300048828125,
         "start": 1113.9200439453125,
         "word": "envelope"
       },
       {
-        "end": 1118.239990234375,
-        "start": 1117.800048828125,
-        "word": "I"
+        "end": 1118.1199951171875,
+        "start": 1117.760009765625,
+        "word": "Okay"
       },
       {
-        "end": 1118.6800537109375,
-        "start": 1118.239990234375,
-        "word": "residence"
+        "end": 1118.3399658203125,
+        "start": 1118.1199951171875,
+        "word": "high"
       },
       {
-        "end": 1123.06005859375,
-        "start": 1122.6199951171875,
+        "end": 1118.56005859375,
+        "start": 1118.3399658203125,
+        "word": "resonance"
+      },
+      {
+        "end": 1122.97998046875,
+        "start": 1122.5799560546875,
         "word": "Now"
       },
       {
-        "end": 1123.3599853515625,
-        "start": 1123.06005859375,
+        "end": 1123.3800048828125,
+        "start": 1122.97998046875,
         "word": "I"
       },
       {
         "end": 1123.47998046875,
-        "start": 1123.3599853515625,
+        "start": 1123.3800048828125,
         "word": "want"
       },
       {
@@ -25401,48 +25122,48 @@
         "word": "create"
       },
       {
-        "end": 1123.9599609375,
+        "end": 1124.260009765625,
         "start": 1123.780029296875,
         "word": "the"
       },
       {
-        "end": 1124.280029296875,
-        "start": 1123.9599609375,
+        "end": 1124.260009765625,
+        "start": 1124.260009765625,
         "word": "accent"
       },
       {
         "end": 1124.52001953125,
-        "start": 1124.3599853515625,
-        "word": "so"
+        "start": 1124.3800048828125,
+        "word": "So"
       },
       {
-        "end": 1124.699951171875,
+        "end": 1124.6600341796875,
         "start": 1124.52001953125,
         "word": "when"
       },
       {
         "end": 1124.8199462890625,
-        "start": 1124.699951171875,
+        "start": 1124.6600341796875,
         "word": "there's"
       },
       {
-        "end": 1125.0400390625,
+        "end": 1125.06005859375,
         "start": 1124.8199462890625,
         "word": "an"
       },
       {
-        "end": 1125.280029296875,
-        "start": 1125.0400390625,
-        "word": "accident"
+        "end": 1125.260009765625,
+        "start": 1125.06005859375,
+        "word": "accent"
       },
       {
-        "end": 1125.43994140625,
-        "start": 1125.280029296875,
+        "end": 1125.5,
+        "start": 1125.3599853515625,
         "word": "that"
       },
       {
         "end": 1125.6400146484375,
-        "start": 1125.43994140625,
+        "start": 1125.5,
         "word": "means"
       },
       {
@@ -25451,48 +25172,48 @@
         "word": "that"
       },
       {
-        "end": 1126.0,
+        "end": 1126.0400390625,
         "start": 1125.8800048828125,
         "word": "the"
       },
       {
-        "end": 1126.3199462890625,
-        "start": 1126.0,
+        "end": 1126.300048828125,
+        "start": 1126.0400390625,
         "word": "velocity"
       },
       {
-        "end": 1126.52001953125,
-        "start": 1126.3199462890625,
+        "end": 1126.5400390625,
+        "start": 1126.300048828125,
         "word": "is"
       },
       {
-        "end": 1126.56005859375,
-        "start": 1126.52001953125,
+        "end": 1126.5400390625,
+        "start": 1126.5400390625,
         "word": "going"
       },
       {
         "end": 1126.699951171875,
-        "start": 1126.56005859375,
+        "start": 1126.5400390625,
         "word": "to"
       },
       {
-        "end": 1126.8399658203125,
+        "end": 1126.8599853515625,
         "start": 1126.699951171875,
         "word": "go"
       },
       {
         "end": 1127.1400146484375,
-        "start": 1126.8399658203125,
+        "start": 1126.8599853515625,
         "word": "up"
       },
       {
-        "end": 1127.5799560546875,
-        "start": 1127.52001953125,
+        "end": 1127.5400390625,
+        "start": 1127.5400390625,
         "word": "Accent"
       },
       {
         "end": 1127.6800537109375,
-        "start": 1127.5799560546875,
+        "start": 1127.5400390625,
         "word": "is"
       },
       {
@@ -25501,23 +25222,23 @@
         "word": "just"
       },
       {
-        "end": 1127.97998046875,
+        "end": 1127.93994140625,
         "start": 1127.8800048828125,
         "word": "going"
       },
       {
-        "end": 1128.1800537109375,
-        "start": 1127.97998046875,
+        "end": 1128.3599853515625,
+        "start": 1127.93994140625,
         "word": "to"
       },
       {
-        "end": 1128.43994140625,
-        "start": 1128.1800537109375,
+        "end": 1128.4200439453125,
+        "start": 1128.3599853515625,
         "word": "emphasize"
       },
       {
         "end": 1128.8199462890625,
-        "start": 1128.739990234375,
+        "start": 1128.699951171875,
         "word": "So"
       },
       {
@@ -25536,53 +25257,53 @@
         "word": "to"
       },
       {
-        "end": 1129.280029296875,
+        "end": 1129.260009765625,
         "start": 1129.0999755859375,
         "word": "add"
       },
       {
-        "end": 1129.4200439453125,
-        "start": 1129.280029296875,
+        "end": 1129.43994140625,
+        "start": 1129.260009765625,
         "word": "it"
       },
       {
         "end": 1129.5,
-        "start": 1129.4200439453125,
+        "start": 1129.43994140625,
         "word": "to"
       },
       {
-        "end": 1129.739990234375,
+        "end": 1129.760009765625,
         "start": 1129.5,
         "word": "the"
       },
       {
-        "end": 1129.97998046875,
-        "start": 1129.739990234375,
+        "end": 1129.9599609375,
+        "start": 1129.760009765625,
         "word": "cutoff"
       },
       {
         "end": 1130.47998046875,
-        "start": 1129.97998046875,
+        "start": 1129.9599609375,
         "word": "here"
       },
       {
         "end": 1131.800048828125,
-        "start": 1131.43994140625,
+        "start": 1131.4000244140625,
         "word": "So"
       },
       {
-        "end": 1131.93994140625,
+        "end": 1131.9599609375,
         "start": 1131.800048828125,
         "word": "now"
       },
       {
-        "end": 1132.1199951171875,
-        "start": 1131.93994140625,
+        "end": 1132.1400146484375,
+        "start": 1131.9599609375,
         "word": "the"
       },
       {
         "end": 1132.3800048828125,
-        "start": 1132.1199951171875,
+        "start": 1132.1400146484375,
         "word": "high"
       },
       {
@@ -25592,72 +25313,72 @@
       },
       {
         "end": 1132.699951171875,
-        "start": 1132.56005859375,
+        "start": 1132.5799560546875,
         "word": "I'm"
       },
       {
-        "end": 1132.93994140625,
+        "end": 1132.9200439453125,
         "start": 1132.699951171875,
         "word": "actually"
       },
       {
-        "end": 1133.0400390625,
-        "start": 1132.93994140625,
+        "end": 1133.02001953125,
+        "start": 1132.9200439453125,
         "word": "going"
       },
       {
-        "end": 1133.0999755859375,
-        "start": 1133.0400390625,
+        "end": 1133.0799560546875,
+        "start": 1133.02001953125,
         "word": "to"
       },
       {
         "end": 1133.280029296875,
-        "start": 1133.0999755859375,
+        "start": 1133.0799560546875,
         "word": "have"
       },
       {
-        "end": 1133.43994140625,
+        "end": 1133.4000244140625,
         "start": 1133.280029296875,
         "word": "them"
       },
       {
-        "end": 1133.5999755859375,
-        "start": 1133.43994140625,
+        "end": 1133.5799560546875,
+        "start": 1133.4000244140625,
         "word": "go"
       },
       {
-        "end": 1133.780029296875,
-        "start": 1133.5999755859375,
+        "end": 1133.760009765625,
+        "start": 1133.5799560546875,
         "word": "up"
       },
       {
         "end": 1134.8399658203125,
-        "start": 1134.6199951171875,
+        "start": 1134.56005859375,
         "word": "There"
       },
       {
-        "end": 1134.9000244140625,
+        "end": 1134.8800048828125,
         "start": 1134.8399658203125,
         "word": "you"
       },
       {
-        "end": 1135.0799560546875,
-        "start": 1134.9000244140625,
+        "end": 1135.1600341796875,
+        "start": 1134.8800048828125,
         "word": "go"
       },
       {
         "end": 1138.1199951171875,
-        "start": 1137.760009765625,
+        "start": 1137.6199951171875,
         "word": "And"
       },
       {
-        "end": 1138.260009765625,
+        "end": 1138.219970703125,
         "start": 1138.1199951171875,
         "word": "then"
       },
       {
         "end": 1138.3800048828125,
-        "start": 1138.260009765625,
+        "start": 1138.219970703125,
         "word": "we'll"
       },
       {
@@ -25666,88 +25387,63 @@
         "word": "do"
       },
       {
-        "end": 1138.719970703125,
+        "end": 1141.1600341796875,
         "start": 1138.52001953125,
-        "word": "this"
+        "word": "these"
       },
       {
-        "end": 1150.3599853515625,
-        "start": 1150.0,
+        "end": 1150.219970703125,
+        "start": 1149.719970703125,
         "word": "So"
       },
       {
         "end": 1150.719970703125,
-        "start": 1150.3599853515625,
+        "start": 1150.219970703125,
         "word": "I'm"
       },
       {
-        "end": 1150.780029296875,
+        "end": 1150.760009765625,
         "start": 1150.719970703125,
-        "word": "going"
+        "word": "gonna"
       },
       {
-        "end": 1150.8399658203125,
-        "start": 1150.780029296875,
-        "word": "to"
-      },
-      {
-        "end": 1151.0400390625,
-        "start": 1150.8399658203125,
+        "end": 1151.02001953125,
+        "start": 1150.760009765625,
         "word": "add"
       },
       {
         "end": 1151.3599853515625,
-        "start": 1151.0400390625,
+        "start": 1151.02001953125,
         "word": "mono"
       },
       {
-        "end": 1151.6800537109375,
+        "end": 1151.719970703125,
         "start": 1151.3599853515625,
         "word": "legato"
       },
       {
-        "end": 1152.1400146484375,
-        "start": 1151.6800537109375,
-        "word": "I"
-      },
-      {
-        "end": 1152.280029296875,
-        "start": 1152.1400146484375,
-        "word": "want"
-      },
-      {
-        "end": 1152.739990234375,
+        "end": 1152.780029296875,
         "start": 1152.280029296875,
-        "word": "to"
-      },
-      {
-        "end": 1152.8399658203125,
-        "start": 1152.739990234375,
         "word": "I'm"
       },
       {
-        "end": 1152.9000244140625,
-        "start": 1152.8399658203125,
-        "word": "going"
+        "end": 1152.8599853515625,
+        "start": 1152.780029296875,
+        "word": "gonna"
       },
       {
-        "end": 1152.9599609375,
-        "start": 1152.9000244140625,
-        "word": "to"
-      },
-      {
-        "end": 1153.219970703125,
-        "start": 1152.9599609375,
+        "end": 1153.199951171875,
+        "start": 1152.8599853515625,
         "word": "create"
       },
       {
-        "end": 1153.56005859375,
-        "start": 1153.219970703125,
+        "end": 1153.5400390625,
+        "start": 1153.199951171875,
         "word": "the"
       },
       {
         "end": 1153.8800048828125,
-        "start": 1153.56005859375,
+        "start": 1153.5400390625,
         "word": "iconic"
       },
       {
@@ -25756,98 +25452,83 @@
         "word": "light"
       },
       {
-        "end": 1154.4599609375,
+        "end": 1154.47998046875,
         "start": 1154.300048828125,
         "word": "that"
       },
       {
         "end": 1154.719970703125,
-        "start": 1154.4599609375,
+        "start": 1154.47998046875,
         "word": "the"
       },
       {
-        "end": 1154.8399658203125,
+        "end": 1154.8599853515625,
         "start": 1154.719970703125,
         "word": "acid"
       },
       {
-        "end": 1155.1600341796875,
-        "start": 1154.8399658203125,
+        "end": 1155.1400146484375,
+        "start": 1154.8599853515625,
         "word": "sounds"
       },
       {
-        "end": 1155.6400146484375,
-        "start": 1155.1600341796875,
+        "end": 1155.52001953125,
+        "start": 1155.1400146484375,
         "word": "have"
       },
       {
-        "end": 1156.1400146484375,
-        "start": 1156.0,
-        "word": "And"
-      },
-      {
-        "end": 1156.1600341796875,
-        "start": 1156.1400146484375,
+        "end": 1156.199951171875,
+        "start": 1155.97998046875,
         "word": "I'm"
       },
       {
-        "end": 1156.300048828125,
-        "start": 1156.1600341796875,
-        "word": "going"
-      },
-      {
-        "end": 1156.300048828125,
-        "start": 1156.300048828125,
-        "word": "to"
+        "end": 1156.239990234375,
+        "start": 1156.199951171875,
+        "word": "gonna"
       },
       {
         "end": 1156.3199462890625,
-        "start": 1156.300048828125,
+        "start": 1156.239990234375,
         "word": "set"
       },
       {
-        "end": 1156.6400146484375,
+        "end": 1156.760009765625,
         "start": 1156.3199462890625,
         "word": "a"
       },
       {
-        "end": 1156.6800537109375,
-        "start": 1156.6400146484375,
+        "end": 1156.760009765625,
+        "start": 1156.760009765625,
         "word": "curve"
       },
       {
         "end": 1157.0999755859375,
-        "start": 1156.8800048828125,
+        "start": 1156.9000244140625,
         "word": "I'm"
       },
       {
-        "end": 1157.0999755859375,
+        "end": 1157.1400146484375,
         "start": 1157.0999755859375,
-        "word": "going"
+        "word": "gonna"
       },
       {
-        "end": 1157.219970703125,
-        "start": 1157.0999755859375,
-        "word": "to"
-      },
-      {
-        "end": 1157.300048828125,
-        "start": 1157.219970703125,
+        "end": 1157.3199462890625,
+        "start": 1157.1400146484375,
         "word": "set"
       },
       {
-        "end": 1157.5,
-        "start": 1157.300048828125,
+        "end": 1157.56005859375,
+        "start": 1157.3199462890625,
         "word": "the"
       },
       {
-        "end": 1157.5799560546875,
-        "start": 1157.5,
+        "end": 1157.56005859375,
+        "start": 1157.56005859375,
         "word": "curve"
       },
       {
         "end": 1157.780029296875,
-        "start": 1157.5799560546875,
+        "start": 1157.56005859375,
         "word": "like"
       },
       {
@@ -25866,28 +25547,23 @@
         "word": "now"
       },
       {
-        "end": 1159.280029296875,
-        "start": 1158.8800048828125,
+        "end": 1159.300048828125,
+        "start": 1158.800048828125,
         "word": "And"
       },
       {
-        "end": 1159.4000244140625,
-        "start": 1159.280029296875,
+        "end": 1159.3800048828125,
+        "start": 1159.300048828125,
         "word": "I'm"
       },
       {
-        "end": 1159.4200439453125,
-        "start": 1159.4000244140625,
-        "word": "going"
+        "end": 1159.5400390625,
+        "start": 1159.3800048828125,
+        "word": "gonna"
       },
       {
         "end": 1159.8800048828125,
-        "start": 1159.4200439453125,
-        "word": "to"
-      },
-      {
-        "end": 1159.8800048828125,
-        "start": 1159.8800048828125,
+        "start": 1159.5400390625,
         "word": "overlap"
       },
       {
@@ -25901,193 +25577,173 @@
         "word": "notes"
       },
       {
-        "end": 1160.43994140625,
+        "end": 1160.4599609375,
         "start": 1160.280029296875,
         "word": "where"
       },
       {
-        "end": 1160.56005859375,
-        "start": 1160.43994140625,
+        "end": 1160.6199951171875,
+        "start": 1160.4599609375,
         "word": "I"
       },
       {
-        "end": 1160.719970703125,
-        "start": 1160.56005859375,
+        "end": 1160.699951171875,
+        "start": 1160.6199951171875,
         "word": "want"
       },
       {
-        "end": 1161.199951171875,
-        "start": 1160.719970703125,
+        "end": 1161.1400146484375,
+        "start": 1160.699951171875,
         "word": "to"
       },
       {
         "end": 1161.5,
-        "start": 1161.199951171875,
+        "start": 1161.1400146484375,
         "word": "create"
       },
       {
-        "end": 1161.780029296875,
+        "end": 1161.760009765625,
         "start": 1161.5,
         "word": "a"
       },
       {
         "end": 1162.06005859375,
-        "start": 1161.780029296875,
+        "start": 1161.760009765625,
         "word": "slide"
       },
       {
-        "end": 1163.8599853515625,
-        "start": 1163.4599609375,
-        "word": "like"
+        "end": 1163.800048828125,
+        "start": 1163.199951171875,
+        "word": "Like"
       },
       {
-        "end": 1164.260009765625,
-        "start": 1163.8599853515625,
+        "end": 1164.1800537109375,
+        "start": 1163.800048828125,
         "word": "that"
       },
       {
-        "end": 1164.4000244140625,
-        "start": 1164.260009765625,
+        "end": 1164.3800048828125,
+        "start": 1164.1800537109375,
         "word": "and"
       },
       {
-        "end": 1164.5999755859375,
-        "start": 1164.4000244140625,
+        "end": 1164.8199462890625,
+        "start": 1164.3800048828125,
         "word": "then"
       },
       {
-        "end": 1164.6600341796875,
-        "start": 1164.5999755859375,
-        "word": "put"
+        "end": 1164.93994140625,
+        "start": 1164.8199462890625,
+        "word": "portamento"
       },
       {
-        "end": 1164.800048828125,
-        "start": 1164.6600341796875,
-        "word": "them"
+        "end": 1172.06005859375,
+        "start": 1171.6600341796875,
+        "word": "Like"
       },
       {
-        "end": 1165.0,
-        "start": 1164.800048828125,
-        "word": "in"
+        "end": 1172.3599853515625,
+        "start": 1172.06005859375,
+        "word": "so"
       },
       {
-        "end": 1172.300048828125,
-        "start": 1171.9000244140625,
-        "word": "So"
-      },
-      {
-        "end": 1172.3199462890625,
-        "start": 1172.300048828125,
-        "word": "Oh"
-      },
-      {
-        "end": 1174.1600341796875,
-        "start": 1172.3199462890625,
-        "word": "oh"
-      },
-      {
-        "end": 1175.9599609375,
-        "start": 1174.1600341796875,
-        "word": "oh"
-      },
-      {
-        "end": 1179.800048828125,
-        "start": 1179.280029296875,
+        "end": 1179.3599853515625,
+        "start": 1178.760009765625,
         "word": "There"
       },
       {
-        "end": 1179.97998046875,
-        "start": 1179.800048828125,
+        "end": 1179.9599609375,
+        "start": 1179.3599853515625,
         "word": "is"
       },
       {
-        "end": 1180.1400146484375,
-        "start": 1179.97998046875,
+        "end": 1180.1600341796875,
+        "start": 1179.9599609375,
         "word": "a"
       },
       {
-        "end": 1180.43994140625,
-        "start": 1180.1400146484375,
+        "end": 1180.4200439453125,
+        "start": 1180.1600341796875,
         "word": "change"
       },
       {
-        "end": 1180.6600341796875,
-        "start": 1180.43994140625,
+        "end": 1180.699951171875,
+        "start": 1180.4200439453125,
         "word": "that"
       },
       {
-        "end": 1181.280029296875,
-        "start": 1180.6600341796875,
+        "end": 1181.1199951171875,
+        "start": 1180.699951171875,
         "word": "occurs"
       },
       {
-        "end": 1181.699951171875,
-        "start": 1181.280029296875,
+        "end": 1181.6800537109375,
+        "start": 1181.3800048828125,
         "word": "Keep"
       },
       {
-        "end": 1182.02001953125,
-        "start": 1181.699951171875,
+        "end": 1181.9200439453125,
+        "start": 1181.6800537109375,
         "word": "that"
       },
       {
-        "end": 1182.02001953125,
-        "start": 1182.02001953125,
+        "end": 1182.1800537109375,
+        "start": 1181.9200439453125,
         "word": "in"
       },
       {
-        "end": 1182.219970703125,
-        "start": 1182.02001953125,
+        "end": 1182.1800537109375,
+        "start": 1182.1800537109375,
         "word": "mind"
       },
       {
-        "end": 1182.4000244140625,
-        "start": 1182.4000244140625,
+        "end": 1182.3599853515625,
+        "start": 1182.3599853515625,
         "word": "I"
       },
       {
-        "end": 1182.9200439453125,
-        "start": 1182.4000244140625,
+        "end": 1182.8800048828125,
+        "start": 1182.3599853515625,
         "word": "am"
       },
       {
-        "end": 1182.9200439453125,
-        "start": 1182.9200439453125,
+        "end": 1182.8800048828125,
+        "start": 1182.8800048828125,
         "word": "testing"
       },
       {
-        "end": 1183.1800537109375,
-        "start": 1182.9200439453125,
+        "end": 1183.1199951171875,
+        "start": 1182.8800048828125,
         "word": "that"
       },
       {
-        "end": 1183.760009765625,
-        "start": 1183.1800537109375,
+        "end": 1183.3800048828125,
+        "start": 1183.1199951171875,
         "word": "out"
       },
       {
-        "end": 1184.199951171875,
-        "start": 1184.0799560546875,
+        "end": 1184.219970703125,
+        "start": 1184.219970703125,
         "word": "The"
       },
       {
         "end": 1184.56005859375,
-        "start": 1184.199951171875,
+        "start": 1184.219970703125,
         "word": "velocity"
       },
       {
-        "end": 1185.0,
+        "end": 1184.93994140625,
         "start": 1184.56005859375,
         "word": "higher"
       },
       {
-        "end": 1185.8199462890625,
-        "start": 1185.0,
+        "end": 1185.260009765625,
+        "start": 1184.93994140625,
         "word": "up"
       },
       {
         "end": 1188.0400390625,
-        "start": 1187.52001953125,
+        "start": 1187.43994140625,
         "word": "I'm"
       },
       {
@@ -26101,33 +25757,33 @@
         "word": "going"
       },
       {
-        "end": 1188.43994140625,
+        "end": 1188.4200439453125,
         "start": 1188.3599853515625,
         "word": "to"
       },
       {
         "end": 1188.699951171875,
-        "start": 1188.43994140625,
+        "start": 1188.4200439453125,
         "word": "increase"
       },
       {
-        "end": 1188.9000244140625,
+        "end": 1189.0,
         "start": 1188.699951171875,
         "word": "the"
       },
       {
-        "end": 1189.219970703125,
-        "start": 1188.9000244140625,
+        "end": 1189.199951171875,
+        "start": 1189.0,
         "word": "decay"
       },
       {
-        "end": 1189.47998046875,
-        "start": 1189.219970703125,
+        "end": 1189.52001953125,
+        "start": 1189.199951171875,
         "word": "a"
       },
       {
         "end": 1189.52001953125,
-        "start": 1189.47998046875,
+        "start": 1189.52001953125,
         "word": "bit"
       },
       {
@@ -26146,133 +25802,63 @@
         "word": "stays"
       },
       {
-        "end": 1190.47998046875,
+        "end": 1190.4599609375,
         "start": 1190.02001953125,
         "word": "up"
       },
       {
-        "end": 1190.8199462890625,
-        "start": 1190.47998046875,
+        "end": 1190.800048828125,
+        "start": 1190.4599609375,
         "word": "longer"
       },
       {
-        "end": 1193.780029296875,
-        "start": 1193.260009765625,
-        "word": "It's"
+        "end": 1193.760009765625,
+        "start": 1193.1199951171875,
+        "word": "Let's"
       },
       {
         "end": 1193.93994140625,
-        "start": 1193.780029296875,
-        "word": "that"
+        "start": 1193.760009765625,
+        "word": "add"
       },
       {
-        "end": 1194.199951171875,
+        "end": 1194.3199462890625,
         "start": 1193.93994140625,
         "word": "some"
       },
       {
-        "end": 1194.6800537109375,
-        "start": 1194.199951171875,
+        "end": 1194.699951171875,
+        "start": 1194.3199462890625,
         "word": "distortion"
       },
       {
-        "end": 1195.800048828125,
-        "start": 1194.6800537109375,
+        "end": 1195.02001953125,
+        "start": 1194.699951171875,
         "word": "now"
       },
       {
-        "end": 1197.260009765625,
-        "start": 1196.739990234375,
-        "word": "Oh"
+        "end": 1200.780029296875,
+        "start": 1200.1400146484375,
+        "word": "Let's"
       },
       {
-        "end": 1198.3800048828125,
-        "start": 1198.1199951171875,
-        "word": "oh"
-      },
-      {
-        "end": 1199.0400390625,
-        "start": 1198.3800048828125,
-        "word": "oh"
-      },
-      {
-        "end": 1199.280029296875,
-        "start": 1199.0400390625,
-        "word": "oh"
-      },
-      {
-        "end": 1199.300048828125,
-        "start": 1199.280029296875,
-        "word": "oh"
-      },
-      {
-        "end": 1199.3399658203125,
-        "start": 1199.300048828125,
-        "word": "oh"
-      },
-      {
-        "end": 1199.8599853515625,
-        "start": 1199.3399658203125,
-        "word": "oh"
-      },
-      {
-        "end": 1199.8599853515625,
-        "start": 1199.8599853515625,
-        "word": "oh"
-      },
-      {
-        "end": 1199.8599853515625,
-        "start": 1199.8599853515625,
-        "word": "oh"
-      },
-      {
-        "end": 1200.300048828125,
-        "start": 1199.8599853515625,
-        "word": "oh"
-      },
-      {
-        "end": 1200.300048828125,
-        "start": 1200.300048828125,
-        "word": "oh"
-      },
-      {
-        "end": 1200.300048828125,
-        "start": 1200.300048828125,
-        "word": "oh"
-      },
-      {
-        "end": 1200.300048828125,
-        "start": 1200.300048828125,
-        "word": "oh"
-      },
-      {
-        "end": 1200.4000244140625,
-        "start": 1200.300048828125,
-        "word": "oh"
-      },
-      {
-        "end": 1200.760009765625,
-        "start": 1200.5400390625,
-        "word": "So"
-      },
-      {
-        "end": 1200.8199462890625,
-        "start": 1200.760009765625,
-        "word": "she's"
+        "end": 1200.800048828125,
+        "start": 1200.780029296875,
+        "word": "use"
       },
       {
         "end": 1201.0400390625,
-        "start": 1200.8199462890625,
-        "word": "a"
+        "start": 1200.800048828125,
+        "word": "the"
       },
       {
-        "end": 1201.199951171875,
+        "end": 1201.1800537109375,
         "start": 1201.0400390625,
         "word": "pre"
       },
       {
         "end": 1201.280029296875,
-        "start": 1201.199951171875,
+        "start": 1201.1800537109375,
         "word": "and"
       },
       {
@@ -26281,388 +25867,233 @@
         "word": "remove"
       },
       {
-        "end": 1201.800048828125,
+        "end": 1201.8199462890625,
         "start": 1201.56005859375,
         "word": "low"
       },
       {
-        "end": 1201.9599609375,
-        "start": 1201.800048828125,
+        "end": 1202.06005859375,
+        "start": 1201.8199462890625,
         "word": "end"
       },
       {
-        "end": 1208.6800537109375,
-        "start": 1208.1400146484375,
-        "word": "So"
+        "end": 1208.719970703125,
+        "start": 1208.0799560546875,
+        "word": "Let's"
       },
       {
-        "end": 1208.6800537109375,
-        "start": 1208.6800537109375,
-        "word": "This"
+        "end": 1209.1400146484375,
+        "start": 1208.719970703125,
+        "word": "increase"
       },
       {
-        "end": 1208.800048828125,
-        "start": 1208.6800537109375,
-        "word": "is"
-      },
-      {
-        "end": 1208.8199462890625,
-        "start": 1208.800048828125,
-        "word": "a"
-      },
-      {
-        "end": 1209.1600341796875,
-        "start": 1208.8199462890625,
-        "word": "piece"
-      },
-      {
-        "end": 1209.300048828125,
-        "start": 1209.1600341796875,
-        "word": "of"
-      },
-      {
-        "end": 1209.5400390625,
-        "start": 1209.300048828125,
-        "word": "volume"
-      },
-      {
-        "end": 1209.8199462890625,
-        "start": 1209.5400390625,
-        "word": "a"
-      },
-      {
-        "end": 1210.02001953125,
-        "start": 1209.8199462890625,
-        "word": "bit"
-      },
-      {
-        "end": 1211.1400146484375,
-        "start": 1210.5999755859375,
-        "word": "and"
-      },
-      {
-        "end": 1211.3800048828125,
-        "start": 1211.1400146484375,
-        "word": "also"
-      },
-      {
-        "end": 1211.5999755859375,
-        "start": 1211.3800048828125,
-        "word": "at"
-      },
-      {
-        "end": 1211.8699951171875,
-        "start": 1211.5999755859375,
+        "end": 1209.4599609375,
+        "start": 1209.1400146484375,
         "word": "the"
       },
       {
-        "end": 1213.239990234375,
-        "start": 1212.97998046875,
-        "word": "Velocity"
+        "end": 1209.4599609375,
+        "start": 1209.4599609375,
+        "word": "volume"
       },
       {
-        "end": 1217.6800537109375,
-        "start": 1217.1400146484375,
+        "end": 1209.8399658203125,
+        "start": 1209.4599609375,
+        "word": "a"
+      },
+      {
+        "end": 1209.9599609375,
+        "start": 1209.8399658203125,
+        "word": "bit"
+      },
+      {
+        "end": 1211.1199951171875,
+        "start": 1209.9599609375,
+        "word": "and"
+      },
+      {
+        "end": 1211.3399658203125,
+        "start": 1211.1199951171875,
+        "word": "also"
+      },
+      {
+        "end": 1211.5799560546875,
+        "start": 1211.3399658203125,
+        "word": "add"
+      },
+      {
+        "end": 1212.3199462890625,
+        "start": 1211.5799560546875,
+        "word": "the"
+      },
+      {
+        "end": 1213.06005859375,
+        "start": 1212.3199462890625,
+        "word": "velocity"
+      },
+      {
+        "end": 1217.719970703125,
+        "start": 1217.0799560546875,
         "word": "Now"
       },
       {
-        "end": 1217.93994140625,
-        "start": 1217.6800537109375,
+        "end": 1217.97998046875,
+        "start": 1217.719970703125,
         "word": "let's"
       },
       {
         "end": 1218.1400146484375,
-        "start": 1217.93994140625,
+        "start": 1217.97998046875,
         "word": "tighten"
       },
       {
-        "end": 1218.3800048828125,
+        "end": 1218.3599853515625,
         "start": 1218.1400146484375,
         "word": "this"
       },
       {
-        "end": 1218.93994140625,
-        "start": 1218.3800048828125,
+        "end": 1218.6800537109375,
+        "start": 1218.3599853515625,
         "word": "up"
       },
       {
-        "end": 1225.9000244140625,
-        "start": 1225.3599853515625,
-        "word": "Velocity"
+        "end": 1219.3399658203125,
+        "start": 1218.6800537109375,
+        "word": "more"
       },
       {
-        "end": 1226.0400390625,
-        "start": 1225.9000244140625,
-        "word": "on"
-      },
-      {
-        "end": 1226.260009765625,
-        "start": 1226.0400390625,
-        "word": "the"
-      },
-      {
-        "end": 1226.800048828125,
-        "start": 1226.260009765625,
-        "word": "decay"
-      },
-      {
-        "end": 1227.3599853515625,
-        "start": 1226.800048828125,
-        "word": "if"
-      },
-      {
-        "end": 1227.4200439453125,
-        "start": 1227.3599853515625,
-        "word": "needed"
-      },
-      {
-        "end": 1232.3199462890625,
-        "start": 1232.300048828125,
-        "word": "So"
-      },
-      {
-        "end": 1239.8800048828125,
-        "start": 1239.4599609375,
+        "end": 1227.780029296875,
+        "start": 1227.3399658203125,
         "word": "We"
       },
       {
-        "end": 1240.06005859375,
-        "start": 1239.8800048828125,
+        "end": 1227.780029296875,
+        "start": 1227.780029296875,
+        "word": "can"
+      },
+      {
+        "end": 1228.4200439453125,
+        "start": 1227.780029296875,
         "word": "make"
       },
       {
-        "end": 1240.260009765625,
-        "start": 1240.06005859375,
-        "word": "this"
+        "end": 1240.219970703125,
+        "start": 1228.4200439453125,
+        "word": "the"
       },
       {
-        "end": 1240.43994140625,
-        "start": 1240.260009765625,
+        "end": 1240.4200439453125,
+        "start": 1240.219970703125,
         "word": "sound"
       },
       {
-        "end": 1240.6400146484375,
-        "start": 1240.43994140625,
+        "end": 1240.5799560546875,
+        "start": 1240.4200439453125,
         "word": "so"
       },
       {
-        "end": 1240.8199462890625,
-        "start": 1240.6400146484375,
+        "end": 1240.800048828125,
+        "start": 1240.5799560546875,
         "word": "much"
       },
       {
         "end": 1241.02001953125,
-        "start": 1240.8199462890625,
+        "start": 1240.800048828125,
         "word": "better"
       },
       {
-        "end": 1241.3399658203125,
-        "start": 1241.06005859375,
-        "word": "just"
+        "end": 1241.3599853515625,
+        "start": 1241.1199951171875,
+        "word": "Just"
       },
       {
-        "end": 1241.4200439453125,
-        "start": 1241.3399658203125,
-        "word": "got"
-      },
-      {
-        "end": 1241.5999755859375,
-        "start": 1241.4200439453125,
-        "word": "to"
+        "end": 1241.5,
+        "start": 1241.3599853515625,
+        "word": "gotta"
       },
       {
         "end": 1241.719970703125,
-        "start": 1241.5999755859375,
+        "start": 1241.5,
         "word": "put"
       },
       {
-        "end": 1241.9000244140625,
+        "end": 1241.8800048828125,
         "start": 1241.719970703125,
         "word": "in"
       },
       {
-        "end": 1241.97998046875,
-        "start": 1241.9000244140625,
+        "end": 1242.0,
+        "start": 1241.8800048828125,
         "word": "the"
       },
       {
-        "end": 1242.3199462890625,
-        "start": 1241.97998046875,
+        "end": 1242.6199951171875,
+        "start": 1242.0,
         "word": "work"
       },
       {
-        "end": 1242.9200439453125,
-        "start": 1242.3199462890625,
-        "word": "like"
+        "end": 1243.1600341796875,
+        "start": 1242.6199951171875,
+        "word": "Let's"
       },
       {
-        "end": 1243.239990234375,
-        "start": 1242.9200439453125,
-        "word": "let's"
-      },
-      {
-        "end": 1243.780029296875,
-        "start": 1243.239990234375,
+        "end": 1243.699951171875,
+        "start": 1243.1600341796875,
         "word": "make"
       },
       {
-        "end": 1245.739990234375,
-        "start": 1245.3199462890625,
-        "word": "and"
-      },
-      {
-        "end": 1245.93994140625,
-        "start": 1245.739990234375,
-        "word": "I'm"
-      },
-      {
-        "end": 1246.0799560546875,
-        "start": 1245.93994140625,
-        "word": "also"
-      },
-      {
-        "end": 1246.260009765625,
-        "start": 1246.0799560546875,
-        "word": "going"
-      },
-      {
-        "end": 1246.5400390625,
-        "start": 1246.260009765625,
-        "word": "to"
-      },
-      {
-        "end": 1246.9200439453125,
-        "start": 1246.5400390625,
-        "word": "let's"
-      },
-      {
-        "end": 1247.1600341796875,
-        "start": 1246.9200439453125,
-        "word": "see"
-      },
-      {
-        "end": 1247.3800048828125,
-        "start": 1247.3800048828125,
-        "word": "So"
-      },
-      {
-        "end": 1247.47998046875,
-        "start": 1247.3800048828125,
-        "word": "we"
-      },
-      {
-        "end": 1247.5999755859375,
-        "start": 1247.47998046875,
-        "word": "got"
-      },
-      {
-        "end": 1248.1600341796875,
-        "start": 1247.5999755859375,
-        "word": "three"
-      },
-      {
-        "end": 1248.3399658203125,
-        "start": 1248.1600341796875,
-        "word": "and"
-      },
-      {
-        "end": 1248.4200439453125,
-        "start": 1248.3399658203125,
-        "word": "maybe"
-      },
-      {
-        "end": 1248.719970703125,
-        "start": 1248.4200439453125,
-        "word": "goes"
-      },
-      {
-        "end": 1248.9300537109375,
-        "start": 1248.719970703125,
-        "word": "higher"
-      },
-      {
-        "end": 1251.9000244140625,
-        "start": 1251.47998046875,
-        "word": "I'll"
-      },
-      {
-        "end": 1252.3199462890625,
-        "start": 1251.9000244140625,
-        "word": "try"
-      },
-      {
-        "end": 1252.6600341796875,
-        "start": 1252.3199462890625,
-        "word": "making"
-      },
-      {
-        "end": 1252.8399658203125,
-        "start": 1252.6600341796875,
-        "word": "them"
-      },
-      {
-        "end": 1253.06005859375,
-        "start": 1252.8399658203125,
-        "word": "all"
-      },
-      {
-        "end": 1253.5799560546875,
-        "start": 1253.06005859375,
-        "word": "three"
-      },
-      {
-        "end": 1255.260009765625,
-        "start": 1254.8399658203125,
-        "word": "The"
-      },
-      {
-        "end": 1255.4599609375,
-        "start": 1255.260009765625,
-        "word": "decay"
-      },
-      {
-        "end": 1255.6800537109375,
-        "start": 1255.4599609375,
-        "word": "of"
-      },
-      {
-        "end": 1255.93994140625,
-        "start": 1255.6800537109375,
-        "word": "it"
-      },
-      {
-        "end": 1256.1199951171875,
-        "start": 1255.93994140625,
+        "end": 1244.260009765625,
+        "start": 1243.699951171875,
         "word": "the"
       },
       {
-        "end": 1256.47998046875,
-        "start": 1256.1199951171875,
+        "end": 1245.97998046875,
+        "start": 1244.260009765625,
+        "word": "decay"
+      },
+      {
+        "end": 1246.6800537109375,
+        "start": 1245.97998046875,
+        "word": "of"
+      },
+      {
+        "end": 1253.47998046875,
+        "start": 1246.6800537109375,
+        "word": "it"
+      },
+      {
+        "end": 1256.1600341796875,
+        "start": 1253.47998046875,
+        "word": "be"
+      },
+      {
+        "end": 1256.5,
+        "start": 1256.1600341796875,
         "word": "velocity"
       },
       {
         "end": 1256.8800048828125,
-        "start": 1256.47998046875,
+        "start": 1256.5,
         "word": "dependent"
       },
       {
-        "end": 1257.1600341796875,
+        "end": 1257.199951171875,
         "start": 1256.8800048828125,
         "word": "as"
       },
       {
-        "end": 1257.4200439453125,
-        "start": 1257.1600341796875,
+        "end": 1257.3800048828125,
+        "start": 1257.199951171875,
         "word": "well"
       },
       {
-        "end": 1258.43994140625,
-        "start": 1258.02001953125,
+        "end": 1258.4200439453125,
+        "start": 1258.239990234375,
         "word": "Let's"
       },
       {
         "end": 1258.5400390625,
-        "start": 1258.43994140625,
+        "start": 1258.4200439453125,
         "word": "play"
       },
       {
@@ -26671,73 +26102,68 @@
         "word": "with"
       },
       {
-        "end": 1258.8199462890625,
+        "end": 1258.8599853515625,
         "start": 1258.6400146484375,
         "word": "the"
       },
       {
-        "end": 1258.97998046875,
-        "start": 1258.8199462890625,
+        "end": 1258.93994140625,
+        "start": 1258.8599853515625,
         "word": "curve"
       },
       {
-        "end": 1259.239990234375,
-        "start": 1258.97998046875,
+        "end": 1259.719970703125,
+        "start": 1258.93994140625,
         "word": "a"
       },
       {
-        "end": 1259.300048828125,
-        "start": 1259.239990234375,
+        "end": 1259.719970703125,
+        "start": 1259.719970703125,
         "word": "bit"
       },
       {
-        "end": 1265.5400390625,
-        "start": 1264.93994140625,
-        "word": "And"
+        "end": 1265.5999755859375,
+        "start": 1264.97998046875,
+        "word": "But"
       },
       {
         "end": 1265.739990234375,
-        "start": 1265.5400390625,
+        "start": 1265.5999755859375,
         "word": "now"
       },
       {
-        "end": 1265.97998046875,
+        "end": 1265.8800048828125,
         "start": 1265.739990234375,
-        "word": "we've"
+        "word": "we"
       },
       {
-        "end": 1265.97998046875,
-        "start": 1265.97998046875,
-        "word": "got"
-      },
-      {
-        "end": 1266.1600341796875,
-        "start": 1265.97998046875,
-        "word": "to"
+        "end": 1266.02001953125,
+        "start": 1265.8800048828125,
+        "word": "gotta"
       },
       {
         "end": 1266.3800048828125,
-        "start": 1266.1600341796875,
+        "start": 1266.02001953125,
         "word": "start"
       },
       {
-        "end": 1266.6199951171875,
+        "end": 1266.5799560546875,
         "start": 1266.3800048828125,
         "word": "a"
       },
       {
-        "end": 1266.8399658203125,
-        "start": 1266.6199951171875,
+        "end": 1266.8800048828125,
+        "start": 1266.5799560546875,
         "word": "little"
       },
       {
-        "end": 1267.1600341796875,
-        "start": 1266.8399658203125,
+        "end": 1267.1400146484375,
+        "start": 1266.8800048828125,
         "word": "higher"
       },
       {
-        "end": 1267.4599609375,
-        "start": 1267.1600341796875,
+        "end": 1267.6600341796875,
+        "start": 1267.1400146484375,
         "word": "up"
       },
       {
@@ -26756,28 +26182,28 @@
         "word": "a"
       },
       {
-        "end": 1269.06005859375,
+        "end": 1269.0799560546875,
         "start": 1269.02001953125,
         "word": "bad"
       },
       {
         "end": 1269.3599853515625,
-        "start": 1269.06005859375,
+        "start": 1269.0799560546875,
         "word": "idea"
       },
       {
-        "end": 1269.739990234375,
+        "end": 1269.719970703125,
         "start": 1269.3599853515625,
         "word": "because"
       },
       {
-        "end": 1270.0799560546875,
-        "start": 1269.739990234375,
+        "end": 1270.0999755859375,
+        "start": 1269.719970703125,
         "word": "now"
       },
       {
         "end": 1270.3800048828125,
-        "start": 1270.0799560546875,
+        "start": 1270.0999755859375,
         "word": "there's"
       },
       {
@@ -26796,118 +26222,168 @@
         "word": "much"
       },
       {
-        "end": 1271.8399658203125,
+        "end": 1271.52001953125,
         "start": 1271.0999755859375,
         "word": "control"
       },
       {
-        "end": 1281.199951171875,
-        "start": 1280.5999755859375,
-        "word": "That's"
-      },
-      {
-        "end": 1281.199951171875,
-        "start": 1281.199951171875,
-        "word": "a"
-      },
-      {
-        "end": 1281.4599609375,
-        "start": 1281.199951171875,
-        "word": "little"
-      },
-      {
-        "end": 1286.699951171875,
-        "start": 1281.4599609375,
-        "word": "shorter"
-      },
-      {
-        "end": 1292.4000244140625,
-        "start": 1291.800048828125,
+        "end": 1274.199951171875,
+        "start": 1273.3599853515625,
         "word": "Let's"
       },
       {
-        "end": 1292.4000244140625,
-        "start": 1292.4000244140625,
-        "word": "play"
+        "end": 1274.3599853515625,
+        "start": 1274.199951171875,
+        "word": "give"
       },
       {
-        "end": 1292.5799560546875,
-        "start": 1292.4000244140625,
+        "end": 1274.43994140625,
+        "start": 1274.3599853515625,
+        "word": "it"
+      },
+      {
+        "end": 1275.3399658203125,
+        "start": 1274.43994140625,
+        "word": "a"
+      },
+      {
+        "end": 1275.760009765625,
+        "start": 1275.3399658203125,
+        "word": "bit"
+      },
+      {
+        "end": 1281.219970703125,
+        "start": 1280.6199951171875,
+        "word": "That's"
+      },
+      {
+        "end": 1281.43994140625,
+        "start": 1281.219970703125,
+        "word": "in"
+      },
+      {
+        "end": 1281.47998046875,
+        "start": 1281.43994140625,
+        "word": "the"
+      },
+      {
+        "end": 1281.9200439453125,
+        "start": 1281.47998046875,
+        "word": "way"
+      },
+      {
+        "end": 1285.1800537109375,
+        "start": 1284.3399658203125,
+        "word": "Cue"
+      },
+      {
+        "end": 1285.780029296875,
+        "start": 1285.5799560546875,
+        "word": "That's"
+      },
+      {
+        "end": 1286.3199462890625,
+        "start": 1285.780029296875,
+        "word": "a"
+      },
+      {
+        "end": 1286.3199462890625,
+        "start": 1286.3199462890625,
+        "word": "little"
+      },
+      {
+        "end": 1286.780029296875,
+        "start": 1286.3199462890625,
+        "word": "shorter"
+      },
+      {
+        "end": 1292.4200439453125,
+        "start": 1291.5799560546875,
+        "word": "Play"
+      },
+      {
+        "end": 1292.5999755859375,
+        "start": 1292.4200439453125,
         "word": "around"
       },
       {
-        "end": 1292.8599853515625,
-        "start": 1292.5799560546875,
+        "end": 1292.800048828125,
+        "start": 1292.5999755859375,
         "word": "with"
       },
       {
         "end": 1293.1600341796875,
-        "start": 1292.8599853515625,
+        "start": 1292.800048828125,
         "word": "other"
       },
       {
-        "end": 1293.9599609375,
+        "end": 1293.5799560546875,
         "start": 1293.1600341796875,
-        "word": "forms"
+        "word": "parts"
       },
       {
-        "end": 1297.300048828125,
-        "start": 1293.9599609375,
+        "end": 1293.699951171875,
+        "start": 1293.5799560546875,
         "word": "of"
       },
       {
-        "end": 1297.300048828125,
-        "start": 1297.300048828125,
+        "end": 1293.699951171875,
+        "start": 1293.699951171875,
+        "word": "the"
+      },
+      {
+        "end": 1294.0400390625,
+        "start": 1293.699951171875,
         "word": "distortion"
       },
       {
-        "end": 1303.6600341796875,
+        "end": 1303.6199951171875,
         "start": 1303.06005859375,
         "word": "The"
       },
       {
         "end": 1303.780029296875,
-        "start": 1303.6600341796875,
+        "start": 1303.6199951171875,
         "word": "delay"
       },
       {
-        "end": 1304.02001953125,
+        "end": 1304.0,
         "start": 1303.780029296875,
         "word": "was"
       },
       {
-        "end": 1304.3199462890625,
-        "start": 1304.02001953125,
+        "end": 1304.3399658203125,
+        "start": 1304.0,
         "word": "cool"
       },
       {
-        "end": 1304.5,
-        "start": 1304.4200439453125,
+        "end": 1319.0,
+        "start": 1304.3399658203125,
         "word": "but"
       },
       {
-        "end": 1304.5999755859375,
-        "start": 1304.5,
+        "end": 1319.02001953125,
+        "start": 1319.0,
         "word": "it"
       },
       {
-        "end": 1304.780029296875,
-        "start": 1304.5999755859375,
+        "end": 1319.0400390625,
+        "start": 1319.02001953125,
         "word": "was"
       },
       {
-        "end": 1305.0799560546875,
-        "start": 1304.780029296875,
+        "end": 1319.06005859375,
+        "start": 1319.0400390625,
         "word": "way"
       },
       {
-        "end": 1305.1199951171875,
-        "start": 1305.0799560546875,
+        "end": 1319.0799560546875,
+        "start": 1319.06005859375,
         "word": "too"
       },
       {
-        "end": 1305.43994140625,
-        "start": 1305.1199951171875,
+        "end": 1319.0999755859375,
+        "start": 1319.0799560546875,
         "word": "much"
       },
       {
@@ -26921,48 +26397,48 @@
         "word": "getting"
       },
       {
-        "end": 1325.699951171875,
+        "end": 1325.8399658203125,
         "start": 1325.4000244140625,
         "word": "there"
       },
       {
-        "end": 1327.97998046875,
-        "start": 1327.4200439453125,
+        "end": 1328.0,
+        "start": 1327.4599609375,
         "word": "Let's"
       },
       {
         "end": 1328.280029296875,
-        "start": 1327.97998046875,
+        "start": 1328.0,
         "word": "see"
       },
       {
-        "end": 1328.5400390625,
+        "end": 1328.52001953125,
         "start": 1328.280029296875,
         "word": "the"
       },
       {
         "end": 1328.8199462890625,
-        "start": 1328.5400390625,
+        "start": 1328.52001953125,
         "word": "decay"
       },
       {
-        "end": 1329.1400146484375,
+        "end": 1329.1199951171875,
         "start": 1328.8199462890625,
         "word": "value"
       },
       {
-        "end": 1329.300048828125,
-        "start": 1329.280029296875,
+        "end": 1329.3199462890625,
+        "start": 1329.1199951171875,
         "word": "maybe"
       },
       {
-        "end": 1329.699951171875,
-        "start": 1329.300048828125,
+        "end": 1329.780029296875,
+        "start": 1329.3199462890625,
         "word": "more"
       },
       {
         "end": 1335.1600341796875,
-        "start": 1334.6600341796875,
+        "start": 1334.5999755859375,
         "word": "Again"
       },
       {
@@ -26978,16 +26454,16 @@
       {
         "end": 1335.800048828125,
         "start": 1335.800048828125,
-        "word": "running"
+        "word": "riding"
       },
       {
-        "end": 1336.02001953125,
+        "end": 1336.0799560546875,
         "start": 1335.800048828125,
         "word": "a"
       },
       {
         "end": 1336.0999755859375,
-        "start": 1336.02001953125,
+        "start": 1336.0799560546875,
         "word": "lot"
       },
       {
@@ -27001,63 +26477,98 @@
         "word": "stuff"
       },
       {
-        "end": 1336.6800537109375,
-        "start": 1336.6600341796875,
+        "end": 1336.699951171875,
+        "start": 1336.47998046875,
         "word": "so"
       },
       {
         "end": 1336.8800048828125,
-        "start": 1336.6800537109375,
+        "start": 1336.699951171875,
         "word": "let's"
       },
       {
-        "end": 1337.1600341796875,
+        "end": 1337.280029296875,
         "start": 1336.8800048828125,
         "word": "maybe"
       },
       {
-        "end": 1337.3399658203125,
-        "start": 1337.1600341796875,
+        "end": 1337.3599853515625,
+        "start": 1337.280029296875,
         "word": "ease"
       },
       {
         "end": 1337.5,
-        "start": 1337.3399658203125,
+        "start": 1337.3599853515625,
         "word": "up"
       },
       {
-        "end": 1337.800048828125,
+        "end": 1337.8399658203125,
         "start": 1337.5,
         "word": "a"
       },
       {
-        "end": 1337.800048828125,
-        "start": 1337.800048828125,
+        "end": 1337.8399658203125,
+        "start": 1337.8399658203125,
         "word": "bit"
       },
       {
         "end": 1337.9599609375,
-        "start": 1337.800048828125,
+        "start": 1337.8399658203125,
         "word": "on"
       },
       {
-        "end": 1338.219970703125,
+        "end": 1338.239990234375,
         "start": 1337.9599609375,
         "word": "it"
       },
       {
-        "end": 1387.6800537109375,
-        "start": 1387.0,
-        "word": "Remember"
+        "end": 1364.5799560546875,
+        "start": 1364.1400146484375,
+        "word": "Let's"
       },
       {
-        "end": 1388.1800537109375,
-        "start": 1388.1800537109375,
+        "end": 1364.5999755859375,
+        "start": 1364.5799560546875,
+        "word": "use"
+      },
+      {
+        "end": 1364.6199951171875,
+        "start": 1364.5999755859375,
+        "word": "the"
+      },
+      {
+        "end": 1364.6400146484375,
+        "start": 1364.6199951171875,
+        "word": "saw"
+      },
+      {
+        "end": 1364.6600341796875,
+        "start": 1364.6400146484375,
+        "word": "shape"
+      },
+      {
+        "end": 1387.5,
+        "start": 1364.6600341796875,
+        "word": "too"
+      },
+      {
+        "end": 1387.6199951171875,
+        "start": 1387.5,
+        "word": "because"
+      },
+      {
+        "end": 1387.9599609375,
+        "start": 1387.6199951171875,
+        "word": "remember"
+      },
+      {
+        "end": 1388.239990234375,
+        "start": 1387.9599609375,
         "word": "the"
       },
       {
         "end": 1388.52001953125,
-        "start": 1388.1800537109375,
+        "start": 1388.239990234375,
         "word": "tonality"
       },
       {
@@ -27066,193 +26577,193 @@
         "word": "is"
       },
       {
-        "end": 1389.0,
+        "end": 1388.97998046875,
         "start": 1388.780029296875,
         "word": "also"
       },
       {
-        "end": 1389.239990234375,
-        "start": 1389.0,
+        "end": 1389.219970703125,
+        "start": 1388.97998046875,
         "word": "very"
       },
       {
-        "end": 1389.56005859375,
-        "start": 1389.239990234375,
+        "end": 1389.43994140625,
+        "start": 1389.219970703125,
         "word": "important"
       },
       {
-        "end": 1393.56005859375,
-        "start": 1393.56005859375,
+        "end": 1393.5400390625,
+        "start": 1392.8499755859375,
         "word": "Let's"
       },
       {
         "end": 1394.06005859375,
-        "start": 1393.56005859375,
+        "start": 1393.5400390625,
         "word": "try"
       },
       {
-        "end": 1394.8599853515625,
+        "end": 1394.9000244140625,
         "start": 1394.06005859375,
         "word": "maybe"
       },
       {
-        "end": 1395.280029296875,
-        "start": 1394.8599853515625,
+        "end": 1395.3199462890625,
+        "start": 1394.9000244140625,
         "word": "like"
       },
       {
-        "end": 1395.4599609375,
-        "start": 1395.280029296875,
+        "end": 1395.4200439453125,
+        "start": 1395.3199462890625,
         "word": "we"
       },
       {
-        "end": 1395.739990234375,
-        "start": 1395.4599609375,
+        "end": 1395.760009765625,
+        "start": 1395.4200439453125,
         "word": "got"
       },
       {
-        "end": 1396.0799560546875,
-        "start": 1395.739990234375,
+        "end": 1399.8399658203125,
+        "start": 1395.760009765625,
         "word": "this"
       },
       {
-        "end": 1410.739990234375,
-        "start": 1410.199951171875,
-        "word": "Slow"
-      },
-      {
-        "end": 1416.5,
-        "start": 1416.260009765625,
+        "end": 1409.8399658203125,
+        "start": 1408.4599609375,
         "word": "Put"
       },
       {
-        "end": 1416.5999755859375,
-        "start": 1416.5,
-        "word": "the"
-      },
-      {
-        "end": 1416.760009765625,
-        "start": 1416.5999755859375,
+        "end": 1411.219970703125,
+        "start": 1409.8399658203125,
         "word": "delay"
       },
       {
-        "end": 1417.06005859375,
-        "start": 1416.760009765625,
+        "end": 1417.02001953125,
+        "start": 1411.219970703125,
         "word": "before"
       },
       {
-        "end": 1417.4200439453125,
-        "start": 1417.06005859375,
+        "end": 1417.3199462890625,
+        "start": 1417.02001953125,
         "word": "distortion"
       },
       {
-        "end": 1429.8800048828125,
-        "start": 1429.3399658203125,
+        "end": 1428.5799560546875,
+        "start": 1427.1800537109375,
         "word": "I'll"
       },
       {
         "end": 1429.97998046875,
-        "start": 1429.8800048828125,
+        "start": 1428.5799560546875,
         "word": "play"
       },
       {
-        "end": 1430.1400146484375,
+        "end": 1432.1400146484375,
         "start": 1429.97998046875,
         "word": "with"
       },
       {
-        "end": 1430.280029296875,
-        "start": 1430.1400146484375,
+        "end": 1432.3199462890625,
+        "start": 1432.1400146484375,
         "word": "the"
       },
       {
-        "end": 1430.47998046875,
-        "start": 1430.280029296875,
+        "end": 1432.3199462890625,
+        "start": 1432.3199462890625,
         "word": "velocity"
       },
       {
-        "end": 1436.6400146484375,
-        "start": 1436.1600341796875,
+        "end": 1436.0999755859375,
+        "start": 1435.4000244140625,
         "word": "Energy"
       },
       {
-        "end": 1437.1199951171875,
-        "start": 1436.6400146484375,
+        "end": 1437.0999755859375,
+        "start": 1436.0999755859375,
         "word": "transfer"
       },
       {
-        "end": 1445.9000244140625,
-        "start": 1445.4200439453125,
-        "word": "Let's"
+        "end": 1443.9599609375,
+        "start": 1443.260009765625,
+        "word": "Click"
       },
       {
-        "end": 1446.1400146484375,
+        "end": 1445.699951171875,
+        "start": 1444.9599609375,
+        "word": "Here"
+      },
+      {
+        "end": 1445.9000244140625,
+        "start": 1445.699951171875,
+        "word": "let's"
+      },
+      {
+        "end": 1446.1600341796875,
         "start": 1445.9000244140625,
         "word": "get"
       },
       {
-        "end": 1446.3599853515625,
-        "start": 1446.1400146484375,
+        "end": 1446.3399658203125,
+        "start": 1446.1600341796875,
         "word": "rid"
       },
       {
-        "end": 1446.780029296875,
-        "start": 1446.3599853515625,
+        "end": 1446.5999755859375,
+        "start": 1446.3399658203125,
         "word": "of"
       },
       {
         "end": 1447.1800537109375,
-        "start": 1446.780029296875,
+        "start": 1446.5999755859375,
         "word": "the"
       },
       {
-        "end": 1447.8599853515625,
+        "end": 1447.4000244140625,
         "start": 1447.1800537109375,
         "word": "legato"
       },
       {
         "end": 1454.260009765625,
-        "start": 1453.780029296875,
+        "start": 1453.9000244140625,
         "word": "So"
       },
       {
-        "end": 1454.4200439453125,
+        "end": 1454.43994140625,
         "start": 1454.260009765625,
         "word": "now"
       },
       {
         "end": 1454.5400390625,
-        "start": 1454.4200439453125,
+        "start": 1454.43994140625,
         "word": "you"
       },
       {
-        "end": 1454.780029296875,
+        "end": 1454.800048828125,
         "start": 1454.5400390625,
         "word": "know"
       },
       {
         "end": 1455.0400390625,
-        "start": 1454.780029296875,
+        "start": 1454.800048828125,
         "word": "what"
       },
       {
-        "end": 1455.280029296875,
+        "end": 1455.260009765625,
         "start": 1455.0400390625,
         "word": "to"
       },
       {
         "end": 1455.3199462890625,
-        "start": 1455.280029296875,
+        "start": 1455.260009765625,
         "word": "do"
       },
       {
-        "end": 1455.43994140625,
+        "end": 1455.4599609375,
         "start": 1455.3199462890625,
         "word": "with"
       },
       {
         "end": 1455.56005859375,
-        "start": 1455.43994140625,
+        "start": 1455.4599609375,
         "word": "your"
       },
       {
@@ -27261,38 +26772,38 @@
         "word": "velocity"
       },
       {
-        "end": 1456.4599609375,
-        "start": 1456.280029296875,
+        "end": 1456.3399658203125,
+        "start": 1456.3199462890625,
         "word": "your"
       },
       {
         "end": 1456.5,
-        "start": 1456.4599609375,
+        "start": 1456.3399658203125,
         "word": "note"
       },
       {
-        "end": 1456.8399658203125,
-        "start": 1456.5999755859375,
+        "end": 1456.719970703125,
+        "start": 1456.6600341796875,
         "word": "your"
       },
       {
-        "end": 1457.02001953125,
-        "start": 1456.8399658203125,
+        "end": 1457.0400390625,
+        "start": 1456.719970703125,
         "word": "matrix"
       },
       {
-        "end": 1457.219970703125,
-        "start": 1457.02001953125,
+        "end": 1457.239990234375,
+        "start": 1457.199951171875,
         "word": "how"
       },
       {
-        "end": 1457.3399658203125,
-        "start": 1457.219970703125,
+        "end": 1457.3599853515625,
+        "start": 1457.239990234375,
         "word": "to"
       },
       {
         "end": 1457.5799560546875,
-        "start": 1457.3399658203125,
+        "start": 1457.3599853515625,
         "word": "grab"
       },
       {
@@ -27301,13 +26812,13 @@
         "word": "presets"
       },
       {
-        "end": 1458.300048828125,
-        "start": 1457.9200439453125,
+        "end": 1458.3599853515625,
+        "start": 1458.0,
         "word": "and"
       },
       {
         "end": 1458.719970703125,
-        "start": 1458.300048828125,
+        "start": 1458.3599853515625,
         "word": "add"
       },
       {
@@ -27316,43 +26827,43 @@
         "word": "that"
       },
       {
-        "end": 1459.260009765625,
+        "end": 1459.239990234375,
         "start": 1458.9599609375,
         "word": "touch"
       },
       {
         "end": 1459.4200439453125,
-        "start": 1459.260009765625,
+        "start": 1459.239990234375,
         "word": "to"
       },
       {
-        "end": 1459.5799560546875,
+        "end": 1459.5999755859375,
         "start": 1459.4200439453125,
         "word": "them"
       },
       {
         "end": 1459.719970703125,
-        "start": 1459.5799560546875,
+        "start": 1459.5999755859375,
         "word": "so"
       },
       {
-        "end": 1459.8800048828125,
+        "end": 1459.8599853515625,
         "start": 1459.719970703125,
         "word": "that"
       },
       {
-        "end": 1459.97998046875,
-        "start": 1459.8800048828125,
+        "end": 1460.0,
+        "start": 1459.8599853515625,
         "word": "you"
       },
       {
-        "end": 1460.280029296875,
-        "start": 1459.97998046875,
+        "end": 1460.300048828125,
+        "start": 1460.0,
         "word": "can"
       },
       {
         "end": 1460.5400390625,
-        "start": 1460.280029296875,
+        "start": 1460.300048828125,
         "word": "create"
       },
       {
@@ -27366,13 +26877,13 @@
         "word": "to"
       },
       {
-        "end": 1461.4200439453125,
+        "end": 1461.43994140625,
         "start": 1461.239990234375,
         "word": "the"
       },
       {
         "end": 1461.6400146484375,
-        "start": 1461.4200439453125,
+        "start": 1461.43994140625,
         "word": "sound"
       },
       {
@@ -27401,38 +26912,38 @@
         "word": "feel"
       },
       {
-        "end": 1462.97998046875,
+        "end": 1463.0,
         "start": 1462.6800537109375,
         "word": "less"
       },
       {
         "end": 1463.43994140625,
-        "start": 1462.97998046875,
+        "start": 1463.0,
         "word": "static"
       },
       {
-        "end": 1463.9599609375,
-        "start": 1463.8800048828125,
+        "end": 1463.97998046875,
+        "start": 1463.8599853515625,
         "word": "With"
       },
       {
         "end": 1464.06005859375,
-        "start": 1463.9599609375,
+        "start": 1463.97998046875,
         "word": "that"
       },
       {
-        "end": 1464.239990234375,
+        "end": 1464.219970703125,
         "start": 1464.06005859375,
         "word": "being"
       },
       {
-        "end": 1464.3199462890625,
-        "start": 1464.239990234375,
+        "end": 1464.300048828125,
+        "start": 1464.219970703125,
         "word": "said"
       },
       {
         "end": 1464.43994140625,
-        "start": 1464.3800048828125,
+        "start": 1464.3599853515625,
         "word": "you"
       },
       {
@@ -27446,63 +26957,63 @@
         "word": "take"
       },
       {
-        "end": 1464.97998046875,
+        "end": 1464.9599609375,
         "start": 1464.800048828125,
         "word": "care"
       },
       {
-        "end": 1465.0999755859375,
-        "start": 1465.02001953125,
-        "word": "And"
+        "end": 1465.0799560546875,
+        "start": 1464.9599609375,
+        "word": "and"
       },
       {
         "end": 1465.1600341796875,
-        "start": 1465.0999755859375,
+        "start": 1465.0799560546875,
         "word": "if"
       },
       {
-        "end": 1465.219970703125,
+        "end": 1465.239990234375,
         "start": 1465.1600341796875,
         "word": "you"
       },
       {
-        "end": 1465.3199462890625,
-        "start": 1465.219970703125,
+        "end": 1465.3399658203125,
+        "start": 1465.239990234375,
         "word": "guys"
       },
       {
-        "end": 1465.5,
-        "start": 1465.3199462890625,
+        "end": 1465.47998046875,
+        "start": 1465.3399658203125,
         "word": "are"
       },
       {
         "end": 1465.699951171875,
-        "start": 1465.5,
+        "start": 1465.47998046875,
         "word": "enjoying"
       },
       {
-        "end": 1465.9000244140625,
+        "end": 1465.9200439453125,
         "start": 1465.699951171875,
         "word": "the"
       },
       {
         "end": 1466.1600341796875,
-        "start": 1465.9000244140625,
+        "start": 1465.9200439453125,
         "word": "series"
       },
       {
-        "end": 1466.3599853515625,
-        "start": 1466.280029296875,
+        "end": 1466.3399658203125,
+        "start": 1466.239990234375,
         "word": "make"
       },
       {
-        "end": 1466.4200439453125,
-        "start": 1466.3599853515625,
+        "end": 1466.43994140625,
+        "start": 1466.3399658203125,
         "word": "sure"
       },
       {
         "end": 1467.0400390625,
-        "start": 1466.4200439453125,
+        "start": 1466.43994140625,
         "word": "to"
       },
       {
@@ -27512,17 +27023,17 @@
       },
       {
         "end": 1467.5,
-        "start": 1467.1400146484375,
+        "start": 1467.0400390625,
         "word": "and"
       },
       {
-        "end": 1467.6800537109375,
+        "end": 1467.6199951171875,
         "start": 1467.5,
         "word": "I'll"
       },
       {
         "end": 1467.760009765625,
-        "start": 1467.6800537109375,
+        "start": 1467.6199951171875,
         "word": "catch"
       },
       {
@@ -27531,13 +27042,13 @@
         "word": "you"
       },
       {
-        "end": 1468.0,
+        "end": 1467.97998046875,
         "start": 1467.8599853515625,
         "word": "guys"
       },
       {
         "end": 1468.219970703125,
-        "start": 1468.0,
+        "start": 1467.97998046875,
         "word": "next"
       },
       {
@@ -27546,13 +27057,13 @@
         "word": "time"
       },
       {
-        "end": 1468.699951171875,
+        "end": 1468.6800537109375,
         "start": 1468.4200439453125,
         "word": "for"
       },
       {
         "end": 1468.8599853515625,
-        "start": 1468.699951171875,
+        "start": 1468.6800537109375,
         "word": "another"
       },
       {

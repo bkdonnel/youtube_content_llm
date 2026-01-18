@@ -1,418 +1,243 @@
-# Music Production Tutorial RAG System
+# YouTube Music Production RAG System
 
-A comprehensive RAG (Retrieval-Augmented Generation) system that indexes music production tutorials from YouTube creators and enables semantic search across their content.
+Ask questions about music production and get answers from YouTube tutorials, with direct links to the exact video timestamps.
 
-## 🎵 What is this?
+## What Does This Do?
 
-This system allows you to:
-- **Ask natural language questions** like "How to sidechain compress in FL Studio?" or "What are the best mixing techniques?"
-- **Get precise answers** with exact timestamps from relevant tutorial videos
-- **Search across hours** of content from top music production YouTubers
-- **Automatically stay updated** as new tutorials are published
+This system lets you search through music production tutorials using natural language. Instead of watching hours of videos, ask a question like:
 
-## 📋 Table of Contents
+- "How do I sidechain compress in FL Studio?"
+- "What's the best way to EQ vocals?"
+- "How do I create a techno bassline?"
 
-1. [Features](#features)
-2. [Architecture](#architecture)
-3. [Setup](#setup)
-4. [Usage](#usage)
-5. [Configuration](#configuration)
-6. [Deployment](#deployment)
-7. [Troubleshooting](#troubleshooting)
+You get an AI-generated answer based on actual tutorial content, plus clickable links to the specific moments in the videos where the topic is discussed.
 
-## ✨ Features
+## Quick Start
 
-### Core Capabilities
-- ✅ **Automated Video Processing** - Downloads and transcribes videos using OpenAI Whisper
-- ✅ **Semantic Search** - Vector-based search using Milvus and OpenAI embeddings
-- ✅ **Timestamp Attribution** - Get exact video timestamps for each answer
-- ✅ **Web Interface** - Beautiful, responsive chat interface
-- ✅ **Continuous Monitoring** - Automatically detects and processes new videos
-- ✅ **Multi-Channel Support** - Tracks multiple YouTube creators simultaneously
-- ✅ **Deduplication** - Avoids reprocessing the same content
+### 1. Prerequisites
 
-### Supported Music Production Creators
+Before you begin, make sure you have:
 
-The system currently tracks these YouTube channels:
-- **In The Mix** - FL Studio tutorials
-- **Busy Works Beats** - Music production for beginners
-- **Simon Servida** - Ableton Live techniques
-- **Reid Stefan** - Logic Pro and mixing
-- **Andrew Huang** - Creative production and sound design
-- **You Suck at Producing** - Ableton and electronic music
-- **Venus Theory** - Synthesis and sound design
+- **Python 3.11+** installed
+- **FFmpeg** installed for audio processing
+- **API Keys** (see step 3 below)
 
-*You can easily add more creators in `youtube_transcript_downloader.py`*
-
-## 🏗️ Architecture
-
-### 3-Phase System
-
-```
-┌──────────────────┐      ┌──────────────────┐      ┌──────────────┐
-│   PHASE 1:       │      │   PHASE 2:       │      │  PHASE 3:    │
-│   Download &     │─────>│   RAG            │─────>│  Query &     │
-│   Transcribe     │      │   Integration    │      │  Search      │
-└──────────────────┘      └──────────────────┘      └──────────────┘
-```
-
-**Phase 1: Video Download & Transcription**
-- Download audio from YouTube (yt-dlp)
-- Transcribe with OpenAI Whisper
-- Extract timed segments
-- Save JSON + readable text files
-
-**Phase 2: RAG Integration**
-- Break transcripts into searchable segments
-- Generate embeddings (text-embedding-3-large)
-- Store in Milvus vector database
-- Track processed videos in SQLite
-
-**Phase 3: Query & Search**
-- Web interface for user queries
-- Semantic vector search in Milvus
-- GPT-3.5-turbo for answer generation
-- Display sources with timestamps
-
-### Tech Stack
-
-- **Backend**: FastAPI + Uvicorn
-- **Vector DB**: Milvus (via Zilliz Cloud)
-- **AI Models**: OpenAI (Whisper, Embeddings, GPT-3.5-turbo)
-- **Video Processing**: yt-dlp, ffmpeg
-- **Tracking**: SQLite
-- **Frontend**: Vanilla JavaScript + CSS
-
-## 🚀 Setup
-
-### Prerequisites
-
-- Python 3.8+
-- ffmpeg installed
-- OpenAI API key
-- Milvus instance (free tier available at [Zilliz Cloud](https://cloud.zilliz.com))
-
-### Installation
-
-1. **Clone the repository**
+Install FFmpeg:
 ```bash
-git clone <your-repo-url>
-cd youtube_content_llm
-```
-
-2. **Install dependencies**
-```bash
-# Install ffmpeg (macOS)
+# macOS
 brew install ffmpeg
 
-# Install ffmpeg (Ubuntu/Debian)
+# Ubuntu/Debian
 sudo apt update && sudo apt install ffmpeg
 
-# Install Python packages
+# Windows - download from https://ffmpeg.org/download.html
+```
+
+### 2. Install the Project
+
+```bash
+# Clone the repository
+git clone <your-repo-url>
+cd youtube_content_llm
+
+# Install Python dependencies
 pip install -r requirements.txt
 ```
 
-3. **Configure environment variables**
+### 3. Get Your API Keys
 
-Create/update your `.env` file:
+You need three API keys. Create a `.env` file in the project root:
+
 ```bash
-# OpenAI API
-OPENAI_API_KEY=sk-your-openai-api-key-here
+# Required: OpenAI API Key
+# Get it from: https://platform.openai.com/api-keys
+OPENAI_API_KEY=sk-your-key-here
 
-# Milvus Vector Database
-# Sign up at https://cloud.zilliz.com for free tier
-MILVUS_URI=your-milvus-instance-uri
+# Required: YouTube Data API v3 Key
+# Get it from: https://console.cloud.google.com/apis/credentials
+# Enable "YouTube Data API v3" in your Google Cloud project
+YOUTUBE_API_KEY=your-youtube-api-key
+
+# Required: Milvus Vector Database
+# Sign up free at: https://cloud.zilliz.com
+MILVUS_URI=https://your-instance.zillizcloud.com
 MILVUS_TOKEN=your-milvus-token
-
-# Pipeline Configuration
-CHECK_INTERVAL_MINUTES=60
-MAX_VIDEOS_PER_CHECK=5
-OUTPUT_DIR=music_tutorials
-
-# Optional: Notifications
-# SLACK_WEBHOOK_URL=https://hooks.slack.com/services/YOUR/WEBHOOK
-# DISCORD_WEBHOOK_URL=https://discord.com/api/webhooks/YOUR/WEBHOOK
 ```
 
-4. **Setup Milvus (Vector Database)**
+### 4. Run the Chat Interface
 
-Sign up for a free account at [Zilliz Cloud](https://cloud.zilliz.com):
-- Create a serverless cluster
-- Copy the URI and API token
-- Add them to your `.env` file
+To query existing data:
 
-## 📖 Usage
-
-### Option 1: Manual Processing
-
-**Step 1: Download and transcribe videos**
-```bash
-python youtube_transcript_downloader.py
-```
-
-**Step 2: Start the API server**
 ```bash
 python main.py
-# Server runs at http://localhost:8000
 ```
 
-**Step 3: Add transcripts to RAG**
+Open http://localhost:8000 in your browser.
+
+### 5. Process New Videos
+
+To download and transcribe new videos from YouTube:
+
 ```bash
-# In a new terminal
-python add_transcripts_to_rag.py
-```
-
-**Step 4: Open the web interface**
-```
-Open http://localhost:8000 in your browser
-```
-
-### Option 2: Automated Pipeline
-
-**Run once (check for new videos)**
-```bash
+# Process new videos once
 python automated_pipeline.py
-```
 
-**Run continuously (check every hour)**
-```bash
-python automated_pipeline.py --continuous --interval 60
-```
-
-**Show statistics**
-```bash
+# See what's been processed
 python automated_pipeline.py --stats
 ```
 
-### Example Queries
+---
 
-Try asking:
-- "How to sidechain compress in FL Studio?"
-- "What are the best EQ techniques for mixing?"
-- "How to create a fat bass sound?"
-- "What plugins does Andrew Huang recommend?"
-- "How to master a track in Ableton?"
+## How It Works
 
-## ⚙️ Configuration
-
-### Adding New Creators
-
-Edit `youtube_transcript_downloader.py`:
-
-```python
-CREATORS = {
-    "Your Creator Name": {
-        "url": "https://www.youtube.com/@CreatorHandle",
-        "description": "Creator description"
-    },
-    # Add more...
-}
+```
+You ask a question
+       |
+       v
+Question converted to vector embedding (OpenAI)
+       |
+       v
+Similar segments found in vector database (Milvus)
+       |
+       v
+AI generates answer using those segments (GPT-3.5)
+       |
+       v
+You get an answer + links to source videos
 ```
 
-### Adjusting Pipeline Settings
+When you run the pipeline, it:
+1. Fetches video info from YouTube channels (using YouTube Data API)
+2. Downloads audio from new videos (using yt-dlp)
+3. Transcribes audio to text (using OpenAI Whisper)
+4. Breaks transcripts into searchable chunks
+5. Stores everything in the vector database
 
-In `.env`:
-```bash
-# How often to check for new videos (in minutes)
-CHECK_INTERVAL_MINUTES=60
+---
 
-# Maximum videos to download per check
-MAX_VIDEOS_PER_CHECK=5
+## Currently Tracked Channels
 
-# Output directory for transcripts
-OUTPUT_DIR=music_tutorials
-```
+The system tracks these music production YouTubers:
 
-### Enabling Notifications
+- **Zen World** - Arrangement, sound design, tech house and techno tutorials
+- **Alice Efe** - Music production tutorials
 
-Uncomment and configure in `.env`:
-```bash
-# Slack
-SLACK_WEBHOOK_URL=https://hooks.slack.com/services/YOUR/WEBHOOK/URL
+You can add more channels. See [Adding New Creators](#adding-new-creators) below.
 
-# Discord
-DISCORD_WEBHOOK_URL=https://discord.com/api/webhooks/YOUR/WEBHOOK
+---
 
-# Email
-SMTP_SERVER=smtp.gmail.com
-SMTP_PORT=587
-SENDER_EMAIL=your-email@gmail.com
-SENDER_PASSWORD=your-app-password
-RECIPIENT_EMAIL=notify@example.com
-```
+## Project Structure
 
-## 🚀 Deployment
-
-### Option A: Local Development
-
-```bash
-# Terminal 1: Run API server
-python main.py
-
-# Terminal 2: Run pipeline (optional)
-python automated_pipeline.py --continuous --interval 60
-```
-
-### Option B: Background Process (Linux/Mac)
-
-```bash
-# Using screen
-screen -S music-pipeline
-python automated_pipeline.py --continuous --interval 60
-# Press Ctrl+A then D to detach
-
-# Reattach later
-screen -r music-pipeline
-```
-
-### Option C: Systemd Service (Linux)
-
-Create `/etc/systemd/system/music-pipeline.service`:
-```ini
-[Unit]
-Description=Music Production Pipeline
-After=network.target
-
-[Service]
-Type=simple
-User=your_username
-WorkingDirectory=/path/to/youtube_content_llm
-Environment="PATH=/path/to/venv/bin:/usr/local/bin"
-ExecStart=/path/to/venv/bin/python automated_pipeline.py --continuous --interval 60
-Restart=always
-
-[Install]
-WantedBy=multi-user.target
-```
-
-Enable and start:
-```bash
-sudo systemctl enable music-pipeline
-sudo systemctl start music-pipeline
-sudo systemctl status music-pipeline
-```
-
-### Option D: Cron Job
-
-Add to crontab:
-```bash
-# Check every hour
-0 * * * * cd /path/to/project && /path/to/venv/bin/python automated_pipeline.py >> /var/log/pipeline.log 2>&1
-```
-
-## 📁 File Structure
+Key files:
 
 ```
 youtube_content_llm/
-├── main.py                          # FastAPI server
-├── youtube_transcript_downloader.py # Download & transcribe videos
-├── add_transcripts_to_rag.py       # RAG integration
-├── automated_pipeline.py            # Automated continuous processing
-├── video_tracker.py                 # SQLite tracking database
-├── notifications.py                 # Alert system
-├── requirements.txt                 # Python dependencies
-├── .env                             # Configuration (not in git)
-├── templates/
-│   └── index.html                   # Web interface
-├── static/
-│   ├── css/style.css               # Styles
-│   └── js/chat.js                  # Frontend logic
-├── music_tutorials/                 # Generated content
-│   ├── In_The_Mix/
-│   │   └── transcripts/
-│   ├── Busy_Works_Beats/
-│   │   └── transcripts/
-│   └── ...
-├── video_tracker.db                 # Processing history
-├── YOUTUBE_TRANSCRIBER_README.md   # Architecture docs
-└── CONVERT_TO_PIPELINE.md          # Pipeline guide
+├── main.py                    # Web server - run this for the chat interface
+├── automated_pipeline.py      # Process new videos - run to update content
+├── include/                   # Core modules
+│   ├── youtube_transcript_downloader.py  # YouTube API + transcription
+│   ├── add_transcripts_to_rag.py         # Upload to vector database
+│   └── video_tracker.py                  # Track processed videos
+├── templates/index.html       # Chat interface HTML
+├── static/                    # CSS and JavaScript
+├── .env                       # Your API keys (create this)
+└── requirements.txt           # Python dependencies
 ```
 
-## 🐛 Troubleshooting
+---
 
-### Common Issues
+## Common Tasks
 
-**1. "OPENAI_API_KEY not found"**
+### Start the Chat Interface
+
 ```bash
-# Check .env file
-cat .env | grep OPENAI_API_KEY
-
-# Make sure it's loaded
-python -c "import os; from dotenv import load_dotenv; load_dotenv(); print(os.getenv('OPENAI_API_KEY'))"
+python main.py
+# Opens at http://localhost:8000
 ```
 
-**2. "Milvus connection failed"**
-- Verify you've signed up at https://cloud.zilliz.com
-- Check MILVUS_URI and MILVUS_TOKEN in `.env`
-- Test connection:
+### Process New Videos
+
+```bash
+# Run once
+python automated_pipeline.py
+
+# Run continuously (checks every 60 minutes)
+python automated_pipeline.py --continuous --interval 60
+
+# View statistics
+python automated_pipeline.py --stats
+```
+
+### Adding New Creators
+
+Edit `include/youtube_transcript_downloader.py` and add to the `CREATORS` dictionary:
+
 ```python
-from pymilvus import MilvusClient
-client = MilvusClient(uri='YOUR_URI', token='YOUR_TOKEN')
-print(client.list_collections())
+CREATORS = {
+    "Zen World": {
+        "url": "https://www.youtube.com/@ZenWorld",
+        "description": "Tech house and techno tutorials"
+    },
+    "Your New Creator": {
+        "url": "https://www.youtube.com/@ChannelHandle",
+        "description": "What they teach"
+    }
+}
 ```
 
-**3. "ffmpeg not found"**
+Then run `python automated_pipeline.py` to process their videos.
+
+---
+
+## Troubleshooting
+
+### "Sign in to confirm you're not a bot"
+
+This happens when YouTube blocks scraping. The system uses YouTube Data API v3 to avoid this. Make sure your `YOUTUBE_API_KEY` is set correctly in `.env`.
+
+### "OPENAI_API_KEY not found"
+
+Check that your `.env` file exists in the project root and contains your API key.
+
+### "Milvus connection failed"
+
+1. Verify your Zilliz Cloud instance is running at https://cloud.zilliz.com
+2. Check that `MILVUS_URI` and `MILVUS_TOKEN` are correct in `.env`
+
+### "ffmpeg not found"
+
+FFmpeg must be installed and in your PATH. See the installation commands in Prerequisites above.
+
+### OpenAI rate limits
+
+If you hit rate limits, reduce the number of videos processed at once by adding to `.env`:
 ```bash
-# Verify installation
-ffmpeg -version
-
-# Install if missing
-# macOS: brew install ffmpeg
-# Linux: sudo apt install ffmpeg
+MAX_VIDEOS_PER_CHECK=3
 ```
 
-**4. "YouTube video not accessible"**
-```bash
-# Update yt-dlp
-pip install --upgrade yt-dlp
+---
 
-# Test manually
-yt-dlp --list-formats "https://youtube.com/watch?v=VIDEO_ID"
-```
+## Cost Estimates
 
-**5. "Rate limit exceeded" (OpenAI)**
-- Add delays between API calls
-- Upgrade to higher API tier
-- Reduce MAX_VIDEOS_PER_CHECK
+| Service | Usage | Monthly Cost |
+|---------|-------|--------------|
+| OpenAI (Whisper, Embeddings, Chat) | Light usage | $5-15 |
+| Zilliz Cloud (Milvus) | Free tier | $0 |
+| YouTube Data API | Free tier | $0 |
 
-### Getting Help
+Typical monthly cost: **$5-15** depending on how many videos you process.
 
-Check the detailed documentation:
-- `YOUTUBE_TRANSCRIBER_README.md` - Full architecture guide
-- `CONVERT_TO_PIPELINE.md` - Pipeline automation guide
+---
 
-## 💰 Cost Estimates
+## Additional Resources
 
-Based on 100 videos/month:
-
-**OpenAI API:**
-- Whisper transcription: ~$18/month
-- Embeddings: ~$0.65/month
-- Chat completions: ~$2/month
-- **Total: ~$21/month**
-
-**Milvus (Zilliz Cloud):**
-- Free tier: 1M vectors, sufficient for 1000+ videos
-- **Cost: $0/month**
-
-**Total: ~$21/month for 100 videos**
-
-## 📚 Additional Resources
-
-- [OpenAI API Documentation](https://platform.openai.com/docs)
+- [OpenAI API Docs](https://platform.openai.com/docs)
+- [YouTube Data API v3](https://developers.google.com/youtube/v3)
 - [Milvus Documentation](https://milvus.io/docs)
 - [FastAPI Documentation](https://fastapi.tiangolo.com/)
-- [yt-dlp Documentation](https://github.com/yt-dlp/yt-dlp)
 
-## 🤝 Contributing
+---
 
-Feel free to add more music production creators, improve the search algorithm, or enhance the UI!
-
-## 📄 License
+## License
 
 MIT
-
-## 🙏 Acknowledgments
-
-- Built using the architecture outlined in `YOUTUBE_TRANSCRIBER_README.md`
-- Music production community for amazing educational content

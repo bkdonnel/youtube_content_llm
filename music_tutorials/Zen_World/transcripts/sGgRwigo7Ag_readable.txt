@@ -1,0 +1,957 @@
+Video: Complete Guide to Master Serum 2 – EP7: Advanced FX Section Breakdown
+URL: https://www.youtube.com/watch?v=sGgRwigo7Ag
+Duration: 52.3 minutes
+================================================================================
+
+[00:00] First things first, the effects section of Serum 2 can be reached by just going here and clicking there.
+
+[00:05] Pretty simple. A couple things to note here. On the left side you're going to see main, bus 1, bus 2.
+
+[00:10] We're going to be talking about these guys in a second towards the end and then hopefully tomorrow
+
+[00:15] we can make a video discussing the mixer so that we can get our buses working over time.
+
+[00:20] But from here we're going to have the effects section. We're going to have presets now available
+
+[00:24] for you by clicking here and these are going to be essentially rack chains. For instance, if I go
+
+[00:28] into bus processing you can see a bunch here. There's some good ones here that I do like to use
+
+[00:33] here and there. The main effects bus like the 7 Skies lead split. It does look like he can do the split.
+
+[00:38] We got the Alice lead 1, 2, 3, Alice in Wonderland. We got the Duda and then we have all of these
+
+[00:43] which we can load by just clicking and then you get the whole shebang. You can also save your own
+
+[00:48] by clicking here. So in case you ever find yourself usually, you know, when you make a lead or a
+
+[00:54] fat rack chain, then you can save it for yourself there. Okay. And you can see here I have a couple
+
+[01:00] for myself as well. Also the Side Peat split bass processing. Okay. From there, if you're working
+
+[01:07] here and let's say you start filling up this thing and you're like, you know, you're in the zone,
+
+[01:11] you're like, I need more effects, I need more effects and this is getting in the way, then you
+
+[01:15] can click in here and it will remove it for you. So, you know, get the awk out the way kind of vibe
+
+[01:21] just in case you're in that flow state and you want to do that. So, okay. From there, we do have
+
+[01:25] bus one, bus two. Like I said, we're going to talk about those towards the end, but in the mixer
+
+[01:29] section, pretty much you have these buses that you can route stuff to that. So again, if you wanted
+
+[01:34] to route something there from the filter, you can do that there and it will be routed into that bus
+
+[01:38] where it will be hit with effects. Think of a measure of turn tracks in a sense. Okay. From there,
+
+[01:43] we can start getting into the effects that Serum 2 provides for you guys. So we're going to right
+
+[01:49] click. The first one we have is called Body. Essentially what this is, it's a frequency shifter
+
+[01:55] that is named after an iconic pioneer. And I am quoting the manual here is named after Harold
+
+[02:03] Bode. So essentially it's a frequency shifter. So the way I like to think about frequency shifters
+
+[02:09] is that they literally, it's like pitching the sound, but it sounds very R2D2. It sounds very
+
+[02:14] abstract. It's very experimental, but I'm going to show you guys some very clutch things that you
+
+[02:19] won't see anywhere else. And it's fucking free here on YouTube. Can you believe that shit? First
+
+[02:23] things first here, we have this mono input. I, to this day, don't know what it does. I mean,
+
+[02:27] on the Serum 2 manual quote, enabled to route mono input to the module. I can turn that shit on and
+
+[02:32] off with stereo sounds or with mono sounds. And to this day, I don't know what it does. Maybe one of
+
+[02:41] you guys does. And if you do, then let me know in the comments, but don't give me the definition
+
+[02:44] in the manual, please. From there, we have the shift, which is going to shift the pitch of your
+
+[02:49] sound. So at a hundred percent mix, we're grabbing the sound and shifting it, but notice how
+
+[02:57] it's not that good of a shift. It's not grabbing the full sound because to the right of that,
+
+[03:01] we have the range of the shifter. So if I go high, you know, we get those R2D2 sounds. So
+
+[03:06] the thing that this shifter has that the Ableton one doesn't is that range now, which controls how
+
+[03:11] the range of this shift is going to be from the left to the right. That's why we have a percentage
+
+[03:15] there. Okay. So the way I like to think of shifters, I'll give you guys some examples here,
+
+[03:19] basic shapes, boom. You know, you're trying to do some cool stuff. We can route
+
+[03:28] range controls, how much you can move this shifter by. Now to the right of that, we have a DIR,
+
+[03:35] which stands for direction. In the center, according to Serum 2 manual, it causes both
+
+[03:40] channels to go in opposite directions. So what I've found is it usually makes the sound wide.
+
+[03:49] Okay. So let's shift. Wide. We're shifting to one side. And then here we have our width,
+
+[03:57] used in conjunction with the direction knob, which specifies whether both channels up and
+
+[04:01] down are used, or if only a single channel is used. So it makes kind of sense if you think
+
+[04:08] about it, because if you have more than one channel, you get width. Now from there to the
+
+[04:12] right, this does have a mono, I repeat, a mono delay, which can be activated here by increasing
+
+[04:20] the feedback, which increases essentially the delay time. So the feedback, the amount of delay
+
+[04:26] fed back into the boat shifter, which can produce pitch delays. So we're going to increase this.
+
+[04:37] Let's sync it to one eighths, or one eighth dotted is nice.
+
+[04:44] Okay. Now the balance is going to control the input mix between the down and up shifted signal.
+
+[04:52] Remember the range is given as a range, so we do have left and right. But the thing at this is now
+
+[04:57] we go to the right, you're going to hear the pitch effect on the delay.
+
+[05:06] All right. Super nice, right? And to the right of that, we have a blur. Think of it as a smear.
+
+[05:12] Okay. And what this is going to do is it's going to create chorus and wild flutter effects. So
+
+[05:27] doesn't make it hit as hard. So that's what the blur does. So now if I were to create some,
+
+[05:35] some keys here, let's say we grab some triangle waves to create some roads.
+
+[05:42] Oh, and we run this in parallel. I rarely run it at a hundred and it's
+
+[05:46] this experimental sound design. We're going to change the shift just a tiny bit.
+
+[06:04] That's
+
+[06:16] the chorus is an effect now that is going to duplicate the sound, the saw.
+
+[06:21] So let me remove this and duplicate the saw into four voices. Two will go left, two will go right.
+
+[06:28] The lay one will control either the left or right. Delay two will control either the right or left,
+
+[06:32] whichever again, vice versa. So with the chorus effect, the sound is delayed. There is
+
+[06:38] essentially a rate because something's being modulated, which is the delay time
+
+[06:42] and the pitch. The depth is how much modulation amount we have. And then the feedback at high
+
+[06:49] is to keep just increasing it at a high values. It gives a very metallic effect.
+
+[06:58] But if I put it just right enough, you can hear there,
+
+[07:05] you get this very nice B swarm type of sound. Now, the reason I would use a chorus over using
+
+[07:15] detunement, dogs are going crazy out there, is because it sounds more retro. So if I ever wanted
+
+[07:20] like a, like a detuned Juno sound, you know, a lot of guys are like, I need Juno, I need a Juno.
+
+[07:25] There's also a filter, which you can use low pass or a high pass. Okay. So for instance,
+
+[07:33] if you have a bass and you don't want this chorus applied to the low end because your team
+
+[07:41] no thing below 150 goes wide, then my man. So, but let's say you hit it, but here you don't.
+
+[07:50] So now you go down, we have a compressor, which is going to help with the dynamics of a sound.
+
+[07:54] So compressor, it's going to help make you the sound more punchy,
+
+[07:59] help control the sound over time, or help the sound become a more less punchy. And then from
+
+[08:06] there there's other usages for it, of course. So for instance, here, I have a saw.
+
+[08:13] If I put our attack high and low release, I can make it extra punchy.
+
+[08:23] The attack is how fast it takes for the compression to come in. So that's why with a
+
+[08:27] higher attack, you hear the transient of the, of the saw versus this just pushes it more in. And
+
+[08:37] you know, that gain reduction, that volume reducement to go back to no reducement.
+
+[08:44] We have a makeup game and then the ratio is how hard it's doing it pretty much four to one DB
+
+[08:50] means that for every four DB that goes over the threshold, which is here, which is going to be
+
+[08:55] what we use to kind of control the compression. Well, the ratio, the higher it is,
+
+[09:03] the stronger that compression is essentially the more gain reduction
+
+[09:08] we get in all the way to the right. We do get a limiter in this.
+
+[09:15] Okay. From there we have the multiband mode, which for me, it's a bit weird
+
+[09:18] in the serum to manual quote multiband device, the audio signal, and it's considered an extreme
+
+[09:26] effect. So I mean, it sounds very
+
+[09:33] EDM to me. The ratio does work here. You can see it changes the green and Brown bars,
+
+[09:38] mainly the green. So the higher up again, the more it's compressing,
+
+[09:45] like it sounds more natural, more tight. And there is a specific
+
+[09:49] place for those kinds of sounds. Just keep that in mind. I don't like them personally,
+
+[09:52] but certain people like them and they go crazy. When I show them this from here,
+
+[09:56] we do have the attack and release, which to be fair, don't do Jack.
+
+[10:01] Okay. I've tried it. And it's like, what is that for threshold here? You can see it works like this.
+
+[10:06] Okay. We have the green, which I would, I would assume it's downwards compression,
+
+[10:10] which is the compression we did before, but now on three bands. And then we have the Brown,
+
+[10:15] which is pushing up, which is going to be considered upwards expansion, which the sound
+
+[10:21] hits that or goes below. It pushes it higher up. So you have a very squashed on getting hit from
+
+[10:25] the front and the back of sorority girl stream. Ha ha joke. Okay. So here we have an X low,
+
+[10:31] which is just a crossover for the low frequencies. And then the X high, the crossover for the highs
+
+[10:35] and whatever is set in between that is considered the mids here. So you can control that there.
+
+[10:39] This is the ratio below. So the compression below the Brown one.
+
+[10:47] So this is how it compressed here. The bottom is hitting that up there. Keep in mind too,
+
+[10:54] that I can tone control the sound with this by pulling up and down. Think of it.
+
+[11:01] So that's good. And you can also modulate these guys. If for some reason you want it to do it,
+
+[11:08] now you can get freakier to the right of that here. We can make up. So if we, let's say push
+
+[11:12] the lows in really nice and like, it sounds dope, but then it gets too quiet. You can make it up
+
+[11:17] here. So that's where you're going to find that. And you still have a makeup overall. We have the
+
+[11:20] convolved next with convolution. Reverb is going to be reverb the best way to put it. Let's say
+
+[11:25] you're in a church. You're hearing the father just going, do we are salvation. You must approach the
+
+[11:30] lady. She's there for a reason. Do not let your mind. And then you hear the reverb in the room.
+
+[11:37] You're like, this sounds fucking nice. So you record the reverb and that's what we would call
+
+[11:41] an impulse file. And we bring that in profiles into this thing. And this is going to try its
+
+[11:46] best to give the sound, the characteristics, the reverb of the room that you've recorded.
+
+[11:51] Okay. So we're going to have a couple here. So if we go long here, we're going to have the
+
+[11:55] ABC rebel. Now with convolution, we have a couple of controls. The first is the size. The more the
+
+[12:03] size goes up, the more stretched out your file gets. And obviously it gets longer and bigger.
+
+[12:09] Like we pull it down, get shorter, tighter. Okay. To the right of that, we have a tone,
+
+[12:17] which is going to pretty much you're applying a filter to your impulse file. And as you go up,
+
+[12:22] it's brighter. As you go down, it gets more damp, more warmer, more swampy to the right of that.
+
+[12:29] We have a phase, which is stands for convolution. Minimum face. If you turn it on,
+
+[12:37] you hear here, there's sort of like this echo effect with it on a little tighter. It tries
+
+[12:42] to control that. So you can have that on to get a tighter reverb. So the right of that,
+
+[12:47] we have a pre-delay, which in essence, you can sync. So it's in beats mode here. So one eight,
+
+[12:52] one four, it's the way you would use this as if you had a drum, let's say a clap. You wanted to
+
+[12:56] clap to hit and then the reverb to come in after the clap hits. This is why you would use this
+
+[12:59] makes it lag. For example, here, I'm going to put 1.4 seconds. I'm going to put the size low
+
+[13:06] and I'm going to play. So that's what that pre-delay is for. And there's obviously very
+
+[13:15] creative usages for it. Not for me. To the right of that, we have the attack and that is used to
+
+[13:21] fade in the impulse file. And then we have the decay. So you can see how it changes here.
+
+[13:30] To the right of that, we have a damp. The damp is going to damp the high end. So think of it
+
+[13:35] like a low pass filter being applied to the high end. And below that, we have the volume of the
+
+[13:40] impulse response. Think of it as a volume for the reverb itself. So for example, let's say I use
+
+[13:46] this. And I go. Increase the volume of that. Increase the size. But this is where you would control that.
+
+[13:56] Evolution, it's not all about producing a reverb. Sometimes you can produce interesting growls,
+
+[14:00] like you can have the characteristics of a cow, of a goat. I'm not lying. There was one time I had to
+
+[14:07] impress the sound the same class. I was like, I'm just going to use the good old goat trick.
+
+[14:11] And let me tell you guys, once that goat growl came in, everyone just like that me weird like this guy.
+
+[14:16] It's not right in the head. From there, we're going to have a delay inside of Serum 2. I'm
+
+[14:22] fond of the delay. I think the delay is simple, but you can do a lot of really cool stuff with it.
+
+[14:26] First off, there's going to be three modes to the delay. There is a high quality mode,
+
+[14:29] which remember, high quality doesn't always mean good. Sometimes you want to go for a lo-fi effect,
+
+[14:33] so you can definitely turn it off if you choose to. From there, we have normal, ping pong,
+
+[14:37] tap delay. OK, so ping pong makes it so that you get the iconic, you know, ping pong effect.
+
+[14:44] They're both at the same time signature, but that delay is going to play on one side first to create
+
+[14:48] the width, because if they play at the same time, which is what normal does, it's going to collapse
+
+[14:52] into the center, which there's nothing wrong with that. Usually you want to look at your song and
+
+[14:55] see where your delay is going to sit best on the sides if it's not too busy and down the middle
+
+[14:59] if the sides are way too busy. And then we're going to have a tap delay. Which.
+
+[15:06] It's both delays to mono. OK, so so it is mono lo-fi, causing the left signal to fire once
+
+[15:12] when no feedback. Tap followed by the right signal operating as a typical delay. Feedback
+
+[15:16] is applied. So I guess the left hits first and then this delays this. Let's try it. There it is.
+
+[15:25] After a bar. And then that is the right is hitting it. So now we learn something together,
+
+[15:30] because I always wondered how this worked and I didn't really care. Here we have the feedback,
+
+[15:34] which is the amount of repetitions. The higher the feedback, the more repetitions we get,
+
+[15:37] in essence, the more echo we get. OK, so for example, I'm going to go normal.
+
+[15:42] Low. At high, it self-oscillates. So be careful because it's going to get loud eventually.
+
+[15:50] There it goes. So it can self-oscillate as well. Here we have essentially a filter.
+
+[15:59] Which controls the tone of the delay itself, not the sound. Very useful for whenever you're
+
+[16:05] trying to hit something. And you can also modulate that, which is a trick I use for
+
+[16:09] my sound design. Changing. Let's do one half here. OK. Boom. OK. And then to the right of that,
+
+[16:22] we have the mix and a level here just to keep that in mind. OK. And then we can switch between BPM
+
+[16:26] and S mode. And if you wanted a dotted, you can lift this up to dot dot. And you get the dotted
+
+[16:33] one eighth. The other thing, too, is if you, let's say, want to use normal mode, but you want a wide
+
+[16:39] delay. And this is where you can offset one of the right or left by a few milliseconds to get the
+
+[16:48] width delay. And then finally, MS, you can program a slap delay or create your own phaser.
+
+[16:55] Or cone filter this way.
+
+[17:01] From there, we're going to have distortion. And for this one, I'm going to put a sine wave because
+
+[17:07] distortion is best explained with an innocent soul, which a sine is. It's just a fundamental.
+
+[17:14] OK, so we're going to have a total of 13 types of distortions here in the mode you're going to
+
+[17:20] be able to pick from the different flavors you have. You have tube, soft clip, hard clip,
+
+[17:24] diodode, one, two, linear fold, sine fold, zero square, downsample, ASYM, rectify, X shaper,
+
+[17:30] sine shaper, strongbox, tape saturation, overdrive and soft saturation. You have a lot.
+
+[17:34] So I would say you sound the sine and play with them to see how they sound.
+
+[17:39] Some of my favorite ones are going to be the tube. I'm going to make a bass.
+
+[17:48] OK, I'm going to put another sine here, but up an octave.
+
+[17:54] And now check this out, we're going to soft clip, hard clip, diodode one, move that or we can do this.
+
+[18:12] OK, that's how you make those sounds if you've ever heard them.
+
+[18:16] OK, so distortion is going to be affected by the volume of your sounds before it. That's
+
+[18:22] what we call the pre-drive of it. Diodode one, very strong, squarey type of distortion. Then
+
+[18:29] you've got diodode two, you can see the way the shape changes here because we are wave shaping
+
+[18:32] this sound. OK, from there we have a linear fold. Let's lower this back down. OK, so here.
+
+[18:49] Of course you can modulate that. We have a sine fold.
+
+[18:54] Sine shaper, zero square. This is the strongest distortion,
+
+[18:58] the zero square. It just fucking squares everything off. We have a downsample.
+
+[19:03] It provides a nice little crunch effect, it's slowing down the bitrate.
+
+[19:07] Very, very, very, when we make basses, I'll show you guys the rest bass that made her famous as
+
+[19:12] shit. And yeah, yeah, the one million dollar bass, like the deadmau5 one. Asym distortion
+
+[19:18] is different from the left, so that's usually asymmetric distortion. It's not
+
+[19:22] fully like the same on both. This one's weird. Rectify. Then we have the x shaper,
+
+[19:30] which is the one I wanted to get to to explain. So the x shaper, pretty much you're drawing in
+
+[19:36] your own distortion. So you're shaping the sound to the left. You're going to go to your A
+
+[19:41] and to the end when you create your B. Let's say I do this with B to the right. You create the B.
+
+[19:46] So what the way I like to use this personally is creating movement and sounds with distortion.
+
+[19:56] Okay. From there, if I go to Asym,
+
+[20:00] we're pretty much grabbing the positive of whatever we'd created and putting it on the top right.
+
+[20:04] And then the negative is going on the bottom left, I believe. So let me just make sure that's
+
+[20:09] correct. Top right presents highest positive value to the signal and lower left represents
+
+[20:12] the highest possible negative value. So I almost got it right. Right. But again,
+
+[20:18] the way I see this is wave shaping. So I use this more for the movement.
+
+[20:23] I find a lot of the times these definitions really don't help with the sound the same process.
+
+[20:27] So sometimes I'll read them and go, oh, just distortion that I can modulate.
+
+[20:32] From there, we have a sine shaper, which I like because this is actually pretty volatile.
+
+[20:47] We can move this arrest because you can stack it, which
+
+[20:50] I don't know why you might want to do that.
+
+[20:56] The main reason I say that. Like is because.
+
+[21:05] It usually in the digital world, this does not sound good stacking like that.
+
+[21:09] That's my opinion on it. Soft saturation.
+
+[21:12] OK, now a couple of things to note with distortion, there is a filtering section
+
+[21:16] in the distortion here, which we would call a pre filter. So, for instance, let's say I have a saw.
+
+[21:23] And I want to target more of the low end and I can pre filter before the distortion hits and.
+
+[21:37] To create that, if I put it post, notice how it's different because that filter is being
+
+[21:41] put after distortion. So this is what we're filtering. However, in pre,
+
+[21:46] we create the sound because we're filtering the saw before it reaches the distortion.
+
+[21:54] Similar to us putting an EQ before it.
+
+[21:59] Like so. OK, so that's distortion. Very straightforward. We by default have a low
+
+[22:06] shelf and a high shelf. Only two markers. We can set a bell, move it around.
+
+[22:10] I'll give you guys an advice. The scale feature. And again, this is why Steve.
+
+[22:15] Come on, man. Look, this is you're reducing here by seven DB, but it looks like you're
+
+[22:21] reducing by two or three. Right. So it's crazy. So keep that in mind. So this is where we can
+
+[22:26] EQ the sound, apply movement, create your own version of a notch if you wanted to.
+
+[22:32] And if by clicking and holding all, you can have as many cues as you want.
+
+[22:35] So you can definitely get your sounds mixed pretty decently before they exit serum.
+
+[22:40] If you like the way that sort of system. From there, we have the filter similar to
+
+[22:44] our filter section that we've already gone over. You can put the filters here.
+
+[22:49] Let's say that you distort heavy and you're doing all this and you want to filter there
+
+[22:52] instead of there, then you can do it. Or maybe you get too much high and you
+
+[22:55] want to reshape the sound and you can do it. OK, so we're not really going to get
+
+[22:58] into that filter because we are doing by clicking. From there, we have a flanger,
+
+[23:02] the Paris Hilton effect. OK, that is how much modulation amount.
+
+[23:09] Great speed feedback. Again, the volume of the effect itself and then the phase is going to
+
+[23:14] LFO on the left and the right. So I believe if you move the face, you get stereo because you're
+
+[23:21] pretty much let's say both LFOs are being routed to left and right voices like this.
+
+[23:24] As you move this face knob on the right side, you might be altering it like this or inverting it.
+
+[23:30] OK, and to quote again, the manner of the stereo offset for the LFO influence over the flanger,
+
+[23:34] the left and right and the right flange offset, a setting of zero sets both left and right to
+
+[23:38] the same frequency, a setting of 50 percent represents 180 degrees, meaning that the left
+
+[23:42] and right have opposite frequencies. In this case, the flanger street prices on the left
+
+[23:46] while falling on the right. So that's what we would use that for.
+
+[23:51] So you're changing from there, we have the hyper slash I mentioned the hyper is a micro chorus
+
+[23:55] effect, which, again, similar to the chorus, it's meant to increase the voices and detune them.
+
+[24:02] And then you're going to have your rate of the detunement.
+
+[24:07] And then you can reach it.
+
+[24:11] So all the voices that you're creating start in the same position, giving us a stronger
+
+[24:17] sound in the beginning. It also gives us a flange because he saws are just
+
+[24:21] canceling each other out. They don't like each other there, but here everyone has this.
+
+[24:28] So it definitely makes hyper sauce from there to the right. We have a dimension.
+
+[24:32] It's a pseudo stereo effect consisting of four delay lines summed out of face and slowly
+
+[24:37] amplitude modulated to provide a subtle motion to the effect. So by increasing the size,
+
+[24:42] you are adding extra layer of face delays. But in essence, you're using this to create
+
+[24:48] some width on the sound, which sounds like so like almost like a small room reverb,
+
+[24:54] which I've never been a big fan of dimension expansion. I always think that it sounded a
+
+[24:58] little too. Remember, we have a phaser similar to the phaser effects that we had here,
+
+[25:04] except now we're actually using a real phaser effect because these filters are just static
+
+[25:09] unless you're moving them. Same thing. This guy, you're going to be able to have four
+
+[25:16] notches downs or ups the depth. How much how deep are they frequency center frequency that
+
+[25:23] revolving the phaser around rate how much you're moving by and then feedback the sound of the
+
+[25:30] effect. And then, of course, the face similar to the flash create with by having the left
+
+[25:35] side be at a different place on the right.
+
+[25:54] Phaser effects. And finally, from the phaser, we have the reverb where we're going to have
+
+[25:59] new reverbs. I believe three at the plate, which is a two dimensional reverb.
+
+[26:04] You got the width up. Usually plates tend to be boring. Your faint sound metallic. You have a
+
+[26:10] pre-delay, which delays the reverb similar to the convolution and the damp to dampen the highs.
+
+[26:20] Higher the size, more decay. And then we do have this EQ for this here. Low cuts before the sound
+
+[26:27] reaches. I'm not too fond of this, though. It usually doesn't sound the best, but we'll talk
+
+[26:32] about later. Then we have a hall. OK, usually more depth to a hall. I would say it's a more
+
+[26:41] three dimensional reverb. We have a size for it. Higher size is usually darker, more in the back,
+
+[26:47] lower, more in your face, more plate like we have a pre-delay again. You guys know what it does.
+
+[26:56] There it is. And then we have a decay for it. And then we're going to have the spin.
+
+[27:00] The spin is going to be modulating what I believe is the time. From there, we have a vintage reverb.
+
+[27:06] But from here, we're going to have the low end, the high cut again to suppress low frequencies
+
+[27:10] before, you know, so the reverb is going to not create them as much and also highs. From there,
+
+[27:15] we have the size higher up again, more depth, lower, more in our face, more metallic pre-delay.
+
+[27:22] Same as before, we have the ER size here, which is going to be the length of the early reflections
+
+[27:27] part. Reverb. OK, so lower down the diffusions. And now from there, decay up and that diffusion
+
+[27:39] A is the diffusion of the reverb and then diffusion B is to dampen it.
+
+[27:45] So the damp is the rate at which high frequencies decay.
+
+[27:53] It doesn't sound too shabby. Theoretically, this should sound like a delay because with reverb,
+
+[28:02] it's technically delays if you think about it, but it gets diffused, aka it gets smeared.
+
+[28:06] So if I'm talking to you right now and you hear my delay from my voice,
+
+[28:10] then you won't really know what I said, but you will hear the tonality of it through the reverb.
+
+[28:15] That's the idea here with diffusion. You smear it. And then your diffusion B dampens.
+
+[28:25] And then the damp controls how fast or how slow the high end is going to decay. So to the right,
+
+[28:35] it's allowing the high end to just take its sweet time and down. It's instant getting damp,
+
+[28:44] almost in a room full of carpets and not getting that beautiful tail on the highs.
+
+[28:48] Controls. The only thing that changes here is the feedback,
+
+[28:53] which is the amount of reverb fed back into the input signal.
+
+[28:57] Diffusion. We talked about it. It's how diffused the sound is going to be. So usually
+
+[29:03] I run it a little high. Let's increase the size. There's a chorus effect now here.
+
+[29:08] And I believe for the vintage, it was also a chorus effect applied to the reverb. So if you
+
+[29:13] increase the depth, you can make it sound very lively. I really like this reverb. From there,
+
+[29:21] we have five different modes here for this guy. And I remind you that we have a marble, pre-delay,
+
+[29:29] diffusion, feedback.
+
+[29:36] Size. Leave it high now around here.
+
+[29:41] Add some depth, right?
+
+[29:47] There we go.
+
+[29:57] It's almost like delays that chorus puts in work, but you can hear it's almost like a delay
+
+[30:05] and a reverb put together here, which creates some very beautiful effect there.
+
+[30:10] And then finally, we have basin, which is a mono reverb. Very sensitive on the chorus.
+
+[30:20] It's more like a B. But yeah, I don't know why this one's mono.
+
+[30:28] Keep that in mind and then pre-delay feedback. Okay, we have the splitters. So we're going to
+
+[30:33] have three in total, a low and a high. With this, we control the crossover so we can apply effects
+
+[30:39] to the low band and the high band separate of each other. The reason you might do this is,
+
+[30:43] say on the high band, you want to add a body. So you can do that on the high.
+
+[30:52] Like so. And if I omit it, the lows does not get hit by it.
+
+[31:02] I can control the crossover here and then the volume here. There's the low end.
+
+[31:10] Low end. Bring this up. Now on the highs.
+
+[31:17] Okay, and then this is the crossover for that. So you're going to have the low-high,
+
+[31:21] you're going to have low-mid-high. So you can target each one individually. And then there's,
+
+[31:25] I believe, one more, which is a mid and a side. So mid is going to be down the center.
+
+[31:33] So I'm trying to see how I can show you guys that. So let's put in effects here and decrease
+
+[31:37] the volume. So this is the mid and the sides is going to be this. Check it out.
+
+[31:46] What's on the side. So more heard on the side of your headphones. Wide versus center. Okay,
+
+[31:51] so you're going to have access to that as well. And finally, you have a utility where you can
+
+[31:55] mono the bass. See, Steve also believes in everything below. He believes everything below
+
+[31:59] 90 hertz should be a mono. From there, we have a width knob. We have a pan knob, width to increase
+
+[32:04] the width. We have a utility high-pass filter, low-pass filter. We can invert the polarity on
+
+[32:08] the left side or on the left and right together. Okay, and then from there, we have the mix for
+
+[32:14] that and the volume. All right, by right-clicking there, at the bottom, we have effects bus. So we
+
+[32:19] can do a lot here. For example, let's say that I come in with, I don't know, the same world
+
+[32:24] screech processing. Oh, yeah, yeah. Mainly meant to be used with this. Oh, yeah, yeah.
+
+[32:30] Lower the volume. So now I can right-click effects bus and I can lock the effects bus.
+
+[32:36] So as I go through presets, the effects box will stay. I can also lock all effects buses,
+
+[32:44] which I believe will lock the bus one and two as well. But with that being said, that is the
+
+[32:50] effects section of Serum 2. Now, of course, we have the main, which is going to be by default
+
+[32:54] always working, but the bus one and two will only work when you use, go to the mixer and you route
+
+[32:59] from here. Then we're going to make a separate video for the mixer, even though it feels like
+
+[33:03] it's very self-explanatory, to be fair. But we can route the sound here or we can filter the sound
+
+[33:10] before we route it to the bus one. Now, keep in mind, if I route it through here first,
+
+[33:14] I'm routing the saw sound without the filter because we're creating a different auxiliary
+
+[33:20] channel. So this is being routed here and it's also going to the main because we have it routed
+
+[33:25] there. So keep that in mind with that. The busses.
+
+[33:30] And also right click here, as you guys know already, and route to filter two or to the direct
+
+[33:34] out to the main. From there, if we don't want to route it just directly to a bus, we put it on none.
+
+[33:40] So that way nothing's coming out and we route it to bus two and now it comes out through there.
+
+[33:44] Bus two we can also set to direct to bus one. Hey, we didn't need to make a video for this section
+
+[33:49] after all. And we can control the volumes here. And here we have filter one to envelope one on,
+
+[33:54] just determines if this oscillator runs through envelope one, which I think it should
+
+[33:58] because then it sounds way too static. You can see there.
+
+[34:09] That's what we use that for.
+
+[34:15] So we have it there up here now when it's on now, but since we have it routed to the filter,
+
+[34:19] it's set over there. All right. So let's make a couple of sounds. The first one I want to
+
+[34:24] make is a rest style bass we were talking about. So, you know, we're going to create a basic saw.
+
+[34:29] I'm going to turn on this arp and we'll talk about this in another video, but I just want this,
+
+[34:34] this trip dot or whatever. And then we're going to do this.
+
+[34:44] We're going to add a down, essentially a distortion. Down sample.
+
+[34:53] You can use a pulse if you want to mute it a bit.
+
+[35:11] So let's switch the song maybe to another one.
+
+[35:14] Make some beefy. And then we just modulate this.
+
+[35:29] Let's apply a reverb to the high end.
+
+[35:35] Just to make it sound a little more alive, maybe a little bit of an echo.
+
+[35:42] Ping pong it so it doesn't sit on top.
+
+[35:54] It needs to be a little longer.
+
+[36:10] If you want, we can add an OTT. We're going to make the bass a little more modern.
+
+[36:23] Playing with the ratio at the bottom, crossovers. Now let's make a wave shape sound. So we're going
+
+[36:29] to be using sine waves and saws or any basic shape to create something very dope. So let's go with
+
+[36:39] C0 for our bass or C2 actually, minus two. I'm already going to come in with some heavy
+
+[36:45] distortion. I'm going to come in with a diode. So now I'm going to play with this.
+
+[36:54] I'm going to put an LFO on the fine to create that effect we did earlier today.
+
+[37:00] We're going to envelope it.
+
+[37:13] We can inverse that.
+
+[37:22] We can add some movement here.
+
+[37:40] Cool.
+
+[37:45] Try a seventh.
+
+[37:53] That sounds pretty cool. So we can do a lot with that. We can also create some recess.
+
+[38:14] There we go. Trying to get some wide. And then why not distort one more time.
+
+[38:27] Let's see if we can add a chorus effect.
+
+[38:35] Or a DAB ratio. Let's put an EQ. OTT. I don't know what I'm doing to be fair.
+
+[38:45] Mono legato. We'll talk about that later.
+
+[39:05] Let's put the EQ before the distortion to pre-filter a bit.
+
+[39:27] Let's try adding a phaser.
+
+[39:35] All right, we're entering that. Let's do a one voice.
+
+[39:40] That sounds dope, right?
+
+[39:46] I don't know why I'm gravitating more towards wubs. Maybe I've been missing making the wubs.
+
+[39:52] But let's see. I'm starting to think maybe we can make a nice little lead sound.
+
+[39:56] Let's use the expressive chords. Let's add a bit of release.
+
+[40:00] Okay, go with a filter.
+
+[40:10] Okay, now some effects. Just make something that sounds dope, right? Reverb.
+
+[40:16] Let's experiment with the stuff we don't really use, like the vintage.
+
+[40:36] Let's apply a Bode. See what we can do with it.
+
+[40:40] Blur. Move that up.
+
+[40:46] There we go. Before. Signal flow is very important. We can move the effects like
+
+[40:50] so. Let's increase the steps.
+
+[41:08] Let's move the LFO up.
+
+[41:12] Slowly evolve it so that it's nice.
+
+[41:18] Mono input. What does it do? I don't know what it does to this day.
+
+[41:26] Oh, I love that. But this delay is not working. It's way too busy.
+
+[41:31] There we go. Now this shift, when we moved it, it had a beautiful effect. Let's do it.
+
+[41:39] There it is.
+
+[41:42] That's it. That's it. Let's apply some high.
+
+[41:53] More blur. Love that. Very simple song.
+
+[41:59] Let's make this a lot tighter.
+
+[42:18] Some echo.
+
+[42:33] Let's make a vibrato lead. This one we use an LFO here. Fast.
+
+[42:40] Let's apply a supersaw to create like an EDM lead.
+
+[42:47] Let's apply a distortion. See what happens.
+
+[42:52] A little too much.
+
+[42:56] Let's go with a soft saturation. I believe we have that at the table.
+
+[43:07] Apply a bit of release.
+
+[43:12] A bit of too much distortion because of the lingering release when they overlap.
+
+[43:16] And with distortion it sounds a little bad.
+
+[43:21] Yeah, that's pretty nice I would say. Let's apply reverb.
+
+[43:31] Again, I don't know why I still have the depth set too high up.
+
+[43:42] Let's apply a plus one. Make it feel like climatic.
+
+[44:03] Let's EQ. Oh, we can do that. Remove lows.
+
+[44:18] Let's create a gated lead. We're going to grab this down, do this to each one in particular
+
+[44:26] and shift like so and holding shift here it's going to do that.
+
+[44:38] Pull it back.
+
+[44:43] So
+
+[44:52] we can also use a sine LFO
+
+[45:06] Yep, to create that.
+
+[45:12] Create that. Oh yeah, we can create a offbeat bass now.
+
+[45:16] So the way we would do that is an LFO, pull on the level, do that.
+
+[45:24] We're going to use a filter.
+
+[45:29] This we're going to distort.
+
+[45:39] And now we pick a good shape that maybe gives.
+
+[45:45] And we also have it. Oh, we didn't want to do that. I'll click, boom, copy that on the wave.
+
+[45:52] But now I'm going to do that.
+
+[46:01] It gives us a very nice kind of good start.
+
+[46:06] I'm gonna increase the high end if I can. That's what it's missing.
+
+[46:15] So in sound design, sometimes with the EQ you might have to do crazy boost.
+
+[46:19] It's more of a sound design thing because you're trying to get a certain part of the sound out.
+
+[46:24] Let's go to 140.
+
+[46:28] I wonder if I can put a 909 kick here now with a sample mode.
+
+[46:34] But now I need it to hit every one fourth and that's the hard part.
+
+[46:37] Then we're going to process the kick further too. I'll show you guys how to do it.
+
+[46:52] And now the kicks being routed to the distortion. So I'm going to route it to none.
+
+[46:56] I'm going to route it to bus two. Let's do the same here so I can show you guys.
+
+[47:00] Bus one, none. So now bus one is the bass.
+
+[47:05] Make sure we're not routing to the main. That's why I don't want to direct out, direct out.
+
+[47:12] There we go. So now they're separate. Let's get rid of that. So now we have
+
+[47:17] the bass, which I'm going to use in bus one, I believe. You can see the routing here. Yep.
+
+[47:25] And then we have the kick in bus two. And if I want to process everything together,
+
+[47:29] I can do it in the main. All right. So for instance, the kick,
+
+[47:32] let's say I want to distort that kick further. I can. And bus two.
+
+[47:40] Right at the end there, I might EQ the kick further.
+
+[47:49] I need more high end.
+
+[47:55] Then we can control the volume.
+
+[47:59] And then let's see if we can get this right.
+
+[48:08] Controlling the kick.
+
+[48:15] On the bass, we're going to add an OTT.
+
+[48:23] And then again, a utility for the volume.
+
+[48:29] Control here. And now we control here. And then we pull down.
+
+[48:37] And now we're at.
+
+[48:41] This is hard. It's very raw.
+
+[48:53] I'm doing like a Lucas Prestoli style of kick.
+
+[49:04] Not sure we might ever want to do it like this, but.
+
+[49:24] Let's try making a melodic techno stab now, we're going to go into the analog
+
+[49:27] and we're going to grab the matrix C64. We're going to use a filter.
+
+[49:36] Envelope three.
+
+[49:42] Let's increase some unison.
+
+[49:48] Something like that.
+
+[49:53] Let's add maybe two, another few voices.
+
+[49:59] To capture more frequency spectrum and then go with another one of these.
+
+[50:10] We'll go with that, save time. And let's use like a sine folder, sine shaper on it.
+
+[50:25] Choose a pre, remove some of the lows.
+
+[50:27] The cue.
+
+[51:00] And some reverb and delay.
+
+[51:06] Let's use Hall.
+
+[51:22] Also add it here to the drive.
+
+[51:36] Just to show you guys a bit of how it would eventually sound like after playing with it
+
+[51:40] for a while.
+
+[51:42] The key for me is always to get everything to sound like this.
+
+[51:47] But to get this, you know, that's like the next level part of it, it takes a little bit
+
+[51:57] of time and effort.
+
+[51:57] As you can see, I did do a bit of pre-cue.
+
+[52:05] I hope that it was very useful for you guys and I hope that it gives you ideas on what
+
+[52:08] you can do with the effects section.
+
+[52:10] So with that being said, I'll catch you guys in another video for the complete guide to
+
+[52:13] Master Serum.
+
+[52:13] Keep killing it guys and let's keep going, okay?
+
+[52:16] Much love and take care.
+

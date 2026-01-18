@@ -351,7 +351,7 @@ Duration: 31.9 minutes
 
 [09:17] And you can also see what it does.
 
-[09:20] One way I like to use this mode is by going here to random or random flat.
+[09:19] One way I like to use this mode is by going here to random or random flat.
 
 [09:24] I'll activate that and then I'll smooth it out to make somewhat of a wub
 
@@ -391,17 +391,17 @@ Duration: 31.9 minutes
 
 [10:24] Here we have a flat.
 
-[10:25] We have a slope up.
+[10:25] We have a slope up if we wanted to add that.
 
-[10:27] If we wanted to add that, notice how it locks into the bottom
+[10:28] Notice how it locks into the bottom part
 
-[10:30] part there and it stays within each little box.
+[10:31] there and it stays within each little box.
 
 [10:33] So if I increase this like so,
 
 [10:35] you're going to see that now we're going to have more of.
 
-[10:36] So from there, we also have a slant, a slant down.
+[10:36] So from there, we also have a slant down.
 
 [10:41] OK, and then from here, we can click here to open this up more.
 
@@ -429,7 +429,7 @@ Duration: 31.9 minutes
 
 [11:17] I'm not sure we can draw a heart, but let's say I do something like this.
 
-[11:20] All right. Let's say there.
+[11:20] All right, let's say there.
 
 [11:22] Now I have an X and Y axis, so that's going to control again how we're going
 
@@ -437,11 +437,11 @@ Duration: 31.9 minutes
 
 [11:28] So I might want let's say let's get creative with this.
 
-[11:31] We're going to pick another another wave table here.
+[11:31] We're going to pick another another wavetable here.
 
 [11:35] Let's pick a monster.
 
-[11:36] Our X is going to control the wave table.
+[11:36] Our X is going to control the wavetable.
 
 [11:38] Let's add an alternate warp here, a band minus plus to give it that.
 
@@ -459,7 +459,9 @@ Duration: 31.9 minutes
 
 [12:07] I guess that's fine.
 
-[12:08] I don't have that much time, though, I'm trying to make some bomb sounds, right?
+[12:08] I don't have that much time, though.
+
+[12:09] I'm trying to make some bomb sounds, right?
 
 [12:11] But whoever made these cool, man.
 
@@ -509,21 +511,19 @@ Duration: 31.9 minutes
 
 [13:15] You know, how did some people get to the top?
 
-[13:18] Anyways,
+[13:18] Anyways, and you could do some,
 
-[13:19] you could do some, you know, you can do some of those parlor tricks there and have fun.
+[13:21] you know, you can do some of those parlor tricks there and have fun,
 
-[13:25] Maybe draw their name.
+[13:25] maybe draw their name and next thing you know, they offer you a release on their
 
-[13:26] And next thing you know, they offer you a release on their label,
-
-[13:29] the Chaos Rossler and a sample and hold.
+[13:28] label, the Chaos Rossler and a sample and hold.
 
 [13:32] So the Chaos Lawrence and Rossler.
 
 [13:34] I'll be honest with you guys, I don't know what they do,
 
-[13:37] but they're going to use the same system as the past X, Y.
+[13:37] but they're going to use the same system as the Path X, Y.
 
 [13:40] It's going to be crazy hectic.
 
@@ -531,11 +531,13 @@ Duration: 31.9 minutes
 
 [13:44] We can slow it down.
 
-[13:45] The way that I've used it, however, is to create pads that sound again,
+[13:45] The way that I've used it, however, is to create paths that sound again,
 
-[13:49] I guess the word would be binaural pads that sound like crazy movement
+[13:49] I guess the word would be binaural,
 
-[13:54] that isn't predictable, that sounds different than using traditional LFOs.
+[13:52] paths that sound like crazy movement that isn't predictable,
+
+[13:55] that sounds different than using traditional LFOs.
 
 [13:59] So, for example, let's grab a nice, a nice little wave here like this.
 
@@ -639,7 +641,7 @@ Duration: 31.9 minutes
 
 [16:54] So but the way I'm going to do it,
 
-[16:55] I'm going to grab a spectral LFO, I'm going to route it there to the wavetable.
+[16:55] I'm going to grab a spectral LFO and route it there to the wavetable.
 
 [17:01] And it's going to create this.
 
@@ -961,7 +963,7 @@ Duration: 31.9 minutes
 
 [29:31] If we lower down the...
 
-[29:35] Just go straight down and increase the sustain.
+[29:35] Go straight down and increase the sustain.
 
 [29:40] On this guy, put it on here.
 
@@ -969,7 +971,7 @@ Duration: 31.9 minutes
 
 [29:46] Or up to where we want to go.
 
-[29:47] And pull it down to where it's zero.
+[29:47] And pull it down to where it's 0.
 
 [29:52] Here.
 
